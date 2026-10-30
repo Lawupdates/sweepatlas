@@ -1,32 +1,60 @@
 # SweepAtlas ✦
 
-Mobile-first sweepstakes discovery and entry tracking **interactive preview**.
+A responsive sweepstakes discovery and personal entry-tracking website. The site pulls **reviewed** promotions from `data/sweepstakes.json`, shows the sponsor’s official entry and rules pages, and stores favorites, personal information, and entry history locally in the browser.
 
-## Test the preview
-Open `index.html` through GitHub Pages, or download and open the file in a modern browser. Once GitHub Pages is enabled for the default `main` branch, visit:
+## Where to open
 
-https://lawupdates.github.io/sweepatlas/
+Repository: https://github.com/Lawupdates/sweepatlas
 
-## Features implemented
-- Responsive, accessible landing page and listing catalog
-- Search, categories, region filters, sorting
-- Favorites, local entry log, daily entry routine and checklist
-- Personal profile saved locally on the user's device
-- CSV exports, advertiser placement preview, sample listing detail dialogs
-- No third-party scripts or server required for the preview
+Expected Pages URL, **once GitHub Pages is enabled**: https://lawupdates.github.io/sweepatlas/
 
-## Important limitations
-The seed listings are **fictional samples**; none can be entered and there are no live verified URLs or sweepstakes rules. There is **no website-wide live crawler**, official-rule validation engine, production database, user accounts, automated form submissions, reminders, email, billing, authentication, admin workflow, or advertiser booking system. Browser storage is not encrypted and is not a safe place to keep highly sensitive data. Avoid entering SSNs, payment card details or passwords.
+Under repository **Settings → Pages**, set **Deploy from a branch → main → /(root)**. We cannot infer the live site is published merely from successful GitHub commits.
 
-## Production roadmap
-1. Establish a verified sweepstakes source database and permission-aware discovery pipeline. Collect official rules, sponsor, eligibility, start/end times, AMOE, entry frequency and last-seen verification.
-2. Build authenticated backend and rate-limited ingestion, staff moderation, audit history, abuse/report mechanisms and safe link checks.
-3. Implement subscriptions and advertiser billing through a payment processor with webhook verification, refunds, taxes and clear sponsored labeling.
-4. Provide optional autofill for third-party sites **only with user permission**, respecting site rules and never circumventing CAPTCHA or anti-bot protections. Do not promise universal auto-entry.
-5. Add verified expiration updates, filtering by state and age, reminder schedules, newsletter and privacy/terms documentation.
+## Features
 
-## Privacy
-The preview stores profile details, checklists, favorites and logs in `localStorage` on the browser/device. Clearing site data deletes them. No data is intentionally transmitted to a server by this preview.
+- Mobile-friendly search, category and geographic eligibility filters, sorting and accessible tab navigation.
+- Review-gated live directory with source rules, sponsor, estimated prize value, expiration date and entry cadence.
+- Personal favorites, daily planner, manual entry tracking, CSV exports and local JSON backup/restore.
+- Optional personal entry profile that remains in this device’s browser storage.
+- Sponsor listing request form in GitHub Issues; submitted promotions undergo independent verification.
+- Python catalog validator (on each push, pull request and nightly schedule).
+- Scheduled RSS-based discovery of *potential* giveaways, creating a review report artifact; no unsourced sweepstakes are automatically promoted.
 
-## Deploy
-Repository Settings → Pages → Build and deployment → Deploy from a branch → `main` / `/ (root)` → Save. The preview then appears at https://lawupdates.github.io/sweepatlas/ after GitHub finishes publishing.
+## Publishing a real giveaway
+
+Edit `data/sweepstakes.json`. Example data format (this is an **illustrative dummy**, not a real entry and must not be published):
+
+```json
+[
+  {
+    "id":"example-2026-promotion",
+    "name":"Official promotion title",
+    "sponsor":"Legal sponsor",
+    "desc":"Factual prize description",
+    "category":"Travel",
+    "cadence":"Daily",
+    "icon":"🎁",
+    "value":1500,
+    "place":"US",
+    "minAge":"18+",
+    "endDate":"2026-12-31",
+    "reviewedAt":"2026-10-30",
+    "entryUrl":"https://example.org/official-entry",
+    "rulesUrl":"https://example.org/official-rules"
+  }
+]
+```
+
+Required cadence: Daily, Weekly, Monthly or One-time. Region filters currently support US, AZ and CA. Both URLs must be HTTPS and directly linked to the legitimate sponsor or authorized administrator. Ensure both are verified and the date is accurate; real listing records cannot merely use the example URLs. `scripts/check_catalog.py` checks formatting and duplicates. The browser excludes expired offers.
+
+## Curator workflow
+
+Review every candidate's official sponsor pages, complete rules, free-entry method, geography, age eligibility, entry limits, start/end time zone and registration requirements before publishing. Recheck promotions periodically. A candidate found by an automated news search is **not** automatically verified or entered.
+
+Run the validator locally: `python scripts/check_catalog.py`.
+
+## Important limits
+
+GitHub Pages has no secure server-side database, authentication, payment processing, ad billing, automated sitewide scraping, scheduled personalized messages or third-party form submission capability. These are **not** represented as enabled. A paid multi-user platform would require a separate hosted backend and infrastructure. Automated entry may violate individual contest rules or anti-bot measures; SweepAtlas currently requires manual entry on the sponsor site.
+
+Personal data saved in local storage is accessible to anyone using that browser profile; do not store passwords, SSNs or payment card details. Advertiser placements are a demonstration and do not collect payments.
