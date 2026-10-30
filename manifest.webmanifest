@@ -1,9 +1,16 @@
 {
-  "name": "SweepAtlas",
+  "name": "SweepAtlas — Sweepstakes Discovery",
   "short_name": "SweepAtlas",
   "start_url": "./",
+  "scope": "./",
   "display": "standalone",
-  "background_color": "#f5f7fc",
-  "theme_color": "#10172f",
-  "description": "Sweepstakes organizer preview"
+  "background_color": "#080815",
+  "theme_color": "#dfff4f",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
 }
