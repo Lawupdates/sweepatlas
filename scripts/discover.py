@@ -160,7 +160,7 @@ def locate_entry_form(url):
         p = EntryPageParser()
         p.feed(body)
         for href, label in p.links:
-            if re.search(r"\\b(enter (now|here|sweepstakes|giveaway)|entry form|submit entry|enter to win)\\b", label, re.I):
+            if re.search(r"\b(enter (now|here|sweepstakes|giveaway)|entry form|submit entry|enter to win)\b", label, re.I):
                 entry = urljoin(landing, href)
                 if valid(entry) and urlsplit(entry).hostname == urlsplit(landing).hostname:
                     return entry
@@ -216,7 +216,8 @@ def main():
         if host != "news.google.com" and not host.endswith(".google.com"):
             checked_pages += 1
             item["end_date"] = fetch_public_end_date(item["url"])
-    # Recheck every surfaced entry URL on subsequent runs, rather than trusting stale links.
+    # Candidates are never automatically confirmed as working entry forms.
+    # Every candidate requires manual form submission testing before being marked confirmed.
     # A reachable article is not an entry form; no automated verification claim is made.
     forms_checked = 0
     for item in queue:
