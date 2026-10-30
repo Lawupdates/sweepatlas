@@ -216,9 +216,17 @@ def main():
         if host != "news.google.com" and not host.endswith(".google.com"):
             checked_pages += 1
             item["end_date"] = fetch_public_end_date(item["url"])
+    # Recheck every surfaced entry URL on subsequent runs, rather than trusting stale links.
+    # A reachable article is not an entry form; no automated verification claim is made.
     forms_checked = 0
     for item in queue:
-        if item.get("entry_url") or forms_checked >= 35:
+        if item.get("entry_url"):
+            if not valid(item["entry_url"]):
+                item.pop("entry_url", None)
+                item.pop("entry_source", None)
+            else:
+                item["entry_check_status"] = "needs_manual_form_confirmation"
+        if item.get("entry_url") or forms_checked >= 100:
             continue
         host = (urlsplit(item["url"]).hostname or "").lower()
         if host != "news.google.com" and not host.endswith(".google.com"):
@@ -227,6 +235,7 @@ def main():
             if found_entry:
                 item["entry_url"] = found_entry
                 item["entry_source"] = "public_page_entry_link"
+                item["entry_check_status"] = "needs_manual_form_confirmation"
     dates_found = sum(bool(item.get("end_date")) for item in queue)
     report = {
         "generated_utc": now,
