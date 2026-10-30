@@ -37,7 +37,7 @@ def main():
         if href in found:continue
         low=(name+" "+prize).lower()
         if any(k in low for k in ("vacation","travel","trip","resort","cruise","flight")):cat="Travel"
-        elif any(k in low for k in ("car","jeep","ford","motorcycle","vehicle","truck")):cat="Vehicles"
+        elif any(k in low for k in (" jeep "," ford ","motorcycle","vehicle"," truck ","mustang","wrangler"," suv ")):cat="Vehicles"
         elif any(k in low for k in ("laptop","phone","speaker","tv","tech","electronics")):cat="Electronics"
         elif any(k in low for k in ("cash","venmo","check","gift card","mastercard")):cat="Cash"
         elif any(k in low for k in ("food","snack","pizza","grocery","deli","coffee")):cat="Food"
