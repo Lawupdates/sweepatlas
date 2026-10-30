@@ -52,9 +52,9 @@ dialog{background:#161a37;color:white;border:1px solid #8266ba}dialog::backdrop{
 <section class="showcase wrap" aria-label="Discover prize categories">
 <div class="showcase-top"><div><span class="showcase-kicker">THE DREAM PRIZE COLLECTION</span><h2>See it. Dream it. <em>Enter smart.</em></h2><p>Explore categories, then check the official promotion rules before every entry.</p></div><span class="showcase-mark">✦ WIN BIG ENERGY ✦</span></div>
 <div class="prize-tiles">
-<a class="prize-tile car-tile" href="#sourceDirectory" data-pick-category="Vehicles"><img src="https://images.unsplash.com/photo-1734461672737-2a63709bee1f?auto=format&fit=crop&w=1200&q=85" alt="Red luxury sports car in a dramatic dark studio" loading="lazy"><span class="tile-shade"></span><span class="tile-copy"><small>THE ULTIMATE RIDE</small><strong>Dream Cars</strong><b>Explore vehicles ↗</b></span></a>
-<a class="prize-tile travel-tile" href="#sourceDirectory" data-pick-category="Travel"><img src="https://images.unsplash.com/photo-1755517766762-41af5265a4a4?auto=format&fit=crop&w=1200&q=85" alt="Aerial view of tropical beach resort and pool" loading="lazy"><span class="tile-shade"></span><span class="tile-copy"><small>ESCAPE THE ORDINARY</small><strong>Luxury Trips</strong><b>Explore travel ↗</b></span></a>
-<a class="prize-tile cash-tile" href="#sourceDirectory" data-pick-category="Cash"><div class="cash-art" aria-hidden="true"><span>✦</span><span>💰</span><span>✧</span></div><span class="tile-shade"></span><span class="tile-copy"><small>THE BIG MONEY COLLECTION</small><strong>Cash Prizes</strong><b>Explore cash ↗</b></span></a>
+<a class="prize-tile car-tile" href="#discover" data-pick-category="Vehicles"><img src="https://images.unsplash.com/photo-1734461672737-2a63709bee1f?auto=format&fit=crop&w=1200&q=85" alt="Red luxury sports car in a dramatic dark studio" loading="lazy"><span class="tile-shade"></span><span class="tile-copy"><small>THE ULTIMATE RIDE</small><strong>Dream Cars</strong><b>Explore vehicles ↗</b></span></a>
+<a class="prize-tile travel-tile" href="#discover" data-pick-category="Travel"><img src="https://images.unsplash.com/photo-1755517766762-41af5265a4a4?auto=format&fit=crop&w=1200&q=85" alt="Aerial view of tropical beach resort and pool" loading="lazy"><span class="tile-shade"></span><span class="tile-copy"><small>ESCAPE THE ORDINARY</small><strong>Luxury Trips</strong><b>Explore travel ↗</b></span></a>
+<a class="prize-tile cash-tile" href="#discover" data-pick-category="Cash"><div class="cash-art" aria-hidden="true"><span>✦</span><span>💰</span><span>✧</span></div><span class="tile-shade"></span><span class="tile-copy"><small>THE BIG MONEY COLLECTION</small><strong>Cash Prizes</strong><b>Explore cash ↗</b></span></a>
 </div><p class="showcase-disclaimer">Category photos and artwork are illustrative, not representations of currently available prizes.</p>
 </section><main class="wrap"><div class="notice"><strong>Verified listings directory — current data status.</strong> The public directory only displays editor-reviewed records based on official sponsor information, with official entry and rules links. Always recheck the official sponsor rules before entering. If no listings appear, there are no currently published verified offers. Your profile is stored only in this browser on this device.</div>
 
@@ -104,7 +104,10 @@ $("refreshCatalog").onclick=loadCatalog;
 $("backupLocal").onclick=()=>{const a=document.createElement("a"),u=URL.createObjectURL(new Blob([JSON.stringify({version:1,profile:state.profile,saved:state.saved,log:state.log,checks:state.checks},null,2)],{type:"application/json"}));a.href=u;a.download="sweepatlas-backup.json";a.click();setTimeout(()=>URL.revokeObjectURL(u),1000)};
 $("restoreLocal").onchange=async e=>{const file=e.target.files?.[0];if(!file)return;try{if(file.size>2000000)throw Error("File too large");const d=JSON.parse(await file.text());if(d.version!==1||!Array.isArray(d.saved)||!Array.isArray(d.log)||!d.profile||typeof d.profile!=="object"||!d.checks||typeof d.checks!=="object")throw Error("Invalid backup");if(!confirm("Replace locally stored profile and entry log with this backup?"))return;state={saved:d.saved.filter(x=>typeof x==="string").slice(0,5000),log:d.log.filter(x=>x&&typeof x.id==="string"&&typeof x.at==="string").slice(0,5000),profile:Object.fromEntries(["first","last","email","phone","state","postal"].map(k=>[k,String(d.profile[k]||"").slice(0,200)])),checks:d.checks};persist();location.reload()}catch(err){alert(err.message)}finally{e.target.value=""}};
 loadCatalog();
-
-
+document.querySelectorAll("[data-pick-category]").forEach(link=>link.addEventListener("click",()=>{
+  category=link.dataset.pickCategory;
+  update();
+  document.getElementById("discover")?.scrollIntoView({behavior:"smooth"});
+}));
 update();
 </script></body></html>
