@@ -6,12 +6,28 @@ from html import unescape
 from pathlib import Path
 
 TERMS = [
-    '"sweepstakes" "official rules" "enter"',
-    '"giveaway" "no purchase necessary" "rules"',
-    '"sweepstakes" "daily entry" sponsor',
-    '"contest" "prize" "official rules"'
+    '"sweepstakes" "official rules" "2026" "November"',
+    '"sweepstakes" "official rules" "2026" "December"',
+    '"giveaway" "no purchase necessary" "2026"',
+    '"daily entry" "sweepstakes" "2026"',
+    '"weekly drawing" "sweepstakes" "2026"',
+    '"grand prize" "official rules" "2026"',
+    '"contest" "prize" "official rules" "2026"',
+    '"travel sweepstakes" "official rules" "2026"',
+    '"cash sweepstakes" "official rules" "2026"',
+    '"vehicle sweepstakes" "official rules" "2026"',
+    '"gift card sweepstakes" "official rules" "2026"',
+    '"food sweepstakes" "official rules" "2026"',
+    '"home makeover sweepstakes" "2026" official',
+    '"electronics giveaway" "official rules" "2026"',
+    '"holiday sweepstakes" "official rules" "2026"',
+    'site:hallmarkchannel.com sweepstakes 2026',
+    'site:foodnetwork.com sweepstakes 2026',
+    'site:goldbelly.com sweepstakes 2026',
+    'site:microsoftrewards.com sweepstakes 2026',
+    'site:rewards.microsoft.com sweepstakes 2026'
 ]
-MAX_PER_QUERY=30
+MAX_PER_QUERY=40
 def clean(s): return re.sub(r"\s+"," ",re.sub(r"<[^>]+>"," ",unescape(s or ""))).strip()[:600]
 def get_feed(term):
     url="https://www.google.com/search?tbm=nws&output=rss&q="+quote(term)
