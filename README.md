@@ -77,3 +77,20 @@ Personal data saved in local storage is accessible to anyone using that browser 
 3. Open **Settings → Actions → General → Workflow permissions**, choose **Read and write permissions** if needed and permitted; otherwise the report update may fail.
 4. Inspect the workflow run and the `data/discovery-candidates.json` report. The radar page will show it once GitHub Pages publishes the updated files.
 5. Enable GitHub Pages under **Settings → Pages → Deploy from a branch → main → /(root)**. Test `https://lawupdates.github.io/sweepatlas/` and `https://lawupdates.github.io/sweepatlas/radar.html`.
+
+## Entry Desk
+
+Open `entry-desk.html` (linked from the homepage). It displays curated active listings, their official rules and entry links, and a cadence-aware entry checklist. Confirm entries **only after** the sponsor displays success; the desk never assumes a submission happened. It shares favorites and entry history with the homepage using the browser's existing `sweepatlas_preview_v1` local-storage key. Export the entry-history CSV for a personal backup.
+
+The optional Chrome/Edge extension is separately installed from `extension/` via the browser's Load unpacked option. Its autofill only runs when clicked on an active HTTPS page; there is no automatic submission, CAPTCHA solving, or unattended browser runner.
+
+### Commercial launch status
+
+Subscriptions, advertiser accounts, payments, privacy-compliant server-side user storage, and ad billing require a secure backend, a payment account, terms/privacy review and deployment credentials; GitHub Pages alone cannot provide these. No paid subscription or ad transactions are enabled. Do not collect subscriber payment details through static forms.
+
+### Release checks
+
+- GitHub Actions discovery must show a successful run and a non-null `generated_utc` in `data/discovery-candidates.json`.
+- GitHub Pages must be enabled and both `/radar.html` and `/entry-desk.html` should be tested on desktop and mobile.
+- Install the extension locally and verify it with a test form before using real entry sites.
+- Independently confirm each sweepstakes rules page, eligibility, entry frequency and expiration before adding to the curated public directory.
