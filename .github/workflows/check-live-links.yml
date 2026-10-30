@@ -1,0 +1,29 @@
+name: Monitor official sweepstakes links
+on:
+  schedule:
+    - cron: "13 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'data/sweepstakes.json'
+      - 'scripts/check_live_links.py'
+permissions:
+  contents: write
+jobs:
+  check-links:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python scripts/check_catalog.py
+      - run: python scripts/check_live_links.py
+      - name: Save automated health report
+        run: |
+          git config user.name "sweepatlas-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/feed-status.json
+          git diff --cached --quiet || (git commit -m "Update official promotion link-health report" && git push)
