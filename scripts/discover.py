@@ -33,8 +33,48 @@ TERMS = [
     f'site:foodnetwork.com sweepstakes {YEAR}',
     f'site:filson.com giveaway {YEAR}',
     f'site:chipotle.com giveaway {YEAR}',
+    f'"home makeover" sweepstakes {YEAR}',
+    f'"vacation giveaway" official rules {YEAR}',
+    f'"trip for two" sweepstakes {YEAR}',
+    f'"win a car" official rules {YEAR}',
+    f'"win a truck" sweepstakes {YEAR}',
+    f'"win a camper" giveaway {YEAR}',
+    f'"win an RV" sweepstakes {YEAR}',
+    f'"win a motorcycle" sweepstakes {YEAR}',
+    f'"win a boat" giveaway {YEAR}',
+    f'"win a cruise" official rules {YEAR}',
+    f'"win a laptop" sweepstakes {YEAR}',
+    f'"win a phone" official rules {YEAR}',
+    f'"gaming giveaway" official rules {YEAR}',
+    f'"sports tickets" sweepstakes {YEAR}',
+    f'"concert tickets" sweepstakes {YEAR}',
+    f'"cash giveaway" "no purchase necessary" {YEAR}',
+    f'"daily sweepstakes" enter {YEAR}',
+    f'"monthly sweepstakes" enter {YEAR}',
+    f'"weekly giveaway" official rules {YEAR}',
+    f'"instant win" game official rules {YEAR}',
+    f'"grand prize" contest rules {YEAR}',
+    f'"gift basket" sweepstakes {YEAR}',
+    f'"shopping spree" official rules {YEAR}',
+    f'"home appliances" giveaway {YEAR}',
+    f'"kitchen makeover" sweepstakes {YEAR}',
+    f'"beauty giveaway" official rules {YEAR}',
+    f'"pet giveaway" official rules {YEAR}',
+    f'"outdoor gear" sweepstakes {YEAR}',
+    f'"national sweepstakes" official rules {YEAR}',
+    f'"Arizona sweepstakes" official rules {YEAR}',
+    f'site:foodnetwork.com "sweepstakes" {YEAR}',
+    f'site:hgtv.com "sweepstakes" {YEAR}',
+    f'site:travelchannel.com "sweepstakes" {YEAR}',
+    f'site:mlb.com "sweepstakes" {YEAR}',
+    f'site:nfl.com "sweepstakes" {YEAR}',
+    f'site:nhl.com "sweepstakes" {YEAR}',
+    f'site:espn.com "sweepstakes" {YEAR}',
+    f'site:goodhousekeeping.com "sweepstakes" {YEAR}',
+    f'site:countryliving.com "sweepstakes" {YEAR}',
+    f'site:hearst.com "sweepstakes" {YEAR}',
 ]
-CAP = 700
+CAP = 1500
 def clean(value):
     return re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", unescape(value or ""))).strip()[:350]
 def source(term):
@@ -69,7 +109,7 @@ def main():
     for term in TERMS:
         try:
             feed = ET.fromstring(source(term))
-            for item in feed.findall("./channel/item")[:50]:
+            for item in feed.findall("./channel/item")[:80]:
                 title = clean(item.findtext("title"))
                 link = (item.findtext("link") or "").strip()
                 if not title or not valid(link):
