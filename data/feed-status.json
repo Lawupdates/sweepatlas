@@ -1,1 +1,163 @@
-{"checked_at":null,"records":0,"active_records":0,"results":[]}
+{
+  "checked_at": "2026-10-30T20:32:17.706687+00:00",
+  "records": 9,
+  "active_records": 9,
+  "results": [
+    {
+      "id": "burger-king-game-day-2026",
+      "expires": "2026-11-01",
+      "expired": false,
+      "checks": [
+        {
+          "type": "entryUrl",
+          "http_status": 200,
+          "reachable": true
+        },
+        {
+          "type": "rulesUrl",
+          "http_status": 200,
+          "reachable": true
+        }
+      ]
+    },
+    {
+      "id": "chipotle-bag-2026",
+      "expires": "2026-11-10",
+      "expired": false,
+      "checks": [
+        {
+          "type": "entryUrl",
+          "http_status": 200,
+          "reachable": true
+        },
+        {
+          "type": "rulesUrl",
+          "http_status": 200,
+          "reachable": true
+        }
+      ]
+    },
+    {
+      "id": "filson-world-2026",
+      "expires": "2026-11-30",
+      "expired": false,
+      "checks": [
+        {
+          "type": "entryUrl",
+          "http_status": 200,
+          "reachable": true
+        },
+        {
+          "type": "rulesUrl",
+          "http_status": 200,
+          "reachable": true
+        }
+      ]
+    },
+    {
+      "id": "cold-stone-cat-hat-2026",
+      "expires": "2026-11-07",
+      "expired": false,
+      "checks": [
+        {
+          "type": "entryUrl",
+          "http_status": null,
+          "reachable": false,
+          "error": "The read operation timed out"
+        },
+        {
+          "type": "rulesUrl",
+          "http_status": null,
+          "reachable": false,
+          "error": "The read operation timed out"
+        }
+      ]
+    },
+    {
+      "id": "hallmark-countdown-adventure-2026",
+      "expires": "2026-11-23",
+      "expired": false,
+      "checks": [
+        {
+          "type": "entryUrl",
+          "http_status": 200,
+          "reachable": true
+        },
+        {
+          "type": "rulesUrl",
+          "http_status": 200,
+          "reachable": true
+        }
+      ]
+    },
+    {
+      "id": "hallmark-very-merry-2026",
+      "expires": "2026-12-25",
+      "expired": false,
+      "checks": [
+        {
+          "type": "entryUrl",
+          "http_status": 200,
+          "reachable": true
+        },
+        {
+          "type": "rulesUrl",
+          "http_status": 200,
+          "reachable": true
+        }
+      ]
+    },
+    {
+      "id": "ballot-royale-weekly-oct2026",
+      "expires": "2026-11-04",
+      "expired": false,
+      "checks": [
+        {
+          "type": "entryUrl",
+          "http_status": 403,
+          "reachable": false
+        },
+        {
+          "type": "rulesUrl",
+          "http_status": 403,
+          "reachable": false
+        }
+      ]
+    },
+    {
+      "id": "hallmark-christmas-movie-game-2026",
+      "expires": "2026-12-29",
+      "expired": false,
+      "checks": [
+        {
+          "type": "entryUrl",
+          "http_status": 200,
+          "reachable": true
+        },
+        {
+          "type": "rulesUrl",
+          "http_status": 200,
+          "reachable": true
+        }
+      ]
+    },
+    {
+      "id": "food-network-whos-counting-2026",
+      "expires": "2026-11-15",
+      "expired": false,
+      "checks": [
+        {
+          "type": "entryUrl",
+          "http_status": 403,
+          "reachable": false
+        },
+        {
+          "type": "rulesUrl",
+          "http_status": 403,
+          "reachable": false
+        }
+      ]
+    }
+  ],
+  "disclaimer": "Connectivity checks are automated; a successful HTTP response does not verify legal eligibility or rules."
+}
