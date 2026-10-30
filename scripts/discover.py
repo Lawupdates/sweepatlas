@@ -106,6 +106,21 @@ def valid(url):
         return p.scheme == "https" and bool(p.netloc) and not p.username and not p.password
     except ValueError:
         return False
+def fetch_public_end_date(url):
+    # Only direct public HTTPS pages are eligible; no bypasses or logins.
+    host = (urlsplit(url).hostname or "").lower()
+    if host == "news.google.com" or host.endswith(".google.com"):
+        return None
+    try:
+        req = urllib.request.Request(url, headers={"User-Agent": "SweepAtlas/1.1"})
+        with urllib.request.urlopen(req, timeout=5) as response:
+            if response.status != 200 or "text/html" not in response.headers.get("Content-Type", ""):
+                return None
+            raw = response.read(150000).decode("utf-8", "replace")
+        raw = re.sub(r"<(?:script|style)\\b[^>]*>.*?</(?:script|style)>", " ", raw, flags=re.I|re.S)
+        return extract_end_date(clean(raw) + " " + unescape(re.sub(r"<[^>]+>", " ", raw))[:80000])
+    except (OSError, ValueError, UnicodeError):
+        return None
 def main():
     DEST.parent.mkdir(parents=True, exist_ok=True)
     existing = {}
@@ -147,6 +162,14 @@ def main():
     for item in queue:
         if not item.get("end_date"):
             item["end_date"] = extract_end_date(item.get("title", ""))
+    checked_pages = 0
+    for item in queue:
+        if item.get("end_date") or checked_pages >= 30:
+            continue
+        host = (urlsplit(item["url"]).hostname or "").lower()
+        if host != "news.google.com" and not host.endswith(".google.com"):
+            checked_pages += 1
+            item["end_date"] = fetch_public_end_date(item["url"])
     dates_found = sum(bool(item.get("end_date")) for item in queue)
     report = {
         "generated_utc": now,
