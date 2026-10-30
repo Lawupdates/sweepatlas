@@ -1,7 +1,7 @@
 {
-  "checked_at": "2026-10-30T20:32:17.706687+00:00",
-  "records": 9,
-  "active_records": 9,
+  "checked_at": "2026-10-30T20:39:58.863227+00:00",
+  "records": 15,
+  "active_records": 15,
   "results": [
     {
       "id": "burger-king-game-day-2026",
@@ -61,15 +61,13 @@
       "checks": [
         {
           "type": "entryUrl",
-          "http_status": null,
-          "reachable": false,
-          "error": "The read operation timed out"
+          "http_status": 200,
+          "reachable": true
         },
         {
           "type": "rulesUrl",
-          "http_status": null,
-          "reachable": false,
-          "error": "The read operation timed out"
+          "http_status": 200,
+          "reachable": true
         }
       ]
     },
@@ -155,6 +153,108 @@
           "type": "rulesUrl",
           "http_status": 403,
           "reachable": false
+        }
+      ]
+    },
+    {
+      "id": "goldbelly-thanksgiving-feast-2026",
+      "expires": "2026-11-09",
+      "expired": false,
+      "checks": [
+        {
+          "type": "entryUrl",
+          "http_status": 200,
+          "reachable": true
+        },
+        {
+          "type": "rulesUrl",
+          "http_status": 200,
+          "reachable": true
+        }
+      ]
+    },
+    {
+      "id": "finish-solution-2026",
+      "expires": "2026-10-31",
+      "expired": false,
+      "checks": [
+        {
+          "type": "entryUrl",
+          "http_status": 200,
+          "reachable": true
+        },
+        {
+          "type": "rulesUrl",
+          "http_status": 200,
+          "reachable": true
+        }
+      ]
+    },
+    {
+      "id": "lysol-fall-fragrances-2026",
+      "expires": "2026-10-31",
+      "expired": false,
+      "checks": [
+        {
+          "type": "entryUrl",
+          "http_status": 200,
+          "reachable": true
+        },
+        {
+          "type": "rulesUrl",
+          "http_status": 200,
+          "reachable": true
+        }
+      ]
+    },
+    {
+      "id": "common-uniform-october-2026",
+      "expires": "2026-11-04",
+      "expired": false,
+      "checks": [
+        {
+          "type": "entryUrl",
+          "http_status": 200,
+          "reachable": true
+        },
+        {
+          "type": "rulesUrl",
+          "http_status": 200,
+          "reachable": true
+        }
+      ]
+    },
+    {
+      "id": "reformation-week-giveaway-2026",
+      "expires": "2026-10-31",
+      "expired": false,
+      "checks": [
+        {
+          "type": "entryUrl",
+          "http_status": 200,
+          "reachable": true
+        },
+        {
+          "type": "rulesUrl",
+          "http_status": 200,
+          "reachable": true
+        }
+      ]
+    },
+    {
+      "id": "microsoft-rewards-sweeps-119-2026",
+      "expires": "2026-10-31",
+      "expired": false,
+      "checks": [
+        {
+          "type": "entryUrl",
+          "http_status": 200,
+          "reachable": true
+        },
+        {
+          "type": "rulesUrl",
+          "http_status": 200,
+          "reachable": true
         }
       ]
     }
