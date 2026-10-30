@@ -17,3 +17,5 @@ jobs:
         with:
           python-version: "3.12"
       - run: python scripts/check_catalog.py
+      - run: python scripts/extract_js.py
+      - run: node --check /tmp/sweepatlas-site.js
