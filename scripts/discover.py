@@ -75,6 +75,20 @@ TERMS = [
     f'site:hearst.com "sweepstakes" {YEAR}',
 ]
 CAP = 1500
+DATE_PATTERN = re.compile(r'(?:ends?|expires?|expiration date|deadline|closes?)\s*(?:on|at|:)?\s*(?P<date>(?:January|February|March|April|May|June|July|August|September|October|November|December|Jan|Feb|Mar|Apr|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\.?\s+\d{1,2},?\s+20\d{2}|\d{1,2}/\d{1,2}/20\d{2}|20\d{2}-\d{2}-\d{2})', re.I)
+def extract_end_date(text):
+    match = DATE_PATTERN.search(text or "")
+    if not match:
+        return None
+    raw = match.group("date").replace(".", "")
+    for fmt in ("%B %d, %Y", "%B %d %Y", "%b %d, %Y", "%b %d %Y", "%m/%d/%Y", "%Y-%m-%d"):
+        try:
+            d = datetime.datetime.strptime(raw, fmt).date()
+            return d.isoformat() if YEAR-1 <= d.year <= YEAR+2 else None
+        except ValueError:
+            pass
+    return None
+
 def clean(value):
     return re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", unescape(value or ""))).strip()[:350]
 def source(term):
@@ -123,16 +137,22 @@ def main():
                     "url": link,
                     "query": term,
                     "published": clean(item.findtext("pubDate")),
+                    "end_date": extract_end_date(title + " " + clean(item.findtext("description"))),
                     "first_seen_utc": now,
                     "status": "UNVERIFIED - official sponsor rules review required",
                 }
         except Exception as exc:
             errors.append({"query": term, "error": str(exc)[:180]})
     queue = sorted(existing.values(), key=lambda r: r.get("first_seen_utc", ""), reverse=True)[:CAP]
+    for item in queue:
+        if not item.get("end_date"):
+            item["end_date"] = extract_end_date(item.get("title", ""))
+    dates_found = sum(bool(item.get("end_date")) for item in queue)
     report = {
         "generated_utc": now,
         "warning": "Research leads only; search stories are not official entry pages. Verify sponsor, rules, eligibility, frequency, end date, and free entry before publication.",
         "new_candidates": found,
+        "expiration_dates_found": dates_found,
         "candidates": queue,
         "feed_errors": errors,
     }
