@@ -110,5 +110,37 @@
     "reviewedAt": "2026-10-30",
     "entryUrl": "https://sweeps.ballotroyale.com/sweeps/br_25weekly",
     "rulesUrl": "https://sweeps.ballotroyale.com/sweeps/br_25weekly"
+  },
+  {
+    "id": "hallmark-christmas-movie-game-2026",
+    "name": "Hallmark Countdown to Christmas Movie Game",
+    "sponsor": "Hallmark Media",
+    "desc": "Play movie trivia and activities for chances at a $20,000 grand prize and weekly prize drawings.",
+    "category": "Cash",
+    "cadence": "Daily",
+    "icon": "🎬",
+    "value": 32759.89,
+    "place": "US",
+    "minAge": "18+",
+    "endDate": "2026-12-29",
+    "reviewedAt": "2026-10-30",
+    "entryUrl": "https://christmasmoviegame.hallmarkchannel.com/",
+    "rulesUrl": "https://christmasmoviegame.hallmarkchannel.com/rules"
+  },
+  {
+    "id": "food-network-whos-counting-2026",
+    "name": "Food Network Magazine Who's Counting",
+    "sponsor": "Food Network Magazine",
+    "desc": "Guess the jar contents for a chance to win a $500 prize; read sponsor rules for required entry details.",
+    "category": "Cash",
+    "cadence": "One-time",
+    "icon": "🍪",
+    "value": 650,
+    "place": "US",
+    "minAge": "See rules",
+    "endDate": "2026-11-15",
+    "reviewedAt": "2026-10-30",
+    "entryUrl": "https://www.foodnetwork.com/magazine/food-network-magazine-whos-counting",
+    "rulesUrl": "https://www.foodnetwork.com/magazine/food-network-magazine-whos-counting"
   }
 ]
