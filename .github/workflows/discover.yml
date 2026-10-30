@@ -4,6 +4,7 @@ on:
     branches: [main]
     paths:
       - "scripts/discover.py"
+      - "scripts/audit_entries.py"
       - ".github/workflows/discover.yml"
   schedule:
     - cron: "11 0,4,8,12,16,20 * * *"
@@ -16,7 +17,7 @@ concurrency:
 jobs:
   research:
     runs-on: ubuntu-latest
-    timeout-minutes: 18
+    timeout-minutes: 35
     steps:
       - uses: actions/checkout@v4
         with:
@@ -28,11 +29,13 @@ jobs:
         run: python scripts/discover.py
         env:
           SWEEPATLAS_REPORT: data/discovery-candidates.json
+      - name: Audit available entry pages without claiming confirmation
+        run: python scripts/audit_entries.py
       - name: Keep newest candidate queue in repository
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/discovery-candidates.json
+          git add data/discovery-candidates.json data/entry-audit.json
           if ! git diff --cached --quiet; then
             git commit -m "Refresh unverified sweepstakes discovery leads"
             git push
@@ -41,6 +44,8 @@ jobs:
         if: always()
         with:
           name: discovery-candidates
-          path: data/discovery-candidates.json
+          path: |
+            data/discovery-candidates.json
+            data/entry-audit.json
           if-no-files-found: warn
           retention-days: 14
