@@ -62,3 +62,18 @@ Run the validator locally: `python scripts/check_catalog.py`.
 GitHub Pages has no secure server-side database, authentication, payment processing, ad billing, automated sitewide scraping, scheduled personalized messages or third-party form submission capability. These are **not** represented as enabled. A paid multi-user platform would require a separate hosted backend and infrastructure. Automated entry may violate individual contest rules or anti-bot measures; SweepAtlas currently requires manual entry on the sponsor site.
 
 Personal data saved in local storage is accessible to anyone using that browser profile; do not store passwords, SSNs or payment card details. Advertiser placements are a demonstration and do not collect payments.
+
+## Automation additions (October 30, 2026)
+
+- `.github/workflows/discover.yml` requests six scheduled discovery runs daily at 00:11, 04:11, 08:11, 12:11, 16:11 and 20:11 UTC (GitHub may delay scheduled jobs). GitHub Actions must be enabled and the workflow must have permission to write the repository to persist the report.
+- `radar.html` displays the latest `data/discovery-candidates.json` **unverified research leads** and provides a search/sort interface. Candidate links are not vetted entry pages. A fresh feed appears only after the workflow completes successfully.
+- `extension/` contains a Chrome/Edge extension for **user-initiated** autofill on the active HTTPS page. Read `extension/README.md` for installation and limitations; the extension has not been store-published or end-to-end browser-tested.
+- Automated contest submission, anti-bot bypass, CAPTCHA handling, paid account management and advertiser billing have **not** been implemented. Sponsoring sites' conditions must be respected.
+
+### Getting the research scan running
+
+1. In GitHub open **Actions**, and enable workflows if prompted.
+2. Choose **Discover sweepstakes candidates** and select **Run workflow** to perform the first scan.
+3. Open **Settings → Actions → General → Workflow permissions**, choose **Read and write permissions** if needed and permitted; otherwise the report update may fail.
+4. Inspect the workflow run and the `data/discovery-candidates.json` report. The radar page will show it once GitHub Pages publishes the updated files.
+5. Enable GitHub Pages under **Settings → Pages → Deploy from a branch → main → /(root)**. Test `https://lawupdates.github.io/sweepatlas/` and `https://lawupdates.github.io/sweepatlas/radar.html`.
