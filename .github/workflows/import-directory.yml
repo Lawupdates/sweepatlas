@@ -1,5 +1,10 @@
 name: Refresh sourced sweepstakes directory
 on:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/import_directory.py'
+      - '.github/workflows/import-directory.yml'
   schedule:
     - cron: "32 13 * * *"
   workflow_dispatch:
