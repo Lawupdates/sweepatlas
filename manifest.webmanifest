@@ -1,0 +1,9 @@
+{
+  "name": "SweepAtlas",
+  "short_name": "SweepAtlas",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f5f7fc",
+  "theme_color": "#10172f",
+  "description": "Sweepstakes organizer preview"
+}
