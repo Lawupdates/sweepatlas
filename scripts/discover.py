@@ -12,8 +12,9 @@ import re
 import urllib.request
 import xml.etree.ElementTree as ET
 from html import unescape
+from html.parser import HTMLParser
 from pathlib import Path
-from urllib.parse import quote, urlsplit
+from urllib.parse import quote, urlsplit, urljoin
 
 ROOT = Path(__file__).resolve().parents[1]
 DEST = Path(os.environ.get("SWEEPATLAS_REPORT", str(ROOT / "data/discovery-candidates.json")))
@@ -121,6 +122,51 @@ def fetch_public_end_date(url):
         return extract_end_date(clean(raw) + " " + unescape(re.sub(r"<[^>]+>", " ", raw))[:80000])
     except (OSError, ValueError, UnicodeError):
         return None
+
+class EntryPageParser(HTMLParser):
+    def __init__(self):
+        super().__init__()
+        self.form = False
+        self.links = []
+        self.current = None
+    def handle_starttag(self, tag, attrs):
+        attrs = dict(attrs)
+        if tag == "form":
+            self.form = True
+        if tag == "a" and attrs.get("href"):
+            self.current = [attrs["href"], ""]
+        if tag == "input" and attrs.get("type", "").lower() in ("email", "text") and self.form:
+            self.form = True
+    def handle_data(self, data):
+        if self.current:
+            self.current[1] += data
+    def handle_endtag(self, tag):
+        if tag == "a" and self.current:
+            self.links.append(tuple(self.current))
+            self.current = None
+
+def locate_entry_form(url):
+    """Conservative: only return clearly labeled entry links on public HTTPS pages."""
+    host = (urlsplit(url).hostname or "").lower()
+    if host == "news.google.com" or host.endswith(".google.com"):
+        return None
+    try:
+        req = urllib.request.Request(url, headers={"User-Agent": "SweepAtlas/1.1 public entry discovery"})
+        with urllib.request.urlopen(req, timeout=6) as response:
+            if response.status != 200 or "text/html" not in response.headers.get("Content-Type", ""):
+                return None
+            landing = response.geturl()
+            body = response.read(180000).decode("utf-8", "replace")
+        p = EntryPageParser()
+        p.feed(body)
+        for href, label in p.links:
+            if re.search(r"\\b(enter (now|here|sweepstakes|giveaway)|entry form|submit entry|enter to win)\\b", label, re.I):
+                entry = urljoin(landing, href)
+                if valid(entry) and urlsplit(entry).hostname == urlsplit(landing).hostname:
+                    return entry
+    except (OSError, ValueError, UnicodeError):
+        return None
+    return None
 def main():
     DEST.parent.mkdir(parents=True, exist_ok=True)
     existing = {}
@@ -170,12 +216,24 @@ def main():
         if host != "news.google.com" and not host.endswith(".google.com"):
             checked_pages += 1
             item["end_date"] = fetch_public_end_date(item["url"])
+    forms_checked = 0
+    for item in queue:
+        if item.get("entry_url") or forms_checked >= 35:
+            continue
+        host = (urlsplit(item["url"]).hostname or "").lower()
+        if host != "news.google.com" and not host.endswith(".google.com"):
+            forms_checked += 1
+            found_entry = locate_entry_form(item["url"])
+            if found_entry:
+                item["entry_url"] = found_entry
+                item["entry_source"] = "public_page_entry_link"
     dates_found = sum(bool(item.get("end_date")) for item in queue)
     report = {
         "generated_utc": now,
         "warning": "Research leads only; search stories are not official entry pages. Verify sponsor, rules, eligibility, frequency, end date, and free entry before publication.",
         "new_candidates": found,
         "expiration_dates_found": dates_found,
+        "entry_links_found": sum(bool(item.get("entry_url")) for item in queue),
         "candidates": queue,
         "feed_errors": errors,
     }
