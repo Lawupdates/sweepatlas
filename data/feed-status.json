@@ -1,7 +1,7 @@
 {
-  "checked_at": "2026-10-30T20:39:58.863227+00:00",
-  "records": 15,
-  "active_records": 15,
+  "checked_at": "2026-10-30T20:42:09.803925+00:00",
+  "records": 19,
+  "active_records": 19,
   "results": [
     {
       "id": "burger-king-game-day-2026",
@@ -244,6 +244,74 @@
     {
       "id": "microsoft-rewards-sweeps-119-2026",
       "expires": "2026-10-31",
+      "expired": false,
+      "checks": [
+        {
+          "type": "entryUrl",
+          "http_status": 200,
+          "reachable": true
+        },
+        {
+          "type": "rulesUrl",
+          "http_status": 200,
+          "reachable": true
+        }
+      ]
+    },
+    {
+      "id": "monster-energy-product-year-2026",
+      "expires": "2026-11-10",
+      "expired": false,
+      "checks": [
+        {
+          "type": "entryUrl",
+          "http_status": 403,
+          "reachable": false
+        },
+        {
+          "type": "rulesUrl",
+          "http_status": 403,
+          "reachable": false
+        }
+      ]
+    },
+    {
+      "id": "monster-london-circle-k-2026",
+      "expires": "2026-11-03",
+      "expired": false,
+      "checks": [
+        {
+          "type": "entryUrl",
+          "http_status": 403,
+          "reachable": false
+        },
+        {
+          "type": "rulesUrl",
+          "http_status": 403,
+          "reachable": false
+        }
+      ]
+    },
+    {
+      "id": "mackenzie-childs-posh-peanut-2026",
+      "expires": "2026-11-01",
+      "expired": false,
+      "checks": [
+        {
+          "type": "entryUrl",
+          "http_status": 200,
+          "reachable": true
+        },
+        {
+          "type": "rulesUrl",
+          "http_status": 200,
+          "reachable": true
+        }
+      ]
+    },
+    {
+      "id": "bon-appetit-gear-year-2026",
+      "expires": "2026-11-10",
       "expired": false,
       "checks": [
         {
