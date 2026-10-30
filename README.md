@@ -18,7 +18,11 @@ Under repository **Settings → Pages**, set **Deploy from a branch → main →
 - Optional personal entry profile that remains in this device’s browser storage.
 - Sponsor listing request form in GitHub Issues; submitted promotions undergo independent verification.
 - Python catalog validator (on each push, pull request and nightly schedule).
-- Scheduled RSS-based discovery of *potential* giveaways, creating a review report artifact; no unsourced sweepstakes are automatically promoted.
+- A submission-and-review workflow for official sponsor promotions. Automated discovery reports (where enabled) are research leads only, not published offers.
+
+## Sourcing policy
+
+Do not copy a competing directory's full database, editorial descriptions, branding, photos or creative selection. Do not bypass a website's access restrictions, ignore an explicit prohibition on scraping, or imply that a directory listing is sponsor verification. Publishers must source factual promotion information from official sponsor or authorized administrator pages, check relevant terms, and write original summaries. The former competitor-directory feed and its importer have been removed. Legal compliance depends on actual use, jurisdiction and platform terms; obtain professional review before monetized launch.
 
 ## Publishing a real giveaway
 
