@@ -1,55 +1,104 @@
 #!/usr/bin/env python3
-"""Find leads, not verified sweepstakes. RSS feeds may be incomplete or unreliable."""
-import datetime, json, os, re, urllib.request, xml.etree.ElementTree as ET
-from urllib.parse import quote
+"""Discover candidate sweepstakes for manual rules review, never automatic publication.
+
+Uses Google News RSS search feeds as a research source. Feed availability is
+best-effort. The rolling queue retains previously found leads when feeds fail.
+"""
+import datetime
+import hashlib
+import json
+import os
+import re
+import urllib.request
+import xml.etree.ElementTree as ET
 from html import unescape
 from pathlib import Path
+from urllib.parse import quote, urlsplit
 
+ROOT = Path(__file__).resolve().parents[1]
+DEST = Path(os.environ.get("SWEEPATLAS_REPORT", str(ROOT / "data/discovery-candidates.json")))
+YEAR = datetime.datetime.now(datetime.timezone.utc).year
 TERMS = [
-    '"sweepstakes" "official rules" "2026" "November"',
-    '"sweepstakes" "official rules" "2026" "December"',
-    '"giveaway" "no purchase necessary" "2026"',
-    '"daily entry" "sweepstakes" "2026"',
-    '"weekly drawing" "sweepstakes" "2026"',
-    '"grand prize" "official rules" "2026"',
-    '"contest" "prize" "official rules" "2026"',
-    '"travel sweepstakes" "official rules" "2026"',
-    '"cash sweepstakes" "official rules" "2026"',
-    '"vehicle sweepstakes" "official rules" "2026"',
-    '"gift card sweepstakes" "official rules" "2026"',
-    '"food sweepstakes" "official rules" "2026"',
-    '"home makeover sweepstakes" "2026" official',
-    '"electronics giveaway" "official rules" "2026"',
-    '"holiday sweepstakes" "official rules" "2026"',
-    'site:hallmarkchannel.com sweepstakes 2026',
-    'site:foodnetwork.com sweepstakes 2026',
-    'site:goldbelly.com sweepstakes 2026',
-    'site:microsoftrewards.com sweepstakes 2026',
-    'site:rewards.microsoft.com sweepstakes 2026'
+    f'sweepstakes "official rules" {YEAR}',
+    f'giveaway "no purchase necessary" {YEAR}',
+    f'"daily entry" sweepstakes {YEAR}',
+    f'"weekly" sweepstakes official rules {YEAR}',
+    f'"travel sweepstakes" {YEAR}',
+    f'"cash prize" sweepstakes {YEAR}',
+    f'"vehicle sweepstakes" {YEAR}',
+    f'"gift card" sweepstakes {YEAR}',
+    f'"electronics giveaway" official rules {YEAR}',
+    f'"holiday sweepstakes" {YEAR}',
+    f'site:hallmarkchannel.com sweepstakes {YEAR}',
+    f'site:foodnetwork.com sweepstakes {YEAR}',
+    f'site:filson.com giveaway {YEAR}',
+    f'site:chipotle.com giveaway {YEAR}',
 ]
-MAX_PER_QUERY=40
-def clean(s): return re.sub(r"\s+"," ",re.sub(r"<[^>]+>"," ",unescape(s or ""))).strip()[:600]
-def get_feed(term):
-    url="https://www.google.com/search?tbm=nws&output=rss&q="+quote(term)
-    req=urllib.request.Request(url,headers={"User-Agent":"SweepAtlas-Research/1.0 (review-only; contact repository owner)"})
-    with urllib.request.urlopen(req,timeout=15) as response:
-        if response.status!=200: raise ValueError("Unexpected HTTP status")
-        return response.read(1024*1024)
+CAP = 700
+def clean(value):
+    return re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", unescape(value or ""))).strip()[:350]
+def source(term):
+    # Public RSS search feed; no restricted login, cookies or scraping of competitors.
+    query = quote(term)
+    url = f"https://news.google.com/rss/search?q={query}&hl=en-US&gl=US&ceid=US:en"
+    req = urllib.request.Request(url, headers={"User-Agent": "SweepAtlas/1.1 public-RSS research"})
+    with urllib.request.urlopen(req, timeout=18) as response:
+        if response.status != 200:
+            raise ValueError("Unexpected feed response")
+        return response.read(1500000)
+def valid(url):
+    try:
+        p = urlsplit(url)
+        return p.scheme == "https" and bool(p.netloc) and not p.username and not p.password
+    except ValueError:
+        return False
 def main():
-    leads={};errors=[]
+    DEST.parent.mkdir(parents=True, exist_ok=True)
+    existing = {}
+    if DEST.exists():
+        try:
+            old = json.loads(DEST.read_text(encoding="utf-8"))
+            for item in old.get("candidates", []):
+                if isinstance(item, dict) and valid(item.get("url", "")):
+                    existing[item["url"]] = item
+        except (OSError, ValueError, TypeError):
+            pass
+    errors = []
+    found = 0
+    now = datetime.datetime.now(datetime.timezone.utc).isoformat()
     for term in TERMS:
         try:
-            root=ET.fromstring(get_feed(term))
-            for item in root.findall(".//item")[:MAX_PER_QUERY]:
-                title=clean(item.findtext("title"));link=(item.findtext("link") or "").strip()
-                if not link.startswith("https://") or not title:continue
-                if link not in leads:
-                    leads[link]={"title":title,"url":link,"query":term,"published":clean(item.findtext("pubDate")),"status":"UNVERIFIED — editor review required"}
-        except Exception as ex:
-            errors.append({"query":term,"error":str(ex)[:180]})
-    out={"generated_utc":datetime.datetime.now(datetime.timezone.utc).isoformat(),"warning":"Discovery candidates only. These may be articles, inactive offers, or false positives. Never publish without manual rules verification.","candidates":list(leads.values()),"feed_errors":errors}
-    dest=Path(os.environ.get("SWEEPATLAS_REPORT","discovery-candidates.json"))
-    dest.parent.mkdir(parents=True,exist_ok=True)
-    dest.write_text(json.dumps(out,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
-    print("Candidates:",len(leads),"Feed errors:",len(errors),"Saved:",dest)
-if __name__=="__main__":main()
+            feed = ET.fromstring(source(term))
+            for item in feed.findall("./channel/item")[:50]:
+                title = clean(item.findtext("title"))
+                link = (item.findtext("link") or "").strip()
+                if not title or not valid(link):
+                    continue
+                if link in existing:
+                    continue
+                found += 1
+                existing[link] = {
+                    "id": hashlib.sha256(link.encode()).hexdigest()[:16],
+                    "title": title,
+                    "url": link,
+                    "query": term,
+                    "published": clean(item.findtext("pubDate")),
+                    "first_seen_utc": now,
+                    "status": "UNVERIFIED - official sponsor rules review required",
+                }
+        except Exception as exc:
+            errors.append({"query": term, "error": str(exc)[:180]})
+    queue = sorted(existing.values(), key=lambda r: r.get("first_seen_utc", ""), reverse=True)[:CAP]
+    report = {
+        "generated_utc": now,
+        "warning": "Research leads only; search stories are not official entry pages. Verify sponsor, rules, eligibility, frequency, end date, and free entry before publication.",
+        "new_candidates": found,
+        "candidates": queue,
+        "feed_errors": errors,
+    }
+    DEST.write_text(json.dumps(report, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    print(f"Discovered {found} new leads; retained {len(queue)}; feed errors {len(errors)}")
+    if len(errors) == len(TERMS) and not queue:
+        raise SystemExit("All feeds failed and no prior candidate queue exists")
+if __name__ == "__main__":
+    main()
