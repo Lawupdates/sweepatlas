@@ -1395,5 +1395,22 @@
     "entryUrl": "https://fordeventreg.com/BWFGeneralRegistration",
     "rulesUrl": "https://fordeventreg.com/assets/pdfs/en/BWF26_Sweepstakes_Rules.pdf",
     "entryReviewStatus": "Sponsor rules confirmed specific direct registration URL; successful submission not tested"
+  },
+  {
+    "id": "hexclad-gordons-italy-2026",
+    "name": "HexClad Gordon's Golden Ticket to Italy Giveaway",
+    "sponsor": "HexClad",
+    "desc": "Trip for two to Italy valued at over $150,000; email, SMS, social and mail-in free entry methods available. Open to US and Canadian residents age 21+; see official rules.",
+    "category": "Travel",
+    "cadence": "One-time",
+    "icon": "✈️",
+    "value": 150000,
+    "place": "US",
+    "minAge": "21+",
+    "endDate": "2026-11-02",
+    "reviewedAt": "2026-10-31",
+    "entryUrl": "https://hexclad.com/pages/gordons-golden-ticket-italy",
+    "rulesUrl": "https://hexclad.com/pages/gordons-golden-ticket-italy",
+    "entryReviewStatus": "Sponsor official promotional page verified; successful entry form submission not tested"
   }
 ]
