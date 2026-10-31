@@ -1,34 +1,34 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" preserveAspectRatio="none">
 <defs>
-<linearGradient id="steel" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#202a34"/><stop offset=".10" stop-color="#e4e9e9"/><stop offset=".22" stop-color="#626d72"/><stop offset=".42" stop-color="#d9e1df"/><stop offset=".57" stop-color="#4c5961"/><stop offset=".77" stop-color="#edf1e9"/><stop offset="1" stop-color="#2f3c46"/></linearGradient>
-<linearGradient id="metal" x1="0" y1="0" x2=".2" y2="1"><stop stop-color="#f8faf2"/><stop offset=".16" stop-color="#727e82"/><stop offset=".42" stop-color="#c5ceca"/><stop offset=".63" stop-color="#414d55"/><stop offset=".86" stop-color="#d9dbcd"/><stop offset="1" stop-color="#424b53"/></linearGradient>
+<linearGradient id="steel" x1="0" y1="0" x2="1" y2=".3"><stop stop-color="#070b0e"/><stop offset=".10" stop-color="#343b42"/><stop offset=".22" stop-color="#171c21"/><stop offset=".43" stop-color="#4a5054"/><stop offset=".57" stop-color="#12181e"/><stop offset=".77" stop-color="#53575a"/><stop offset="1" stop-color="#10151a"/></linearGradient>
+<linearGradient id="metal" x1="0" y1="0" x2=".2" y2="1"><stop stop-color="#7c7c76"/><stop offset=".16" stop-color="#2a2c2d"/><stop offset=".42" stop-color="#515657"/><stop offset=".63" stop-color="#11171b"/><stop offset=".86" stop-color="#6a655a"/><stop offset="1" stop-color="#171c20"/></linearGradient>
 <linearGradient id="gold"><stop stop-color="#674b20"/><stop offset=".35" stop-color="#fbe5a8"/><stop offset=".65" stop-color="#d9a84d"/><stop offset="1" stop-color="#47351c"/></linearGradient>
 <radialGradient id="bolt"><stop stop-color="#fefdf6"/><stop offset=".27" stop-color="#bec7c5"/><stop offset=".6" stop-color="#58656a"/><stop offset=".9" stop-color="#222a30"/></radialGradient>
 <filter id="shadow" x="-20%" y="-40%" width="140%" height="200%"><feGaussianBlur in="SourceAlpha" stdDeviation="7"/><feOffset dx="4" dy="6"/><feComponentTransfer><feFuncA type="linear" slope=".8"/></feComponentTransfer><feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge></filter>
 <filter id="etch" x="-15%" y="-25%" width="130%" height="150%"><feGaussianBlur in="SourceAlpha" stdDeviation="1.2" result="blur"/><feOffset in="blur" dx="-3" dy="-3" result="dark"/><feSpecularLighting in="blur" surfaceScale="8" specularConstant=".8" specularExponent="15" lighting-color="#fff" result="light"><fePointLight x="330" y="-300" z="500"/></feSpecularLighting><feComposite in="light" in2="SourceAlpha" operator="in" result="shine"/><feMerge><feMergeNode in="dark"/><feMergeNode in="SourceGraphic"/><feMergeNode in="shine"/></feMerge></filter>
-<pattern id="grain" width="5" height="5" patternUnits="userSpaceOnUse"><path d="M0 1H5" stroke="#fff" opacity=".065" stroke-width=".7"/></pattern>
+<filter id="roughness"><feTurbulence type="fractalNoise" baseFrequency=".15" numOctaves="3" seed="8" stitchTiles="stitch"/><feColorMatrix type="saturate" values="0"/><feComponentTransfer><feFuncA type="linear" slope=".12"/></feComponentTransfer></filter><pattern id="grain" width="5" height="5" patternUnits="userSpaceOnUse"><path d="M0 1H5" stroke="#fff" opacity=".065" stroke-width=".7"/></pattern>
 <g id="rivet"><circle r="13" fill="#222e37"/><circle r="10" fill="url(#bolt)"/><circle r="2" cx="-3" cy="-3" fill="#fff" opacity=".8"/></g>
 <g id="hinge" filter="url(#shadow)"><rect width="255" height="39" rx="7" fill="url(#metal)" stroke="#28323c" stroke-width="5"/><use href="#rivet" x="44" y="19"/><use href="#rivet" x="208" y="19"/></g>
 </defs>
-<rect width="1600" height="1000" fill="#111920"/>
+<rect width="1600" height="1000" fill="#080a0c"/>
 <rect x="15" y="10" width="1570" height="980" fill="url(#gold)" stroke="#0b1018" stroke-width="13"/>
 <path d="M25 25H1575V975H25Z" fill="url(#steel)" stroke="#515c63" stroke-width="12"/>
-<rect x="45" y="35" width="720" height="930" fill="url(#steel)" stroke="#e8ece6" stroke-width="13"/>
-<rect x="835" y="35" width="720" height="930" fill="url(#steel)" stroke="#e8ece6" stroke-width="13"/>
+<rect x="45" y="35" width="720" height="930" fill="url(#steel)" stroke="#737b7b" stroke-width="13"/>
+<rect x="835" y="35" width="720" height="930" fill="url(#steel)" stroke="#737b7b" stroke-width="13"/>
 <rect x="78" y="65" width="654" height="870" fill="none" stroke="#323d45" stroke-width="9"/>
 <rect x="868" y="65" width="654" height="870" fill="none" stroke="#323d45" stroke-width="9"/>
-<rect x="95" y="80" width="620" height="365" rx="8" fill="url(#metal)" stroke="#303940" stroke-width="8"/>
-<rect x="885" y="80" width="620" height="365" rx="8" fill="url(#metal)" stroke="#303940" stroke-width="8"/>
-<rect x="95" y="570" width="620" height="345" rx="8" fill="url(#metal)" stroke="#303940" stroke-width="8"/>
-<rect x="885" y="570" width="620" height="345" rx="8" fill="url(#metal)" stroke="#303940" stroke-width="8"/>
+<rect x="95" y="80" width="620" height="365" rx="8" fill="url(#metal)" stroke="#151b1e" stroke-width="8"/>
+<rect x="885" y="80" width="620" height="365" rx="8" fill="url(#metal)" stroke="#151b1e" stroke-width="8"/>
+<rect x="95" y="570" width="620" height="345" rx="8" fill="url(#metal)" stroke="#151b1e" stroke-width="8"/>
+<rect x="885" y="570" width="620" height="345" rx="8" fill="url(#metal)" stroke="#151b1e" stroke-width="8"/>
 <rect x="775" y="20" width="50" height="960" fill="url(#gold)" stroke="#5d441c" stroke-width="7"/>
-<rect x="45" y="35" width="1510" height="930" fill="url(#grain)" opacity=".8"/>
+<rect x="45" y="35" width="1510" height="930" fill="url(#grain)" opacity=".8"/><rect x="45" y="35" width="1510" height="930" filter="url(#roughness)" opacity=".35"/>
 <use href="#hinge" x="50" y="175"/><use href="#hinge" x="50" y="792"/>
 <use href="#hinge" x="1295" y="175"/><use href="#hinge" x="1295" y="792"/>
 <g><use href="#rivet" x="746" y="60"/><use href="#rivet" x="852" y="60"/><use href="#rivet" x="746" y="122"/><use href="#rivet" x="852" y="122"/><use href="#rivet" x="746" y="184"/><use href="#rivet" x="852" y="184"/><use href="#rivet" x="746" y="246"/><use href="#rivet" x="852" y="246"/><use href="#rivet" x="746" y="308"/><use href="#rivet" x="852" y="308"/><use href="#rivet" x="746" y="370"/><use href="#rivet" x="852" y="370"/><use href="#rivet" x="746" y="432"/><use href="#rivet" x="852" y="432"/><use href="#rivet" x="746" y="494"/><use href="#rivet" x="852" y="494"/><use href="#rivet" x="746" y="556"/><use href="#rivet" x="852" y="556"/><use href="#rivet" x="746" y="618"/><use href="#rivet" x="852" y="618"/><use href="#rivet" x="746" y="680"/><use href="#rivet" x="852" y="680"/><use href="#rivet" x="746" y="742"/><use href="#rivet" x="852" y="742"/><use href="#rivet" x="746" y="804"/><use href="#rivet" x="852" y="804"/><use href="#rivet" x="746" y="866"/><use href="#rivet" x="852" y="866"/><use href="#rivet" x="746" y="928"/><use href="#rivet" x="852" y="928"/></g>
 <g><use href="#rivet" x="95" y="120"/><use href="#rivet" x="705" y="120"/><use href="#rivet" x="895" y="120"/><use href="#rivet" x="1505" y="120"/><use href="#rivet" x="95" y="290"/><use href="#rivet" x="705" y="290"/><use href="#rivet" x="895" y="290"/><use href="#rivet" x="1505" y="290"/><use href="#rivet" x="95" y="420"/><use href="#rivet" x="705" y="420"/><use href="#rivet" x="895" y="420"/><use href="#rivet" x="1505" y="420"/><use href="#rivet" x="95" y="595"/><use href="#rivet" x="705" y="595"/><use href="#rivet" x="895" y="595"/><use href="#rivet" x="1505" y="595"/><use href="#rivet" x="95" y="755"/><use href="#rivet" x="705" y="755"/><use href="#rivet" x="895" y="755"/><use href="#rivet" x="1505" y="755"/><use href="#rivet" x="95" y="900"/><use href="#rivet" x="705" y="900"/><use href="#rivet" x="895" y="900"/><use href="#rivet" x="1505" y="900"/></g>
-<text x="395" y="400" fill="#3c4a50" stroke="#f5f4e6" stroke-width="2.2" paint-order="stroke" text-anchor="middle" font-family="Impact,Arial Black,sans-serif" font-size="116" font-weight="1000" letter-spacing="-5" filter="url(#etch)">SWEEPS</text>
-<text x="1197" y="400" fill="#3c4a50" stroke="#f5f4e6" stroke-width="2.2" paint-order="stroke" text-anchor="middle" font-family="Impact,Arial Black,sans-serif" font-size="124" font-weight="1000" letter-spacing="-5" filter="url(#etch)">TITAN</text>
+<text x="395" y="400" fill="#353b3b" stroke="#af9a6d" stroke-width="2.2" paint-order="stroke" text-anchor="middle" font-family="Impact,Arial Black,sans-serif" font-size="116" font-weight="1000" letter-spacing="-5" filter="url(#shadow)">SWEEPS</text>
+<text x="1197" y="400" fill="#353b3b" stroke="#af9a6d" stroke-width="2.2" paint-order="stroke" text-anchor="middle" font-family="Impact,Arial Black,sans-serif" font-size="124" font-weight="1000" letter-spacing="-5" filter="url(#etch)">TITAN</text>
 <text x="1490" y="338" fill="#273440" stroke="#f2e9c7" stroke-width="1.2" paint-order="stroke" font-family="Arial,sans-serif" font-size="42" font-weight="bold">™</text>
 <circle cx="712" cy="496" r="49" fill="url(#metal)" stroke="#17212a" stroke-width="9" filter="url(#shadow)"/>
 <circle cx="889" cy="496" r="49" fill="url(#metal)" stroke="#17212a" stroke-width="9" filter="url(#shadow)"/>
