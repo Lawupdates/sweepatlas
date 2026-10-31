@@ -224,13 +224,12 @@ Beauty:["photo-1596462502278-27bfdc403348","photo-1522335789203-aabd1fc54bc9"],
 Other:["photo-1492684223066-81342ee5ff30","photo-1513151233558-d860c5398176","photo-1530103862676-de8c9debad1d","photo-1549465220-1a8b9238cd48","photo-1527525443983-6e60c75fff46","photo-1503602642458-232111445657","photo-1549298916-b41d501d3772","photo-1513542789411-b6a5d4f31634","photo-1513201099705-a9746e1e201f","photo-1572635196237-14b3f281503f","photo-1607083206968-13611e3d76db","photo-1512909006721-3d6018887383","photo-1483985988355-763728e1935b","photo-1556228578-0d85b1a4d571","photo-1490312278390-ab64016e0aa9","photo-1542291026-7eec264c27ff","photo-1511499767150-a48a237f0083","photo-1571781926291-c477ebfd024b","photo-1566576912321-d58ddd7a6088","photo-1546868871-7041f2a55e12","photo-1526170375885-4d8ecf77b99f","photo-1572569511254-d8f925fe2cbb","photo-1512436991641-6745cdb1723f","photo-1491553895911-0055eca6402d","photo-1541643600914-78b084683601","photo-1560343090-f0409e92791a","photo-1535632066927-ab7c9ab60908","photo-1547949003-9792a18a2601","photo-1511385348-a52b4a160dc2","photo-1523275335684-37898b6baf30"]
 };
 function prizeImage(item,category){
- const details=[item.name,item.title,item.desc,item.query].filter(Boolean).join(" ");
- if(category==="Travel"){const named=destinationPhoto(details);if(named)return named;}
- const group=({Vehicle:"Vehicles",Tech:"Electronics"})[category]||category;
- const pool=prizeImagePools[group]||prizeImagePools.Other;
- const key=String(item.id||item.entryUrl||item.url||item.name||item.title||"prize");
- let hash=2166136261;for(let i=0;i<key.length;i++)hash=Math.imul(hash^key.charCodeAt(i),16777619);
- return {url:"https://images.unsplash.com/"+pool[(hash>>>0)%pool.length]+"?auto=format&fit=crop&w=900&q=82",label:group+" prize illustration"};
+ const group=({Vehicle:"Vehicles",Tech:"Electronics"})[category]||category||"Other";
+ const key=String(item.id||item.entryUrl||item.entry_url||item.url||item.name||item.title||"prize");
+ // A unique, stable seed per listing instead of recycling a small image pool.
+ // This is illustrative photography; it is not evidence of the actual prize.
+ const seed=encodeURIComponent("sweepstitan-"+key);
+ return {url:"https://picsum.photos/seed/"+seed+"/900/600",label:"Illustrative image for "+String(item.name||item.title||group)};
 }
 
 function card(s){const photo=prizeImage(s,s.category);return '<article class="card"><div class="art" aria-hidden="true"><img src="'+safe(photo.url)+'" alt="'+safe(photo.label)+'" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:cover;border-radius:12px"></div><div class="card-body"><span class="tag">'+safe(s.cadence)+(s.entryMethod==="mail-in"?" · ✉️ MAIL-IN":" · SPONSOR LINK")+'</span><h3>'+safe(s.name)+'</h3><p>'+safe(s.desc)+'</p><p><b>'+fmt(s.value)+'</b> listed prize value · '+safe(s.place)+'</p><p><small>Sponsor: '+safe(s.sponsor)+' · Ends '+safe(s.endDate)+'</small></p><div class="cardfoot"><a class="primary" href="'+safe(s.entryUrl)+'" target="_blank" rel="noopener noreferrer nofollow" style="display:inline-flex;align-items:center;text-decoration:none">'+(s.entryMethod==="mail-in"?"✉️ Mail-in instructions ↗":/rules|terms|conditions/i.test(s.entryUrl)?"Official rules ↗":"Visit promotion ↗")+'</a><button class="outline" data-action="details" data-id="'+safe(s.id)+'">Rules</button><button class="outline" data-action="save" data-id="'+safe(s.id)+'" aria-label="Save '+safe(s.name)+'">'+(isSaved(s.id)?"♥ Saved":"♡ Save")+'</button></div></div></article>'}
