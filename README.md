@@ -1,4 +1,4 @@
-# Sweeps Titan ✦
+# Sweeps Titan™ ✦
 
 A responsive sweepstakes discovery and personal entry-tracking website. The site pulls **reviewed** promotions from `data/sweepstakes.json`, shows the sponsor’s official entry and rules pages, and stores favorites, personal information, and entry history locally in the browser.
 
@@ -59,7 +59,7 @@ Run the validator locally: `python scripts/check_catalog.py`.
 
 ## Important limits
 
-GitHub Pages has no secure server-side database, authentication, payment processing, ad billing, automated sitewide scraping, scheduled personalized messages or third-party form submission capability. These are **not** represented as enabled. A paid multi-user platform would require a separate hosted backend and infrastructure. Automated entry may violate individual contest rules or anti-bot measures; Sweeps Titan currently requires manual entry on the sponsor site.
+GitHub Pages has no secure server-side database, authentication, payment processing, ad billing, automated sitewide scraping, scheduled personalized messages or third-party form submission capability. These are **not** represented as enabled. A paid multi-user platform would require a separate hosted backend and infrastructure. Automated entry may violate individual contest rules or anti-bot measures; Sweeps Titan™ currently requires manual entry on the sponsor site.
 
 Personal data saved in local storage is accessible to anyone using that browser profile; do not store passwords, SSNs or payment card details. Advertiser placements are a demonstration and do not collect payments.
 
