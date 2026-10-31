@@ -429,7 +429,8 @@
     "endDate": "2026-11-09",
     "reviewedAt": "2026-10-30",
     "entryUrl": "https://www.gasmonkeygarage.com/pages/gas-monkey-garage-giveaway",
-    "rulesUrl": "https://www.gasmonkeygarage.com/pages/gas-monkey-garage-giveaway"
+    "rulesUrl": "https://www.gasmonkeygarage.com/pages/gas-monkey-garage-giveaway",
+    "entryMethod": "mail-in"
   },
   {
     "id": "opheim-formula-mazda-2026",
@@ -445,6 +446,7 @@
     "endDate": "2026-11-14",
     "reviewedAt": "2026-10-30",
     "entryUrl": "https://opheimmotors.com/pages/official-policy",
-    "rulesUrl": "https://opheimmotors.com/pages/official-policy"
+    "rulesUrl": "https://opheimmotors.com/pages/official-policy",
+    "entryMethod": "mail-in"
   }
 ]
