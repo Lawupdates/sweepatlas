@@ -1,4 +1,4 @@
-# SweepAtlas ✦
+# Sweeps Titan ✦
 
 A responsive sweepstakes discovery and personal entry-tracking website. The site pulls **reviewed** promotions from `data/sweepstakes.json`, shows the sponsor’s official entry and rules pages, and stores favorites, personal information, and entry history locally in the browser.
 
@@ -6,7 +6,7 @@ A responsive sweepstakes discovery and personal entry-tracking website. The site
 
 Repository: https://github.com/Lawupdates/sweepatlas
 
-Expected Pages URL, **once GitHub Pages is enabled**: https://lawupdates.github.io/sweepatlas/
+Expected Pages URL, **once GitHub Pages is enabled**: https://sweepstitan.com/
 
 Under repository **Settings → Pages**, set **Deploy from a branch → main → /(root)**. We cannot infer the live site is published merely from successful GitHub commits.
 
@@ -59,7 +59,7 @@ Run the validator locally: `python scripts/check_catalog.py`.
 
 ## Important limits
 
-GitHub Pages has no secure server-side database, authentication, payment processing, ad billing, automated sitewide scraping, scheduled personalized messages or third-party form submission capability. These are **not** represented as enabled. A paid multi-user platform would require a separate hosted backend and infrastructure. Automated entry may violate individual contest rules or anti-bot measures; SweepAtlas currently requires manual entry on the sponsor site.
+GitHub Pages has no secure server-side database, authentication, payment processing, ad billing, automated sitewide scraping, scheduled personalized messages or third-party form submission capability. These are **not** represented as enabled. A paid multi-user platform would require a separate hosted backend and infrastructure. Automated entry may violate individual contest rules or anti-bot measures; Sweeps Titan currently requires manual entry on the sponsor site.
 
 Personal data saved in local storage is accessible to anyone using that browser profile; do not store passwords, SSNs or payment card details. Advertiser placements are a demonstration and do not collect payments.
 
@@ -76,7 +76,7 @@ Personal data saved in local storage is accessible to anyone using that browser 
 2. Choose **Discover sweepstakes candidates** and select **Run workflow** to perform the first scan.
 3. Open **Settings → Actions → General → Workflow permissions**, choose **Read and write permissions** if needed and permitted; otherwise the report update may fail.
 4. Inspect the workflow run and the `data/discovery-candidates.json` report. The radar page will show it once GitHub Pages publishes the updated files.
-5. Enable GitHub Pages under **Settings → Pages → Deploy from a branch → main → /(root)**. Test `https://lawupdates.github.io/sweepatlas/` and `https://lawupdates.github.io/sweepatlas/radar.html`.
+5. Enable GitHub Pages under **Settings → Pages → Deploy from a branch → main → /(root)**. Test `https://sweepstitan.com/` and `https://sweepstitan.com/radar.html`.
 
 ## Entry Desk
 
