@@ -33,7 +33,7 @@ jobs:
       - name: Search contest titles for potential entry pages
         run: python scripts/resolve_entry_links.py
         env:
-          LOOKUP_BATCH: "500"
+          LOOKUP_BATCH: "1500"
       - name: Audit available entry pages without claiming confirmation
         run: python scripts/audit_entries.py
       - name: Keep newest candidate queue in repository
