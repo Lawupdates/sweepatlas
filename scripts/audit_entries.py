@@ -50,6 +50,7 @@ def main():
     candidates=json.loads(CAND.read_text()).get("candidates",[])
     curated=json.loads(CURATED.read_text())
     checks=[];count=0
+    lead_checks=[]
     today=dt.datetime.now(dt.timezone.utc).date()
     counts=Counter()
     seen=set()
@@ -70,6 +71,7 @@ def main():
             counts['entry_url_pending_review']+=1
             x['validation_status']='pending_manual_review'
         seen.add(canonical)
+        lead_checks.append({"id":x.get("id"),"url":u,"status":x.get("validation_status"),"entry_url":x.get("entry_url"),"end_date":expiry})
     for x in curated:
         if x.get('endDate') and x['endDate'] < today.isoformat():counts['expired_curated']+=1
     # Always inspect curated pages; inspect discoverer-found direct URLs only, never news articles.
@@ -86,6 +88,6 @@ def main():
         count+=1
         if count>=300:break
     CAND.write_text(json.dumps({**json.loads(CAND.read_text()),"candidates":candidates},ensure_ascii=False,indent=2)+"\n")
-    REPORT.write_text(json.dumps({"checked_at_utc":dt.datetime.now(dt.timezone.utc).isoformat(),"notice":"Automated detection is not proof a form works. No record becomes confirmed without manual review.","candidate_counts":dict(counts),"total_research_leads":len(candidates),"curated_count":len(curated),"automatically_confirmed_forms":0,"results":checks},ensure_ascii=False,indent=2)+"\n")
+    REPORT.write_text(json.dumps({"checked_at_utc":dt.datetime.now(dt.timezone.utc).isoformat(),"notice":"Automated detection is not proof a form works. No record becomes confirmed without manual review.","candidate_counts":dict(counts),"total_research_leads":len(candidates),"curated_count":len(curated),"automatically_confirmed_forms":0,"lead_checks":lead_checks,"results":checks},ensure_ascii=False,indent=2)+"\n")
     print("Inspected",len(checks),"potential entry pages; none automatically certified.")
 if __name__=="__main__":main()
