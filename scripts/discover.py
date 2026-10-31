@@ -212,7 +212,7 @@ def main():
                     # Preserve historical records but recover a real RSS headline when
                     # a prior migration replaced it with a generic numbered label.
                     saved = existing[link]
-                    if re.match(r"^Sweepstakes source \\d+", saved.get("title", "")):
+                    if saved.get("title", "").startswith("Sweepstakes source "):
                         saved["title"] = title
                         saved["query"] = term
                         saved["published"] = clean(item.findtext("pubDate"))
