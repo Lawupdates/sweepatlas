@@ -41,7 +41,7 @@ def inspect_potential(url):
         body,landing=fetch(url)
         if not eligible(landing):return "redirected_outside_entry_site"
         page=body.decode("utf-8","replace").lower()
-        form=bool(re.search(r"<form\\b|type=[\\\"'](?:email|submit)[\\\"']",page))
+        form=bool(re.search(r'<form\b|type=["\'](?:email|submit)["\']',page))
         text=bool(re.search(r"enter to win|sweepstakes|giveaway|official rules|enter now",page))
         if form and text:return "entry_form_possible"
         if text:return "promotion_page"
