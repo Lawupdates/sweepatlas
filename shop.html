@@ -40,7 +40,7 @@ function render(){
  let total=0,count=0;
  const lines=Object.entries(cart).map(([id,q])=>{
   let p=allowed.get(id);let unit=estimates[p.category]||0;total+=unit*q;count+=q;
-  return '<div class="cart-line"><div><strong>'+p.name+'</strong><div class="fine">'+p.category+' • estimated </div><div><label>Qty <input type="number" min="1" max="99" value="'+q+'" data-qty="'+id+'"></label><button type="button" data-remove="'+id+'" aria-label="Remove '+p.name+'">Remove</button></div></div>';
+  return '<div class="cart-line"><div><strong>'+p.name+'</strong><div class="fine">'+p.category+' • estimated $'+unit.toFixed(2)+' each</div></div><div><label>Qty <input type="number" min="1" max="99" value="'+q+'" data-qty="'+id+'"></label><button type="button" data-remove="'+id+'" aria-label="Remove '+p.name+'">Remove</button></div></div>';
  });
  document.getElementById("cart-lines").innerHTML=lines.join("")||'<p class="empty">Your cart is empty. Add something lucky!</p>';
  document.getElementById("cart-total").textContent=total.toLocaleString("en-US",{style:"currency",currency:"USD"});
