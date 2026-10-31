@@ -99,7 +99,7 @@ def extract_end_date(text):
             pass
     return None
 
-VALUE_PATTERN = re.compile(r'(?i)(?:approx(?:imate)?(?: retail)? value|(?:total )?prize value|(?:grand )?prize|worth|valued at|win|for a chance to win)\\s*(?:of|is|:|-)?\\s*\\$\\s*([0-9][0-9,]*(?:\\.[0-9]{1,2})?)')
+VALUE_PATTERN = re.compile(r'(?i)(?:approx(?:imate)?(?: retail)? value|(?:total )?prize value|(?:grand )?prize|worth|valued at|win|for a chance to win)\s*(?:of|is|:|-)?\s*\$\s*([0-9][0-9,]*(?:\.[0-9]{1,2})?)')
 def extract_prize_value(text):
     values=[]
     for m in VALUE_PATTERN.finditer(text or ""):
