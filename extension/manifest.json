@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "SweepAtlas Entry Assistant",
+  "name": "Sweeps Titan Entry Assistant",
   "version": "1.0.0",
   "description": "User-controlled autofill for permitted sweepstakes entry forms. Never submits automatically.",
   "permissions": [
