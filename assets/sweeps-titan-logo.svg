@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 480">
+<defs>
+<linearGradient id="chrome" x2="0" y2="1"><stop stop-color="#fff"/><stop offset=".19" stop-color="#a8cbf5"/><stop offset=".39" stop-color="#e7f8ff"/><stop offset=".5" stop-color="#3a5c9a"/><stop offset=".61" stop-color="#fff"/><stop offset=".83" stop-color="#7c8db1"/><stop offset="1" stop-color="#d6f9ff"/></linearGradient>
+<linearGradient id="gold" x2="0" y2="1"><stop stop-color="#fff9ca"/><stop offset=".19" stop-color="#ffdc73"/><stop offset=".4" stop-color="#b66a0d"/><stop offset=".56" stop-color="#fff0a2"/><stop offset=".77" stop-color="#c38920"/><stop offset="1" stop-color="#ffcf4f"/></linearGradient>
+<radialGradient id="glow"><stop stop-color="#167dff" stop-opacity=".82"/><stop offset="1" stop-color="#000c2a" stop-opacity="0"/></radialGradient>
+<filter id="blur"><feGaussianBlur stdDeviation="12"/></filter>
+<filter id="emboss"><feGaussianBlur in="SourceAlpha" stdDeviation="2" result="b"/><feOffset in="b" dx="5" dy="9" result="s"/><feMerge><feMergeNode in="s"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<ellipse cx="600" cy="238" rx="550" ry="225" fill="url(#glow)"/>
+<circle cx="610" cy="235" r="195" fill="none" stroke="#9a6e23" stroke-width="29"/>
+<circle cx="610" cy="235" r="195" fill="none" stroke="#ffe69c" stroke-width="9"/>
+<path d="M12 214 L105 146 L89 205 L170 153 L138 251 L255 185 M1011 192 L1127 120 L1109 183 L1190 139 L1135 236 L1196 212 M90 346 L180 302 L142 375 L241 342 M980 349 L1090 282 L1062 359 L1190 300" stroke="#49cfff" stroke-width="13" fill="none" stroke-linejoin="round" filter="url(#blur)"/>
+<path d="M12 214 L105 146 L89 205 L170 153 L138 251 L255 185 M1011 192 L1127 120 L1109 183 L1190 139 L1135 236 L1196 212 M90 346 L180 302 L142 375 L241 342 M980 349 L1090 282 L1062 359 L1190 300" stroke="#b9f8ff" stroke-width="4" fill="none" stroke-linejoin="round"/>
+<g font-family="Impact,'Arial Black',sans-serif" font-weight="1000" text-anchor="middle" stroke-linejoin="round" filter="url(#emboss)">
+<text x="594" y="226" font-size="206" textLength="1090" lengthAdjust="spacingAndGlyphs" fill="#071127" stroke="#071127" stroke-width="26">SWEEPS</text>
+<text x="594" y="226" font-size="206" textLength="1090" lengthAdjust="spacingAndGlyphs" fill="url(#chrome)" stroke="#759aca" stroke-width="5">SWEEPS</text>
+<text x="590" y="426" font-size="220" textLength="830" lengthAdjust="spacingAndGlyphs" fill="#211106" stroke="#211106" stroke-width="25">TITAN</text>
+<text x="590" y="426" font-size="220" textLength="830" lengthAdjust="spacingAndGlyphs" fill="url(#gold)" stroke="#e7a333" stroke-width="6">TITAN</text>
+</g><text x="1060" y="350" font-family="Arial,sans-serif" font-weight="900" font-size="55" fill="url(#gold)" stroke="#4f3010" stroke-width="3">™</text>
+</svg>
