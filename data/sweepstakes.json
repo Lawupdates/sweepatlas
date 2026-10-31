@@ -465,5 +465,39 @@
     "entryMethod": "email",
     "entryUrl": "https://www.regmovies.com/promotions/imagination-adventure-sweepstakes-rules",
     "rulesUrl": "https://www.regmovies.com/promotions/imagination-adventure-sweepstakes-rules"
+  },
+  {
+    "id": "foodnetwork-home-holidays-2026",
+    "name": "Food Network Home for the Holidays $5,000 Giveaway",
+    "sponsor": "Food Network",
+    "desc": "A $5,000 holiday cash prize. Sponsor says entries are available twice daily across its Food Network and HGTV websites; check the official rules for eligibility and limits.",
+    "category": "Cash",
+    "cadence": "Daily",
+    "icon": "💵",
+    "value": 5000,
+    "place": "US",
+    "minAge": "See rules",
+    "endDate": "2027-01-06",
+    "reviewedAt": "2026-10-30",
+    "entryMethod": "online",
+    "entryUrl": "https://www.foodnetwork.com/sponsored/sweepstakes/home-for-the-holidays",
+    "rulesUrl": "https://www.foodnetwork.com/sponsored/sweepstakes/home-for-the-holidays"
+  },
+  {
+    "id": "foodnetwork-whos-counting-nov-2026",
+    "name": "Food Network Magazine Who's Counting? Contest",
+    "sponsor": "Food Network Magazine",
+    "desc": "Guess the number in the featured jar for a chance at $500; three runners-up receive $50 each. Check official contest rules and entry instructions.",
+    "category": "Cash",
+    "cadence": "One-time",
+    "icon": "🍪",
+    "value": 500,
+    "place": "US",
+    "minAge": "See rules",
+    "endDate": "2026-11-15",
+    "reviewedAt": "2026-10-30",
+    "entryMethod": "email",
+    "entryUrl": "https://www.foodnetwork.com/magazine/food-network-magazine-whos-counting",
+    "rulesUrl": "https://www.foodnetwork.com/magazine/food-network-magazine-whos-counting"
   }
 ]
