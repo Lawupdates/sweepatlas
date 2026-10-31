@@ -69,4 +69,38 @@ document.addEventListener("click",e=>{const b=e.target.closest("button");if(!b)r
 document.addEventListener("change",e=>{if(!e.target.matches("[data-qty]"))return;let id=e.target.dataset.qty;let qty=Number.parseInt(e.target.value,10);if(!Number.isFinite(qty)||qty<1)qty=1;cart[id]=Math.min(99,qty);save();renderCart()});
 byId("product-search").addEventListener("input",e=>{searchTerm=e.target.value.toLowerCase().trim();renderProducts()});
 save();renderProducts();renderCart();renderFavorites();
+// Square itemized checkout: set this URL only after deploying your secured backend.
+// Until configured, the existing Square-hosted generic payment link remains usable.
+const squareCheckoutEndpoint = "";
+const squarePayButton = document.querySelector('a.checkout');
+if (squarePayButton && squareCheckoutEndpoint) {
+  squarePayButton.addEventListener("click", async function(event) {
+    event.preventDefault();
+    const orderItems = Object.entries(cart).map(([id, quantity]) => ({id, quantity}));
+    if (!orderItems.length) {
+      byId("cart-status").textContent = "Add products to your cart before checkout.";
+      return;
+    }
+    squarePayButton.setAttribute("aria-disabled", "true");
+    squarePayButton.textContent = "Creating secure checkout…";
+    try {
+      const response = await fetch(squareCheckoutEndpoint, {
+        method: "POST", headers: {"Content-Type": "application/json"},
+        body: JSON.stringify({items: orderItems})
+      });
+      const data = await response.json();
+      if (!response.ok || !data.url || !/^https:\/\/(?:[a-z0-9-]+\.)*(?:squareup\.com|square\.link)(?:\/|$)/i.test(data.url)) {
+        throw new Error("Unable to create Square checkout");
+      }
+      window.location.assign(data.url);
+    } catch(error) {
+      byId("cart-status").textContent = "Automatic checkout is unavailable. The existing secure Square payment link is available.";
+      window.open("https://square.link/u/erHyYX8U", "_blank", "noopener,noreferrer");
+    } finally {
+      squarePayButton.removeAttribute("aria-disabled");
+      squarePayButton.textContent = "Pay securely with Square ↗";
+    }
+  });
+}
+
 </script></body></html>
