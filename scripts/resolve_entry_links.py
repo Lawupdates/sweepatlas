@@ -19,7 +19,7 @@ ROOT=Path(__file__).resolve().parents[1]
 SRC=ROOT/"data/discovery-candidates.json"
 OUT=ROOT/"data/entry-lookup-results.json"
 BATCH=max(1,min(int(os.environ.get("LOOKUP_BATCH","120")),1500))
-WORKERS=6
+WORKERS=12
 EXCLUDE=("news.google.com","google.com","bing.com","yahoo.com","reddit.com","facebook.com","instagram.com","pinterest.com","youtube.com","sweepstakesadvantage.com","contestgirl.com","sweepstakesfanatics.com","sweepstakeslovers.com")
 ENTRY_HINT=re.compile(r"(sweepstakes|giveaway|enter.to.win|contest|promotion|win.a|gleam.io)",re.I)
 def fetch(url):
@@ -36,6 +36,19 @@ def eligible(url):
         host=(p.hostname or "").lower()
         return p.scheme=="https" and host and not any(host==x or host.endswith("."+x) for x in EXCLUDE) and not p.username and not p.password
     except ValueError:return False
+def inspect_potential(url):
+    try:
+        body,landing=fetch(url)
+        if not eligible(landing):return "redirected_outside_entry_site"
+        page=body.decode("utf-8","replace").lower()
+        form=bool(re.search(r"<form\\b|type=[\\\"'](?:email|submit)[\\\"']",page))
+        text=bool(re.search(r"enter to win|sweepstakes|giveaway|official rules|enter now",page))
+        if form and text:return "entry_form_possible"
+        if text:return "promotion_page"
+        return "no_contest_context"
+    except Exception:
+        return "page_blocked_or_unreachable"
+
 def lookup(item):
     title=clean_title(item.get("title",""))
     if len(title)<8:return {"status":"insufficient_title"}
@@ -54,7 +67,7 @@ def lookup(item):
             overlap=sum(w in combined for w in words)
             if words and overlap/max(1,len(words)) < .45:continue
             if not ENTRY_HINT.search(url+" "+label):continue
-            possible.append({"url":url,"title":label[:180],"overlap":overlap})
+            possible.append({"url":url,"title":label[:180],"overlap":overlap,"destination_check":inspect_potential(url)})
             if len(possible)>=3:break
         if not possible:return {"status":"entry_page_not_found","looked_up_at":dt.datetime.now(dt.timezone.utc).isoformat(),"search_query":query}
         # Search discovery only. No site is published until explicitly reviewed.
