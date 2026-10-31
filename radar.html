@@ -73,6 +73,7 @@ button:hover,.outline:hover,.chip:hover,.tag:hover,.cta:hover,.primary:hover{fil
 button:focus-visible,a:focus-visible{outline:3px solid #ffe75f!important;outline-offset:3px}
 button:disabled{opacity:.55;cursor:not-allowed}
 @media(prefers-reduced-motion:reduce){button,.chip,.tag{transition:none!important}}
+[hidden]{display:none!important}#feedWarning{padding:12px;border:1px solid #eac45e;border-radius:12px;margin-top:10px;color:#fff2b3}
 </style></head><body>
 <header><div class="wrap"><nav><a class="brand" href="./"><span class="logo">✦</span>Sweeps Titan</a><div><a href="#discover">Explore prizes</a> &nbsp; <a href="#favorites" id="favoritesNav">Saved ♡</a> &nbsp; <a href="./advertise.html">Advertise</a> &nbsp; <a href="#" id="siteShare">Share site ↗</a> &nbsp; <button id="motionToggle" class="motion-toggle" type="button" aria-pressed="false">Pause motion</button></div></nav>
 <div class="hero"><div class="eyebrow">✦ FREE SWEEPSTAKES DISCOVERY · ADVERTISER SUPPORTED</div><h1>Big prizes.<br><span>Endless possibilities.</span></h1><p>Big dreams, zero crystal balls. Hunt down the good stuff, save favorites, and let your lucky streak audition.</p><a href="#discover">Explore sweepstakes →</a></div></div></header>
@@ -147,7 +148,7 @@ $("items").replaceChildren();for(const x of arr.slice(0,shown)){const c=el("arti
 $("more").hidden=arr.length<=shown;$("status").textContent=arr.length.toLocaleString()+(showResearch?" listings and articles":" sponsor listings")+" · showing "+Math.min(shown,arr.length)+(mode==="expiring"&&arr.length&&!arr.some(x=>Number.isFinite(expiry(x)))?" · No known closing dates for these links":"")}
 async function share(title,url){if(navigator.share){try{await navigator.share({title,url});return}catch{}}try{await navigator.clipboard.writeText(url);alert("Link copied!")}catch{prompt("Copy this link",url)}}
 async function load(){
- const status=$("status");status.textContent="Loading sweepstakes…";all=[];
+ const status=$("status");status.textContent="Loading sweepstakes…";const previousWarning=$("feedWarning");if(previousWarning)previousWarning.remove();all=[];shown=36;
  const now=new Date().toLocaleDateString("en-CA",{year:"numeric",month:"2-digit",day:"2-digit"});
  let failures=[];
  const [curatedResult,discoveryResult,lookupResult]=await Promise.allSettled([
