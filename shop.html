@@ -3,11 +3,43 @@
 @media(max-width:880px){.hero{grid-template-columns:1fr}.hero-logo{max-width:550px;margin:auto}.grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(max-width:600px){.shell{width:calc(100% - 26px)}.top-inner{display:block;padding:7px 0}.brand img{width:118px;height:63px;margin:auto}.navigation{display:grid;grid-template-columns:repeat(4,1fr);gap:4px}.navigation a{padding:10px 2px;font-size:11px;text-align:center;white-space:normal}.hero{padding:28px 0}.hero h1{font-size:43px}.hero p{font-size:15px}.hero-logo{padding:12px;border-radius:20px}.heading{margin-top:34px}.grid{gap:12px}.product{border-radius:15px}.details{padding:11px}.details h3{font-size:16px}.description{font-size:12px}.price{font-size:17px}.actions{gap:5px}.add,.save{min-height:41px;font-size:12px}.save{padding:0 9px}.panel{padding:15px}.cart-row{grid-template-columns:1fr auto;gap:8px}.cart-row button{grid-column:2}.cart-row input{width:57px}}
 @media(max-width:345px){.grid{grid-template-columns:1fr}}
+</style><style id="titan-premium-shop">
+/* 2026 premium storefront polish: distinct product mockups, stronger mobile UI */
+:root{--gold:#ffbf3d;--blue:#19a9ff}
+body{background:radial-gradient(ellipse 75% 29% at 50% 1%,#0756a7 0%,#0a1740 46%,transparent 85%),linear-gradient(180deg,#050c1c,#080f22 65%,#050916)}
+.top{background:#060b1df5;border-bottom:1px solid #329bfa77;box-shadow:0 6px 32px #0006}
+.brand img{width:174px;height:94px}
+.navigation .cart-link{box-shadow:0 4px 18px #ffc53d60;border:1px solid #fff0ac}
+.hero{position:relative;min-height:370px;margin:18px 0 25px;padding:40px 35px;border:1px solid #277cd0a3;border-radius:28px;overflow:hidden;background:radial-gradient(circle at 76% 45%,#1263c3 0%,#0d2454 34%,transparent 67%),linear-gradient(125deg,#08122c,#0b2556 65%,#051128);box-shadow:inset 0 0 40px #008fff18,0 15px 48px #0006}
+.hero:before{content:"";position:absolute;width:300px;height:300px;border:3px solid #ffc94720;transform:rotate(35deg);right:-145px;top:-200px;border-radius:36px}
+.hero h1{font-size:clamp(43px,5.5vw,76px);letter-spacing:-.05em;text-shadow:0 6px 25px #030713}
+.hero h1 span{background:linear-gradient(180deg,#fff9ba,#ffc045 55%,#e59b16);color:transparent;background-clip:text}
+.hero-logo{border:0;background:radial-gradient(circle,#187aca70,#05122a00 65%);box-shadow:none}
+.hero-logo img{filter:drop-shadow(0 0 20px #008efc90)}
+.hero-actions .gold,.add{background:linear-gradient(180deg,#ffe484,#ffbb2f)!important;color:#08152b!important;border:1px solid #fff3ae!important;box-shadow:0 3px 9px #0005}
+.notice{background:#0d1b32;border-color:#345582;font-size:13px}
+.heading h2{font-size:clamp(27px,3.5vw,40px);letter-spacing:.025em}
+.chip{background:#0d1b35;border:1px solid #4789c4;padding:11px 16px;box-shadow:inset 0 1px 0 #ffffff18}
+.chip[aria-pressed=true]{background:linear-gradient(115deg,#0ae0eb,#2887fc);color:#07132c;border-color:#90e9ff;box-shadow:0 0 17px #08aef875}
+.grid{grid-template-columns:repeat(4,minmax(0,1fr));gap:16px}
+.product{background:#111d33;border:1px solid #416ca0;border-radius:20px;box-shadow:0 9px 28px #0006}
+.visual{aspect-ratio:1/1;background:linear-gradient(145deg,#bacce1,#3b5375)}
+.visual img{object-fit:cover}
+.tag{background:linear-gradient(120deg,#ffe59e,#ffb93b);padding:7px 9px;color:#12213a;box-shadow:0 4px 16px #0006}
+.details{padding:14px}
+.details h3{font-size:17px}
+.description{min-height:35px}
+.save{flex-shrink:0}
+.panel{background:#101c32}
+@media(min-width:1100px){.grid{grid-template-columns:repeat(5,minmax(0,1fr))}.details h3{font-size:16px}.actions{gap:6px}.add,.save{font-size:12px}}
+@media(max-width:980px){.grid{grid-template-columns:repeat(3,minmax(0,1fr))}}
+@media(max-width:700px){.grid{grid-template-columns:repeat(2,minmax(0,1fr))}.top-inner{display:block}.brand img{margin:auto;width:132px;height:76px}.navigation{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:5px;margin:0}.navigation a{font-size:12px;padding:11px 2px}.hero{margin:12px 0 16px;padding:23px 19px;min-height:0;gap:12px}.hero h1{font-size:43px}.hero-logo{max-width:300px}.heading{margin-top:27px}.chips{gap:6px}.chip{font-size:12px;padding:9px 11px}.grid{gap:11px}.visual{aspect-ratio:1/1}.details{padding:10px}.details h3{font-size:15px}.description{font-size:11px;min-height:48px}.add,.save{font-size:11px;padding:0 5px}.tag{font-size:9px}}
+@media(max-width:375px){.navigation a{font-size:10px}.add{font-size:10px}.save{font-size:10px}}
 </style></head><body>
 <header class="top"><div class="shell top-inner"><a href="./" class="brand" aria-label="Sweeps Titan home"><img src="./assets/titan-royal-logo.svg" alt="Sweeps Titan"></a><nav class="navigation" aria-label="Main navigation"><a href="./">Sweepstakes</a><a href="#collection">Merch</a><a href="#favorites">My Picks</a><a class="cart-link" href="#cart">🛒 Cart <span id="cartcount">0</span></a></nav></div></header>
-<main class="shell"><section class="hero"><div><span class="eyebrow">Official Sweeps Titan™ collection</span><h1>Wear your <span>winning energy.</span></h1><p>Lucky vibes, bold designs and gear made for people who never miss another chance to enter.</p><div class="hero-actions"><a class="gold" href="#collection">Explore the collection</a><a class="outline" href="./">Find sweepstakes</a></div></div><div class="hero-logo"><img src="./assets/titan-royal-logo.svg" alt="Crowned blue-and-gold Sweeps Titan logo"></div></section>
+<main class="shell"><section class="hero"><div><span class="eyebrow">Official Sweeps Titan™ collection</span><h1>THE OFFICIAL <span>MERCH STORE.</span></h1><p>Show your sweepstakes pride. Crowned apparel, lucky essentials, collector accessories, and original Sweeps Titan™ designs.</p><div class="hero-actions"><a class="gold" href="#collection">Explore the collection</a><a class="outline" href="./">Find sweepstakes</a></div></div><div class="hero-logo"><img src="./assets/titan-royal-logo.svg" alt="Crowned blue-and-gold Sweeps Titan logo"></div></section>
 <div class="notice"><strong>Collection preview.</strong> These are original merchandise design mockups. You can save favorites and plan a cart; products, final pricing and secure checkout are not yet available for ordering. No payment data is collected.</div>
-<section id="collection"><div class="heading"><div><h2>THE LUCKY COLLECTION</h2><p>Bold designs for sweepstakes enthusiasts.</p></div><div class="chips" id="filters" aria-label="Filter merchandise"></div></div><div class="grid" id="products"></div></section>
+<section id="collection"><div class="heading"><div><h2>THE LUCKY COLLECTION</h2><p>Explore every style. Each product has its own visual preview.</p></div><div class="chips" id="filters" aria-label="Filter merchandise"></div></div><div class="grid" id="products"></div></section>
 <section class="panel" id="favorites"><h2>♥ My Lucky Picks <span id="favcount"></span></h2><p class="muted">Favorites are saved on this device.</p><ul class="favorites-list" id="favs"><li>No favorites saved yet.</li></ul></section>
 <section class="panel" id="cart"><h2>🛒 Your Cart</h2><p class="muted">Cart contents are saved on your device. Prices below are estimates only.</p><div id="cartrows"></div><div class="total">Estimated subtotal: <span id="total">$0.00</span></div><p><button type="button" class="checkout" disabled>Secure checkout not yet available</button></p><p class="muted checkout-note">Ordering will open only after inventory, tax, shipping and secure payment processing are configured. For merchandise inquiries, <a href="mailto:emailbaskets.com@gmail.com?subject=Sweeps%20Titan%20merchandise" style="text-decoration:underline">contact the store</a>.</p></section></main>
 <footer class="footer"><div class="shell">© Sweeps Titan™ · Original merchandise concepts · <a href="./">Back to sweepstakes</a></div></footer>
