@@ -20,7 +20,7 @@ SRC=ROOT/"data/discovery-candidates.json"
 OUT=ROOT/"data/entry-lookup-results.json"
 BATCH=max(1,min(int(os.environ.get("LOOKUP_BATCH","120")),1500))
 WORKERS=12
-EXCLUDE=("news.google.com","google.com","bing.com","yahoo.com","reddit.com","facebook.com","instagram.com","pinterest.com","youtube.com","sweepstakesadvantage.com","contestgirl.com","sweepstakesfanatics.com","sweepstakeslovers.com","sweepstake.com","thefreebieguy.com","contestbee.com","ultracontest.com")
+EXCLUDE=("news.google.com","google.com","bing.com","yahoo.com","reddit.com","facebook.com","instagram.com","pinterest.com","youtube.com","sweepstakesadvantage.com","contestgirl.com","sweepstakesfanatics.com","sweepstakeslovers.com","sweepstake.com","thefreebieguy.com","contestbee.com","ultracontest.com","deadspin.com","rg.org","thegruelingtruth.com")
 ENTRY_HINT=re.compile(r"(sweepstakes|giveaway|enter.to.win|contest|promotion|win.a|gleam.io)",re.I)
 def fetch(url):
     req=ur.Request(url,headers={"User-Agent":"Mozilla/5.0 (compatible; SweepsTitanResearch/1.0)"})
@@ -51,6 +51,10 @@ def inspect_potential(url):
 
 def lookup(item):
     title=clean_title(item.get("title",""))
+    if item.get("validation_status") == "rejected_nonentry" or re.search(r"sweepstakes casinos?|no.deposit.bonus|casino promo codes|sportsbook bonus|slots casino", title, re.I):
+        return {"status":"rejected_nonentry","search_version":4,"looked_up_at":dt.datetime.now(dt.timezone.utc).isoformat()}
+    if title.lower().startswith("sweepstakes source "):
+        return {"status":"insufficient_title","search_version":4,"looked_up_at":dt.datetime.now(dt.timezone.utc).isoformat()}
     if len(title)<8:return {"status":"insufficient_title"}
     words=list(dict.fromkeys(w for w in re.findall(r"[a-z0-9]{4,}",title.lower()) if w not in {"official","rules","2026","2027","sweepstakes","giveaway","contest","promotion","enter","the","with","from"}))
     if len(words)<2:return {"status":"insufficient_title"}
