@@ -232,6 +232,53 @@ h1,h2,h3,p,li,.brand,.card,.box,.stat{overflow-wrap:break-word}
  body:has(a[aria-label="Open Sweeps Titan™ Discovery Radar"]){padding-bottom:86px}
  a[aria-label="Open Sweeps Titan™ Discovery Radar"],a[aria-label="Open Sweeps Titan™ Entry Desk"]{position:static!important;display:inline-flex!important;justify-content:center;align-items:center;max-width:calc(50% - 14px)!important;margin:16px 6px!important;min-height:48px;padding:10px!important;vertical-align:top;font-size:12px!important;white-space:normal;text-align:center;box-shadow:0 4px 16px #0003!important}
 }
+
+/* Sweeps Titan mobile polish: consistent rhythm, readable content and reliable tap targets */
+@media (max-width:700px){
+ html,body{width:100%;overflow-x:clip}
+ .wrap{width:100%;max-width:100%;padding-inline:16px!important}
+ header .wrap,footer .wrap,main .wrap{box-sizing:border-box}
+ .top{display:flex;flex-direction:column;align-items:stretch!important;gap:12px}
+ .brand{display:block;max-width:100%;font-size:clamp(23px,6vw,30px);line-height:1.2}
+ .nav{display:grid!important;grid-template-columns:repeat(2,minmax(0,1fr));gap:8px!important;width:100%;overflow:visible!important}
+ .nav button,.nav a{min-width:0;width:100%;min-height:44px;padding:10px 8px!important;white-space:normal!important;text-align:center;line-height:1.25}
+ .hero{min-height:0!important;padding:38px 0 44px!important}
+ .hero h1{max-width:100%;font-size:clamp(33px,9vw,50px)!important;line-height:1.08!important;letter-spacing:-.045em!important}
+ .hero p{font-size:16px!important;line-height:1.55;max-width:100%}
+ .hero .stats{display:grid!important;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px!important}
+ .stats strong{font-size:25px!important}
+ .section-title,.showcase-top,.subhead{display:flex;flex-direction:column;align-items:flex-start!important;gap:8px}
+ .section-title h2,.showcase h2{line-height:1.15;overflow-wrap:anywhere}
+ .search,.cards,.categories,.grid,.grid2,.kpis,.prize-tiles{display:grid!important;grid-template-columns:minmax(0,1fr)!important;gap:14px!important}
+ .search>*{width:100%;grid-column:auto!important;min-width:0}
+ .filters{display:flex;flex-wrap:wrap;gap:8px}
+ .chip{min-height:42px;max-width:100%;white-space:normal}
+ .card,.panel,.item,.category-card,.prize-tile,.sponsor{min-width:0;max-width:100%;overflow:hidden}
+ .card{display:flex;flex-direction:column}
+ .card-body{padding:17px!important;min-width:0}
+ .card h3{font-size:clamp(18px,5vw,22px);line-height:1.25;overflow-wrap:anywhere}
+ .card p,.card small,.item small{line-height:1.5;overflow-wrap:anywhere}
+ .cardfoot{display:grid!important;grid-template-columns:repeat(2,minmax(0,1fr));align-items:stretch;gap:8px!important}
+ .cardfoot>*{width:100%;min-width:0;margin:0!important;min-height:44px;display:flex;align-items:center;justify-content:center;text-align:center;white-space:normal;overflow-wrap:anywhere;padding:10px 8px!important}
+ .cardfoot>*:only-child{grid-column:1/-1}
+ .item{flex-wrap:wrap;align-items:flex-start}
+ .item>*{min-width:0;max-width:100%}
+ .panel{padding:18px!important}
+ .field,.primary,.outline,select,input{min-height:44px}
+ .prize-tile{min-height:230px}
+ .tile-copy{left:16px;right:16px;bottom:16px}
+ .footer-grid{flex-direction:column;gap:16px}
+ .ad,.sponsor{padding:18px!important}
+ dialog{max-width:calc(100vw - 24px);max-height:calc(100dvh - 32px);overflow:auto}
+}
+@media (max-width:390px){
+ .wrap{padding-inline:12px!important}
+ .cardfoot{grid-template-columns:minmax(0,1fr)}
+ .cardfoot>*{grid-column:1/-1}
+ .nav{gap:6px!important}
+ .nav button{font-size:13px}
+ .hero h1{font-size:32px!important}
+}
 </style><style>@media(max-width:600px){a[aria-label="Open Sweeps Titan™ Discovery Radar"],a[aria-label="Open Sweeps Titan™ Entry Desk"]{font-size:11px!important;padding:9px 11px!important;bottom:8px!important}body{padding-bottom:58px}.cardfoot{flex-wrap:wrap}.cardfoot>a,.cardfoot>button{flex:1;justify-content:center;text-align:center;min-width:95px}}</style><link rel="canonical" href="https://sweepstitan.com/"><meta name="robots" content="index,follow,max-image-preview:large"><meta property="og:site_name" content="Sweeps Titan™"><script type="application/ld+json">{"@context":"https://schema.org","@type":"WebPage","name":"Free Sweepstakes & Giveaway Tracker | Sweeps Titan™","description":"Discover sweepstakes and giveaways, browse prizes, save favorites, and track daily, weekly, and one-time entries for free on Sweeps Titan™.","url":"https://sweepstitan.com/","isPartOf":{"@type":"WebSite","name":"Sweeps Titan™","url":"https://sweepstitan.com/"}}</script>
 <style id="sweeps-titan-mobile-layout-fix">
 /* Prevent small-screen overflow while preserving desktop presentation. */
