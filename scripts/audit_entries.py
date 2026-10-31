@@ -2,6 +2,7 @@
 """Conservative public entry-page checker; never submits a form or solves a CAPTCHA."""
 import datetime as dt
 import json, re, urllib.request
+from collections import Counter
 from html.parser import HTMLParser
 from pathlib import Path
 from urllib.parse import urlsplit
@@ -49,10 +50,32 @@ def main():
     candidates=json.loads(CAND.read_text()).get("candidates",[])
     curated=json.loads(CURATED.read_text())
     checks=[];count=0
+    today=dt.datetime.now(dt.timezone.utc).date()
+    counts=Counter()
+    seen=set()
+    for x in candidates:
+        u=x.get('entry_url') or x.get('url') or ''
+        canonical=u.split('?')[0].rstrip('/').lower()
+        expiry=x.get('end_date')
+        if canonical in seen:
+            counts['duplicates']+=1
+            x['validation_status']='duplicate_research_lead'
+        elif expiry and expiry < today.isoformat():
+            counts['expired']+=1
+            x['validation_status']='expired'
+        elif not x.get('entry_url'):
+            counts['research_only_no_entry_url']+=1
+            x['validation_status']='research_only'
+        else:
+            counts['entry_url_pending_review']+=1
+            x['validation_status']='pending_manual_review'
+        seen.add(canonical)
+    for x in curated:
+        if x.get('endDate') and x['endDate'] < today.isoformat():counts['expired_curated']+=1
     # Always inspect curated pages; inspect discoverer-found direct URLs only, never news articles.
     for x in curated:
         u=x.get("entryUrl")
-        if u:checks.append({"id":x.get("id"),"title":x.get("name"),"url":u,"result":check(u),"kind":"curated"})
+        if u:checks.append({"id":x.get("id"),"title":x.get("name"),"url":u,"result":check(u),"kind":"curated","expiry":x.get("endDate")})
     for x in candidates:
         u=x.get("entry_url")
         if not u:continue
@@ -63,6 +86,6 @@ def main():
         count+=1
         if count>=300:break
     CAND.write_text(json.dumps({**json.loads(CAND.read_text()),"candidates":candidates},ensure_ascii=False,indent=2)+"\n")
-    REPORT.write_text(json.dumps({"checked_at_utc":dt.datetime.now(dt.timezone.utc).isoformat(),"notice":"Automated detection is not proof a form works. No record becomes confirmed without manual review.","results":checks},ensure_ascii=False,indent=2)+"\n")
+    REPORT.write_text(json.dumps({"checked_at_utc":dt.datetime.now(dt.timezone.utc).isoformat(),"notice":"Automated detection is not proof a form works. No record becomes confirmed without manual review.","candidate_counts":dict(counts),"total_research_leads":len(candidates),"curated_count":len(curated),"automatically_confirmed_forms":0,"results":checks},ensure_ascii=False,indent=2)+"\n")
     print("Inspected",len(checks),"potential entry pages; none automatically certified.")
 if __name__=="__main__":main()
