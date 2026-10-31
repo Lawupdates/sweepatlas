@@ -30,19 +30,29 @@ jobs:
         run: python scripts/discover.py
         env:
           SWEEPATLAS_REPORT: data/discovery-candidates.json
-      - name: Search contest titles for potential entry pages
-        run: python scripts/resolve_entry_links.py
-        env:
-          LOOKUP_BATCH: "1500"
+      - name: Search full backlog and save progress in six checkpoints
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          for batch in 1 2 3 4 5 6; do
+            echo "Resolving entry links: batch $batch of 6"
+            LOOKUP_BATCH=250 python scripts/resolve_entry_links.py
+            git add data/entry-lookup-results.json
+            if ! git diff --cached --quiet; then
+              git commit -m "Record entry link lookup batch $batch of 6"
+              git push
+            fi
+          done
       - name: Audit available entry pages without claiming confirmation
         run: python scripts/audit_entries.py
-      - name: Keep newest candidate queue in repository
+      - name: Persist discovery and audit reports
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/discovery-candidates.json data/entry-audit.json data/entry-lookup-results.json
           if ! git diff --cached --quiet; then
-            git commit -m "Refresh unverified sweepstakes discovery leads"
+            git commit -m "Refresh audited sweepstakes discovery leads"
             git push
           fi
       - uses: actions/upload-artifact@v4
