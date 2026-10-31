@@ -1,154 +1,254 @@
 {
-  "generated_utc": "2026-10-31T05:32:31.969056+00:00",
+  "generated_utc": "2026-10-31T05:32:42.657732+00:00",
   "total_source_records": 1500,
   "searched": 1420,
   "remaining": 80,
   "results_by_status": {
-    "entry_page_not_found": 1322,
-    "insufficient_title": 96,
-    "possible_entry_pages": 2
+    "entry_page_not_found": 1317,
+    "insufficient_title": 102,
+    "possible_entry_pages": 1
   },
   "notice": "Candidate links from public web search, not certified active entry forms. Human review required before publishing.",
   "results": {
     "24ed7a8ac94ecd21": {
       "contest_title": "Brew Crew + Your Crew Suite Sweepstakes Official Rules | Milwaukee Brewers - MLB.com",
       "original_article": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBhTS1jNzlZNnFFTnBTclVhRjFHRExFSktmNXlNVlBvakpGS1o4a1ZWTjB1cHBjUk9aWk9jSFczbTNSc0FmdDM2bFk4bkJ6R2dzUk90b1htYTVKQjlheE1Semo1RWZJOU0?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:04.100703+00:00",
-      "search_query": "\"Brew Crew   Your Crew Suite Sweepstakes Official Rules\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:36.876584+00:00",
+      "search_queries": [
+        "\"Brew Crew   Your Crew Suite Sweepstakes Official Rules\" entry",
+        "brew crew your suite sweepstakes enter official",
+        "brew crew your suite giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "7476dbc4c073dddc": {
       "contest_title": "Mapleside Farms Pumpkin Village Ticket Sweepstakes - News 5 Cleveland WEWS",
       "original_article": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSVh4ZXdPQkdvUTU3clFLSmZIQWVKdUQ3WmpfSmR2dWVEV0dRaE1jNHkwTDN6SkYwTWtTZGV6Qm1HcnA5elZiNGVyM1RpdXE2Q0VtX2hpeVE1eDlsQmRBb1l5dXE0NmQtcFBGVmRXX3YtdFRQOFllSUZkQW1qZlRueXBqejdRVjNUYVAyZTN0VU1YZlJ3TDE3NU9KaUxQRHd5?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:04.100022+00:00",
-      "search_query": "\"Mapleside Farms Pumpkin Village Ticket Sweepstakes\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:36.841712+00:00",
+      "search_queries": [
+        "\"Mapleside Farms Pumpkin Village Ticket Sweepstakes\" entry",
+        "mapleside farms pumpkin village ticket sweepstakes enter official",
+        "mapleside farms pumpkin village ticket giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "58426a531c7e5f14": {
       "contest_title": "CHICK FIL A SELECT 'EM CONTEST - Sun Bowl Association",
       "original_article": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE5BdUd0d0VmS1BrN1c1a2Z2VkZyc3owZFBCNnpzY3RrMzQ2TjI5QU1jQ3VJMUp2dlBwckxaeGZJbDI?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:04.110071+00:00",
-      "search_query": "\"CHICK FIL A SELECT 'EM CONTEST\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:36.926730+00:00",
+      "search_queries": [
+        "\"CHICK FIL A SELECT 'EM CONTEST\" entry",
+        "chick select sweepstakes enter official",
+        "chick select giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "9156fda3790c1be5": {
       "contest_title": "Field Named For 2026 Circa Friday Football Invitational - VSiN",
       "original_article": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMmNWQWJYMUxvcFJvMmM2Y3dGSVp1SzZSYllNVzQtQWR5QUpaVTE3Njg0Q0xMUzBXdGZXdTdPUW10N01Dd2xUZzlZVm0tN21ncUZEU0dLbkNPTUlRU08wMGRrY1Z1akRtYVQ1RWU1ZW1QcHluWGdvUTZNSlhXclp1MS1GNjc5Y2xsQU5N?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:04.144131+00:00",
-      "search_query": "\"Field Named For 2026 Circa Friday Football Invitational\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:36.969747+00:00",
+      "search_queries": [
+        "\"Field Named For 2026 Circa Friday Football Invitational\" entry",
+        "field named circa friday football invitational sweepstakes enter official",
+        "field named circa friday football invitational giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "24b183ca121e83b5": {
       "contest_title": "Movies & Series Programming Guide - Countdown to Christmas 2026 - Hallmark Channel",
       "original_article": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPckZMNl92OTRvYTBZWnlZcGZ2LUZPaXFLMmxlX3VyT2FsbDQtcGw1Yk9TYS1FWHVWZkpVVk5uT0FXemI5Y0V4TFJaNndITjVWTUdWU3NFSlpCSVFkQUVnbVpNWEl0RUFiaHk4UGxKcURhUzJJUGcyckljWlNnbnB2V1FDWUtaNVF0?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:04.129591+00:00",
-      "search_query": "\"Movies & Series Programming Guide\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:36.913494+00:00",
+      "search_queries": [
+        "\"Movies & Series Programming Guide\" entry",
+        "movies series programming guide sweepstakes enter official",
+        "movies series programming guide giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "5fb3d380cd5d5740": {
       "contest_title": "Lacey Chabert - Hallmark Channel",
       "original_article": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE11SXd4d0dJSGlXM0JIWkVqNWZSSC1HTHc3SURUYUh3b3BzSmV0YllHbndGR0JncVRja1BobkxnR3A3VE5wUm9jZjlnUVlWSWhiUHk2M2dwTy0?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:04.160597+00:00",
-      "search_query": "\"Lacey Chabert\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:37.396992+00:00",
+      "search_queries": [
+        "\"Lacey Chabert\" entry",
+        "lacey chabert sweepstakes enter official",
+        "lacey chabert giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "14c6d153b754f9c7": {
       "contest_title": "Beauty Essential Prize Pack - Hallmark Channel",
       "original_article": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5WaVhNS1JCbFRIamhPRVI2S0FJUi1ZZjJXenpKTk5iNUQ1SFd2QWhiVENIYlhVSVRPUzhqQ0RFbGtUNGF6c0dqSE9WUEoyR3BnUWFMdzloZXRRUE1lcl9mMC1HSEpQQQ?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:04.263966+00:00",
-      "search_query": "\"Beauty Essential Prize Pack\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:36.961443+00:00",
+      "search_queries": [
+        "\"Beauty Essential Prize Pack\" entry",
+        "beauty essential prize pack sweepstakes enter official",
+        "beauty essential prize pack giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "0f760db39f28778a": {
       "contest_title": "Hallmark Santa Prize Pack - Hallmark Channel",
       "original_article": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBOeFBBVVk3QWNTaVVjOVJYYm9wNkcyTUVuM2c3YnlELVd2Yl8tZzNTelpDa1lRcW9wbURQeWtURnpEbG9zSFlPbEFaNUpDSkdXUXQ5dnprZjR1Y1BkT2Zuc0V4Y1Y5dw?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:04.367964+00:00",
-      "search_query": "\"Hallmark Santa Prize Pack\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:36.967548+00:00",
+      "search_queries": [
+        "\"Hallmark Santa Prize Pack\" entry",
+        "hallmark santa prize pack sweepstakes enter official",
+        "hallmark santa prize pack giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "eec440e24a88f20f": {
       "contest_title": "Holiday Ever After A Disney World Wish Come True Prize Pack - Hallmark Channel",
       "original_article": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5fSEdXYTZ2UTFYVW0xUmRsdkxqa052Q05Ja3hyRmJSVkhJN25BbUY5QjdaTkMxR0hUN1l1WDIxSVRPMEZoUlRwQUJ4U2NOZS1WbmdZNmNqa0paUEExOXBHU2drVUk4dw?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:04.305973+00:00",
-      "search_query": "\"Holiday Ever After A Disney World Wish Come True Prize Pack\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:37.019587+00:00",
+      "search_queries": [
+        "\"Holiday Ever After A Disney World Wish Come True Prize Pack\" entry",
+        "holiday ever after disney world wish come sweepstakes enter official",
+        "holiday ever after disney world wish come giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "dd9dfa02fbf01f92": {
       "contest_title": "Love Under the Mistletoe - Hallmark Channel",
       "original_article": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA2WDNySjZCSVlKemJWeE5GNXYxNENxUmM0blM5cFowYmNyUE5lOWVobkNqWldZUWxsRDNVd2taQV9DNVJnOHFYTGN5Q2tWOHhSV2JGRFk1ZHVhSS16U0ljanlBZDNURGM?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:04.320120+00:00",
-      "search_query": "\"Love Under the Mistletoe\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:37.112850+00:00",
+      "search_queries": [
+        "\"Love Under the Mistletoe\" entry",
+        "love under mistletoe sweepstakes enter official",
+        "love under mistletoe giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "fcaa8334a71b711d": {
       "contest_title": "25 Top Christmas Movies - Hallmark Channel",
       "original_article": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9YWEp0d3plMmt6UGs2QzMzWFdQcWEzTFlhSGFEblpLR3FYNldNTzJhUlVURWZtS193NTVjQ011b0g5UHhtRWxsSUpmQkU3NkpYcTZPSHgzN0V4VHQydExqdHJUYVYyZnRFVW1uelpFN1o1ZVZBRm1j?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:04.325526+00:00",
-      "search_query": "\"25 Top Christmas Movies\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:37.142618+00:00",
+      "search_queries": [
+        "\"25 Top Christmas Movies\" entry",
+        "christmas movies sweepstakes enter official",
+        "christmas movies giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "adf5aa2cf7848e8b": {
       "contest_title": "Schedule of Movies, Series and Specials - Hallmark Channel",
       "original_article": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8tVnB2NDJVOVJ3dmxhSGhVcU1EdlZTVmNoU3VaS3RFTTByd0RLWEJCVGNzQ1JRWDhrbTRMcEFfT2VzdFBrVndCNWRnMkZuS2VUTkE?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:04.378153+00:00",
-      "search_query": "\"Schedule of Movies  Series and Specials\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:37.666184+00:00",
+      "search_queries": [
+        "\"Schedule of Movies  Series and Specials\" entry",
+        "schedule movies series specials sweepstakes enter official",
+        "schedule movies series specials giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "3513a463fdb6ff79": {
       "contest_title": "About Forgotten Holiday - Hallmark Channel",
       "original_article": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9fckJkOWZOOVVpMDlHSG9SbHRLQk9hQ1RvamFOX3ZQZjN5RzE0QmJldU5paV9OM3BBMEc2Rk9WTjUtcUpSb1Z3MkpxclBuUmo4al9EeWxPX0I5WmZOemc?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:04.500392+00:00",
-      "search_query": "\"About Forgotten Holiday\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:37.426237+00:00",
+      "search_queries": [
+        "\"About Forgotten Holiday\" entry",
+        "about forgotten holiday sweepstakes enter official",
+        "about forgotten holiday giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "9432c974b1d58c29": {
       "contest_title": "Hallmark Channel's 25th Birthday - Hallmark Channel",
       "original_article": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5TcDkwYmo1c1Z1eTZkSnhPTzNLVG1BUTd5aVN0YmF6SVRFUUhfYmRWTnlqeHFKSjVvNnpNaFoxZjJaNkROSFNBalZMRy1IMC1HUWROU21yWGU?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:04.487333+00:00",
-      "search_query": "\"Hallmark Channel's 25th Birthday\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:37.554836+00:00",
+      "search_queries": [
+        "\"Hallmark Channel's 25th Birthday\" entry",
+        "hallmark channel 25th birthday sweepstakes enter official",
+        "hallmark channel 25th birthday giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "7f5f6cbb2e051a3c": {
       "contest_title": "The Way Home Season 4 News - The Way Home - Hallmark Channel",
       "original_article": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9zT2JBMHVXVFo0aVc2MnNzcVhib2duWlJMWDZ5T2V0TkJKdEkxM09UQy1NNXh3MHhCWXpWaHhvTlhMSnNZMWdJQk1FQ19aaWR3Nkxvb2dxYUtTVGtKNUw0QXVCdldMZEtWOE9pQzFRTQ?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:04.509946+00:00",
-      "search_query": "\"The Way Home Season 4 News\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:37.906397+00:00",
+      "search_queries": [
+        "\"The Way Home Season 4 News\" entry",
+        "home season news sweepstakes enter official",
+        "home season news giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "a87f3250981c4f0a": {
       "contest_title": "Ozark Mountain Christmas - Hallmark Channel",
       "original_article": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1kQXZUVnR6T0pST2dqeVlqUDIzYUlRRUFqS2VGTzFfNlhYeFFQeEVUTGFrOVFHdEZ6c3l2YXhIVE5XVWFOZEtPVlFLUnBRaVE4cUpDd3I1dTZodDB0bXNzQVhsTjlCenR5bWh1QnlzSkRfUlJEc2FDMQ?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:04.523179+00:00",
-      "search_query": "\"Ozark Mountain Christmas\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:37.987806+00:00",
+      "search_queries": [
+        "\"Ozark Mountain Christmas\" entry",
+        "ozark mountain christmas sweepstakes enter official",
+        "ozark mountain christmas giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "a0800744d2330927": {
       "contest_title": "A Cookie Cutter Christmas - Hallmark Channel",
       "original_article": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1OZnFCa0hybkVuSzJud0FpWURnVzJPQmk1cVh2WlN2eUQxZVJ2ZVNIcFJ6Sm1lT0g1T3R4cjB2UVZmM2V2ZlFSeWg0RjhxdHlwVkgzYktCNHg1amdMRWI3Ni00Y1QyUmdz?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:04.595306+00:00",
-      "search_query": "\"A Cookie Cutter Christmas\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:37.917418+00:00",
+      "search_queries": [
+        "\"A Cookie Cutter Christmas\" entry",
+        "cookie cutter christmas sweepstakes enter official",
+        "cookie cutter christmas giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "5460eae87a065b73": {
       "contest_title": "When Calls the Heart - Hallmark Channel",
       "original_article": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4xYkRvQTM5azJiQUNWQTZnbTdveUNITEZ6X210cXd0MGp4cmtpMlhrRHBmM3dQdzhhNGN0OUxDWTdHNG1PQVU4QzBFNzNOZHoxblJ6NjFzZ1dYeUdlXzdJZWtn?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:04.619372+00:00",
-      "search_query": "\"When Calls the Heart\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:37.569514+00:00",
+      "search_queries": [
+        "\"When Calls the Heart\" entry",
+        "when calls heart sweepstakes enter official",
+        "when calls heart giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "5c4b143fe0d87017": {
       "contest_title": "Christmas Festival of Ice - Hallmark Channel",
       "original_article": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9oSHJlWEVxTm1GU3d4MG5fQUJzU3FjMEIzUE5wZjJQblRZZWdDMGswbTBEczRWaGJEVVJHXzNrNG5JdzhmeGd2azY4VGhuOHBlWkNkMVpPRjJ1bl9GemJKNW0taHk5Wk0z?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:04.656252+00:00",
-      "search_query": "\"Christmas Festival of Ice\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:37.462876+00:00",
+      "search_queries": [
+        "\"Christmas Festival of Ice\" entry",
+        "christmas festival sweepstakes enter official",
+        "christmas festival giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "54079b8cda00aaef": {
       "contest_title": "What If Christmas - Hallmark Channel",
       "original_article": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1NUDYxWnRSY1REMHgzdEFXeHFFY2tpT1hSbTBtQnZyWEZLTXhpSUJiSGhBUUZrRzBJUm1valZUQUVrYzE4SEFOYVkxa0xSSjU1anBBX3o2TGVnWWpwS2c?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:04.694370+00:00",
-      "search_query": "\"What If Christmas\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:37.529371+00:00",
+      "search_queries": [
+        "\"What If Christmas\" entry",
+        "what christmas sweepstakes enter official",
+        "what christmas giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "9b455d515ca1154b": {
       "contest_title": "Preview - Mistletoe Murders - Season 3 - Hallmark Channel",
@@ -163,37 +263,62 @@
     "61f421de445cc60e": {
       "contest_title": "Christmas in Rome - Hallmark Channel",
       "original_article": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1VN3F1ZlZBNHF5Nm5JczE1OWd4SXJpcndzRG52ZENCTFVNRnl3Ull5MXYwLUM0eFM1V3hYZFdFY0syTnFmd2NZSUVNZmllYWRWUFJYQjZhNWRVNGZlT0E?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:04.768582+00:00",
-      "search_query": "\"Christmas in Rome\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:37.728780+00:00",
+      "search_queries": [
+        "\"Christmas in Rome\" entry",
+        "christmas rome sweepstakes enter official",
+        "christmas rome giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "bd9449bc00de5c24": {
       "contest_title": "Adopting St. Nick - Hallmark Channel",
       "original_article": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1Lak9la1pqUWh2TU1OQ2ZscHpUTE5uVVFXZ3hYWnZNNGZMQWoxbm9pTVN5TGFlQTVvMFdwNWNISWFHNC1HeGVvUFFTcktwaWwxVEYya3YzZmNyTldV?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:04.693687+00:00",
-      "search_query": "\"Adopting St  Nick\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:38.126388+00:00",
+      "search_queries": [
+        "\"Adopting St  Nick\" entry",
+        "adopting nick sweepstakes enter official",
+        "adopting nick giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "7d05845ac1ff6b20": {
       "contest_title": "First Look - Mistletoe Murders Season 3 - Hallmark Channel",
       "original_article": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVEhzWlBQWHNCY2FfR1oxQ29TblE0QlJ6bGZUYzdWQ29sNkVtUi12SFRkeWF2c1hvUWotR0dQQmo4ZmdndHNibldvbjlaNHZXTk9iSEVGaUdGaGd6d3JtNm9YaTl1cEpxQXhvTEN6WEhnci1oZ3dTZDFqb2F2dXVkdE1CZjV4THY0UmpyeDE4SHh4NHRaT1NzUGNB?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:04.766063+00:00",
-      "search_query": "\"First Look\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:37.905561+00:00",
+      "search_queries": [
+        "\"First Look\" entry",
+        "first look sweepstakes enter official",
+        "first look giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "6d95ac6d9f6189c4": {
       "contest_title": "Quiz: How Well Do You Know Gilmore Girls? - Hallmark Channel",
       "original_article": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeFNnbWxyVFhHcXFyN0lOaU5yMG40OFBiT2xCemR3UzFSendtbjcxcTFOclMwQnc1ZnV2NUw3VjU3cUVBclZ6VDU1Vmh3dEpMa2J4MjBCbTBsTjhOVVpFRm55Y2IwdGpKT1BQTjlBa1JURUd1STYyUk1fN0doSEcybWtrTHpFN3hMbjljdXhB?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:04.852689+00:00",
-      "search_query": "\"Quiz  How Well Do You Know Gilmore Girls \" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:37.973097+00:00",
+      "search_queries": [
+        "\"Quiz  How Well Do You Know Gilmore Girls \" entry",
+        "quiz well know gilmore girls sweepstakes enter official",
+        "quiz well know gilmore girls giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "19db23fc10e9e72f": {
       "contest_title": "The Santa Summit - Hallmark Channel",
       "original_article": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBxM0NhSE96RTZ0WHZ1M0hlSTc4WEpaZFNHTGNvR2d1NVBidmhZV2huWERYUWtudHpxRlA0QkxiNlVCQmhzNXBGaG12VlpiZkFYQTNKV2RkRnpLeFl2?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:04.861240+00:00",
-      "search_query": "\"The Santa Summit\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:37.992623+00:00",
+      "search_queries": [
+        "\"The Santa Summit\" entry",
+        "santa summit sweepstakes enter official",
+        "santa summit giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "4370c0ae480cab1f": {
       "contest_title": "Trust - Chesapeake Shores - Hallmark Channel",
@@ -203,9 +328,14 @@
     "f04fc4a7e200f7e2": {
       "contest_title": "A Christmas Melody - Hallmark Channel",
       "original_article": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBFYkJLeEZwODAzalU3a1d2LXVyT1I5ZnNEODlNckxMOXNfejhxcmVNM2ZwcU4tX19JM2p2b243cEdmbHVmVHVETjRNaVNNSEdKSEw2TEpGeDlhQW10RkZj?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:04.954131+00:00",
-      "search_query": "\"A Christmas Melody\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:38.470359+00:00",
+      "search_queries": [
+        "\"A Christmas Melody\" entry",
+        "christmas melody sweepstakes enter official",
+        "christmas melody giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "4b2d6d71caecd53c": {
       "contest_title": "Preview - Mr. & Mrs. Christmas - Hallmark Channel",
@@ -215,9 +345,14 @@
     "e5b6a5775fcf2bca": {
       "contest_title": "Countdown to Craftsmas at Michaels - Hallmark Channel",
       "original_article": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSWFmdFUyN2xYS2JJN0MxelFzcTRjbFpLMzlKRmx1VmhzYUpFaWtRRWpyLWFWWDR2LXlkN1NjSkF5OElvQTVmbVBybXFYbTBHbGVCaVIwc0VWQ2NzRm5TczdpUll0aEp3N193aFh5bVFYTi01M1huYmcySEJPanJ6SHJEOW5Jdw?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:04.880880+00:00",
-      "search_query": "\"Countdown to Craftsmas at Michaels\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:38.146302+00:00",
+      "search_queries": [
+        "\"Countdown to Craftsmas at Michaels\" entry",
+        "countdown craftsmas michaels sweepstakes enter official",
+        "countdown craftsmas michaels giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "f328b4591a92eb84": {
       "contest_title": "Preview - Who's Coming for Christmas? - Hallmark Channel",
@@ -237,156 +372,259 @@
     "b14c87280c5b2cfa": {
       "contest_title": "Adopting St. Nick - Cast - Hallmark Channel",
       "original_article": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBZcXVfbzlqcEhWU3pTR3lIZ0Q4SzhxNjhrRmZ4UmNtVEJXdVl1Qkd1S0M2NUg2OFFTYXVpSG5CMHZIaWlnaW9yRU5ZNXZldXZUYm1rc0tUUno0dWp0d1lNRmk5NA?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:04.980522+00:00",
-      "search_query": "\"Adopting St  Nick\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:38.233751+00:00",
+      "search_queries": [
+        "\"Adopting St  Nick\" entry",
+        "adopting nick sweepstakes enter official",
+        "adopting nick giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "c8de3cf365e9445e": {
       "contest_title": "Sneak Peek - Who's Coming for Christmas? - Hallmark Channel",
       "original_article": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOY2FjMzdTQkpnMG5oeXRKeEtrR2hyVDhnTDZqd3hzTkUxTTlkUERoNEsyNnBJaGE0TW1PWmJQalp1a2FqLXJvY0JLS0E0M0drMzdabFV3cDBEZ2RUaDRvSTVJdTQ1MEJWUDdaTXI5TjRFS1VmeUozeGpPVU83MGpTM0lnZThIZlp5M3R1SjAwaHo5dmVKSTRHOHNsZHJKbFVsaWhZ?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:04.951248+00:00",
-      "search_query": "\"Sneak Peek\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:38.580588+00:00",
+      "search_queries": [
+        "\"Sneak Peek\" entry",
+        "sneak peek sweepstakes enter official",
+        "sneak peek giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "6b305d4756aac5bd": {
       "contest_title": "Sneak Peek - A Danish Christmas - Hallmark Channel",
       "original_article": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPX3hqTjhjaVRudEc4clRFM0pvbHVPQllLUUpMcnVETFBxS1RKcU0xME1HazIyX3RFQmRoZUJvMGNaRE1hR2RxTnhZR3NVWDVwTTNKTWRWa21OakFLS3hxMXJVbEhQOGloOHJtX0l1NW5tOVd0d0xSSFVzMUtNVzh2NmVydDlrb0pJeDdNQnVTUDI?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:05.023658+00:00",
-      "search_query": "\"Sneak Peek\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:38.241720+00:00",
+      "search_queries": [
+        "\"Sneak Peek\" entry",
+        "sneak peek sweepstakes enter official",
+        "sneak peek giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "6975bdbd32467026": {
       "contest_title": "Sneak Peek - What If Christmas - Hallmark Channel",
       "original_article": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdkVzdlFtclRfQkxUUUZvenVLNmpTUUI3YmVzM19NeU85QmY3MVhJcXhCVHpZVUpPRGVadWU2VXpkRi1BQXY1WE9pdWt1Y0xFY2lvVEx0Z0NDRVhOenRKb2xleERDYmNLSy1qRXdpZ1g3akxzNFNuclFKeVpkNDJEc29PcWJrZHpFZjNaTFZn?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:05.084052+00:00",
-      "search_query": "\"Sneak Peek\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:38.405542+00:00",
+      "search_queries": [
+        "\"Sneak Peek\" entry",
+        "sneak peek sweepstakes enter official",
+        "sneak peek giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "e686d80cedfcd23a": {
       "contest_title": "Rhiannon Fish as Julie in Who's Coming for Christmas? - Hallmark Channel",
       "original_article": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQVItejh4THFUcEJieTZaQzZwbjFycmVWX0phTXBOM081MUpCMnhrYXMyU3F2NWJYb0RYZDVOREViQjBaUjZJTVV4OVRuRDA2QXUxb25ZUkRoU0VacElpamtuRXc2QVRuTlROdXdWa3hqQ0F1Vlk4U1NBVy1Bc0ZvWThR?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:05.047353+00:00",
-      "search_query": "\"Rhiannon Fish as Julie in Who's Coming for Christmas \" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:38.623109+00:00",
+      "search_queries": [
+        "\"Rhiannon Fish as Julie in Who's Coming for Christmas \" entry",
+        "rhiannon fish julie coming christmas sweepstakes enter official",
+        "rhiannon fish julie coming christmas giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "27abd534cfd24172": {
       "contest_title": "About Who's Coming for Christmas? - Hallmark Channel",
       "original_article": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVUJrV214UVU5OTR0X0kwa1lOeU9kVmlYWE9IT1RMQ3dWQThraE9Qc2FKdThLeThqcHRIazI4QUNlMndGeThhcFBFWHFYNFpOUmVSTFFVT29pNldiQnRrdE95RllvZkpZcndONFB4QUJrWjlCc0R5TEdqUHE5T3U2M2w0cXladFNYV0ZJcGRDWG9mb1k?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:05.171008+00:00",
-      "search_query": "\"About Who's Coming for Christmas \" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:39.045851+00:00",
+      "search_queries": [
+        "\"About Who's Coming for Christmas \" entry",
+        "about coming christmas sweepstakes enter official",
+        "about coming christmas giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "2542230d5fd6268a": {
       "contest_title": "Pepsi and Off Season Made NFL Puffers for Your Soda Cans - Food Network",
       "original_article": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOEZ6azBoYnR6UzNNOTUwRW9ydktUYTRvMWxBTFZWaWxqSVBvY3ptRE9DRmN0cGRxWmxtcmR2V0ZaaTdGSWNERUxUTnpETmhRNmhDNGRDUXU1UC1yS1VyMi10Z2Vlb0dHS1c0Q3ZKcDgwUmpjX3E3Y2tyY09fWXZtSWhxTGRLUDBpWWZzS3ZGVW1Ga0dtaC0xNA?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:05.118619+00:00",
-      "search_query": "\"Pepsi and Off Season Made NFL Puffers for Your Soda Cans\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:38.539083+00:00",
+      "search_queries": [
+        "\"Pepsi and Off Season Made NFL Puffers for Your Soda Cans\" entry",
+        "pepsi season made puffers your soda cans sweepstakes enter official",
+        "pepsi season made puffers your soda cans giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "6e3ef80430b19909": {
       "contest_title": "The Ultimate Carrot Cake Recipe | Zac Young - Food Network",
       "original_article": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBMTFc2WFJzVW80SzJsSXdTX0hZM2ZCTW45MVVrMTZMa3J5LUJXOGw1OUVZeWxwcW5GSFFNNUltZmJkczlCR3FBUnp3ZmJINDE0cGtTa0ctOW1oZm15clBMejhMZnVrdGl1ZXBBdUYwLU9wb1piNThxNA?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:05.203591+00:00",
-      "search_query": "\"The Ultimate Carrot Cake Recipe\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:38.531159+00:00",
+      "search_queries": [
+        "\"The Ultimate Carrot Cake Recipe\" entry",
+        "ultimate carrot cake recipe sweepstakes enter official",
+        "ultimate carrot cake recipe giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "08abe90e5ea71f5b": {
       "contest_title": "Men's Jeans - Filson",
       "original_article": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBxakFKX3ZrN2QtQTdmRHVBT0dRanh0VmxTdFZRZWVxOFJpZFNIQnRZblBObzRnVW8xdkdnaUlhenFld2ozMHdDOWN2M1hYZjJhNGc?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:05.197091+00:00",
-      "search_query": "\"Men's Jeans\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "status": "insufficient_title"
     },
     "6ac8ef4d6596fe3b": {
       "contest_title": "Insulated Flannel Jac-Shirt - Brown / Gray Plaid - Filson",
       "original_article": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdEdjZmJvR2UzSW1CeDVfYU5GcUpHMl9GcVJKLWUyRTlWRld5YS0wQUVBQnpsRUNzcUFhTmdiWjRfLWdnWFQ3czlkeWRCZ2l1YWVHNWc1c09jRWkwZk5YLXJnZ2NHQkZ2aFhqWDQ0TDU4LW03d0VYTzZaaHVZTHdMSXNB?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:05.271095+00:00",
-      "search_query": "\"Insulated Flannel Jac-Shirt\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:38.496844+00:00",
+      "search_queries": [
+        "\"Insulated Flannel Jac-Shirt\" entry",
+        "insulated flannel shirt sweepstakes enter official",
+        "insulated flannel shirt giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "1b30c0331caebb04": {
       "contest_title": "Tin Cloth Primaloft® Jacket - Filson",
       "original_article": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1mRTdnNGREbUoxcFpKQzdac2ZHeVRBWExqNVY4VHFHSmI4Q2c3NUZ2em9PS0cwSHpXUG5IZTdwUVhVXzBlN3VlcDRicWdkQjZZZHo0WlRZSUlnT21xT1JhbU1jYkh3QjE2bkx1alhhSk1FQTl3aWxVUQ?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:05.270623+00:00",
-      "search_query": "\"Tin Cloth Primaloft  Jacket\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:38.696766+00:00",
+      "search_queries": [
+        "\"Tin Cloth Primaloft  Jacket\" entry",
+        "cloth primaloft jacket sweepstakes enter official",
+        "cloth primaloft jacket giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "aa2f8dcc7d8f4d0e": {
       "contest_title": "Better Flannel Shirts - Filson",
       "original_article": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBMaUd6cXFqamtVVXpydUZjSkdVNjRlRE9CcndVakd1WVdlclptVkJWeHVDR3VfeXBCRmVSLVNHendGczVZS0JrWGw1b1F1anE2Mm1vZURyRmtrSXo5aWc?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:05.315220+00:00",
-      "search_query": "\"Better Flannel Shirts\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:38.712137+00:00",
+      "search_queries": [
+        "\"Better Flannel Shirts\" entry",
+        "better flannel shirts sweepstakes enter official",
+        "better flannel shirts giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "fbe93af7e0ceaf9b": {
       "contest_title": "Watch Cap Beanie - Filson",
       "original_article": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1CUE1OQUdRT2JreDBHb1h5dFhUdE5tZGxJZUtmaGdOWTJvcmwzSk5ENUpGZzZJTGNRdmEyQVdDMmoyaHluMjdrUVFjODBkUTdRX3hYZTMyNHQ1bXd2MnRlOHl0VQ?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:05.335046+00:00",
-      "search_query": "\"Watch Cap Beanie\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:38.730522+00:00",
+      "search_queries": [
+        "\"Watch Cap Beanie\" entry",
+        "watch beanie sweepstakes enter official",
+        "watch beanie giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "57d9902a0d87ecc4": {
       "contest_title": "Customer Care - Filson",
       "original_article": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0tU29vcnJuSXBJR2Q4OXJ1Y0dRbkoxR1ZHcTVaVk1XdFRvcWtXQjF5ZnE4VHdWcEhCLWpkaWhFNmlqbGdXa1BlWTJranBLdkstRXpZdQ?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:05.483813+00:00",
-      "search_query": "\"Customer Care\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:38.823406+00:00",
+      "search_queries": [
+        "\"Customer Care\" entry",
+        "customer care sweepstakes enter official",
+        "customer care giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "1dec4dcbdd762d7c": {
       "contest_title": "Medium Rugged Twill Duffle Bag - Filson",
       "original_article": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBCcjZpU0FTRk9Nek02MmVsdzdGUXlScHZaTk9tWHh6Qk5GMmw4VGJwUGE2SzNOdUNCbUFXUnVXSVdMZGprOTFTV0lTVVlERElPTGtIWmNxWFJoTDFKQ2dycUZrR3BReU85S1pqNTh5Q01vbDV6NzBv?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:05.371210+00:00",
-      "search_query": "\"Medium Rugged Twill Duffle Bag\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:39.557550+00:00",
+      "search_queries": [
+        "\"Medium Rugged Twill Duffle Bag\" entry",
+        "medium rugged twill duffle sweepstakes enter official",
+        "medium rugged twill duffle giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "7372ffc1bf7d5ffe": {
       "contest_title": "Field Knit Henley - Military Olive - Filson",
       "original_article": "https://news.google.com/rss/articles/CBMickFVX3lxTFBFQ3pSZHczT1A0NUhTOVg2LWRLajRsZjl2VlFaQWZEZmd1aWpsV1d6bUpNZEZ1NHI3bEtpd1RhUk42bjdNUm15RlhRQUFPX3I2VENfRDZ2bklzU3BUZndkZVFHQWF6bXpUeUZJVHJ1VlVqUQ?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:05.462490+00:00",
-      "search_query": "\"Field Knit Henley\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:39.021196+00:00",
+      "search_queries": [
+        "\"Field Knit Henley\" entry",
+        "field knit henley sweepstakes enter official",
+        "field knit henley giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "aba350b7e736ba07": {
       "contest_title": "Insulated Canvas Outfitter Jacket - Dark Olive - Filson",
       "original_article": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbEpGWEIxVTYwNjJmdG5NV2lWMG5qMDVpU2FLRi1mQ2t0eDRtMjlicVdFNlMwOG9Ha2xWWlpRLVJPcFBqZWFjQnpYQUhUNXVOVVlmWFdpODVEd3luTGlsM3dCb1dxcVlOTmowT3pHTzVkblRWT3M1UmpmcE9hRXpMUTJ3?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:05.441525+00:00",
-      "search_query": "\"Insulated Canvas Outfitter Jacket\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:39.049697+00:00",
+      "search_queries": [
+        "\"Insulated Canvas Outfitter Jacket\" entry",
+        "insulated canvas outfitter jacket sweepstakes enter official",
+        "insulated canvas outfitter jacket giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "5a0aa736c42b9041": {
       "contest_title": "Women's Shelter Cloth Short Work Jacket - Filson",
       "original_article": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTkVFWGtiR1JJMm9NeDlYQXZFQkFBNmpEbW53c2g3OS1rS0J1TnNGUXc1U1NvSlB3Z2w2eVVJNTZ1SUFlaE5UeFI3S1ZXcTRhWEdfQzZPT2xFd1RVci1WZ0gyWER6TkNqU2xjVkR3SUR6R0tXWmFxYkg2aVEwSWo0cnZkMWZydw?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:05.501442+00:00",
-      "search_query": "\"Women's Shelter Cloth Short Work Jacket\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:39.495070+00:00",
+      "search_queries": [
+        "\"Women's Shelter Cloth Short Work Jacket\" entry",
+        "women shelter cloth short work jacket sweepstakes enter official",
+        "women shelter cloth short work jacket giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "b4913613dc6fc768": {
       "contest_title": "Denim Tacoma Jacket - Rinsed Vintage Indigo - Filson",
       "original_article": "https://news.google.com/rss/articles/CBMifkFVX3lxTE85YlIzQ1B0RS1YVWJ2MmZTNEt3eDRra2NyTVFNVW05MndqZFZPOUFlZXVKVjFSVktjLVZ2eTE0QW43dWFnSk1uRE5jRU9NT1htZm1JRTVRakJVUi1UM2hKMk4wNTVNVmhMVm4zQkNtQTlqeDdEUzJmOXdScm01dw?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:05.553286+00:00",
-      "search_query": "\"Denim Tacoma Jacket\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:39.696199+00:00",
+      "search_queries": [
+        "\"Denim Tacoma Jacket\" entry",
+        "denim tacoma jacket sweepstakes enter official",
+        "denim tacoma jacket giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "0d4e8db830aa963f": {
       "contest_title": "Filson For The Holidays - Filson",
       "original_article": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9JankzX08zYjAtOVp3aEliekRSay1PemRObHZYazRxRUdIR2hzVXA5clRzSE1xMVR5bjlCcnhUNmw2NjZabmRRMFFmU3F5aWVsMGgzT1d1NUJwUzBvY0h2UTBxb2lXYWxiTmc?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:05.555119+00:00",
-      "search_query": "\"Filson For The Holidays\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:39.122756+00:00",
+      "search_queries": [
+        "\"Filson For The Holidays\" entry",
+        "filson holidays sweepstakes enter official",
+        "filson holidays giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "ea796f8bfb5968c1": {
       "contest_title": "Limited Edition - Filson",
       "original_article": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5qYWNSRU81RF9lWm9YX0IzYTY0X1RtLTR4MmlSQ2NiMXN3NzlBblRxOV92UGZHSEkxSlhjeGVKUlZDTzRLVEhpcUNNN0dDaEx5OTRzcTRiLUFzZ1NBMExR?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:05.653299+00:00",
-      "search_query": "\"Limited Edition\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:39.184153+00:00",
+      "search_queries": [
+        "\"Limited Edition\" entry",
+        "limited edition sweepstakes enter official",
+        "limited edition giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "1fab154d4db994d4": {
       "contest_title": "Ford Bronco x Filson Wildland Fire Rig - Filson",
       "original_article": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORnpNcHYzY2dabms1ZVpnUm0weElSaFl1UVQwcWtIQXlXaC1pa0FZNnRDRTJZSUhEWk12a1ltYjlrcVN3dVZxR2Q4dEdyM3lNU1Rvc0NXMm9rYTVSWndoOW1DM3FaQUo5RWhfb1BUTlpHS0daNDNZNVJJejVCRjFRNy1VYldGTEVBSUc5UEdaSnY?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:05.621513+00:00",
-      "search_query": "\"Ford Bronco x Filson Wildland Fire Rig\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:39.247638+00:00",
+      "search_queries": [
+        "\"Ford Bronco x Filson Wildland Fire Rig\" entry",
+        "ford bronco filson wildland fire sweepstakes enter official",
+        "ford bronco filson wildland fire giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "e98f9e51964b3c13": {
       "contest_title": "Returns - Filson",
@@ -396,387 +634,648 @@
     "6c56f1163bc90402": {
       "contest_title": "Extreme Cold Vapor Barrier Boots - Filson",
       "original_article": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZC0tRWZUSTBYekc1QXVDem5raEtfSHRNWDZnY3IwZEZwY2ZyZmVsYWNJaTJGS3M5aWpTQmJmMVVqbFF4NmxZdG13UEhqVzZycGJhSFljd2U4LTFuRXllM3Jsa19tdFZpaE1pb2dJRUZYQTVxYTJiWk41MXVYc29VWmpvczhFM05iMWtn?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:05.677375+00:00",
-      "search_query": "\"Extreme Cold Vapor Barrier Boots\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:39.269513+00:00",
+      "search_queries": [
+        "\"Extreme Cold Vapor Barrier Boots\" entry",
+        "extreme cold vapor barrier boots sweepstakes enter official",
+        "extreme cold vapor barrier boots giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "5f22563002c8d60e": {
       "contest_title": "Wrangler x Filson - Filson",
       "original_article": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE45MlRKaV9UbHNtSmlMSGpSX1FqQjhmNTN4Y2gxNFcxM1B3a3hMa0g1ZWszSVhIbjEwVEhvd3I1enNTaXpObWhCNmQtaE5TSXBlcDBLaTVR?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:05.694455+00:00",
-      "search_query": "\"Wrangler x Filson\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:39.263651+00:00",
+      "search_queries": [
+        "\"Wrangler x Filson\" entry",
+        "wrangler filson sweepstakes enter official",
+        "wrangler filson giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "cd295f28a8054a20": {
       "contest_title": "Filson Denim - Filson",
       "original_article": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1aVDFGbFNWbGJBNkNNazd5T043aGFKdEZXZkt0dXNfTzRMRHhGMXBKN2FoZ3V3OVBlVzBpZWRlWUVQNGROeHNFUUxpc1IxRFpvdG9mQUFHeFpXTjVzN2FTMjNRV216XzRlbUtzd1ZwZG1wUHZER3gw?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:05.785820+00:00",
-      "search_query": "\"Filson Denim\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:39.412775+00:00",
+      "search_queries": [
+        "\"Filson Denim\" entry",
+        "filson denim sweepstakes enter official",
+        "filson denim giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "41d3c08af319ab95": {
       "contest_title": "Sale Has Ended - Filson",
       "original_article": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1EY19BVS1TZmU3b2doUGNKY0l4WnhQQngyaUpIOVFoLXp0OWFEMjVmN21jQlVZTzV3WEZ1OHVxY1RFNWJmU2NUcThYTjNBbzRZ?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:05.747027+00:00",
-      "search_query": "\"Sale Has Ended\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:39.940870+00:00",
+      "search_queries": [
+        "\"Sale Has Ended\" entry",
+        "sale ended sweepstakes enter official",
+        "sale ended giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "5850088da690ece9": {
       "contest_title": "History of the Field Watch - Filson",
       "original_article": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPLXVRNFJONWpPdWFIMWJpdThuNlNBcmwwTEE5VjM1M1JqYTJ6ekI2Qm11RjIycmZSaHpUV21hdjRXSDNmeG5BN1RFR0g2S3ZLVXNyUEdMTkpzZ2dGT0VqeTZvWlhSWWhwTWRZM3BoN0U5Q0dtaWYwU0xhNW1RTFByeg?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:05.792539+00:00",
-      "search_query": "\"History of the Field Watch\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:39.556405+00:00",
+      "search_queries": [
+        "\"History of the Field Watch\" entry",
+        "history field watch sweepstakes enter official",
+        "history field watch giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "39530a9e209c4ea7": {
       "contest_title": "Cold-Weather Shop - Filson",
       "original_article": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBWZ01fX2pEXzJlM2E5c3oyQnljTU9MOG5xT1VkTGZnSm5SV0tCR1c4YzBrdzRqN3dPMnc4UzBZMk5UbkZmYmM3cmVWTmVsUWpXTHJFdGYzRzB2alp2RFpkdHBB?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:05.868070+00:00",
-      "search_query": "\"Cold-Weather Shop\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:39.942440+00:00",
+      "search_queries": [
+        "\"Cold-Weather Shop\" entry",
+        "cold weather shop sweepstakes enter official",
+        "cold weather shop giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "5d9c4784c58dc8a3": {
       "contest_title": "PNW Workers: Meridian Forge - Filson",
       "original_article": "https://news.google.com/rss/articles/CBMibEFVX3lxTE96OUM3Q0ozMHF5RWx5dVdhbzE0MTNiUlBQQnNzSHJHZ1BydEI3ZzdreTExclRNanVfQjdzRjU1VHlVbkNJRmNEV2h5aTROSFZpTjMwRG9HVFNlaTRSd0tza1c5QmdjVEgtQXEtRQ?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:05.886195+00:00",
-      "search_query": "\"PNW Workers  Meridian Forge\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:39.721353+00:00",
+      "search_queries": [
+        "\"PNW Workers  Meridian Forge\" entry",
+        "workers meridian forge sweepstakes enter official",
+        "workers meridian forge giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "08f70923ab26ddf8": {
       "contest_title": "Seattle Store - Filson",
       "original_article": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE94X21xQXRMVXd6S3NBdlZDbzVJd0xHelo5ODVsWXFlMTNKalQta29pOFJSWWhTS0tFQ251OVh6SFNqcDBxcGpTcG1ueFRMRTNXcW5NUg?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:05.858663+00:00",
-      "search_query": "\"Seattle Store\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:40.307809+00:00",
+      "search_queries": [
+        "\"Seattle Store\" entry",
+        "seattle store sweepstakes enter official",
+        "seattle store giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "1f31d7c038a4adff": {
       "contest_title": "Mackinaw Wool Cap - Charcoal - Filson",
       "original_article": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5nS1lHX0txT29aMFJGeXYzN05QX0w1SEwyX3Q1Njk4SU14bWpxOUlUdm1qSFI0eGhkZDBjWC1Bd25tRDFjakhuNHVSYTUwd0phZldDVTlQeE1xc2JQSEx1ZmxfZ21jSERBV3M3Sg?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:05.928084+00:00",
-      "search_query": "\"Mackinaw Wool Cap\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:39.835163+00:00",
+      "search_queries": [
+        "\"Mackinaw Wool Cap\" entry",
+        "mackinaw wool sweepstakes enter official",
+        "mackinaw wool giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "1ea9fe72cc108f0b": {
       "contest_title": "Jen Landon: Actor and Traveler - Filson",
       "original_article": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9aUm5sWGg1TzZxTEs4T3o1alkwYkFrRUhpejJlM1Y5VlpQWWxRUzJSaTk5WnVtODhKNDc1MUF5X2QxZXlrQU5rSkY5cUh5Z1dXVWtvRDhvdUpfZ01jZHZuX2p4Qlc2UnRwUlFFSnloZmJDR0lWX3c?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:06.118117+00:00",
-      "search_query": "\"Jen Landon  Actor and Traveler\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:39.818396+00:00",
+      "search_queries": [
+        "\"Jen Landon  Actor and Traveler\" entry",
+        "landon actor traveler sweepstakes enter official",
+        "landon actor traveler giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "c51e9bf0322c2f27": {
       "contest_title": "Filson × Crescent Down Works - Filson",
       "original_article": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1TQlE2MDkyZjJNdlNSbmJoY2IwRG5udmxGUHRxSFZNLW1JWTFQQk15bWVadXFWNDRHQjJXcU1rMlc0c0RxSl93Sjd1VGdFM1ZxdGRWeEpEMFRZN1dqX0FxbklUX3E?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:06.006151+00:00",
-      "search_query": "\"Filson   Crescent Down Works\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:39.812992+00:00",
+      "search_queries": [
+        "\"Filson   Crescent Down Works\" entry",
+        "filson crescent down works sweepstakes enter official",
+        "filson crescent down works giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "4ed6f75d6157df21": {
       "contest_title": "Rugged Twill Original Briefcase - Tan - Filson",
       "original_article": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5jVUs5b3g3V1NlNUVaTWx0Z09hNG9KajhaVjg1SmpwdUQwZTgzVUVrS1V6UHJPWV9Qejh1SDRjX3dKS3ZVWkhoX2swOUJDLW41ZDlBZTh6WXRDZVVHY2hKemc5aDlwVUNvRlRKOGk3VEp6YlR2Q3c?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:06.024093+00:00",
-      "search_query": "\"Rugged Twill Original Briefcase\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:40.046073+00:00",
+      "search_queries": [
+        "\"Rugged Twill Original Briefcase\" entry",
+        "rugged twill original briefcase sweepstakes enter official",
+        "rugged twill original briefcase giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "2b1cf820cccf9a7a": {
       "contest_title": "Karelian Bear Dogs: Hunter Turned Protector - Filson",
       "original_article": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZVI1TFhoSWloYktQU0l6MEpFLXo5WEItaEtjdnl2Q3lmcjdUMDRLclY3ZkdPcWE0X21LeGZzajBRZVVKUGJlaE5WTnJxOXc4eXUzU3pFUmJ3b09YdnhjckR0SC14UlRWRjA3MVNLb1VfeFpUWnNjV3NjVFA4V3c4dEVQYUtpaGdQanQ3ZFdabTd3QQ?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:06.115976+00:00",
-      "search_query": "\"Karelian Bear Dogs  Hunter Turned Protector\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:40.040336+00:00",
+      "search_queries": [
+        "\"Karelian Bear Dogs  Hunter Turned Protector\" entry",
+        "karelian bear dogs hunter turned protector sweepstakes enter official",
+        "karelian bear dogs hunter turned protector giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "1b3540814a940d3d": {
       "contest_title": "Better Wool Pants - Filson",
       "original_article": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5uTmVDSjJ5WU5qTXJiZzBWM0d6QXpiU1lnS0ZFdTRKQ2xuVHpJNm9abTNDUWhMT2VidVJuTEs2MmhuZGxEenF2Q2pFNm9iSENITFJ0c211SUw?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:06.087810+00:00",
-      "search_query": "\"Better Wool Pants\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:40.953106+00:00",
+      "search_queries": [
+        "\"Better Wool Pants\" entry",
+        "better wool pants sweepstakes enter official",
+        "better wool pants giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "14595d397f0b2bd4": {
       "contest_title": "Dry Wax Jackets - Filson",
       "original_article": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBGTndhSE0zZWlCY294V05MY1JkQ1dBZTRCbTNEVTFSaU41U1JHMnpLR1NxdGdLcTBsWHNzdGJLNlJZWkgtNUxKZWJtWGl2cXRJZ0lrbEVaNHl1SlhrTkhr?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:06.117405+00:00",
-      "search_query": "\"Dry Wax Jackets\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "status": "insufficient_title"
     },
     "54b281eca1765860": {
       "contest_title": "Recently Restocked - Filson",
       "original_article": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1BcUxjdXpOcmJRTjl5NFRiR0hZa2pYb1JSdERubk4ySWZjWXpXSWhOQjJ0X0FLeGV4OXRMZGM5T09IQ1NlUllGNjBxal9iSWJQWGRUN05xcEtPc29sVENXNlRyUQ?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:06.179502+00:00",
-      "search_query": "\"Recently Restocked\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:40.111847+00:00",
+      "search_queries": [
+        "\"Recently Restocked\" entry",
+        "recently restocked sweepstakes enter official",
+        "recently restocked giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "5a89fa84cb1a55c3": {
       "contest_title": "Boston Store - Filson",
       "original_article": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBHdFZfVUlDeG1yZ1dWMkRFR2t3LUdqTDBwN2E0NG5JR3VjczRuQnhfZXRGQ05Fc1NzQ2luUlV4Y0FrOXlSRmptUmxfeEhjSUh6eGRJ?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:06.235806+00:00",
-      "search_query": "\"Boston Store\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:40.332569+00:00",
+      "search_queries": [
+        "\"Boston Store\" entry",
+        "boston store sweepstakes enter official",
+        "boston store giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "c37c5a01256787c0": {
       "contest_title": "How to Buy a Fire Lookout Tower - Filson",
       "original_article": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1IdEF3X2lPS0kyeW9iaDF3N1lFUjNFSHZVTVRSRUhJeUl4X0lEYTdQZDBsMU4yekhuQ0cwcFRIaHJaMDNreHJ4UXJGTlN3Skt6Q1hDb2FheUtQUWl1aG9hdzgyMV9oc1EyUmRqdjhxYXZLYk84?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:06.250688+00:00",
-      "search_query": "\"How to Buy a Fire Lookout Tower\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:40.406442+00:00",
+      "search_queries": [
+        "\"How to Buy a Fire Lookout Tower\" entry",
+        "fire lookout tower sweepstakes enter official",
+        "fire lookout tower giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "96fdd1548faa44e1": {
       "contest_title": "Better Tote Bags - Filson",
       "original_article": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE13cDNRblRGeFZ0ZVJpTFJnVWw2UGZ3aWctNG00elNiVHNmR1RMeE11YXFvcmItRExJSkVSWjgtYmwxRGZUajF4MFdfOF9Bb1o5Z3RnTGhmMA?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:06.312214+00:00",
-      "search_query": "\"Better Tote Bags\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:40.389311+00:00",
+      "search_queries": [
+        "\"Better Tote Bags\" entry",
+        "better tote bags sweepstakes enter official",
+        "better tote bags giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "bc5afccc614d03fb": {
       "contest_title": "Polar Graphic Stoneware Mug - Midnight - Filson",
       "original_article": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAySGs0cUxoWktZUmtCNHdSdlFTUUs5WnZCM01TMmRCd2ZWQW0zSFVjS3dHaFBrMjV0cktBNTNGQU5IemdXZUZ4UmNOTWE0SzFYWGdQbjlDTVlnRHNDbWhMa3F5d0dfeGF5c1JVSVlkR0Y3OS1JWTlj?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:06.331076+00:00",
-      "search_query": "\"Polar Graphic Stoneware Mug\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:41.083198+00:00",
+      "search_queries": [
+        "\"Polar Graphic Stoneware Mug\" entry",
+        "polar graphic stoneware sweepstakes enter official",
+        "polar graphic stoneware giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "1a57836a09707b57": {
       "contest_title": "Better Women's Outerwear - Filson",
       "original_article": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1LdEgyS01qeWc5ck0xd21KMm1pd0dKXzVCZW9UVDk4WGxEX1ZnYWh4VWU1VWpwRHdfTWpkUHEwVFJoOUw4cVdva0tRaG1rcE05Q1pqMGNuU3B2dGF4NlY2MQ?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:06.300920+00:00",
-      "search_query": "\"Better Women's Outerwear\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:40.367084+00:00",
+      "search_queries": [
+        "\"Better Women's Outerwear\" entry",
+        "better women outerwear sweepstakes enter official",
+        "better women outerwear giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "91f33330adeb1ede": {
       "contest_title": "Tin Cloth Apparel & Gear: Jackets, Pants, Bags & Hats - Filson",
       "original_article": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBQU0JuSS1TQ01pZXpfd2JseDkxNTM3NGNjU3V3YjI5empNTWJuYjF2SEJOVU5mdEdiWkhjZEFHTzhSY1JxR0JyV3hLbC1yZ1JKaVBqcjJaNA?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:06.355378+00:00",
-      "search_query": "\"Tin Cloth Apparel & Gear  Jackets  Pants  Bags & Hats\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:40.480677+00:00",
+      "search_queries": [
+        "\"Tin Cloth Apparel & Gear  Jackets  Pants  Bags & Hats\" entry",
+        "cloth apparel gear jackets pants bags hats sweepstakes enter official",
+        "cloth apparel gear jackets pants bags hats giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "0f16c77ee4765924": {
       "contest_title": "Vendor Compliance - Filson",
       "original_article": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42d0ZCcW1ZNV9tTjhYeGZ4QjJXRkhDaWkwY04tZjFUMXcwNVBGS25sMkptcC1yWlpRcm93VnRTYU1SdmF4MlZhWnRUTzhWX1otRXlzRVh2d3Mwdw?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:06.403018+00:00",
-      "search_query": "\"Vendor Compliance\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:40.481898+00:00",
+      "search_queries": [
+        "\"Vendor Compliance\" entry",
+        "vendor compliance sweepstakes enter official",
+        "vendor compliance giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "fd6369a769f692ba": {
       "contest_title": "The Salish Matter Kid’s Meal - Chipotle",
       "original_article": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBXTVgwQ0xMYWprVlRCRXhYTnpQWVIyVjBJekpMMGtCS09RLUpBX2tKUTFFLTA4MjNsMnZMNnMzamlGbldHQUE?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:06.494329+00:00",
-      "search_query": "\"The Salish Matter Kid s Meal\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:40.610065+00:00",
+      "search_queries": [
+        "\"The Salish Matter Kid s Meal\" entry",
+        "salish matter meal sweepstakes enter official",
+        "salish matter meal giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "bb7734310db67a48": {
       "contest_title": "CHIPOTLE TO HELP FANS BECOME \"TATTED LIKE A CHIPOTLE BAG\" WITH NEW TEMPORARY FLASH TATTOOS AND BOGO OFFER ON FRIDAY, JUNE 13 - Chipotle",
       "original_article": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPMEFjYWNaNmJTUUU0T3h1WEc5VDgzU1pCNmc0ZWh4enpsbFp4aHRScWQyU3cwd3dnTFlkQTNVRlpZdHhvS3BjX1I2VE5OWmNUb2pwbEJDUGJDQzdvU0FJRGJySHVfZDdhQmh0bWQ0OHBuS2prTktCTHRpX2ljajBGOE1SWjNELVk2UGFXU3dwcWdJb1lrQ2Z3MkRlcjlqdmxURWtPN0JRY2FkN2RQNU9OTEM3UVV2SlROTzF4QnhZb1QtajVQY3p1ZzJNQlJHbnd3VVNfaGdMeWFWWk1fZ1d0VXhVUmJnSnhSR1dhdUpvaV92Tm1wTHc?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:06.489843+00:00",
-      "search_query": "\"CHIPOTLE TO HELP FANS BECOME  TATTED LIKE A CHIPOTLE BAG  WITH NEW TEMPORARY FLASH TATTOOS AND BOGO OFFER ON F\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:40.585650+00:00",
+      "search_queries": [
+        "\"CHIPOTLE TO HELP FANS BECOME  TATTED LIKE A CHIPOTLE BAG  WITH NEW TEMPORARY FLASH TATTOOS AND BOGO OFFER ON F\" entry",
+        "chipotle help fans become tatted like temporary sweepstakes enter official",
+        "chipotle help fans become tatted like temporary giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "40939d075ca32ace": {
       "contest_title": "53 REAL INGREDIENTS - Chipotle",
       "original_article": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Ia19nSjQ5TDJ1RUtQX1YwYjV0RFhXSGZrNXE1VUh6ekhDQ1ZuaXdXM2NqQVFxYXd0V2ZTUWpxOTRDRGc0YnBpalNvMk8yQ2dWbDhyUkV3Wk0?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:06.529190+00:00",
-      "search_query": "\"53 REAL INGREDIENTS\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:41.166351+00:00",
+      "search_queries": [
+        "\"53 REAL INGREDIENTS\" entry",
+        "real ingredients sweepstakes enter official",
+        "real ingredients giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "a45ab1c4863e200b": {
       "contest_title": "CHIPOTLE CELEBRATES CHAMPIONSHIP WITH BUY-ONE-GET-ONE (BOGO) OFFER THROUGHOUT INDIANA ON JANUARY 22 - Chipotle",
       "original_article": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVGc0V0p1X3MyZ0tPYkk2S1N3U0JYQm1VZWhzZVB6T3NGY3hKTlJoV1ZDX3RTcmt5eWVIME9GTnBjTktNWFMzQkJJNWppLXpwR0FwWEtqeDQxaHdXNmdZek5kSlVySEVlTWJmVzgtaDNPZEgxcGU1SVY0U3RleFJsMkJPek5fWS1OeXBIcy1JWkZ5dVlFMFpRZFRmZjFPTHUzOGNhVEdEUGlDOWZZN0xYemxLLUJpUUlZTktEUDZlNnBsVFdyMVZJUWpXaTFRNWd4RmFhRA?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:06.566207+00:00",
-      "search_query": "\"CHIPOTLE CELEBRATES CHAMPIONSHIP WITH BUY-ONE-GET-ONE  BOGO  OFFER THROUGHOUT INDIANA ON JANUARY 22\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:40.893687+00:00",
+      "search_queries": [
+        "\"CHIPOTLE CELEBRATES CHAMPIONSHIP WITH BUY-ONE-GET-ONE  BOGO  OFFER THROUGHOUT INDIANA ON JANUARY 22\" entry",
+        "chipotle celebrates championship bogo offer throughout indiana sweepstakes enter official",
+        "chipotle celebrates championship bogo offer throughout indiana giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "70aa3f3ff0d452bf": {
       "contest_title": "National Quesadilla Day 2026 Offer Terms - Chipotle",
       "original_article": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9UQzhHV1FqdklDSU4tRzg4U1lMNTRwMTVTeV9aZDFTdlo4ckJVMnhsQnlYM0dZUU0ycGhHeTZEb1RZV1R2azR2cGV6b1g1RTZvTDBzOWVYb3FfNVN1R1BGOWtEbUpWSXN2ZDM4?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:06.541895+00:00",
-      "search_query": "\"National Quesadilla Day 2026 Offer Terms\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:40.875747+00:00",
+      "search_queries": [
+        "\"National Quesadilla Day 2026 Offer Terms\" entry",
+        "national quesadilla offer terms sweepstakes enter official",
+        "national quesadilla offer terms giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "1de3087e38da704f": {
       "contest_title": "53 REAL INGREDIENTS - Chipotle",
       "original_article": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBaS3VIN2JfUURVbDRZQ0NqWmRWaGlfWWpSSDZ4R0prSlk1NWg1YlI2ZW5IUlNJeUdsQ2lnUXJnemYyS2ZLaDBtTWtpTlRKVUhXVEJFaE1DU3ZXczg?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:06.633322+00:00",
-      "search_query": "\"53 REAL INGREDIENTS\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:41.242257+00:00",
+      "search_queries": [
+        "\"53 REAL INGREDIENTS\" entry",
+        "real ingredients sweepstakes enter official",
+        "real ingredients giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "1ab16a6712e2af02": {
       "contest_title": "Florida Homeowners Are Paying Record Insurance Costs: Reece Windows & Doors Responds With a $25,000 Free Home Makeover and More Than 50 Years of Community Commitment - markets.businessinsider.com",
       "original_article": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPbENUWk83TjVGdTQ3TTYycVViTjBWOHRucVJjeXBwd3BDc256V3ZfZ2VkT1BndE1LSk9qWjdjN1NkX2h6TFdOcDFvLVBTVnJXWmIyTGU1ZE1TYXhORHFVOWhtTzI3N1BIRjA2ZDhISmdnQ3NQZVZxVDVYY2NnNDJ5b1lWRU9lU3g1ZnYtMi1UU2RGWkY5RmU2ZVlqVFg2OUxDQ0o2RVA3ZFVzZnlpMURZckNlNExvU2hFcS1SclNhNlNsMDF3bnQ1dFJ5b0w2eTcxZm8yRkVISURIVkFmMGFLVlpoX2JjWmRZMmw5R2trWTRMT0NEZko0cXlBY1hwdTlCTUQ1dlBYUnZTNmJDbGx5bzgzdEhmLVVvNGVBY2hWQ3BEc0dPZ0tXcVhOZC1HNE9MLUNXSFlQbzlrSkh2TndFaFVR?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:06.672217+00:00",
-      "search_query": "\"Florida Homeowners Are Paying Record Insurance Costs  Reece Windows & Doors Responds With a  25 000 Free Home \" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:40.964598+00:00",
+      "search_queries": [
+        "\"Florida Homeowners Are Paying Record Insurance Costs  Reece Windows & Doors Responds With a  25 000 Free Home \" entry",
+        "florida homeowners paying record insurance costs reece sweepstakes enter official",
+        "florida homeowners paying record insurance costs reece giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "65e2a726f63dc91b": {
       "contest_title": "$100,000 Home Makeover - WZID",
       "original_article": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE93MFBDbDRRbU5QRTBLQmxPcHRPbHcyOGhZN2E5MW1tbW81MF9JU0tlQkRZckRZTWE4UmJOa0o1YjB3aWw1Y01qbTRIQllLaFJvODJfX3hkdTZ6R3FOM0E?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:06.714849+00:00",
-      "search_query": "\" 100 000 Home Makeover\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:40.974269+00:00",
+      "search_queries": [
+        "\" 100 000 Home Makeover\" entry",
+        "home makeover sweepstakes enter official",
+        "home makeover giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "b8d0512d0b2e94d0": {
       "contest_title": "Bed Bath & Beyond Is Accepting Expired Coupons This Summer—and Yours Could Win You a $100,000 Home Makeover - Yahoo",
       "original_article": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeDdaVlVsc0xrOWlOSHZSZzljNXRDdmpBazRIUENpUnBGTG5yUnJ4SjlJd3hEWklndkhnZEhERWR3aW5XNWl1NUFyZnl4bXh0OXVKanBNMXBzWlFJZmtoZzI5ZUpwQnp3eWVid1pyaHp1aG1jUjFTOWhZbUhzZ2lFSV9Yd0xjT1VVRkVmWHNqb3JYYUtaalozMVdxMWZqQ2ZXcTE4ZnRLRGNKZ1RSZFB0ODU2cw?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:06.705358+00:00",
-      "search_query": "\"Bed Bath & Beyond Is Accepting Expired Coupons This Summer and Yours Could Win You a  100 000 Home Makeover\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:41.502864+00:00",
+      "search_queries": [
+        "\"Bed Bath & Beyond Is Accepting Expired Coupons This Summer and Yours Could Win You a  100 000 Home Makeover\" entry",
+        "bath beyond accepting expired coupons this summer sweepstakes enter official",
+        "bath beyond accepting expired coupons this summer giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "8b309f97b9cb7a50": {
       "contest_title": "Bed Bath & Beyond launches hunt for America’s oldest coupon with $100K prize up for grabs - Fox Business",
       "original_article": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOc0dSOFlqMjBZemZQTWFwVEhZZ2JLRm5GQTJkUnB5dndYQk9vNHRaaHBZUUZKbUxLckgxWjUwT3BqVHpsTndITnZubVNsTnZCcVEzYkRWSThBT0xMZkw5aE8ta05KaV80Q3F2SExZT2N5dVJWYVRPNll6SVQ3dUpuWnp5d2ZjQmhiaHBHQXVoWE5vbndfVUV6cElkdDVVUnktazdKTlBjSjNnOTDSAbABQVVfeXFMT0RzYUE5MEpMdFhmQU1UbjJJZUZzdDdDTy1NOHJIaDJ1TVQ3OU04SGRvVFRoaTdVMG9zUExsak1MQjBNdHJhYzZyZk0xeU9FaVJZbFFaSUF5bjk2QlF0dnhoSUZJSDg0LVdQenBqdWlvQ1lsWlNobkxKdGdQak56dXVoamQ5TDloRWtqQ2hVMGV4VDNpUmZPdVRVVFVGWVJ5NW5temNoZnhYd0MwRHh4U3o?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:06.721973+00:00",
-      "search_query": "\"Bed Bath & Beyond launches hunt for America s oldest coupon with  100K prize up for grabs\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:41.099632+00:00",
+      "search_queries": [
+        "\"Bed Bath & Beyond launches hunt for America s oldest coupon with  100K prize up for grabs\" entry",
+        "bath beyond launches hunt america oldest coupon sweepstakes enter official",
+        "bath beyond launches hunt america oldest coupon giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "19ad2a2265a878d7": {
       "contest_title": "Home makeover guru Ty Pennington shares top tips - USA Today",
       "original_article": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTmtwdnJ5RWY4VVlQVW1pb1hMeEh4WUJQdFZ1R0RNOXJPalhlb0FiOGJHdHpzMnFGS0JMTFBqLUZRRjZJbU1INXBxNG1HcUtQX29NUmhOektHRXByN2dmRjZVcmhOcjhrZHA4cklaMVhaaEl1dGVFRG9vZnJrMEtOd2Z0cTY2NUt2cTNmUjRyQVJncERXaWRILV9xWkN6dE9JWjdaTTd0SVhoNm1tNldKS2F2eU9YRS1UTTM5V3JaMjBSQV8xQmRr?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:06.761523+00:00",
-      "search_query": "\"Home makeover guru Ty Pennington shares top tips\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:41.145148+00:00",
+      "search_queries": [
+        "\"Home makeover guru Ty Pennington shares top tips\" entry",
+        "home makeover guru pennington shares tips sweepstakes enter official",
+        "home makeover guru pennington shares tips giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "16fe41fe15ec97f6": {
       "contest_title": "Bed Bath & Beyond's Oldest Coupon Hunt: $100K Prize - Briefs Finance",
       "original_article": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWVVodVMtNUJ2Z19NSnlCNDhIUFF2MU1UdjNCQlZweWVyUXA0ODRuYmdVT1ZZandITlByYXdzb3RjQ3FWbTZhYm9MTnRQZVNETGttT2FIYXZRT29ZbFM3ZEVjWFNtTlJFZk4tczRSbC1GVllYb3pBVnphTHpfbjlHR25VUk9KNFJmUkRKZWZfSlEwNFkycGJRSTdZYXczOE9oR2Q3Sm15ejQxZUU?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:06.775614+00:00",
-      "search_query": "\"Bed Bath & Beyond's Oldest Coupon Hunt   100K Prize\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:42.284726+00:00",
+      "search_queries": [
+        "\"Bed Bath & Beyond's Oldest Coupon Hunt   100K Prize\" entry",
+        "bath beyond oldest coupon hunt 100k prize sweepstakes enter official",
+        "bath beyond oldest coupon hunt 100k prize giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "8872e8ca5244989e": {
       "contest_title": "WTTW’s 2026 Be a Winner Sweepstakes Prizes - WTTW",
       "original_article": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1TUkxER1JIQk54QXdXWDBiMUpsSFhkYmItVHJEWURCVV90R0dmVmk5TjFVQm0zR25VZ0VYUHBKc3RYQ0ZhSXNoM2liYTM3WHpYdWxYZFVhZw?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:06.863556+00:00",
-      "search_query": "\"WTTW s 2026 Be a Winner Sweepstakes Prizes\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:41.393282+00:00",
+      "search_queries": [
+        "\"WTTW s 2026 Be a Winner Sweepstakes Prizes\" entry",
+        "wttw winner prizes sweepstakes enter official",
+        "wttw winner prizes giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "13a97d7fc58b567a": {
       "contest_title": "HGTV’s 2026 Dream Home Is Furnished with Tons of Wayfair Finds — Shop the Exact Pieces from $17 - People.com",
       "original_article": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9kVlptZnhpRGhwWU8xbUdrWmZwYkZaOU9OUVJycW5TMUsxTVpINVdkcExDUW9oOXd6YWlqanJ2SDd1MnpVM2h6WEZ6c1NIbVdrRHRvYnNyR1F2VDBFWWhzMHE3UXRBX3UwRmVjQ3hVM0xuYi1C?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:06.890560+00:00",
-      "search_query": "\"HGTV s 2026 Dream Home Is Furnished with Tons of Wayfair Finds   Shop the Exact Pieces from  17\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:41.530579+00:00",
+      "search_queries": [
+        "\"HGTV s 2026 Dream Home Is Furnished with Tons of Wayfair Finds   Shop the Exact Pieces from  17\" entry",
+        "hgtv dream home furnished tons wayfair finds sweepstakes enter official",
+        "hgtv dream home furnished tons wayfair finds giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "d2cf96c40cfa0587": {
       "contest_title": "Freeport woman wins $15K in Gannett Fall Home Makeover Sweepstakes - Rockford Register Star",
       "original_article": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOFVPcFJON3VrZUkwakF1VVR1Njd2UUhPZ2ZWcS1wNzVGVzI2RXo4NEpaRUZvTENjcFdlaWlyamVFbjhVZFFrdDFVSy1FZ1JXclU2eXZmR1dvclJOY0lOemNzb3d3aU9aUXdwQWlXZzhGMVVaQVltMmJLZW9La3JFY0N4YzJudk5jS0ZCSHBraGd3cW9DZEgzZEhOV0FyX3RjYkxadVdDZmx1Njc1Ny1teGZhNDh6aUw1UDN3bTBxbnZkU0lPWXkw?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:06.940039+00:00",
-      "search_query": "\"Freeport woman wins  15K in Gannett Fall Home Makeover Sweepstakes\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:41.802927+00:00",
+      "search_queries": [
+        "\"Freeport woman wins  15K in Gannett Fall Home Makeover Sweepstakes\" entry",
+        "freeport woman wins gannett fall home makeover sweepstakes enter official",
+        "freeport woman wins gannett fall home makeover giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "088d41591043a941": {
       "contest_title": "LMCU’s Home Makeover Sweepstakes winner announced - WOODTV.com",
       "original_article": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSjJSTE1RWHJQMVhxcjJFTWRIc1RPZjJ2Z1V4aXJTWVVJLThIWm5fcEt1eUZ5cVI0QlJ5M0ZUbG13ajZvcGF0eUFPU0Vib0EwZW14ZTVjWGJOdWwtajRXc05pSTJPUzA3aWVfNkVNcGdYczJYTHBrV2lPWkxtTFpCdXl5RktrT0gzQmfSAY8BQVVfeXFMTWFUaE1BUy1tSTBXTmtXcHpaV0U0b000WjIzOW9FaWo4XzgyS0NDc0VRbm0xNEVyQlBBYkZaUWJ6dE5tWU4yV1NkU2IwSW9PeVpXSDFKMk5VNGFlSzVmZnRQbGZkeUk2OTBFb2RXenlzOVNSYnNXTnBHX1J4b2lxeGFkeEttTmxvX0FFcFhnVzQ?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:06.945505+00:00",
-      "search_query": "\"LMCU s Home Makeover Sweepstakes winner announced\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:41.541191+00:00",
+      "search_queries": [
+        "\"LMCU s Home Makeover Sweepstakes winner announced\" entry",
+        "lmcu home makeover winner announced sweepstakes enter official",
+        "lmcu home makeover winner announced giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "73afb5e4c28ca5f4": {
       "contest_title": "Have a home renovation dream? You can turn it into reality with $50,000 from USA TODAY - USA Today",
       "original_article": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZGNQaFRrLThRZmo1LXBwOUhhazBhSWJ5NDBTaTNDM2FqNm9zRHpxN3Z3d0xzdUNxR3ByQXFLd25zZzNINGswQndQdmtEbHdpTmdKeVhiV0pDNkxqS3BQNG5GeV92U0dMTFd0c0p0TldmNHZ3SDJER0dCb1R1X2RqdEIteWZaaldkOThNVUJ0V0sySElLbENUZmlDVmZhcHZ2ZHZ6SjZJZw?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:07.021668+00:00",
-      "search_query": "\"Have a home renovation dream  You can turn it into reality with  50 000 from USA TODAY\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:41.987252+00:00",
+      "search_queries": [
+        "\"Have a home renovation dream  You can turn it into reality with  50 000 from USA TODAY\" entry",
+        "have home renovation dream turn into reality sweepstakes enter official",
+        "have home renovation dream turn into reality giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "ab50a16b0fb64c98": {
       "contest_title": "How to Spot a Shady Contractor - WREG.com",
       "original_article": "https://news.google.com/rss/articles/CBMid0FVX3lxTE55T2p2UlRCRnFPYW43MUh4eGh1UHl2dHQ2X1hiU2FPWjloT0RhYVNjRWVIX0RWaG5SWFFxMTQzUVhwMWd6NDE1VHR3TzFQdkd5MUlTcEZTTGE2dW5Qc1pLUzN0ZEhCeDR3SXgwcVhiUXczbnE5SDZN0gF8QVVfeXFMUDc2Q1VZemtuU3Z2QkdRZ3V2bmRUTENsZjRUZWxaR3I0WGZsNXZnTWpxYk1nTGgxSnU1ZC1aVVI0N0lkRjRvaU9XQnotZEphVExsZWtfLVU0d24welhvQjUxZnd0b3BXN1FuZWZWWUlDT1J2T1phbUtvbnRMZw?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:06.945090+00:00",
-      "search_query": "\"How to Spot a Shady Contractor\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:41.625032+00:00",
+      "search_queries": [
+        "\"How to Spot a Shady Contractor\" entry",
+        "spot shady contractor sweepstakes enter official",
+        "spot shady contractor giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "388ef78f1e9da05f": {
       "contest_title": "Morning Business Report: Holiday travel expected to reach record levels as Independence Day approaches - 41NBC News",
       "original_article": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTFZ2TDlNTkhqNEpEVjBrSUtZUEI3bXlKbi15VVh6dk1xclhRZDJKbnlsUkxUQW1ud3hVV2dmdDZXUnZSbzgtREdYbC1rcXB3c2xTNVBNaWo5dWptVExWWUE0WXhkTVBVM2hsSlBQQS1oU1o0aG41SXNiS3M5QUNOSzVnbjdpNFpNYmVBc25iX3c2S1dBb2tjTmpQRjN6NmdEY1Q3M0xvZnhSWkdiUVc5MjhIYzRWYW1hWUlOWk5keXhmQQ?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:07.094539+00:00",
-      "search_query": "\"Morning Business Report  Holiday travel expected to reach record levels as Independence Day approaches\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:41.748055+00:00",
+      "search_queries": [
+        "\"Morning Business Report  Holiday travel expected to reach record levels as Independence Day approaches\" entry",
+        "morning business report holiday travel expected reach sweepstakes enter official",
+        "morning business report holiday travel expected reach giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "c8ee1bcd4e27b309": {
       "contest_title": "SUNS LEGACY PARTNERS LLC. TEAM UP WITH REAL ESTATE TECH LEADER OPENDOOR - NBA.com",
       "original_article": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSThidU1nRF9xMUFqaFMxUWtQMEVRaDZaMVRaRTQ3dVVlM1RVa0tETDh0Rmhhb2VwZVZMb1RxalJ1UDRTQlpUUUczQnFvSlhiZHU0d2J0ZWk1WTRscTh5c0JHb0tuUWxHQ2c4ZnotbGVmcURObTZNNTVUOHk4YWtIN2ZmcS1kVnRTckFzV0ZneWE?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:07.124414+00:00",
-      "search_query": "\"SUNS LEGACY PARTNERS LLC  TEAM UP WITH REAL ESTATE TECH LEADER OPENDOOR\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:41.802375+00:00",
+      "search_queries": [
+        "\"SUNS LEGACY PARTNERS LLC  TEAM UP WITH REAL ESTATE TECH LEADER OPENDOOR\" entry",
+        "suns legacy partners team real estate tech sweepstakes enter official",
+        "suns legacy partners team real estate tech giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "0679eb74e3e9fc5d": {
       "contest_title": "Dublin woman wins $10,000 second-place prize in Gannett Ultimate Home Makeover Sweepstakes - The Columbus Dispatch",
       "original_article": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZGNFV0dfM3JSc1IyNWxlODMzc1hHc1l1R19YVTNad3B3RE1ERkZ5SlA5UlctS1RJY0p3ZEZVcU5zamJWS194SXREVnFNQmRUcHNPZFpFUUt3NEF5TVNMRVJGM2RBWEhjbEFUeDJEangtTEZSZHkwd1VnaDFUem1SSjNJQkhsaFVDejI3dFFzU1RqUjJXb2NWSU9vSzE2Z1lfLWxSSTZkY3lYWWtwb1BGUXF6cXgyTTBJX0w1eUx0Qk0wZzA?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:07.144078+00:00",
-      "search_query": "\"Dublin woman wins  10 000 second-place prize in Gannett Ultimate Home Makeover Sweepstakes\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:41.720306+00:00",
+      "search_queries": [
+        "\"Dublin woman wins  10 000 second-place prize in Gannett Ultimate Home Makeover Sweepstakes\" entry",
+        "dublin woman wins second place prize gannett sweepstakes enter official",
+        "dublin woman wins second place prize gannett giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "237c61879261013a": {
       "contest_title": "Auto Value launches Hawaii trip sweepstakes for repair shops - autosphere.ca",
       "original_article": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcmNNaGk0cndOTlVjazlwN2JXdTI0OTloWUJmMlZnanFuZk5LeS01OGhFQktpSVdadHB4N1FPMkRucWl5dUxjZE9acGRSUmswZ1FhbUxOVXZEUGxUQk9UOXRVblhLSURMNHIyTjBjblVyejJhbVplUHFDc1hNcTdRdm5Fb3MxYlp5NnIyMU9oVVJNNlZ4UEFLb2hpN1NTM2MyTzROZTlFUUE?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:07.180886+00:00",
-      "search_query": "\"Auto Value launches Hawaii trip sweepstakes for repair shops\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:42.008877+00:00",
+      "search_queries": [
+        "\"Auto Value launches Hawaii trip sweepstakes for repair shops\" entry",
+        "auto value launches hawaii trip repair shops sweepstakes enter official",
+        "auto value launches hawaii trip repair shops giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "af534e51fe1a0cf9": {
       "contest_title": "Disney brings back D23 FANtastic Prizes: The Ultimate Disney Sweepstakes - ABC7 Los Angeles",
       "original_article": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQM3pEM3ZDN2xIbWlvOGQ2cjdBeEVDd0tCZmVmdFRJYnBydXdmNE9teUg3cTJFZ2VVVVMyN0hRTE9PLVY1TDctQUg5aWJ0czd3MU9Pa2NrZkpMdmx1ckNYczJRRXY2ZXJpWkxQSkdBQk93Qi01b0ZadnFVZEpfOTF5TmRON1lnbm0zcG16M0Z1RkZLYnItYmlj0gGcAUFVX3lxTE5OVTNsa1hHWjdOTG5leVJXTzNjN2RyUmZ0RlBvSGpjb2JaSXhVd1dOT1VyWlBTOUtHUmNxc0dDOW5TVkxDbnFlM0tvX2tXM2VBekxfcXhwNm5ybG9fNTZRQUVIWm9rTHg3dktZNEFvUTcwQzFIblVVX1MyNXh2cmNzZ3BlMEktYXNOMEt6VHJ0RDh0cnV2MkpiZnhKUQ?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:07.149032+00:00",
-      "search_query": "\"Disney brings back D23 FANtastic Prizes  The Ultimate Disney Sweepstakes\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:42.265356+00:00",
+      "search_queries": [
+        "\"Disney brings back D23 FANtastic Prizes  The Ultimate Disney Sweepstakes\" entry",
+        "disney brings back fantastic prizes ultimate sweepstakes enter official",
+        "disney brings back fantastic prizes ultimate giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "f0fc9ccd92f1f58b": {
       "contest_title": "D23’s FANtastic Prizes Sweepstakes Is Back With Incredible Disney Experiences - The DIS",
       "original_article": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZElSTWE2NWFHNGo5eFJhclZXMVBVRlBiUjFUTHc5bC1YcGZJOVM1SlJQZnd6OFlkVWQ5MTNJa2VuRVBERlFMNFFQRVpidEs1STlFWnd2QmlmSk5GdnpRQ2laRVlMdmRmeHZtWE10QXJEcm00QkUyUDVuOV9OVnNCZXUwYlpqcmJRWXd1MkdnLUN6VGFkb25namNlVXVGSzdHS2szYjNHbWw4R2FRbWw2RVJiYUo?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:07.211224+00:00",
-      "search_query": "\"D23 s FANtastic Prizes Sweepstakes Is Back With Incredible Disney Experiences\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:42.047132+00:00",
+      "search_queries": [
+        "\"D23 s FANtastic Prizes Sweepstakes Is Back With Incredible Disney Experiences\" entry",
+        "fantastic prizes back incredible disney experiences sweepstakes enter official",
+        "fantastic prizes back incredible disney experiences giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "0924dfdf8812c217": {
       "contest_title": "Enter the FOX13 iHeartRadio Music Awards: 'I Love LA Sweepstakes' - FOX13 Memphis",
       "original_article": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMl9RQ1J6bmhVWjZ4RjZZUmFjM1pDZ041Qi1pai1seWVmUk1JR1MwbWNrbVY0OENkV3NFV3dSb3hQNnNJeTVDNWw5akhib2Z0TWF0RTQyQmdTQ1FvbUx3d2NZTXVfTDZ3UzRnYnEyd0pud19tQ0FCUE5KZkxodUIzcDlCc2txLXdHVHJwSTBrZ092UXpXOEFSeXA0RzM1TUhWOHZ1VDR3TDIwRjBUYk1POG5tRTdKeUF0bUZrTVgwZnN0UTZTcXhMT1RyZks5UFZJMVZLU3piV3IzRDhOWVpXWWRVaWE?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:07.322358+00:00",
-      "search_query": "\"Enter the FOX13 iHeartRadio Music Awards  'I Love LA Sweepstakes'\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:42.127802+00:00",
+      "search_queries": [
+        "\"Enter the FOX13 iHeartRadio Music Awards  'I Love LA Sweepstakes'\" entry",
+        "fox13 iheartradio music awards love sweepstakes enter official",
+        "fox13 iheartradio music awards love giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "fdcae1fa19f62d9d": {
       "contest_title": "Avengers: Doomsday Premiere Tickets Up For Grabs In Marvel Contest Of Champions - Cosmic Book News",
       "original_article": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1VSHRXMXFvTVdkNDIwWHNISldMbkFhZ1doZ1FSQjUybDJCTDg4U2VhbkJLTjB1cWQ2VG9nNjJWMXgtQWo5clZQd1c3bWFtcGZveW9nUDUxUjNnVVpLQWRoZ2U2QQ?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:07.298900+00:00",
-      "search_query": "\"Avengers  Doomsday Premiere Tickets Up For Grabs In Marvel Contest Of Champions\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:42.130646+00:00",
+      "search_queries": [
+        "\"Avengers  Doomsday Premiere Tickets Up For Grabs In Marvel Contest Of Champions\" entry",
+        "avengers doomsday premiere tickets grabs marvel champions sweepstakes enter official",
+        "avengers doomsday premiere tickets grabs marvel champions giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "8320f9b08b10ab60": {
       "contest_title": "Barilla Canada Celebrates Italian Heritage Month and F1 Partnership with 'Pastaport' Contest Return — LBB - LBB - Little Black Book",
       "original_article": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMkRLaXZ1N3lXVnQzcXc2UWpNd29ZVDkxcmpYVzFTcWdBb0k0OEc0NGpYSFRiNDhvSHVZUFpJeEgtd21CbFdVbTI2ZkhUbWV2VmYzbHVVQkRuRmh3Rk9BQUZrLUdZOWlTOXRmMUw3LUhUWUh4Z3ZKT042QzhnNkZQUEZobFNhZWhDVUNfei1B?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:07.310100+00:00",
-      "search_query": "\"Barilla Canada Celebrates Italian Heritage Month and F1 Partnership with 'Pastaport' Contest Return   LBB\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:42.292883+00:00",
+      "search_queries": [
+        "\"Barilla Canada Celebrates Italian Heritage Month and F1 Partnership with 'Pastaport' Contest Return   LBB\" entry",
+        "barilla canada celebrates italian heritage month partnership sweepstakes enter official",
+        "barilla canada celebrates italian heritage month partnership giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "5da542ff036b07a4": {
       "contest_title": "You Could Win a Trip to WrestleMania 42 By Entering a New Disney+ Perks Sweepstakes - LaughingPlace.com",
       "original_article": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQOHBEdmNWckZ4LWlwd2FSVlRpZlg1SnpMUEpTSXpzOHVreTV5S2tMbXdTcXA1VTMtczVJbmsydmRHVC11d2oxMTJPTTJiTUJReU5sR0Z2MmI3MlFZQkZqNks2UjhzcW51c2xJRjNBT0xlbDNUMTkxXzRyZ2pwbElCNkZkNkx2RlpSV3ptNG9RSEpsdDJ5?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:07.367352+00:00",
-      "search_query": "\"You Could Win a Trip to WrestleMania 42 By Entering a New Disney  Perks Sweepstakes\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:42.321467+00:00",
+      "search_queries": [
+        "\"You Could Win a Trip to WrestleMania 42 By Entering a New Disney  Perks Sweepstakes\" entry",
+        "could trip wrestlemania entering disney perks sweepstakes enter official",
+        "could trip wrestlemania entering disney perks giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "8dc50dd5b81a3948": {
       "contest_title": "New contest from VisitBritain, WestJet and RIT offers up prize trip for two to Scotland - Travelweek",
       "original_article": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeUZhVFZ3bC1BTFozdjVDR25LOFNfVVpJdExPaHRYbFBXckpoamEyZl9od0EySFpzTG9jM0RRdnRYVGhMTjVRMHBUdE1JcDQtbHFwZG5FYVZCZzNZRE5qN1RBMmRhcTVkNzVFeFAxc2hLVWlzaDJnZlRTNHpka1FMWEQ2ZWRyUm9nWkVHUFBoc0VYMFpheUI0UU90eXd4dVVTalR3NWRhbUxScWpCc3hzMHMxd3NnakdzTTVCQjJ0YmVVdw?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:07.448117+00:00",
-      "search_query": "\"New contest from VisitBritain  WestJet and RIT offers up prize trip for two to Scotland\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:42.243502+00:00",
+      "search_queries": [
+        "\"New contest from VisitBritain  WestJet and RIT offers up prize trip for two to Scotland\" entry",
+        "visitbritain westjet offers prize trip scotland sweepstakes enter official",
+        "visitbritain westjet offers prize trip scotland giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "48c563c5d3b871c9": {
       "contest_title": "Rep Your Side Sweepstakes: Enter to Win 2026 WC Soccer Final Tickets - PrizePicks",
       "original_article": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTW1mb3RMU2ZBSW5ZWm82dElCZjNjMkxUX3phOXBLX2dlRnk4WlEwQWI1dDZpQ1BUMkVFdjlWbzNxTFhweVJwSDRvbmkzQ01EdEd6MTJTNGZTdXBTS2h3bk82RjBPa1ctZGtHMGhvMWJUSVljQnI5R0lybDFBZ21kZmFoTDNTWmtwSkc5Z2lsbFlqNUlJWmJXTC1uallvUnBweHNpag?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:07.460215+00:00",
-      "search_query": "\"Rep Your Side Sweepstakes  Enter to Win 2026 WC Soccer Final Tickets\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:42.656830+00:00",
+      "search_queries": [
+        "\"Rep Your Side Sweepstakes  Enter to Win 2026 WC Soccer Final Tickets\" entry",
+        "your side soccer final tickets sweepstakes enter official",
+        "your side soccer final tickets giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "fe73bfc9a74a2c2e": {
       "contest_title": "NBA ID 2K Challenge 2026 - NBA.com",
       "original_article": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBtVHJoTkVUS0oyTmtMWWhrRUNKZzN4UUZHbXJZa1k4OFFDOF9laDNCa2lJalhpczFBSHJvaGUzUXQwUE1aZU5hM3lucmdXcUFhQnlQQmFuRGlUUFdGd2o4ZnNFMjFVN1E?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:07.455515+00:00",
-      "search_query": "\"NBA ID 2K Challenge 2026\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "status": "insufficient_title"
     },
     "e574ffcbcfcad3c5": {
       "contest_title": "Chase Elliott’s 2026 Desi9n to Drive scheme for EchoPark Speedway unveiled - NASCAR.com",
       "original_article": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZEw1TmZQLXpyTHpGdmkydEVSWnVacHltVlBhQWJvWGVQUVRrWDB6OC1mdEtlX3QzdzREQVlxWUlaajlWVEhHTWtpbktyQjJubkhGMGhjbWlnRVRWczloek82cVQ2eFZjM1dlc1puZU5WbzZJeFdrUTAwZ1ZXU1lXR04wN0hnQWxZbmhLMlhRMWRtV3Y3eFNHVVgteHZ5SjZZb1FVMTNTTEtLTUx3NnozNjJQU3hVV21PR0Z30gHAAUFVX3lxTE5aR2cxYmpUX3h2UGwteTRCSk1hRjB1emFTcE5rVXJwSlFhYkl3Rlp4RlVmZ296cHc4S2FoRUVVbmZ0V3F0bHRjc05hbklVSGcxaGwwaVNQaW5UcjZlNGgyNlVaSjAtRTRnLTFHR3RaTHl2TzU0MXlJSENNb2VwUHdXSlgtSjJmVWxZZmNGZV8xM1lMR05DYmt6R1ZrYXdQbTR4WmUzWWh5UzEycEc2YmZ4eEQxQjB3LUZ4QVNWcWJVOQ?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:04:07.522249+00:00",
-      "search_query": "\"Chase Elliott s 2026 Desi9n to Drive scheme for EchoPark Speedway unveiled\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:42.403673+00:00",
+      "search_queries": [
+        "\"Chase Elliott s 2026 Desi9n to Drive scheme for EchoPark Speedway unveiled\" entry",
+        "chase elliott desi9n drive scheme echopark speedway sweepstakes enter official",
+        "chase elliott desi9n drive scheme echopark speedway giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "9ba850cfb164c101": {
       "contest_title": "2026 St. Jude Dream Home Giveaway winners - KMPH Fox 26",
@@ -2842,381 +3341,617 @@
     "1b714222a24260e6": {
       "contest_title": "Win two Premium tickets to André Rieu’s spectacular show in London and overnight stay - Daily Express",
       "original_article": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSmpkc2NHTlpEVmx4a0NVR2hOcVhUQmM3QlVSSlh3a1o2ZHptV0V3c19qZ2pRMHRndGVRWngzSE5BSVFxQUFRcXlFem10YWdUVk5KbnVEOGVkTlJfNEZPazdDQ0hqM3ZvSmEybTlWR2hjWTRiczZNQkdZSVV4MFhtVzlvNGlfT2llNzNCSUZaZFEwU2thbEVkVjdjQTZhRnh3dmx6bTRtVETSAa4BQVVfeXFMT1lBQTI0LUhZbUxVVER5eVBBX09KVmVxdHdzRW9LMF9vdmJXZnNUSmVRQ1d0dlpLd2t5ak5Mczctd3NsdndFVTBPSEhINXdiNVlDbHNxeVdyR1RUUjVBSVE5WmJ6YnJ1TVkyQS0yNWxBVEdRRFcxdl9SRHlCMHQwcDJ6dWR0YjFUanRWVWcyYjFpbTlQT0F2ZUxoWUhZelhKOVB3eFZtRFdqR3plcmFB?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:06:28.138317+00:00",
-      "search_query": "\"Win two Premium tickets to André Rieu s spectacular show in London and overnight stay\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:34.163014+00:00",
+      "search_queries": [
+        "\"Win two Premium tickets to André Rieu s spectacular show in London and overnight stay\" entry",
+        "premium tickets andr rieu spectacular show london sweepstakes enter official",
+        "premium tickets andr rieu spectacular show london giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "a12c466363f3bca1": {
       "contest_title": "Win Tickets to Wild Summer Lights at Mesker Park Zoo - 99.5 WKDQ",
       "original_article": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE45aGxuREpIV1oybTFnekppektaelJNYVpiSVZiNy1MRGZMa253eW9JaHR0ck5hY2VtNzZiUjlMZ19vOWMxWjlodkNDOWxramNtWkIwUlh4SkRJeTEz?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:06:28.191800+00:00",
-      "search_query": "\"Win Tickets to Wild Summer Lights at Mesker Park Zoo\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:34.060846+00:00",
+      "search_queries": [
+        "\"Win Tickets to Wild Summer Lights at Mesker Park Zoo\" entry",
+        "tickets wild summer lights mesker park sweepstakes enter official",
+        "tickets wild summer lights mesker park giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "738a9c64e78ef466": {
       "contest_title": "Win Tickets To See Blues Traveler At SPAC This July - Q105.7",
       "original_article": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0xOG5GMUZNR21qT3k2bTBJUGhCRUxYRENMd2tPM0pXN0FiN3RUdVd4Smh5MTEwUk1mM1VwYzdVSW5QZEYwUXFER2h6aUJQUWNzTjB6MXNJbVdJTGpkQVdF?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:06:28.134702+00:00",
-      "search_query": "\"Win Tickets To See Blues Traveler At SPAC This July\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:34.121343+00:00",
+      "search_queries": [
+        "\"Win Tickets To See Blues Traveler At SPAC This July\" entry",
+        "tickets blues traveler spac this july sweepstakes enter official",
+        "tickets blues traveler spac this july giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "c5c8ff4c8bc30b0c": {
       "contest_title": "Catch ZZ Top And Dwight Yoakam Live In Brookings This March - 97.3 KKRC",
       "original_article": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9rSlpiXzhwU09DSm9vMWU5RUVtWGR6RzNRUnA5WWNSRE1BV0tUbWh0V1JRNWRtcDlmdzR2V19XcHlwTmN5Y3JCeE1lWnNORE84M1pkSjljeTBMclJydVE?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:06:28.174725+00:00",
-      "search_query": "\"Catch ZZ Top And Dwight Yoakam Live In Brookings This March\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:34.395425+00:00",
+      "search_queries": [
+        "\"Catch ZZ Top And Dwight Yoakam Live In Brookings This March\" entry",
+        "catch dwight yoakam live brookings this march sweepstakes enter official",
+        "catch dwight yoakam live brookings this march giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "5ca1309ea69c09bf": {
       "contest_title": "Blues Traveler And Gin Blossoms To Rock SPAC On July 30, 2026 - Q105.7",
       "original_article": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JR1dPRnItT00tXzZEZGdkTGZJdVpyaGlpVkxZMmJVTGx5Q3RBNzVianNlamx4c2IyQmVDX3NYOWdMWTVjUXhGdVcxV0NsTkFCc2I2MEZn?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:06:28.260684+00:00",
-      "search_query": "\"Blues Traveler And Gin Blossoms To Rock SPAC On July 30  2026\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:34.154714+00:00",
+      "search_queries": [
+        "\"Blues Traveler And Gin Blossoms To Rock SPAC On July 30  2026\" entry",
+        "blues traveler blossoms rock spac july sweepstakes enter official",
+        "blues traveler blossoms rock spac july giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "218eeb31ee4990f0": {
       "contest_title": "2026 Qfm96 Bike Night Tour presented by Buckeye City Motorsports! - QFM96",
       "original_article": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTXpJZ2tNY1hGRE5RdG5FdnBHM3ZqbTBCNXBSUVNiOHVrc0xicUY1ZmNGaDVzckVfZE9OdmNGTnduN1Q3eEI3Z05JOExHeGwxQ0xfOXFIdnN0Mi1sTjdLMUtkU0Z0RDJMZEh5alcwRlVlRUpEMjcwZy0tZ3lXMUpva0Z3R0I4emVtQndMaUZwV1d0ZGw1?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:06:28.199730+00:00",
-      "search_query": "\"2026 Qfm96 Bike Night Tour presented by Buckeye City Motorsports \" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:34.089248+00:00",
+      "search_queries": [
+        "\"2026 Qfm96 Bike Night Tour presented by Buckeye City Motorsports \" entry",
+        "qfm96 bike night tour presented buckeye city sweepstakes enter official",
+        "qfm96 bike night tour presented buckeye city giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "b0d361c0deb7769b": {
       "contest_title": "Slice is Right Contest Rules – 2026 - Lightner Communications LLC",
       "original_article": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObjB1OG1peFIwMFVTd3ZTcGU4clV6RU1tWFVaVGlSSzNYTzZhcm5kczhfaDRXOHMzMGNyemdCaUFUR2J1MHJOVTJHaW1kTkNxbFdyWk5sTklhaklZRUtuelh6V1lNbkRubjJFU2UxU3Ntd0gxNlZRY09Fd092dTJpa0xVdUJNQjQ0QTN1Tg?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:06:28.215381+00:00",
-      "search_query": "\"Slice is Right Contest Rules\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:34.220697+00:00",
+      "search_queries": [
+        "\"Slice is Right Contest Rules\" entry",
+        "slice right sweepstakes enter official",
+        "slice right giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "f6fd789f530d019b": {
       "contest_title": "2026 Carolina Renaissance Festival Text2Win Contest - WCCB Charlotte",
       "original_article": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMmktSGZSY0NtZVFXRGNmTE01aVR5VWJRUU1hNi04b0MwME9xX1p5X0FoMnA5dzhOTHhLZ2gzREpqNHlnNWxxNWYwQk5uSTB1RF9Nd1p0dGQwMFRGQTJ1SmF2YVUySUlBTEkzUkl0WjdWQ2RWS1o4QmxXREtiRjlhSE82YkFnYW1kcTFGbWhvRlgzS1J1dTBsdQ?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:06:28.353034+00:00",
-      "search_query": "\"2026 Carolina Renaissance Festival Text2Win Contest\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:34.391217+00:00",
+      "search_queries": [
+        "\"2026 Carolina Renaissance Festival Text2Win Contest\" entry",
+        "carolina renaissance festival text2win sweepstakes enter official",
+        "carolina renaissance festival text2win giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "b0c00716e19b5bfb": {
       "contest_title": "Cutest Little Vols Photo Contest Rules - Radio NWTN",
       "original_article": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZm8yTVc1RVBhWXJ5MzZlS1daT3I4aVo5RlJpblFTXzI4R1A3MEhUOWg4S0pSRzE3MnhjY3laNEI1UnUyMjR1cktJdTl5ck4tSDV6QXRWUFI5RlU0enEwbWd0WmJJTGYzSU9GUl9JcnM4UndhNnluaWhhb0thaXdYMDlR?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:06:28.232760+00:00",
-      "search_query": "\"Cutest Little Vols Photo Contest Rules\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:34.146363+00:00",
+      "search_queries": [
+        "\"Cutest Little Vols Photo Contest Rules\" entry",
+        "cutest little vols photo sweepstakes enter official",
+        "cutest little vols photo giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "d1da230f120bda67": {
       "contest_title": "Pabst Theater Group Ticket Giveaway- Tom Jones & Roger Daltrey - WTMJ",
       "original_article": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOGx1SHMzLTFUb1k2LVlvRndBaFU3MEs1cTlZaXoxdk1XelRtVE5xczNUeWR5UFBxazBhTFZvY1dEQWVpTDFaY3FtSnJUVlEyeThENTJMNGVDaUZlU2d2Q0lMbElhdHhjVGJLRlVsYXFkN1gycWU4ajNQWWk1R3NQUEt0ajZOUjY0bUlYOFloZG5XS1lZTlhqYkpMLVdkN29QMG02R1dZekNEZw?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:06:28.255254+00:00",
-      "search_query": "\"Pabst Theater Group Ticket Giveaway- Tom Jones & Roger Daltrey\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:34.143258+00:00",
+      "search_queries": [
+        "\"Pabst Theater Group Ticket Giveaway- Tom Jones & Roger Daltrey\" entry",
+        "pabst theater group ticket jones roger daltrey sweepstakes enter official",
+        "pabst theater group ticket jones roger daltrey giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "f54f73a2524c39f8": {
       "contest_title": "California State Parks Launches Second Annual ‘Share Your Space' Photo Contest - California State Parks (.gov)",
       "original_article": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE44ZWpNcnByN3JpV1pvbndXRGk1WVRVN3lPcXk3SER6Y3NnQS1jSENWZHB0RkNqWnlTeHpIWHRScnplQ1pMUFlCQ0Y1QUdfZnYtYUd3?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:06:28.341317+00:00",
-      "search_query": "\"California State Parks Launches Second Annual  Share Your Space' Photo Contest\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:34.425281+00:00",
+      "search_queries": [
+        "\"California State Parks Launches Second Annual  Share Your Space' Photo Contest\" entry",
+        "california state parks launches second annual share sweepstakes enter official",
+        "california state parks launches second annual share giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "61182444092ddfbe": {
       "contest_title": "Your chance to win a trip to the Disneyland® Resort from Majic 95.5! - Audacy",
       "original_article": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRGJqSnJUTjBDRlJkclJlUWZ0WW9hTDNHZHhXODktUFJvMjNaOVR0Qkxxd1FCNW5lOUFnalZ5UHdJV0dqaXdLbG4wQ1dhYTdPNDlMOHVhcFZMVFg4QlU0SWxwWUVXUDRBS1dub3BOMFd6MmZ5b1M0d3JRTGVIWGx1czRtUndIVHM2WVV2SmZvOEFsdldYX2xVVFQ4UlhFTVFJeE8wYXJvdkJNQQ?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:06:28.342473+00:00",
-      "search_query": "\"Your chance to win a trip to the Disneyland  Resort from Majic 95 5 \" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:34.125342+00:00",
+      "search_queries": [
+        "\"Your chance to win a trip to the Disneyland  Resort from Majic 95 5 \" entry",
+        "your chance trip disneyland resort majic sweepstakes enter official",
+        "your chance trip disneyland resort majic giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "55c965641537fb67": {
       "contest_title": "Eagle Medallion Hunt 2026: The rules and how to play - Wichita Eagle",
       "original_article": "https://news.google.com/rss/articles/CBMifkFVX3lxTE84UTY0cGtDYzctZ3ItT2NDbUxJem53aXFyNWtObUVwajItdmdxUmVNRUw0Xy1XNk9kNmc3U3RNX3k5R2ZmVVdPV3NBaEp2Z1d6aV9KR3poWkhQYUdrZkFONVBVb2llSEluUjA2VGh2dGFSYUdlRlROMDd4WUNvZ9IBfkFVX3lxTE4ta3p6TW05X253VmMzRThtNkotWF9EVUlrSGs3SE5pSHJGejBWOFJjUHQyd29tWG90bElXVm1STHVLOExSVndwNHZxNGNCeXVpc1k3Uy1vLW9xUWp1N0tPcUxDNmVFQXRJTkM2MmtqV0VUR2JzV1dCRW55d0JfQQ?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:06:28.338870+00:00",
-      "search_query": "\"Eagle Medallion Hunt 2026  The rules and how to play\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:34.611796+00:00",
+      "search_queries": [
+        "\"Eagle Medallion Hunt 2026  The rules and how to play\" entry",
+        "eagle medallion hunt play sweepstakes enter official",
+        "eagle medallion hunt play giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "3a7699bb1fa78fb8": {
       "contest_title": "Motor City Comic Con Kid’s Program Guide Contest Deadline Monday - WHMI",
       "original_article": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5VWWZPUlRWN3pBSlpJWkNRaTlLY09qTVZTMkN4azN2VGtiRGJzaDFuQmVyeENmcFFfMVdEYmxCMlo0c1ZPNS1lSk13eDRYVVJW?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:06:28.396286+00:00",
-      "search_query": "\"Motor City Comic Con Kid s Program Guide Contest Deadline Monday\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:34.720409+00:00",
+      "search_queries": [
+        "\"Motor City Comic Con Kid s Program Guide Contest Deadline Monday\" entry",
+        "motor city comic program guide deadline monday sweepstakes enter official",
+        "motor city comic program guide deadline monday giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "791d23288ccb207f": {
       "contest_title": "Extra Points Wisconsin State Fair Ticket Giveaway - WTMJ",
       "original_article": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVVU0RjAxVHJpWVRWWjNCQ01jZmRKY0EtTEhlcUdiSEFqbFpVTW1HQlRqUFctcGw5RThpV0o2aFk5eENTR2VjRUpEMkJwazdzRXZYTmp3RmpwYzk4SmJ0UkJiZ2N2TzhXanBMU2lidWJlWHNyYzJZUXYycWp6N0hKMlNTZUI5UlNEOEJKckFVSkN4N0U?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:06:28.474944+00:00",
-      "search_query": "\"Extra Points Wisconsin State Fair Ticket Giveaway\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:35.065710+00:00",
+      "search_queries": [
+        "\"Extra Points Wisconsin State Fair Ticket Giveaway\" entry",
+        "extra points wisconsin state fair ticket sweepstakes enter official",
+        "extra points wisconsin state fair ticket giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "3a6b9cce114cad64": {
       "contest_title": "OFFICIAL RULES: 2026 Seattle Hyundai Hometown Heroes Contest - KING5.com",
       "original_article": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOTTV5ay1DYkhzSlBCSnZHMlZtOGxieElGd1lUT2xoY09hSEp4UFVkNU1VczdWcFI0N21SbzYxR1pHRGk2Q0dpRDUwSVZhQ3o1Sk5yZFFCeVZvbU1vaXV0Tkt1d3FyU3gyVnhJa2lKbmNLSEdhQUJNZkRtb0NibEpvZHZEc3lMMHZ2LTZkMVk4VFJiT2N5S09ZWFI1ZUl3LXpwVjVGa3hFcklhSS1jbExfaDZRdVViRkxwdWliQkNhbXBuOTBRaFVOeEM2cDZpSERnQUFTTUd4MTd4WW5LeVlsYzhVZWI?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:06:28.389079+00:00",
-      "search_query": "\"OFFICIAL RULES  2026 Seattle Hyundai Hometown Heroes Contest\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:34.687423+00:00",
+      "search_queries": [
+        "\"OFFICIAL RULES  2026 Seattle Hyundai Hometown Heroes Contest\" entry",
+        "seattle hyundai hometown heroes sweepstakes enter official",
+        "seattle hyundai hometown heroes giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "d0f935831565aca1": {
       "contest_title": "Basketball Mayhem: OFFICIAL RULES - WRDW",
       "original_article": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB1TWljYm54V05yMTFBeGZiNEsxWmFjbE9PWnE4a2NnWnA5MktBa08wOE00VUF0SVFJWGxCNUt4c0QwUTB5RmFqa1hlVjZTdzU5WTBkX3RwN1BwQUtfNnhfNnROVnQ3azV4VHVfaS1NLVpBSzDSAYcBQVVfeXFMUHRjMGhES1I1T1JCdEdFdlNHQlU0ZC0yLUlYWmpIcWVGdkE4ZV9tTDlBeDktMHM5V09rMEE3SGhvTFlHM1VMSWVyM0V2MmxsRzBiek81SDRGOHZ3SXNPcnlxY00xNF81Y3FwN016Smt5X3NDS2ZhRkNybUZ6bUhpVUt6MGExLTd3?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:06:28.490745+00:00",
-      "search_query": "\"Basketball Mayhem  OFFICIAL RULES\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:34.868027+00:00",
+      "search_queries": [
+        "\"Basketball Mayhem  OFFICIAL RULES\" entry",
+        "basketball mayhem sweepstakes enter official",
+        "basketball mayhem giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "631e6a4b8e18a238": {
       "contest_title": "Gerber Names Its 2026 Gerber Baby - Today's Parent",
       "original_article": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJSjh5RWk5cElnY2xEM185bTRESmVrcnlfT3d2aWNvdEVsTVREVWRyUVFUTnI4RHZNVU1Qalg3clAxQW9pLXRHNG1TeW11YWVtNnRyTW03RXRoZ1JTLXhhXw?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:06:28.452509+00:00",
-      "search_query": "\"Gerber Names Its 2026 Gerber Baby\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:35.198878+00:00",
+      "search_queries": [
+        "\"Gerber Names Its 2026 Gerber Baby\" entry",
+        "gerber names baby sweepstakes enter official",
+        "gerber names baby giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "e7cd5f85ac92420c": {
       "contest_title": "How to vote for 2026 HGTV Smart Home in Florida, $1.3 million prize - Florida Today",
       "original_article": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTVB3OWplMUd0OUphOUxCYnVyR0VnX0wxTTlBS3ZhWFpIM0N2a3QtTDBYcHpkVC1Rd2l1cHd0VVpjRHBoSmEyZzBXXzhhVENydF9ubWVsUXU0ZTZnWUFDWVZJcnhUR25vOXBXLXI5WEVRcG13OE5yTzZjTktqUkJhdHNzSWNIX3YzcWJpeHZXSmc4bHJUNmdIOUdzQlV0U1BwUDJMek8tcDJOZ2M?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:06:28.501457+00:00",
-      "search_query": "\"How to vote for 2026 HGTV Smart Home in Florida   1 3 million prize\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:35.197497+00:00",
+      "search_queries": [
+        "\"How to vote for 2026 HGTV Smart Home in Florida   1 3 million prize\" entry",
+        "vote hgtv smart home florida million prize sweepstakes enter official",
+        "vote hgtv smart home florida million prize giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "0a9e3265033e93b7": {
       "contest_title": "Grand Prize of the Consulate of France and AFLE 2026 - La France à Hong Kong",
       "original_article": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMTlXZXI2Y3dPQ2pQSG5Ob1NkUVBUTmhKMGZGSHlmSjBDeGE3a0RJdDZSMXUxOXg1NDFuMjBTLTdSZEh6bVJVRXBwMmZzRk5vaUg0dHg5eU9Gd09pWl9DVjlwUmFhbzZMT3NmQ3ZwX0NCRHJiUFBzRU80SHVLOFpXSDEyZ1NkWHBi?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:06:28.459808+00:00",
-      "search_query": "\"Grand Prize of the Consulate of France and AFLE 2026\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:34.738942+00:00",
+      "search_queries": [
+        "\"Grand Prize of the Consulate of France and AFLE 2026\" entry",
+        "grand prize consulate france afle sweepstakes enter official",
+        "grand prize consulate france afle giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "00faea323c7c04c2": {
       "contest_title": "Freebie in the 5th - WTMJ",
       "original_article": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBfd2lEYmtydFlxWGFsVUhyekxiRkZBeDhZdXlOM255ZGtTZExmU2ZhbDNvaXAyeWJnSnNsUlQ0QmJtUU55VFVlNXVsMG9HMWgzZndEekhVUVhSbDcwd1M1OURsbVlGbTdVdFc3WnA0NlZLX3M?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:06:28.531267+00:00",
-      "search_query": "\"Freebie in the 5th\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "status": "insufficient_title"
     },
     "c8df1257bd541a41": {
       "contest_title": "2026 Dream Boat Fishing Challenge Official Rules - www.thefisherman.com",
       "original_article": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaWRpSm1seXZuMjdIeDRKZmxPNXJoTEFVYk96V1c2T3g4RzczYWY3X0ZDcWY2QkZFbWF3emYxYV9reWNNV1JDZy1nZjRrdlRBeTJYVmJIWDJ5YlBpdHlKMmN4ejBicGh0eFppdXktQWZsWTNDMkJYWEVpVEpNMzBLQ1F1bVU?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:06:28.515423+00:00",
-      "search_query": "\"2026 Dream Boat Fishing Challenge Official Rules\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:34.841659+00:00",
+      "search_queries": [
+        "\"2026 Dream Boat Fishing Challenge Official Rules\" entry",
+        "dream boat fishing challenge sweepstakes enter official",
+        "dream boat fishing challenge giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "cda8c3ae9568ab1d": {
       "contest_title": "HGTV Smart Home in Florida. How to vote, info about sweepstakes contest - Florida Today",
       "original_article": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdXNFTGxBc0tHaTJfa2hLd0FLTmE1ekROd1Y1aUtyMEtDa1o5V3dRSWsySk1McVJyMXNOY0NyUVBVUmZxbzlxS19jWVBLNzhzTFRiVHpIb09EcXFRV1lsSjhSSm84Y25kb1FRWDMtdkNLRG96X3Y0WUotMzJDd1lwS3hINExGTENwU0JXQkp3UFowTDlxTEhWOG1SUG1xNFBZc051Zmk3dE5ucnBwb3UwbW1feUx0VWpZeXVWZ242cjM1eHdxYTV0Q1NpYTc?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:06:28.541199+00:00",
-      "search_query": "\"HGTV Smart Home in Florida  How to vote  info about sweepstakes contest\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:35.270279+00:00",
+      "search_queries": [
+        "\"HGTV Smart Home in Florida  How to vote  info about sweepstakes contest\" entry",
+        "hgtv smart home florida vote info about sweepstakes enter official",
+        "hgtv smart home florida vote info about giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "a57e10235a371d36": {
       "contest_title": "Survivor Pools - NFL, NBA, MLB, NCAAF, NCAA March Madness - USA Today",
       "original_article": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPY0p0RGgtU3o2ODZlQk9CU1pZOWZaSTJDSl82dEtiQkFBNFFqbmR3c1NtNGVRVlpiZ1dyR0U4WnJYbnAtTG5LSXBEY1F6dFVOT2ZEalNwU3dhMEpCOFdvR2tkWkstX2xiZ3dVYUE0X3A1WF9sT010eTVQYVY2OWFzelE3Qmc1NF90a2tHZ2Rabw?oc=5",
-      "status": "possible_entry_pages",
-      "looked_up_at": "2026-10-31T04:06:28.666161+00:00",
-      "search_query": "\"Survivor Pools\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")",
-      "possible": [
-        {
-          "url": "https://people.com/survivor-contestants-who-have-died-12135018",
-          "title": "Remembering the 17 Survivor Contestants Who Have Died Since Competing ...",
-          "overlap": 1,
-          "destination_check": "page_blocked_or_unreachable"
-        }
-      ]
+      "looked_up_at": "2026-10-31T05:32:34.947706+00:00",
+      "search_queries": [
+        "\"Survivor Pools\" entry",
+        "survivor pools sweepstakes enter official",
+        "survivor pools giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "ebbe67d97aa1e609": {
       "contest_title": "Parade of Homes Ticket Giveaway - WTMJ",
       "original_article": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPT2RFVG0tcUJNMFM1amg5TFJvcjdRV2pQZHktVjV0X2h6dUNjc3ozYTBGbk9HNFRoQWNnclF4bS1pcXVrOFdPX2hsQkdTb2lnYnhJTnhXanYwTGV1MjBXSlZ1ZVRpRW5nVWFmWjVQZ19TMHR6aVFndER3bVdscDJPczk0RFU?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:06:28.588754+00:00",
-      "search_query": "\"Parade of Homes Ticket Giveaway\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:34.990524+00:00",
+      "search_queries": [
+        "\"Parade of Homes Ticket Giveaway\" entry",
+        "parade homes ticket sweepstakes enter official",
+        "parade homes ticket giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "7c1fb9680ce3a26d": {
       "contest_title": "Jay Leno Ticket Giveaway - WTMJ",
       "original_article": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ocUs0aC1KWS12VFNINDhUdHRVZnJfeGtJZmNCRzlMeWx2TG5wZ3BFUW1RcmNWbWVUS19yaEc5bS04WFVEWlZzeHM1anJ6cFF2dW9pRDQ1bDd6TkgzeE1QUk5uSldqQnlXdVBzY3ZzMDBTeldPVXVQWDhzVQ?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:06:28.598813+00:00",
-      "search_query": "\"Jay Leno Ticket Giveaway\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:35.772319+00:00",
+      "search_queries": [
+        "\"Jay Leno Ticket Giveaway\" entry",
+        "leno ticket sweepstakes enter official",
+        "leno ticket giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "beec081112be45a5": {
       "contest_title": "Top NFL Survivor Pools Online for 2026-27: Best Sites for Free and Real Money - The Sports Geek",
       "original_article": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ReXQ4aUJmN2lmTlVUTnZrMTZ0czU3c2EwOFNGRTRsei0tckhMS0g4SDMtOW82ZUtJYXJGWDA4cHd1U1JvU1JWTHJwZ3htR1ExUnhiSU9Pd0FibDRBeXEzUVRRZGI?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:06:28.713991+00:00",
-      "search_query": "\"Top NFL Survivor Pools Online for 2026-27  Best Sites for Free and Real Money\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:35.277148+00:00",
+      "search_queries": [
+        "\"Top NFL Survivor Pools Online for 2026-27  Best Sites for Free and Real Money\" entry",
+        "survivor pools online best sites free real sweepstakes enter official",
+        "survivor pools online best sites free real giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "88bd0a0147665233": {
       "contest_title": "Moody Gardens Ticket Giveaway - KEYE",
       "original_article": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZ0NJOElGTG84Z3ppSzRJY2ZHRzZfSHpMYklESk1PWG9ZOHZrR0JBYnlwbWVtQnVnRzdwaDYybmQ2eGVJUEdXZTdCUzlkd0JvQjdEbWJ3U3hkbE5iVmdwaGRWRm1PMDgyMzhXdnJLdkZ2MERpR0lPRDVYTzFjaXB6aThpUUVoZw?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:06:28.629136+00:00",
-      "search_query": "\"Moody Gardens Ticket Giveaway\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:35.324344+00:00",
+      "search_queries": [
+        "\"Moody Gardens Ticket Giveaway\" entry",
+        "moody gardens ticket sweepstakes enter official",
+        "moody gardens ticket giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "2db1eb551f6bdf21": {
       "contest_title": "Cut to Black Prize Opens 2026–27 Screenwriting Round With $10,000 Grand Prize and Industry Exposure During Judging - EIN News",
       "original_article": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNdHFMdmVzdHQ0M282LTdjUkFFdnE5QzRfbjFBMUxLbXNReEhDOWFCcVhPMl84YmdoYmRSZHdLd2ZheGNZNDlueDd2ci1yM2s4eVJnWXJNZEhJTmVrZjNyWHFlWEhXa3k2XzBEN1VxQldhZzJ2cFdqTDNhZWhhZmg5U1A1NW1IMGlodEJyM3VFMHNUM0NVdGoyX0hCZWFCanJPY1VEakVFX01jM0NfNDRRVHI4VF8tZW52Y0VnUjlqYjJQeGdfMnlic29MMXdqSlJ6aVlXSENjYzd3NEZuZ2NYRWtBSnctMXhzRFEw?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:06:28.662104+00:00",
-      "search_query": "\"Cut to Black Prize Opens 2026 27 Screenwriting Round With  10 000 Grand Prize and Industry Exposure During Jud\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:35.391753+00:00",
+      "search_queries": [
+        "\"Cut to Black Prize Opens 2026 27 Screenwriting Round With  10 000 Grand Prize and Industry Exposure During Jud\" entry",
+        "black prize opens screenwriting round grand industry sweepstakes enter official",
+        "black prize opens screenwriting round grand industry giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "c9b0e2f753739285": {
       "contest_title": "Ticket Tuesday on Wisconsin’s Morning News - WTMJ",
       "original_article": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQREMxLVcxd19HdFZiRGQ1dkJTWHNLblMwQThodEZILXFNS3ltWDZERmNmT1ZxTl9BR2VCeUlNR0xfMS13WHAyUDBuYVQxRjBmcmp4ZG1sTlNIY0RRWXBMYjJfMmlQTXZPNDNuT2VHLVRJQWlnUVc0RW45VmxYOGt1UnBCZnE1V2tFTElkaGJOMDBnWGxx?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:06:28.662793+00:00",
-      "search_query": "\"Ticket Tuesday on Wisconsin s Morning News\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:35.581193+00:00",
+      "search_queries": [
+        "\"Ticket Tuesday on Wisconsin s Morning News\" entry",
+        "ticket tuesday wisconsin morning news sweepstakes enter official",
+        "ticket tuesday wisconsin morning news giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "05872f3142a63527": {
       "contest_title": "2026 Cream Puff-a-Palooza - WTMJ",
       "original_article": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5pUk56aWw0UlZxMzNhbmtJUHlMNzNyNHdXZU1rbFRYbDNrX0kzNEtlYWdXWDhtZEYyZW5PNU1PblRWbmJETjFhQ3YyQ3lxdW9XNGVWYVh5WGZiUEZ0Y3ZZbkc5aVpDZ3hiajZjRkl1UGt5UUs4c1VzcGtqb0o?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:06:28.688978+00:00",
-      "search_query": "\"2026 Cream Puff-a-Palooza\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:35.404554+00:00",
+      "search_queries": [
+        "\"2026 Cream Puff-a-Palooza\" entry",
+        "cream puff palooza sweepstakes enter official",
+        "cream puff palooza giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "809809320c018e08": {
       "contest_title": "Ticket Tuesday on Wisconsin’s Morning News - WTMJ",
       "original_article": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObFBTMy1GMFFFLS0yQm9jcXpnQ3ZycVJ3Z3g4UjdMSFBmazBBN3BaVHBYM01ZR09uMHBBdGF6V19DQ0N0blhuVmlQbW5IMDlORzlnRmFzUmZFYkE3MGhWb2xhSFVMOWhaMVNqUnh3dzI3VThnVUFTbzFRTjVjS09OLWR1eFNyTVRDYk9Ba0QtX1lOUQ?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:06:28.787791+00:00",
-      "search_query": "\"Ticket Tuesday on Wisconsin s Morning News\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:35.888817+00:00",
+      "search_queries": [
+        "\"Ticket Tuesday on Wisconsin s Morning News\" entry",
+        "ticket tuesday wisconsin morning news sweepstakes enter official",
+        "ticket tuesday wisconsin morning news giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "e6ea899b41c3d847": {
       "contest_title": "KOB Cookoff Contest Official Rules | 2026 - KOB 4",
       "original_article": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcjM0NUFaYkVDTnF4aWVRdkg3YTdRQjhNZXltVTJCbjEyN1NjcDlzZHlyQWNsUXdpcFZ6QnhjOXBnNFhKM2NyNFNiZkJOUGNyMHBnWmdFMVBNampsbURmd2ZQUWtORG9yTHREdHU3OHo5U2s3SzN2TXBEQ21NNHBLVEo0R0RDZw?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:06:28.735832+00:00",
-      "search_query": "\"KOB Cookoff Contest Official Rules\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "status": "insufficient_title"
     },
     "98be8613580b3c3f": {
       "contest_title": "Cut to Black Prize Opens 2026–27 Screenwriting Round With $10,000 Grand Prize and Industry Exposure During Judging - EIN Presswire",
       "original_article": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQbHFRUkozN3hfa3ZTVUU2bS03eWNLYjBxcE1zZlFPZjhOLTU0YVdJbkw1MG5EekFvUVBkNGY2NjNLYlVSUEszMGs3WEpheGcyZ2JSZllCM3ZSSGduc1RaZnJfRlZuYUVVejB4cXI4S0tySmk4a0ZlZnUyU0dLWGI2WGJpZWVGQkthQ2Q5cmF6RW9PRHMzSWt2VlhSdmQ2V2d4QWJCMFhMNlNZWkE2R285d2tKeWxSVjBWbm1DOGdLNEhNNWl6MGtJQTZFaFB4a2dzUEItT0JON1AwWEc1dkxiUDNrY0l1MHl1SUN2SnhPMktkdw?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:06:28.721446+00:00",
-      "search_query": "\"Cut to Black Prize Opens 2026 27 Screenwriting Round With  10 000 Grand Prize and Industry Exposure During Jud\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:35.797455+00:00",
+      "search_queries": [
+        "\"Cut to Black Prize Opens 2026 27 Screenwriting Round With  10 000 Grand Prize and Industry Exposure During Jud\" entry",
+        "black prize opens screenwriting round grand industry sweepstakes enter official",
+        "black prize opens screenwriting round grand industry giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "e98bc5b32db74685": {
       "contest_title": "\"Looking Fly in the Cacti\" Summer Giveaway - Great Bend Post",
       "original_article": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBLdnBEdUdOU2pGVHJzYWFzVS1QeHhSdkpPc3EwYjNOV3ExUjJ6Z2NKRktPMFBSek5nUVp3Y1hyR0hmZUttczZsckxlYW91anRyU3UxT2lsUGhXUFo4d3BBWGxLemtqaGg2eHpOZzFLeVJTclZKcUY0?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:06:28.816842+00:00",
-      "search_query": "\" Looking Fly in the Cacti  Summer Giveaway\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:35.646213+00:00",
+      "search_queries": [
+        "\" Looking Fly in the Cacti  Summer Giveaway\" entry",
+        "looking cacti summer sweepstakes enter official",
+        "looking cacti summer giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "867c243fcebc92f9": {
       "contest_title": "KIRO 7 Gas Card Giveaway Sweepstakes Official Rules - KIRO 7 News Seattle",
       "original_article": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOEoyZDRvX1lJdjhldjAtcmRVbHZwSm82VlVRSXprSzVzMm40S3Q5OHl3YlRNWTFHbzh0UU93ZXY0aUJ4MjN5X05YbWpGYWFNVmdZelJzUWJ0emRPV1dpOHNRc2Jvc0E5bDJoZjRGSWdZQjBZYzJxVEN5UGhoa2J4QXJtN3l2cUVsSU9hZEg5dG5waHRrVnNfT0g1LU0wX29tbHlSeW42ZWxBRUJOUEHSAcIBQVVfeXFMTm9yM0N6ZVQ4WWtKSEVKaWZhbWd5SzJ6bGR2NFFFODdPMXVYamJvakhFRHhfTjlyQTVsU242cnJrRFh1anVUdzV0ZVp6eEZsMzVWSmRkM1Z6dTlOaVlwMXQxQ3pLSWpYQS1FbUxXamQybVNYU0ZLNEMyNTBPODA0YlhMT2hfU3BFU2ltSVpjam5WZTg0YjRFbWZwa1h2WlZma3h3SjNMTExrRG01cW01Y0ZkZGwxSVJtcEdRSkNFS25FR2c?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:06:28.806829+00:00",
-      "search_query": "\"KIRO 7 Gas Card Giveaway Sweepstakes Official Rules\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:35.788658+00:00",
+      "search_queries": [
+        "\"KIRO 7 Gas Card Giveaway Sweepstakes Official Rules\" entry",
+        "kiro card sweepstakes enter official",
+        "kiro card giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "f9f10ff5a6c3bc42": {
       "contest_title": "Square Enix Launches Game Contest 2026, Grand Prize Set at 300 Million Yen - GamerBraves",
       "original_article": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQT19nRDFfTEJmdnR0c2FHSjRvUS10NnlzR2h4Zmh1RnRhc0xqeVBiY0tWeWZsREk4TVEtMmFlUHZRdnpMWVd1dkxHMXFXcVRfbHl0by13dXpkb0FwUlZMU0EtR2xmZUNIcF9nbGNZZXZ0bjR0MjU0Mjg0eGhGOEtYbWxVV2lLZkdnYUFZdzI3cWE4ZzQxYjMxLWFyZGU3QXdoMmNTbQ?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:06:28.841791+00:00",
-      "search_query": "\"Square Enix Launches Game Contest 2026  Grand Prize Set at 300 Million Yen\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:35.767184+00:00",
+      "search_queries": [
+        "\"Square Enix Launches Game Contest 2026  Grand Prize Set at 300 Million Yen\" entry",
+        "square enix launches game grand prize million sweepstakes enter official",
+        "square enix launches game grand prize million giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "e7cfe8380cb36c41": {
       "contest_title": "Alan Jackson Extends His Support for CMT Research - Alan Jackson: Last Call Tour",
       "original_article": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOU0ZLSTI5aDF2SmVDb2RiMEFkTkFPWnJudUhRWEc4T1lIOFZDbUpNMlFCM2JvelRyMVRIVVlfaXF0Znp2bncyeHBkUUpsTEFMS0RURHQwVmQwOVZ6dk1GTzNqcF9zazNOQkl4c3JPb0hCaWU3UV9DTlh2WjZBakxFb0xGTjdHTlV3RlE?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:06:28.913545+00:00",
-      "search_query": "\"Alan Jackson Extends His Support for CMT Research\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:35.894259+00:00",
+      "search_queries": [
+        "\"Alan Jackson Extends His Support for CMT Research\" entry",
+        "alan jackson extends support research sweepstakes enter official",
+        "alan jackson extends support research giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "a5e2ba86ed075554": {
       "contest_title": "Bruno in the Big Easy – Contest Rules - 99.9 KTDY",
       "original_article": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBMM25KeVNoLTF4QlM2aEsweXBseWJjWGU3dE9wLXR1a1ZpWWRYRXpFZ3A0WGxCcTZFQ3JKRXJocTAyTTdyd2s5dlNRODh3QWRZSDRvcDk0RGx4M3o0aXUw?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:06:28.899762+00:00",
-      "search_query": "\"Bruno in the Big Easy\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:35.864730+00:00",
+      "search_queries": [
+        "\"Bruno in the Big Easy\" entry",
+        "bruno easy sweepstakes enter official",
+        "bruno easy giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "d968c847be018a5c": {
       "contest_title": "The 2026 Dream Boat Fishing Challenge - www.thefisherman.com",
       "original_article": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1yVEdVRW0zM3BMb0c0bENGWDcta3g2b1NiT2NHNW5mTmwzbFFYVzhfbU1DUVpiZUN2b0ZJUjhvWXBTQVUyYThoWHZBMF9HR1dWSUVET01CQkRWRlYyazBheVFNalNVcmVONU5tdXBzRWVMZjJLZkE?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:06:28.908104+00:00",
-      "search_query": "\"The 2026 Dream Boat Fishing Challenge\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:36.361251+00:00",
+      "search_queries": [
+        "\"The 2026 Dream Boat Fishing Challenge\" entry",
+        "dream boat fishing challenge sweepstakes enter official",
+        "dream boat fishing challenge giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "a64901d2d4aedb38": {
       "contest_title": "2025 Big Ol’ Buck Hunting Contest Rules - Tuscaloosa Thread",
       "original_article": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBTdFdOMVVEZ242NS1qNGdpR2I0eXpFUDlXbEZfVUhJZW4wZngyeGNIcHp4QnlUT2M4Vjd1Vm0zWlRjYmhBRGZjQk5DYkpkb29hSEFBOXUydjN1RnkzTHY3V3JQQ3VRdUotMDlYVg?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:06:28.860914+00:00",
-      "search_query": "\"2025 Big Ol  Buck Hunting Contest Rules\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:36.421353+00:00",
+      "search_queries": [
+        "\"2025 Big Ol  Buck Hunting Contest Rules\" entry",
+        "2025 buck hunting sweepstakes enter official",
+        "2025 buck hunting giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "d4a88365281d1e6c": {
       "contest_title": "Enter to win a Play Stay Dine Jackson Rancheria Gift Certificate - ABC10",
       "original_article": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPWmdsUlFWSUlTdnNvc1BvcFZ6SFF2QWlQZjJkemUwYndUMFZYYl93NVJ2LVhhUGZPWlJLWGlOYUM4LTFyQTU5Z2hGZ01mWFdqcUdydWI5a0RYWnJQNzVmd21fVEhmcjBDQ3lQYWtaMHM0d2FkUFpKdGFnUlhqc3FxUFZvSzNCWDJpU2Z1NDVtbmVqaUdJcnVsTUZRU1E4UFYzV3BhYlp0STZ5bnFfMTZsdGVMbTdfcnk3ekRzYkNYNjZ0T0xNSjFTXzNLWkZKQVdxMTZTOEhlcldkdmdncDhFOHBqaTh1S3Y5S1FkMzltb29qVzN5aUdJ?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:06:28.915886+00:00",
-      "search_query": "\"Enter to win a Play Stay Dine Jackson Rancheria Gift Certificate\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:36.022967+00:00",
+      "search_queries": [
+        "\"Enter to win a Play Stay Dine Jackson Rancheria Gift Certificate\" entry",
+        "play stay dine jackson rancheria gift certificate sweepstakes enter official",
+        "play stay dine jackson rancheria gift certificate giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "20de56aea4ab4268": {
       "contest_title": "Mastercard 2025 Everyday Spend Contest‎ - Mastercard",
       "original_article": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMmdpM3NEeWVUTnBPdGxJeVI5dFA3SjhHeU9PaHBiSVdMQkV0M21NXzZ4VXV1b2wxQTFwNnNPZndWMloxdnBVZEQ1VkVnckU5OEZkYWdqS2RDUGJRdW5VX0RoTXJ5OUVVNnhLYm1QYWY4S2tCTHRXRlJNaGFXYXVWYVVycl9LVzRYbW5ab0wtakdCUlhoV0Z6SGx1U1M?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:06:28.940314+00:00",
-      "search_query": "\"Mastercard 2025 Everyday Spend Contest \" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:36.626473+00:00",
+      "search_queries": [
+        "\"Mastercard 2025 Everyday Spend Contest \" entry",
+        "mastercard 2025 everyday spend sweepstakes enter official",
+        "mastercard 2025 everyday spend giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "47cfbffaac6e602e": {
       "contest_title": "Wendy's offering $100K for Chief Tasting Officer. Here's how to apply. - USA Today",
       "original_article": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQLUVJNmM0YXlPVUpUX3NGSWdVV21pT2RRN01xb0lXYmxBUHhVQk04WHljcHdrUjVCMlFPZkRWQUpzWWlUV245aGlfMWNOYWUxX3dWUDN4TTBCbVJBU3BKTjdWQVFMbnFmblBTbFJEc1pXRHJOajU2Vk9UZGYtaHYwZlNHclJYbm1XbjNoc21YNTViR0NGQjYxanVKR2FBLThtSGlz?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:06:28.954422+00:00",
-      "search_query": "\"Wendy's offering  100K for Chief Tasting Officer  Here's how to apply \" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:36.403004+00:00",
+      "search_queries": [
+        "\"Wendy's offering  100K for Chief Tasting Officer  Here's how to apply \" entry",
+        "wendy offering 100k chief tasting officer here sweepstakes enter official",
+        "wendy offering 100k chief tasting officer here giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "65e30d6057c0bc8f": {
       "contest_title": "CBC Literary Prizes rules & regulations - CBC",
       "original_article": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOXJuNFhYcWItTTBrck9NaHVhNzY2UXZrSllxR0tCd3RvVFFPbmdfOFRiekkxY0NSS2NLbU1CS2djVUkzMG9pd3J2dGNVZVZuWm1mcXdSWUJBZ1dWajRPaWVpUVpfdlBvVHI5TVNUWFJaZXZGSndONUZoUGtZOWJCOEdqSTA5QjZGelBacXRzbG8?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:06:28.967275+00:00",
-      "search_query": "\"CBC Literary Prizes rules & regulations\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:36.341235+00:00",
+      "search_queries": [
+        "\"CBC Literary Prizes rules & regulations\" entry",
+        "literary prizes regulations sweepstakes enter official",
+        "literary prizes regulations giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "7de43e8729677eba": {
       "contest_title": "AI-generated isekai novel that won a literary contest Grand Prize and Reader’s Choice award has its book publication and manga adaptation cancelled - AUTOMATON",
       "original_article": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOVU96UEJqcHY1YWd3MHBaWDEwanNxaVN1SXdYeEthU2MtSUU1akpaTGtidmlLZGpzc01RVEthZWhFb29lZzhRa3R4c19VWDVkakhwYUhGWFVja3p0RVFuN0pzcndpQmlaczJ5QmRoak1vaG5NN0FnOURyWnIxY2VQZEZTTzZUV1paVjRNY1FqRVpJZXJiNHFhTUV6THZsLS1Zek95Q3JYb1ozdjQ5LS1DSmZCNWJJa01QdW1sMWR0RTJRMlBoTXhZV0xpU0Q5dVc3MnBFc21MamVlenBURmhtUkFTdUlYNHoxbF9KeEs5T1hoUXR2VE5HOWJQNWJWYjBURXRrR1dXbk94VWlRM2dkZw?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:06:29.012078+00:00",
-      "search_query": "\"AI-generated isekai novel that won a literary contest Grand Prize and Reader s Choice award has its book publi\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:36.369277+00:00",
+      "search_queries": [
+        "\"AI-generated isekai novel that won a literary contest Grand Prize and Reader s Choice award has its book publi\" entry",
+        "generated isekai novel that literary grand prize sweepstakes enter official",
+        "generated isekai novel that literary grand prize giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "84ca7387a0abd853": {
       "contest_title": "It's March Bracket Challenge Time! - KREM",
       "original_article": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZ2dCZ3NuLXdXazhEckdDSzhCX1J1VkxXRE9uaE9qZ0kxVWpwOU1kcDI3NWJOQmNObm1Zc3lXOVdqRkNXX09tNGtiOFQwNXZKTUxjSTJPYml1Qm5kWW9PRWZZbUU5a3lpdlJNeW5hQzd2RTZodFhmNXdEaEFkVllxNEl6WTlfVEtwdXVxZzVnX3V4dVVBNmhyYWlZd2NXX3ZiTEd5LWxRSHUwRlRQUzB0QVhzNGMwWHVidGNFWGRuY0tEQXJ1ZVdZMjVIM0xRXzg0MnotMzVEMW1mQ29ZM2pvYnZHMS0?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:06:28.995392+00:00",
-      "search_query": "\"It's March Bracket Challenge Time \" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:36.312425+00:00",
+      "search_queries": [
+        "\"It's March Bracket Challenge Time \" entry",
+        "march bracket challenge time sweepstakes enter official",
+        "march bracket challenge time giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "36400e353ae0bf6b": {
       "contest_title": "2026 Cover Art Contest - Western Horseman Magazine",
       "original_article": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1mLWtHRG5JNTR3SEJDR0ZVVnI3U3ZwT2tiVU5Kb2xvTVNoamNtamtiQ2Q3UE5jOGdvVllHLWNEc05zNlZTQzFQSllFaTdZSlhPdEFrQkdRY2JQcDVMN3JrQVNWS0xyRk1lUUdxcjdFSTlOVG1pTThhOUtQNA?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:06:29.054926+00:00",
-      "search_query": "\"2026 Cover Art Contest\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "status": "insufficient_title"
     },
     "959a9708f84da46f": {
       "contest_title": "NPR's College Podcast Challenge Official Rules - NPR",
       "original_article": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRENTLXdibEVVbWN4ZkdMTEZIcG1tRE54WWRaMkZJenhqOVZ0U0JMWjlqSVhnQ0VXSGZFY3BxOEtQRjZ4UFZ3TTFiSmFPM19TOXJqbkFEYTJNeFpkX3BLS3NXaGtnNVQtYWt4QlIteHd3aVhFOEJWQm5WZEltZmlqdGo5NDZ6dnhYanlQZWdZa2syUjZuazBTMTJBdkdmczdNTTBJ?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:06:29.027712+00:00",
-      "search_query": "\"NPR's College Podcast Challenge Official Rules\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:36.315831+00:00",
+      "search_queries": [
+        "\"NPR's College Podcast Challenge Official Rules\" entry",
+        "college podcast challenge sweepstakes enter official",
+        "college podcast challenge giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "e54a6f8ab43e82a0": {
       "contest_title": "Great Day Houston Red Apple Award Official Rules - KHOU",
       "original_article": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNjN6aVlNV0hnZFpicHIySjMta3hoNjNLNEVmblFDeEdmMl8yVnZCY1l2ekJfcFh6bU95NWI1VEt5ZWV0ZjBuSEVVS2ttQXlJZi1ZanhOa0xMZnk0aGd5X3JlXzRwelZ3NUZzQlY5bmJBeHpPeUZHUDdvTnBWU1laVElzUV9kbmlTbWhLcnZGRUFuZjRobmNqNnBzd1dUSDA2djdEX2JHd0F0cllzcWFBVVhkVWFyTTJFc2w4MHJQbnVYUDBZc3c?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:06:29.074387+00:00",
-      "search_query": "\"Great Day Houston Red Apple Award Official Rules\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:36.415178+00:00",
+      "search_queries": [
+        "\"Great Day Houston Red Apple Award Official Rules\" entry",
+        "great houston apple award sweepstakes enter official",
+        "great houston apple award giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "dbbd66c1feb4f627": {
       "contest_title": "Enter to win CBS 8’s Weather Quiz Contest - cbs8.com",
       "original_article": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdm5oT3BkYjVnb0lCUGdYTUJQYzJLWUxCN3BnYUdmbjQ1NG1LeWJXcWpBNW12aUF0bnktMUtscmpja19UdVMyWS1ad29pZnJMZ3ZWSXdNcE1sX1JFVFBuNlhPVERyR1Mxei1ibWdteUVOSUI4SDFRZGE5VllHc3hZcFBJX1k4bTZVajFvNDdwN1dpRWs3?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:06:29.098554+00:00",
-      "search_query": "\"Enter to win CBS 8 s Weather Quiz Contest\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:36.406897+00:00",
+      "search_queries": [
+        "\"Enter to win CBS 8 s Weather Quiz Contest\" entry",
+        "weather quiz sweepstakes enter official",
+        "weather quiz giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "bf539c41d3005b79": {
       "contest_title": "Photo Contest: Win an Axis Deer Hunt in Texas With Tom Miranda - Grand View Outdoors",
       "original_article": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeWdQSXVtMzJ2Zy1pdS16YUpYczZqTDk1dXJFWndMTjNYVlNNdmoyeVhZMlM5UHZEN0lFa3NGS1hhaW12aTFPS1JYZDNzS0ZMQVVIb2gyMUN5ejdGTV96Unc5UE1xSUsyTXM4dFZQMk8yWnNBMDNpY3hLTG5vUzVSX3NmNlNCWGl6SGVFY2NSTHZxaWNXWEZvUmp3T3ZWUXdiTnJ4TkxjWQ?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:06:29.140407+00:00",
-      "search_query": "\"Photo Contest  Win an Axis Deer Hunt in Texas With Tom Miranda\" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:36.580096+00:00",
+      "search_queries": [
+        "\"Photo Contest  Win an Axis Deer Hunt in Texas With Tom Miranda\" entry",
+        "photo axis deer hunt texas miranda sweepstakes enter official",
+        "photo axis deer hunt texas miranda giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "21e8fc808504414f": {
       "contest_title": "Pet-O-Ween 2026 Poll Results Are In: Find out which adorable pet(s) won. - WKFR",
       "original_article": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9hMXhwQUtYUlFMLUlVd1Z2ZmlibmRhak9HUk1YSVFtUFNHUnZocmI0RW5zdUphZGhnWWE4LWtCUnhfcWtlVHhNQg?oc=5",
-      "status": "entry_page_not_found",
-      "looked_up_at": "2026-10-31T04:06:29.186556+00:00",
-      "search_query": "\"Pet-O-Ween 2026 Poll Results Are In  Find out which adorable pet s  won \" (\"enter\" OR \"official rules\" OR \"sweepstakes\")"
+      "looked_up_at": "2026-10-31T05:32:36.678248+00:00",
+      "search_queries": [
+        "\"Pet-O-Ween 2026 Poll Results Are In  Find out which adorable pet s  won \" entry",
+        "ween poll results find which adorable sweepstakes enter official",
+        "ween poll results find which adorable giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     },
     "ff3b72234381395c": {
       "contest_title": "Win tickets to the 2026 Tim Hortons NHL Heritage Classic with AutoTrader - blogTO",
