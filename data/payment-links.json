@@ -1,0 +1,11 @@
+{
+  "provider": "stripe",
+  "links": {
+    "sponsored_week": "",
+    "featured_week": "",
+    "category_month": "",
+    "banner_month": "",
+    "homepage_month": ""
+  },
+  "note": "Fill with Stripe-hosted Payment Links from the verified account. Do not put API keys in this public file."
+}
