@@ -65,29 +65,4 @@ document.getElementById("cart-checkout").addEventListener("click",async()=>{
 });
 const original=show;show=function(){original();render()};render();
 })();
-</script></body></html>+unit.toFixed(2)+' each</div></div><div><label>Qty <input type="number" min="1" max="99" value="'+q+'" data-qty="'+id+'"></label><button type="button" data-remove="'+id+'" aria-label="Remove '+p.name+'">Remove</button></div></div>';
- });
- document.getElementById("cart-lines").innerHTML=lines.join("")||'<p class="empty">Your cart is empty. Add something lucky!</p>';
- document.getElementById("cart-total").textContent=total.toLocaleString("en-US",{style:"currency",currency:"USD"});
- document.getElementById("cart-count").textContent=count;
- const endpoint=window.SWEEPS_TITAN_CHECKOUT_ENDPOINT;
- const enabled=typeof endpoint==="string"&&/^https:\/\//.test(endpoint)&&count>0;
- let btn=document.getElementById("cart-checkout");btn.disabled=!enabled;btn.textContent=enabled?"Pay securely with Stripe":"Checkout unavailable — setup required";
- document.getElementById("cart-message").textContent=enabled?"Stripe will calculate and verify the final order amount.":"Payments are disabled until the secure checkout service and final catalog are configured.";
- document.querySelectorAll("#products-grid article.item").forEach((node,i)=>{if(node.querySelector(".buy-cart"))return;let title=node.querySelector("h3")?.textContent;let p=products().find(x=>x.name===title);if(!p)return;let b=document.createElement("button");b.type="button";b.className="buy-cart";b.dataset.add=p.id;b.textContent="🛒 Add to cart · est. $"+(estimates[p.category]||0).toFixed(2);node.append(b)});
-}
-document.addEventListener("click",e=>{
- let add=e.target.closest("[data-add]"),remove=e.target.closest("[data-remove]");
- if(add){cart[add.dataset.add]=Math.min(99,(cart[add.dataset.add]||0)+1);render();document.getElementById("cart-message").textContent="Added to cart."}
- if(remove){delete cart[remove.dataset.remove];render()}
-});
-document.addEventListener("change",e=>{if(e.target.matches("[data-qty]")){cart[e.target.dataset.qty]=Math.min(99,Math.max(1,parseInt(e.target.value,10)||1));render()}});
-document.getElementById("cart-checkout").addEventListener("click",async()=>{
- const endpoint=window.SWEEPS_TITAN_CHECKOUT_ENDPOINT;
- if(!endpoint||!Object.keys(cart).length)return;
- const button=document.getElementById("cart-checkout");button.disabled=true;button.textContent="Connecting to Stripe…";
- try{const resp=await fetch(endpoint,{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({items:Object.entries(cart).map(([id,quantity])=>({id,quantity}))})});let data=await resp.json();if(!resp.ok||!/^https:\/\/checkout\.stripe\.com\//.test(data.url||""))throw Error(data.error||"Checkout unavailable");window.location.assign(data.url)}catch(e){document.getElementById("cart-message").textContent="Checkout could not start: "+e.message;render()}
-});
-const original=show;show=function(){original();render()};render();
-})();
 </script></body></html>
