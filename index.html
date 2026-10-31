@@ -429,12 +429,43 @@ Beauty:["photo-1596462502278-27bfdc403348","photo-1522335789203-aabd1fc54bc9"],
 Other:["photo-1492684223066-81342ee5ff30","photo-1513151233558-d860c5398176","photo-1530103862676-de8c9debad1d","photo-1549465220-1a8b9238cd48","photo-1527525443983-6e60c75fff46","photo-1503602642458-232111445657","photo-1549298916-b41d501d3772","photo-1513542789411-b6a5d4f31634","photo-1513201099705-a9746e1e201f","photo-1572635196237-14b3f281503f","photo-1607083206968-13611e3d76db","photo-1512909006721-3d6018887383","photo-1483985988355-763728e1935b","photo-1556228578-0d85b1a4d571","photo-1490312278390-ab64016e0aa9","photo-1542291026-7eec264c27ff","photo-1511499767150-a48a237f0083","photo-1571781926291-c477ebfd024b","photo-1566576912321-d58ddd7a6088","photo-1546868871-7041f2a55e12","photo-1526170375885-4d8ecf77b99f","photo-1572569511254-d8f925fe2cbb","photo-1512436991641-6745cdb1723f","photo-1491553895911-0055eca6402d","photo-1541643600914-78b084683601","photo-1560343090-f0409e92791a","photo-1535632066927-ab7c9ab60908","photo-1547949003-9792a18a2601","photo-1511385348-a52b4a160dc2","photo-1523275335684-37898b6baf30"]
 };
 function prizeImage(item,category){
+ const name=String(item.name||item.title||"").toLowerCase();
+ const desc=String(item.desc||"").toLowerCase();
+ const text=name+" "+desc;
  const group=({Vehicle:"Vehicles",Tech:"Electronics"})[category]||category||"Other";
- const key=String(item.id||item.entryUrl||item.entry_url||item.url||item.name||item.title||"prize");
- // A unique, stable seed per listing instead of recycling a small image pool.
- // This is illustrative photography; it is not evidence of the actual prize.
- const seed=encodeURIComponent("sweepstitan-"+key);
- return {url:"https://picsum.photos/seed/"+seed+"/900/600",label:"Illustrative image for "+String(item.name||item.title||group)};
+ // Curated, category-appropriate illustrative images. Never imply the photo is the actual prize.
+ const photos={
+  Vehicles:{
+   corvette:"photo-1503376780353-7e6692767b70",mustang:"photo-1494905998402-395d579af36f",
+   camaro:"photo-1502161254066-6c74afbf7a16",truck:"photo-1533473359331-0135ef1b58bf",
+   jeep:"photo-1533473359331-0135ef1b58bf",tesla:"photo-1531297484001-80022131f5a1",
+   lamborghini:"photo-1544636331-e26879cd4d9b",ferrari:"photo-1592198084033-aade902d1aae",
+   mazda:"photo-1519608487953-e999c86e7455",cadillac:"photo-1519641471654-76ce0107ad1b",
+   bmw:"photo-1555215695-3004980ad54e",porsche:"photo-1503376780353-7e6692767b70",
+   motorcycle:"photo-1558981806-ec527fa84c39",car:"photo-1492144534655-ae79c964c9d7"
+  },
+  Electronics:{
+   headphones:"photo-1505740420928-5e560c06d30e",earbuds:"photo-1606220588913-b3aacb4d2f46",
+   television:"photo-1593359677879-a4bb92f829d1",laptop:"photo-1496181133206-80ce9b88a853",
+   gaming:"photo-1535223289827-42f1e9919769",phone:"photo-1511707171634-5f897ff02aa9",
+   camera:"photo-1516035069371-29a1b244cc32",speaker:"photo-1608043152269-423dbba4e7e1",
+   tablet:"photo-1544244015-0df4b3ffc6b0",electronics:"photo-1498049794561-7780e7231661"
+  },
+  Travel:{travel:"photo-1488646953014-85cb44e25828"},
+  Home:{home:"photo-1600585154340-be6161a56a0c"},
+  Food:{food:"photo-1546069901-ba9599a7e63c"},
+  Cash:{cash:"photo-1579621970563-ebec7560ff3e"},
+  Lifestyle:{lifestyle:"photo-1523275335684-37898b6baf30"}
+ };
+ const patterns=group==="Vehicles"?[
+  [/corvette/,"corvette"],[/mustang/,"mustang"],[/camaro/,"camaro"],[/truck|pickup|f-150|silverado|ram 1500/,"truck"],[/jeep|wrangler|bronco/,"jeep"],[/tesla|model y|model 3/,"tesla"],[/lamborghini|urus/,"lamborghini"],[/ferrari/,"ferrari"],[/mazda|rx-7/,"mazda"],[/cadillac|escalade/,"cadillac"],[/bmw/,"bmw"],[/porsche/,"porsche"],[/motorcycle|harley|ducati/,"motorcycle"]
+ ]:group==="Electronics"?[
+  [/headphone|headset/,"headphones"],[/earbud|airpod/,"earbuds"],[/tv|television|oled|qled/,"television"],[/laptop|macbook|computer/,"laptop"],[/game|gaming|playstation|xbox|nintendo|switch/,"gaming"],[/iphone|smartphone|phone/,"phone"],[/camera|dslr/,"camera"],[/speaker|soundbar/,"speaker"],[/tablet|ipad/,"tablet"]
+ ]:[];
+ let key=patterns.find(([re])=>re.test(text))?.[1]||({Vehicles:"car",Electronics:"electronics",Travel:"travel",Home:"home",Food:"food",Cash:"cash",Lifestyle:"lifestyle"})[group]||"lifestyle";
+ const photo=(photos[group]||photos.Lifestyle)[key]||(photos[group]||photos.Lifestyle)[group.toLowerCase()]||photos.Lifestyle.lifestyle;
+ const kind=key==="car"?"vehicle":key==="electronics"?"electronic product":key.replace(/_/g," ");
+ return {url:"https://images.unsplash.com/"+photo+"?auto=format&fit=crop&w=900&q=80",label:"Illustrative "+kind+" photograph; not necessarily the actual prize"};
 }
 
 function card(s){const photo=prizeImage(s,s.category);return '<article class="card"><div class="art" aria-hidden="true"><img src="'+safe(photo.url)+'" alt="'+safe(photo.label)+'" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:cover;border-radius:12px"></div><div class="card-body"><span class="tag">'+safe(s.cadence)+(s.entryMethod==="mail-in"?" · ✉️ MAIL-IN":" · SPONSOR LINK")+'</span><h3>'+safe(s.name)+'</h3><p>'+safe(s.desc)+'</p><p><b>'+fmt(s.value)+'</b> listed prize value · '+safe(s.place)+'</p><p><small>Sponsor: '+safe(s.sponsor)+' · Ends '+safe(s.endDate)+'</small></p><div class="cardfoot"><a class="primary" href="'+safe(s.entryUrl)+'" target="_blank" rel="noopener noreferrer nofollow" style="display:inline-flex;align-items:center;text-decoration:none">'+(s.entryMethod==="mail-in"?"✉️ Mail-in instructions ↗":/rules|terms|conditions/i.test(s.entryUrl)?"Official rules ↗":"Visit promotion ↗")+'</a><button class="outline" data-action="details" data-id="'+safe(s.id)+'">Rules</button><button class="outline" data-action="save" data-id="'+safe(s.id)+'" aria-label="Save '+safe(s.name)+'">'+(isSaved(s.id)?"♥ Saved":"♡ Save")+'</button></div></div></article>'}
