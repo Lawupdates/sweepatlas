@@ -1,7 +1,7 @@
 {
-  "checked_at": "2026-10-31T04:00:04.935232+00:00",
-  "records": 10,
-  "active_records": 10,
+  "checked_at": "2026-10-31T04:00:53.578888+00:00",
+  "records": 23,
+  "active_records": 23,
   "results": [
     {
       "id": "filson-world-2026",
@@ -117,8 +117,8 @@
         },
         {
           "type": "rulesUrl",
-          "http_status": 200,
-          "reachable": true
+          "http_status": 503,
+          "reachable": false
         }
       ]
     },
@@ -170,6 +170,227 @@
           "type": "rulesUrl",
           "http_status": 200,
           "reachable": true
+        }
+      ]
+    },
+    {
+      "id": "valpak-holiday-haul-2026",
+      "expires": "2026-12-04",
+      "expired": false,
+      "checks": [
+        {
+          "type": "entryUrl",
+          "http_status": 200,
+          "reachable": true
+        },
+        {
+          "type": "rulesUrl",
+          "http_status": 200,
+          "reachable": true
+        }
+      ]
+    },
+    {
+      "id": "sony-cowboys-headphones-2026",
+      "expires": "2026-11-30",
+      "expired": false,
+      "checks": [
+        {
+          "type": "entryUrl",
+          "http_status": 200,
+          "reachable": true
+        },
+        {
+          "type": "rulesUrl",
+          "http_status": 200,
+          "reachable": true
+        }
+      ]
+    },
+    {
+      "id": "guitar-center-fender-2026",
+      "expires": "2026-11-11",
+      "expired": false,
+      "checks": [
+        {
+          "type": "entryUrl",
+          "http_status": 403,
+          "reachable": false
+        },
+        {
+          "type": "rulesUrl",
+          "http_status": 403,
+          "reachable": false
+        }
+      ]
+    },
+    {
+      "id": "perdue-holiday-drop-2026",
+      "expires": "2026-11-06",
+      "expired": false,
+      "checks": [
+        {
+          "type": "entryUrl",
+          "http_status": 200,
+          "reachable": true
+        },
+        {
+          "type": "rulesUrl",
+          "http_status": 404,
+          "reachable": false
+        }
+      ]
+    },
+    {
+      "id": "comfiroom-november-2026",
+      "expires": "2026-11-30",
+      "expired": false,
+      "checks": [
+        {
+          "type": "entryUrl",
+          "http_status": 403,
+          "reachable": false
+        },
+        {
+          "type": "rulesUrl",
+          "http_status": 403,
+          "reachable": false
+        }
+      ]
+    },
+    {
+      "id": "aoc-agon-cs2-monitor-2026",
+      "expires": "2026-11-23",
+      "expired": false,
+      "checks": [
+        {
+          "type": "entryUrl",
+          "http_status": 403,
+          "reachable": false
+        },
+        {
+          "type": "rulesUrl",
+          "http_status": 403,
+          "reachable": false
+        }
+      ]
+    },
+    {
+      "id": "amd-valor-mortis-2026",
+      "expires": "2026-11-12",
+      "expired": false,
+      "checks": [
+        {
+          "type": "entryUrl",
+          "http_status": 403,
+          "reachable": false
+        },
+        {
+          "type": "rulesUrl",
+          "http_status": 403,
+          "reachable": false
+        }
+      ]
+    },
+    {
+      "id": "amd-fsr-update-2026",
+      "expires": "2026-11-03",
+      "expired": false,
+      "checks": [
+        {
+          "type": "entryUrl",
+          "http_status": 403,
+          "reachable": false
+        },
+        {
+          "type": "rulesUrl",
+          "http_status": 403,
+          "reachable": false
+        }
+      ]
+    },
+    {
+      "id": "stormcraft-valkyrie-2026",
+      "expires": "2026-11-06",
+      "expired": false,
+      "checks": [
+        {
+          "type": "entryUrl",
+          "http_status": 403,
+          "reachable": false
+        },
+        {
+          "type": "rulesUrl",
+          "http_status": 403,
+          "reachable": false
+        }
+      ]
+    },
+    {
+      "id": "allegiant-double-down-2026",
+      "expires": "2026-11-20",
+      "expired": false,
+      "checks": [
+        {
+          "type": "entryUrl",
+          "http_status": 403,
+          "reachable": false
+        },
+        {
+          "type": "rulesUrl",
+          "http_status": 403,
+          "reachable": false
+        }
+      ]
+    },
+    {
+      "id": "wild-fly-argentina-2026",
+      "expires": "2026-12-31",
+      "expired": false,
+      "checks": [
+        {
+          "type": "entryUrl",
+          "http_status": 200,
+          "reachable": true
+        },
+        {
+          "type": "rulesUrl",
+          "http_status": 200,
+          "reachable": true
+        }
+      ]
+    },
+    {
+      "id": "visit-orlando-family-2026",
+      "expires": "2027-01-18",
+      "expired": false,
+      "checks": [
+        {
+          "type": "entryUrl",
+          "http_status": 200,
+          "reachable": true
+        },
+        {
+          "type": "rulesUrl",
+          "http_status": 200,
+          "reachable": true
+        }
+      ]
+    },
+    {
+      "id": "coffee-n-cards-2026",
+      "expires": "2026-11-01",
+      "expired": false,
+      "checks": [
+        {
+          "type": "entryUrl",
+          "http_status": 404,
+          "reachable": false
+        },
+        {
+          "type": "rulesUrl",
+          "http_status": 404,
+          "reachable": false
         }
       ]
     }
