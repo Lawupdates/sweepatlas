@@ -227,6 +227,11 @@ def main():
             errors.append({"query": term, "error": str(exc)[:180]})
     queue = sorted(existing.values(), key=lambda r: r.get("first_seen_utc", ""), reverse=True)[:CAP]
     for item in queue:
+        if item.get("prize_value_candidate") is None:
+            amount=extract_prize_value(item.get("title","")+" "+item.get("description",""))
+            if amount is not None:
+                item["prize_value_candidate"]=amount
+                item["prize_value_status"]="unverified_search_excerpt"
         if not item.get("end_date"):
             item["end_date"] = extract_end_date(item.get("title", ""))
     checked_pages = 0
