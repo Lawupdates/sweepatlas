@@ -194,6 +194,44 @@ button,.primary,.outline,.chip,.tag,.load,.field,select,input,.advertise-cta,.he
 /* Legible high-contrast hero eyebrow; replaces neon yellow styling */
 .hero .eyebrow{display:inline-block!important;max-width:100%;background:linear-gradient(105deg,#f46a83,#fa955d)!important;color:#10152e!important;font-size:clamp(12px,1.5vw,16px)!important;font-weight:950!important;letter-spacing:.075em!important;line-height:1.45!important;text-shadow:none!important;padding:12px 18px!important;border-radius:999px!important;box-shadow:0 6px 18px #150f3040!important;overflow-wrap:anywhere}
 @media(max-width:600px){.hero .eyebrow{font-size:12px!important;letter-spacing:.04em!important;padding:10px 14px!important}}
+
+/* Sweeps Titan mobile layout stabilization — 2026-10-30 */
+html{max-width:100%;overflow-x:clip;-webkit-text-size-adjust:100%}
+body{max-width:100%;overflow-x:clip}
+img,video,iframe,svg{max-width:100%;height:auto}
+button,input,select,textarea,a{max-width:100%}
+h1,h2,h3,p,li,.brand,.card,.box,.stat{overflow-wrap:break-word}
+@media(max-width:700px){
+ .wrap,header,main,footer{max-width:100%;min-width:0}
+ .top,nav,.section-title{flex-wrap:wrap;align-items:flex-start}
+ .nav{width:100%;display:flex;flex-wrap:wrap;gap:7px}
+ .nav button,.nav a,nav a{white-space:normal}
+ .cards,.categories,.grid,.stats{grid-template-columns:repeat(2,minmax(0,1fr))}
+ .search{grid-template-columns:minmax(0,1fr)}
+ .card,.category,.stat,.box,.grid>*{min-width:0;max-width:100%}
+ .hero h1{font-size:clamp(32px,9vw,52px);letter-spacing:-1.3px;overflow-wrap:anywhere}
+ .hero{max-width:100%;min-width:0}
+ .hero .stats{gap:14px}
+ .tools{flex-wrap:wrap}
+ .tools>*{min-width:0}
+ .cardfoot,.flex,.links{flex-wrap:wrap}
+ .site-advertise-slot{max-width:100%;padding-inline:12px}
+}
+@media(max-width:480px){
+ .wrap,header,main,footer{padding-left:16px;padding-right:16px}
+ .cards,.categories,.grid,.stats{grid-template-columns:minmax(0,1fr)}
+ .search{grid-template-columns:minmax(0,1fr)}
+ .category{min-height:130px}
+ .stat{padding:16px}
+ .hero h1{font-size:clamp(30px,9vw,43px);line-height:1.1}
+ .hero p{font-size:16px}
+ .stats{margin-top:0}
+ .card-body,.card,.box{max-width:100%}
+ .cardfoot>*{min-width:0}
+ .site-advertise-link{max-width:100%;white-space:normal;text-align:center}
+ body:has(a[aria-label="Open Sweeps Titan Discovery Radar"]){padding-bottom:86px}
+ a[aria-label="Open Sweeps Titan Discovery Radar"],a[aria-label="Open Sweeps Titan Entry Desk"]{position:static!important;display:inline-flex!important;justify-content:center;align-items:center;max-width:calc(50% - 14px)!important;margin:16px 6px!important;min-height:48px;padding:10px!important;vertical-align:top;font-size:12px!important;white-space:normal;text-align:center;box-shadow:0 4px 16px #0003!important}
+}
 </style><style>@media(max-width:600px){a[aria-label="Open Sweeps Titan Discovery Radar"],a[aria-label="Open Sweeps Titan Entry Desk"]{font-size:11px!important;padding:9px 11px!important;bottom:8px!important}body{padding-bottom:58px}.cardfoot{flex-wrap:wrap}.cardfoot>a,.cardfoot>button{flex:1;justify-content:center;text-align:center;min-width:95px}}</style><link rel="canonical" href="https://sweepstitan.com/"><meta name="robots" content="index,follow,max-image-preview:large"><meta property="og:site_name" content="Sweeps Titan"><script type="application/ld+json">{"@context":"https://schema.org","@type":"WebPage","name":"Free Sweepstakes & Giveaway Tracker | Sweeps Titan","description":"Discover sweepstakes and giveaways, browse prizes, save favorites, and track daily, weekly, and one-time entries for free on Sweeps Titan.","url":"https://sweepstitan.com/","isPartOf":{"@type":"WebSite","name":"Sweeps Titan","url":"https://sweepstitan.com/"}}</script></head><body>
 <header><div class="wrap top"><a class="brand" href="./">✦ Sweeps <em>Titan</em></a><nav aria-label="Primary"><button data-tab="discover" class="on">Discover</button><button data-tab="myentries">My Entries</button><button data-tab="planner">Planner</button><button data-tab="profile">My Profile</button></nav></div></header>
 <div class="top-ticker"><div class="ticker-inner"><span>✦ YOUR NEXT BIG OPPORTUNITY</span><span>✦ DISCOVER • SAVE • TRACK</span><span>✦ NO PURCHASE REQUIRED TO BROWSE</span></div></div><section class="hero"><div class="hero-photo" role="img" aria-label="Illustrative luxury sports car, not an advertised prize"></div><div class="sparkles" aria-hidden="true"><span>✦</span><span>✧</span><span>✦</span><span>✧</span></div><div class="wrap"><div class="extension-cta"><a href="./extension-setup.html">🧩 Get the free autofill extension ↗</a></div><div class="hero-ad-slot" style="gap:12px;flex-wrap:wrap"><a href="./advertising-rates.html" style="display:inline-flex;align-items:center;justify-content:center;padding:12px 20px;border-radius:999px;background:linear-gradient(110deg,#327ff0,#8d5df4);color:#fff;text-decoration:none;font-weight:900;margin:8px 0">💎 View Advertising Rates ↗</a><a class="advertise-cta" href="./advertise.html">📣 ADVERTISE WITH US ↗</a></div><div class="eyebrow">100% FREE TO USE · ADVERTISER SUPPORTED</div><h1>YOUR NEXT<br><span class="shine">BIG WIN</span><br>STARTS HERE.</h1><p>Big prizes. Bigger daydreams. Your couch called—it wants a vacation too. Discover, save, and keep your entries under control.</p><a href="#discover" class="hero-cta" id="jumpDiscover">DISCOVER THE PRIZES →</a><div class="stats"><div><strong id="heroCount">0</strong><span>Live sweepstakes</span></div><div><strong id="heroSaved">0</strong><span>Saved favorites</span></div><div><strong id="heroEntered">0</strong><span>Entries marked</span></div></div></div></section>
