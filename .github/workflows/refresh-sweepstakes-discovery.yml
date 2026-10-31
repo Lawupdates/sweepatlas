@@ -1,5 +1,8 @@
 name: Refresh sweepstakes discovery candidates
 on:
+  push:
+    paths:
+      - '.github/workflows/refresh-sweepstakes-discovery.yml'
   workflow_dispatch:
   schedule:
     - cron: '17 */6 * * *'
