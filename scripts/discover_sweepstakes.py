@@ -12,6 +12,9 @@ SOURCES=[
 ("Sweepstakes Radar","https://www.sweepstakesradar.com/no-purchase-necessary"),
 ("Gleam Giveaways","https://gleamgiveaways.com/"),
 ("SweepsToday","https://www.sweepstoday.com/sweepstakes"),
+("Sweepstakes Advantage","https://www.sweepsadvantage.com/"),
+("SweepFeed","https://www.sweepfeed.com/sweepstakes"),
+("I Love Giveaways","https://ilovegiveaways.com/sweepstakes/"),
 ]
 class Links(HTMLParser):
  def __init__(self):super().__init__();self.a=None;self.data=[]
@@ -33,7 +36,7 @@ def gather(source,url):
   parsed=urllib.parse.urlsplit(link)
   name=" ".join(html.unescape(a["name"]).split())[:180]
   if parsed.scheme!="https" or not name or len(name)<9 or len(name)>175:continue
-  if parsed.netloc==host and ("/giveaway" in parsed.path or "/sweepstake" in parsed.path or "/contest" in parsed.path or "/promotion" in parsed.path):
+  if parsed.netloc==host and ("/giveaway" in parsed.path or "/sweepstake" in parsed.path or "/contest" in parsed.path or "/promotion" in parsed.path or "/win-" in parsed.path):
    if parsed.path.rstrip("/")==urllib.parse.urlsplit(url).path.rstrip("/"):continue
    items.append({"name":name,"url":link.split("#")[0],"source":source,"found_at":TODAY,"status":"research-only"})
  return items
@@ -55,7 +58,7 @@ def main():
   live={str(x.get("entryUrl","")).split("#")[0] for x in records}
   live|={str(x.get("rulesUrl","")).split("#")[0] for x in records}
  except:live=set()
- candidates=[v for k,v in leads.items() if k not in live]
+ candidates=[v for k,v in leads.items() if k not in live and v.get("url","").startswith("https://")]
  candidates.sort(key=lambda x:(x.get("source",""),x.get("name","")))
  existing.write_text(json.dumps({"generated_at":TODAY,"notice":"Unverified research links only; not confirmed entry forms or eligible/active sweepstakes.","sources":results,"candidates":candidates[:10000]},indent=2)+"\n")
  print(json.dumps({"sources":results,"research_candidates":len(candidates),"published_records_unchanged":True}))
