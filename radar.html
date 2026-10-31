@@ -91,7 +91,7 @@ button:disabled{opacity:.55;cursor:not-allowed}
 <footer class="footer">✦ Sweeps Titan · Free to use · Advertiser supported · <a href="./">Home</a> · <a href="./advertise.html">Advertise</a></footer>
 <script>
 const $=id=>document.getElementById(id);
-let all=[],category="All",shown=36,savedOnly=false,dateFilter="all",spotIndex=0,featured=[],entryOnly=false,showResearch=false;
+let all=[],category="All",shown=36,savedOnly=false,dateFilter="all",spotIndex=0,featured=[],entryOnly=false,showResearch=true;
 let favorites=new Set(), savedState={};try{savedState=JSON.parse(localStorage.getItem("sweepatlas_preview_v1")||"{}");favorites=new Set(Array.isArray(savedState.saved)?savedState.saved:[])}catch{savedState={}}
 function activeOffer(x){if(x.source!=="curated")return true;const date=x.end_date;return !date || date>=new Date().toLocaleDateString("en-CA",{year:"numeric",month:"2-digit",day:"2-digit"});}
 function listingKey(x){return x.source==="curated" ? x.id : x.url;}
