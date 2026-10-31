@@ -74,6 +74,13 @@ button:focus-visible,a:focus-visible{outline:3px solid #ffe75f!important;outline
 button:disabled{opacity:.55;cursor:not-allowed}
 @media(prefers-reduced-motion:reduce){button,.chip,.tag{transition:none!important}}
 [hidden]{display:none!important}#feedWarning{padding:12px;border:1px solid #eac45e;border-radius:12px;margin-top:10px;color:#fff2b3}
+
+/* Distinct polished buttons and member-first listings */
+:root{--accent:#ff6f83}
+body{background:radial-gradient(circle at 50% 0%,#4b2a87,#10172f 64%)}
+button.primary,.open,.load{background:linear-gradient(105deg,#317ff2,#8f5ff5)!important;color:white!important;border:1px solid #ffffff66!important}
+.tag.active,.category.active{outline:2px solid #ff9a79}
+#status{font-weight:700}
 </style></head><body>
 <header><div class="wrap"><nav><a class="brand" href="./"><span class="logo">✦</span>Sweeps Titan</a><div><a href="#discover">Explore prizes</a> &nbsp; <a href="#favorites" id="favoritesNav">Saved ♡</a> &nbsp; <a href="./advertise.html">Advertise</a> &nbsp; <a href="#" id="siteShare">Share site ↗</a> &nbsp; <button id="motionToggle" class="motion-toggle" type="button" aria-pressed="false">Pause motion</button></div></nav>
 <div class="hero"><div class="eyebrow">✦ FREE SWEEPSTAKES DISCOVERY · ADVERTISER SUPPORTED</div><h1>Big prizes.<br><span>Endless possibilities.</span></h1><p>Big dreams, zero crystal balls. Hunt down the good stuff, save favorites, and let your lucky streak audition.</p><a href="#discover">Explore sweepstakes →</a></div></div></header>
@@ -92,7 +99,7 @@ button:disabled{opacity:.55;cursor:not-allowed}
 <footer class="footer">✦ Sweeps Titan · Free to use · Advertiser supported · <a href="./">Home</a> · <a href="./advertise.html">Advertise</a></footer>
 <script>
 const $=id=>document.getElementById(id);
-let all=[],category="All",shown=36,savedOnly=false,dateFilter="all",spotIndex=0,featured=[],entryOnly=false,showResearch=true;
+let all=[],category="All",shown=36,savedOnly=false,dateFilter="all",spotIndex=0,featured=[],entryOnly=false,showResearch=false;
 let favorites=new Set(), savedState={};try{savedState=JSON.parse(localStorage.getItem("sweepatlas_preview_v1")||"{}");favorites=new Set(Array.isArray(savedState.saved)?savedState.saved:[])}catch{savedState={}}
 function activeOffer(x){if(x.source!=="curated")return true;const date=x.end_date;return !date || date>=new Date().toLocaleDateString("en-CA",{year:"numeric",month:"2-digit",day:"2-digit"});}
 function listingKey(x){return x.source==="curated" ? x.id : x.url;}
@@ -184,8 +191,8 @@ async function load(){
  $("dates").textContent=all.filter(x=>Number.isFinite(expiry(x))).length.toLocaleString();
  draw();setupSpotlight();
  if(failures.length){
-   const note="Some data sources could not load: "+failures.join(", ")+". Showing available listings.";
-   const p=$("feedWarning")||document.createElement("p");p.id="feedWarning";p.className="muted";p.setAttribute("role","status");p.textContent=note;status.after(p);
+   const note=failures.includes("published listings")?"Our current listings are temporarily unavailable. Please retry.":"";
+   const p=$("feedWarning")||document.createElement("p");p.id="feedWarning";p.className="muted";p.setAttribute("role","status");p.textContent=note;p.hidden=!note;status.after(p);
  }
  if(!all.length){status.textContent="No listings loaded. Check the connection and press Reload listings."; }
 }
