@@ -102,6 +102,26 @@ header .nav button{font-size:10px!important;white-space:normal;line-height:1.15;
 .radar-nav{display:inline-flex;align-items:center;justify-content:center;border:1px solid #dfff4f;border-radius:9px;padding:10px 12px;color:#dfff4f!important;font-size:13px;font-weight:900;white-space:nowrap}.radar-nav:hover{background:#dfff4f;color:#111!important;text-decoration:none}
 @media(max-width:650px){header .nav{display:flex;flex-wrap:wrap;overflow:visible;gap:6px}header .nav button{flex:1 1 29%;font-size:12px!important;padding:12px 5px}header .nav .radar-nav{flex:1 1 100%;padding:12px;font-size:13px}header .nav>a:not(.radar-nav){flex:1 1 100%;text-align:center;padding:7px}header .top{gap:10px}.hero{min-height:0;padding:42px 0 50px}.hero .stats{gap:10px}}
 @media(max-width:650px){.cardfoot{display:flex;flex-wrap:wrap;align-items:stretch}.cardfoot>a,.cardfoot>button{flex:1 1 auto;text-align:center;justify-content:center}.item{flex-wrap:wrap}.item>a,.item>button{flex:1 1 auto;text-align:center}.search{grid-template-columns:1fr 1fr}.search #query{grid-column:1/-1}}
+
+/* Sweeps Titan vibrant spectrum theme */
+:root{--titan-pink:#ff4ca8;--titan-orange:#ff9e42;--titan-yellow:#ffe66b;--titan-cyan:#41e5f3;--titan-mint:#52f4bc;--titan-violet:#a86aff;--titan-blue:#598aff}
+body{background:radial-gradient(ellipse at 8% 4%,#54216d 0,transparent 35%),radial-gradient(ellipse at 98% 32%,#065c73 0,transparent 40%),radial-gradient(ellipse at 40% 83%,#4b205c 0,transparent 35%),#090c22;color:#f8f8ff}
+header{border-bottom:1px solid #ffffff2b}
+.hero{background:radial-gradient(circle at 13% 30%,#822d8c 0,transparent 42%),radial-gradient(circle at 84% 18%,#057b89 0,transparent 36%),linear-gradient(125deg,#27155b,#0b1239 65%,#411d63);color:#fff}
+.hero h1 span,.hero h1 em{background:linear-gradient(105deg,var(--titan-yellow),var(--titan-pink),var(--titan-cyan));background-clip:text;-webkit-background-clip:text;color:transparent}
+a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible{outline:3px solid var(--titan-yellow);outline-offset:3px}
+.primary,.cta,button.primary,.hero a.cta{background:linear-gradient(110deg,#fc408b,#b55bff 48%,#397ef9);color:white;border:0;box-shadow:0 8px 24px #c147da55}
+.primary:hover,.cta:hover,button.primary:hover{filter:brightness(1.12)}
+.card,.box,.panel,.stat,.kpi{border-color:#8d69bd80}
+.card:nth-child(6n+1),.box:nth-child(6n+1){border-top:3px solid var(--titan-pink)}
+.card:nth-child(6n+2),.box:nth-child(6n+2){border-top:3px solid var(--titan-cyan)}
+.card:nth-child(6n+3),.box:nth-child(6n+3){border-top:3px solid var(--titan-yellow)}
+.card:nth-child(6n+4),.box:nth-child(6n+4){border-top:3px solid var(--titan-mint)}
+.card:nth-child(6n+5),.box:nth-child(6n+5){border-top:3px solid var(--titan-orange)}
+.card:nth-child(6n+6),.box:nth-child(6n+6){border-top:3px solid var(--titan-violet)}
+.tag,.pill{background:linear-gradient(115deg,#493585,#2b5678);color:#fff6d6}
+.notice{border-color:#ad80f4;background:linear-gradient(110deg,#31204d,#1b2b54);color:#fff}
+@media(prefers-reduced-motion:reduce){*,*:before,*:after{animation-duration:.01ms!important;transition-duration:.01ms!important}}
 </style><style>@media(max-width:600px){a[aria-label="Open Sweeps Titan Discovery Radar"],a[aria-label="Open Sweeps Titan Entry Desk"]{font-size:11px!important;padding:9px 11px!important;bottom:8px!important}body{padding-bottom:58px}.cardfoot{flex-wrap:wrap}.cardfoot>a,.cardfoot>button{flex:1;justify-content:center;text-align:center;min-width:95px}}</style></head><body>
 <header><div class="wrap top"><a class="brand" href="./">✦ Sweep<em>Atlas</em></a><nav aria-label="Primary"><button data-tab="discover" class="on">Discover</button><a class="radar-nav" href="./radar.html">Sweepstakes Radar ↗</a><button data-tab="myentries">My Entries</button><button data-tab="planner">Planner</button><button data-tab="profile">My Profile</button><button data-tab="advertise">Advertise</button><a href="./advertise.html" style="color:#dfff4f;align-self:center;font-size:12px;font-weight:800">Ad inquiries ↗</a></nav></div></header>
 <div class="top-ticker"><div class="ticker-inner"><span>✦ YOUR NEXT BIG OPPORTUNITY</span><span>✦ DISCOVER • SAVE • TRACK</span><span>✦ NO PURCHASE REQUIRED TO BROWSE</span></div></div><section class="hero"><div class="hero-photo" role="img" aria-label="Illustrative luxury sports car, not an advertised prize"></div><div class="sparkles" aria-hidden="true"><span>✦</span><span>✧</span><span>✦</span><span>✧</span></div><div class="wrap"><div class="eyebrow">100% FREE TO USE · ADVERTISER SUPPORTED</div><h1>YOUR NEXT<br><span class="shine">BIG WIN</span><br>STARTS HERE.</h1><p>A new world of prizes. Discover sweepstakes, explore the possibilities, and take control of every entry—all in one spectacular place.</p><a href="#discover" class="hero-cta" id="jumpDiscover">DISCOVER THE PRIZES →</a><div class="stats"><div><strong id="heroCount">0</strong><span>Published listings</span></div><div><strong id="heroSaved">0</strong><span>Saved favorites</span></div><div><strong id="heroEntered">0</strong><span>Entries marked</span></div></div></div></section>
