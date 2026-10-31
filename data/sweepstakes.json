@@ -550,5 +550,22 @@
     "entryMethod": "online",
     "entryUrl": "https://www.foodnetwork.com/features/articles/sweepstakes-and-contests",
     "rulesUrl": "https://www.foodnetwork.com/features/articles/sweepstakes-and-contests"
+  },
+  {
+    "id": "hgtv-shock-your-home-2026",
+    "name": "HGTV Shock Your Home Sweepstakes",
+    "sponsor": "HGTV",
+    "desc": "Win $5,000 plus a custom room-design consultation and digital mood board. A code word from HGTV's House Shock is required for each weekly entry period. Check official entry instructions.",
+    "category": "Home",
+    "cadence": "Weekly",
+    "icon": "🏡",
+    "value": 6200,
+    "place": "US",
+    "minAge": "21+",
+    "endDate": "2026-11-06",
+    "reviewedAt": "2026-10-30",
+    "entryMethod": "online",
+    "entryUrl": "https://www.hgtv.com/shows/house-shock/giveaway",
+    "rulesUrl": "https://www.hgtv.com/shows/house-shock/giveaway"
   }
 ]
