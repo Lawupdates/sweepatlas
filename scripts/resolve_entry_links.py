@@ -19,8 +19,8 @@ ROOT=Path(__file__).resolve().parents[1]
 SRC=ROOT/"data/discovery-candidates.json"
 OUT=ROOT/"data/entry-lookup-results.json"
 BATCH=max(1,min(int(os.environ.get("LOOKUP_BATCH","120")),1500))
-WORKERS=12
-EXCLUDE=("news.google.com","google.com","bing.com","yahoo.com","reddit.com","facebook.com","instagram.com","pinterest.com","youtube.com","sweepstakesadvantage.com","contestgirl.com","sweepstakesfanatics.com","sweepstakeslovers.com")
+WORKERS=8
+EXCLUDE=("news.google.com","google.com","bing.com","yahoo.com","reddit.com","facebook.com","instagram.com","pinterest.com","youtube.com","sweepstakesadvantage.com","contestgirl.com","sweepstakesfanatics.com","sweepstakeslovers.com","sweepstake.com","thefreebieguy.com","contestbee.com","ultracontest.com")
 ENTRY_HINT=re.compile(r"(sweepstakes|giveaway|enter.to.win|contest|promotion|win.a|gleam.io)",re.I)
 def fetch(url):
     req=ur.Request(url,headers={"User-Agent":"Mozilla/5.0 (compatible; SweepsTitanResearch/1.0)"})
@@ -52,28 +52,32 @@ def inspect_potential(url):
 def lookup(item):
     title=clean_title(item.get("title",""))
     if len(title)<8:return {"status":"insufficient_title"}
-    query='"'+title+'" ("enter" OR "official rules" OR "sweepstakes")'
-    search="https://www.bing.com/search?format=rss&q="+up.quote(query)
-    try:
-        data,_=fetch(search)
-        root=ET.fromstring(data)
-        possible=[]
-        words={w for w in re.findall(r"[a-z0-9]{4,}",title.lower()) if w not in {"official","rules","2026","2027","sweepstakes","giveaway"}}
-        for e in root.findall("./channel/item"):
-            url=(e.findtext("link") or "").strip()
-            label=(e.findtext("title") or "")
-            if not eligible(url):continue
-            combined=(label+" "+up.urlsplit(url).path).lower()
-            overlap=sum(w in combined for w in words)
-            if words and overlap/max(1,len(words)) < .45:continue
-            if not ENTRY_HINT.search(url+" "+label):continue
-            possible.append({"url":url,"title":label[:180],"overlap":overlap,"destination_check":inspect_potential(url)})
-            if len(possible)>=3:break
-        if not possible:return {"status":"entry_page_not_found","looked_up_at":dt.datetime.now(dt.timezone.utc).isoformat(),"search_query":query}
-        # Search discovery only. No site is published until explicitly reviewed.
-        return {"status":"possible_entry_pages","looked_up_at":dt.datetime.now(dt.timezone.utc).isoformat(),"search_query":query,"possible":possible}
-    except Exception as err:
-        return {"status":"search_failed","looked_up_at":dt.datetime.now(dt.timezone.utc).isoformat(),"error":str(err)[:160]}
+    words=list(dict.fromkeys(w for w in re.findall(r"[a-z0-9]{4,}",title.lower()) if w not in {"official","rules","2026","2027","sweepstakes","giveaway","contest","promotion","enter","the","with","from"}))
+    if len(words)<2:return {"status":"insufficient_title"}
+    queries=['"'+title.replace('"',"")+'" entry', " ".join(words[:7])+" sweepstakes enter official", " ".join(words[:7])+" giveaway entry rules"]
+    possible=[]; errors=[]; used=set()
+    for query in queries:
+        try:
+            data,_=fetch("https://www.bing.com/search?format=rss&q="+up.quote(query))
+            for e in ET.fromstring(data).findall("./channel/item"):
+                url=(e.findtext("link") or "").strip()
+                label=(e.findtext("title") or "")
+                if not eligible(url) or url in used:continue
+                used.add(url)
+                combined=(label+" "+up.urlsplit(url).path).lower()
+                overlap=sum(w in combined for w in words)
+                if overlap<2 or overlap/max(1,len(words))<.65:continue
+                if not ENTRY_HINT.search(url+" "+label):continue
+                check=inspect_potential(url)
+                if check not in ("entry_form_possible","promotion_page"):continue
+                possible.append({"url":url,"title":label[:180],"overlap":overlap,"destination_check":check})
+                if len(possible)>=3:break
+            if possible:break
+        except Exception as err:errors.append(str(err)[:120])
+    result={"looked_up_at":dt.datetime.now(dt.timezone.utc).isoformat(),"search_queries":queries,"search_version":2}
+    if possible:return {**result,"status":"possible_entry_pages","possible":possible}
+    if len(errors)==len(queries):return {**result,"status":"search_failed","errors":errors}
+    return {**result,"status":"entry_page_not_found"}
 def main():
     feed=json.loads(SRC.read_text(encoding="utf-8"))
     records=feed.get("candidates",[])
@@ -84,7 +88,7 @@ def main():
     # Every record is present in output even if not yet searched.
     active={x["id"] for x in records if x.get("id")}
     results={k:v for k,v in results.items() if k in active}
-    todo=[x for x in records if x.get("id") and results.get(x["id"],{}).get("status") not in ("possible_entry_pages","entry_page_not_found","insufficient_title")][:BATCH]
+    todo=[x for x in records if x.get("id") and results.get(x["id"],{}).get("search_version") != 2][:BATCH]
     with cf.ThreadPoolExecutor(max_workers=WORKERS) as pool:
         for item,res in zip(todo,pool.map(lookup,todo)):
             results[item["id"]]={"contest_title":item.get("title"),"original_article":item.get("url"),**res}
