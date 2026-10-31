@@ -1,139 +1,164 @@
 {
-  "checked_at_utc": "2026-10-30T23:19:22.791036+00:00",
+  "checked_at_utc": "2026-10-31T03:58:04.585137+00:00",
   "notice": "Automated detection is not proof a form works. No record becomes confirmed without manual review.",
+  "candidate_counts": {
+    "research_only_no_entry_url": 1500
+  },
+  "total_research_leads": 1500,
+  "curated_count": 19,
+  "automatically_confirmed_forms": 0,
   "results": [
     {
       "id": "burger-king-game-day-2026",
       "title": "Burger King Game Day Every Day",
       "url": "https://www.bk.com/gameday-rules",
       "result": "no_entry_form_detected",
-      "kind": "curated"
+      "kind": "curated",
+      "expiry": "2026-11-01"
     },
     {
       "id": "chipotle-bag-2026",
       "title": "Chipotle Bag Giveaway",
       "url": "https://www.chipotle.com/giveaway",
       "result": "no_entry_form_detected",
-      "kind": "curated"
+      "kind": "curated",
+      "expiry": "2026-11-10"
     },
     {
       "id": "filson-world-2026",
       "title": "World of Filson Giveaway",
       "url": "https://www.filson.com/pages/world-of-filson-giveaway",
       "result": "no_entry_form_detected",
-      "kind": "curated"
+      "kind": "curated",
+      "expiry": "2026-11-30"
     },
     {
       "id": "cold-stone-cat-hat-2026",
       "title": "The Cat in the Hat Sweepstakes",
       "url": "https://www.coldstonecreamery.com/sweepstakes/",
       "result": "no_entry_form_detected",
-      "kind": "curated"
+      "kind": "curated",
+      "expiry": "2026-11-07"
     },
     {
       "id": "hallmark-countdown-adventure-2026",
       "title": "Hallmark Christmas Countdown Adventure",
       "url": "https://countdownadventure.hallmarkchannel.com/",
       "result": "no_entry_form_detected",
-      "kind": "curated"
+      "kind": "curated",
+      "expiry": "2026-11-23"
     },
     {
       "id": "hallmark-very-merry-2026",
       "title": "Hallmark Very Merry Giveaway",
       "url": "https://verymerrygiveaway.hallmarkchannel.com/",
       "result": "no_entry_form_detected",
-      "kind": "curated"
+      "kind": "curated",
+      "expiry": "2026-12-25"
     },
     {
       "id": "ballot-royale-weekly-oct2026",
       "title": "Ballot Royale $25 Weekly Giveaway",
       "url": "https://sweeps.ballotroyale.com/sweeps/br_25weekly",
       "result": "unreachable_or_blocked",
-      "kind": "curated"
+      "kind": "curated",
+      "expiry": "2026-11-04"
     },
     {
       "id": "hallmark-christmas-movie-game-2026",
       "title": "Hallmark Countdown to Christmas Movie Game",
       "url": "https://christmasmoviegame.hallmarkchannel.com/",
       "result": "no_entry_form_detected",
-      "kind": "curated"
+      "kind": "curated",
+      "expiry": "2026-12-29"
     },
     {
       "id": "food-network-whos-counting-2026",
       "title": "Food Network Magazine Who's Counting",
       "url": "https://www.foodnetwork.com/magazine/food-network-magazine-whos-counting",
       "result": "unreachable_or_blocked",
-      "kind": "curated"
+      "kind": "curated",
+      "expiry": "2026-11-15"
     },
     {
       "id": "goldbelly-thanksgiving-feast-2026",
       "title": "Goldbelly Thanksgiving Feast Sweepstakes",
       "url": "https://www.goldbelly.com/spotlight/thanksgiving-sweepstakes",
       "result": "no_entry_form_detected",
-      "kind": "curated"
+      "kind": "curated",
+      "expiry": "2026-11-09"
     },
     {
       "id": "finish-solution-2026",
       "title": "What's Your Finish Solution Sweepstakes",
       "url": "https://www.finishdishwashing.com/sweepstakes-rules/",
       "result": "no_entry_form_detected",
-      "kind": "curated"
+      "kind": "curated",
+      "expiry": "2026-10-31"
     },
     {
       "id": "lysol-fall-fragrances-2026",
       "title": "Lysol Fall Fragrances Sweepstakes",
       "url": "https://www.lysol.com/lysol-sweeps-rules/",
       "result": "no_entry_form_detected",
-      "kind": "curated"
+      "kind": "curated",
+      "expiry": "2026-10-31"
     },
     {
       "id": "common-uniform-october-2026",
       "title": "Common Uniform Daily Drawings",
       "url": "https://commonuniform.com/pages/official-rules",
       "result": "form_detected_review_required",
-      "kind": "curated"
+      "kind": "curated",
+      "expiry": "2026-11-04"
     },
     {
       "id": "reformation-week-giveaway-2026",
       "title": "Reformation Week Giveaway",
       "url": "https://heritagebooks.org/pages/reformation-week-giveaway-rules",
       "result": "no_entry_form_detected",
-      "kind": "curated"
+      "kind": "curated",
+      "expiry": "2026-10-31"
     },
     {
       "id": "microsoft-rewards-sweeps-119-2026",
       "title": "Microsoft Rewards Sweepstakes #119",
       "url": "https://promos.microsoftrewards.com/US/en/SS/119/rules",
       "result": "entry_page_possible_review_required",
-      "kind": "curated"
+      "kind": "curated",
+      "expiry": "2026-10-31"
     },
     {
       "id": "monster-energy-product-year-2026",
       "title": "Monster Energy Gift Card and Product for a Year",
       "url": "https://www.monsterenergy.com/en-us/promotions/monster-energy-chance-to-win-a-gift-card-and-product-for-a-year-sweepstakes/",
       "result": "unreachable_or_blocked",
-      "kind": "curated"
+      "kind": "curated",
+      "expiry": "2026-11-10"
     },
     {
       "id": "monster-london-circle-k-2026",
       "title": "Monster Energy London Trip Sweepstakes",
       "url": "https://www.monsterenergy.com/en-us/promotions/monster-energy-chance-to-win-a-trip-to-london-sweepstakes-circle-k/",
       "result": "unreachable_or_blocked",
-      "kind": "curated"
+      "kind": "curated",
+      "expiry": "2026-11-03"
     },
     {
       "id": "mackenzie-childs-posh-peanut-2026",
       "title": "MacKenzie-Childs × Posh Peanut Giveaway",
       "url": "https://www.mackenzie-childs.com/rules.html",
       "result": "no_entry_form_detected",
-      "kind": "curated"
+      "kind": "curated",
+      "expiry": "2026-11-01"
     },
     {
       "id": "bon-appetit-gear-year-2026",
       "title": "Bon Appétit Gear of the Year Giveaway",
       "url": "https://www.bonappetit.com/story/gear-of-the-year-giveaway",
       "result": "no_entry_form_detected",
-      "kind": "curated"
+      "kind": "curated",
+      "expiry": "2026-11-10"
     }
   ]
 }
