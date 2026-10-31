@@ -211,7 +211,29 @@ const destinationPhotos=[
 {re:/\b(orlando|florida)\b/i,url:"https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&w=1000&q=85",label:"Warm-weather vacation scenery (illustrative)"}
 ];
 function destinationPhoto(text){return destinationPhotos.find(p=>p.re.test(text||""))||null;}
-function card(s){const photo=s.category==="Travel"?destinationPhoto(s.name+" "+s.desc):null;return '<article class="card"><div class="art" aria-hidden="true">'+s.icon+'</div><div class="card-body"><span class="tag">'+safe(s.cadence)+(s.entryMethod==="mail-in"?" · ✉️ MAIL-IN":" · SPONSOR LINK")+'</span><h3>'+safe(s.name)+'</h3><p>'+safe(s.desc)+'</p><p><b>'+fmt(s.value)+'</b> listed prize value · '+safe(s.place)+'</p><p><small>Sponsor: '+safe(s.sponsor)+' · Ends '+safe(s.endDate)+'</small></p><div class="cardfoot"><a class="primary" href="'+safe(s.entryUrl)+'" target="_blank" rel="noopener noreferrer nofollow" style="display:inline-flex;align-items:center;text-decoration:none">'+(s.entryMethod==="mail-in"?"✉️ Mail-in instructions ↗":/rules|terms|conditions/i.test(s.entryUrl)?"Official rules ↗":"Visit promotion ↗")+'</a><button class="outline" data-action="details" data-id="'+safe(s.id)+'">Rules</button><button class="outline" data-action="save" data-id="'+safe(s.id)+'" aria-label="Save '+safe(s.name)+'">'+(isSaved(s.id)?"♥ Saved":"♡ Save")+'</button></div></div></article>'}
+
+const prizeImagePools={
+Travel:["photo-1507525428034-b723cf961d3e","photo-1476514525535-07fb3b4ae5f1","photo-1488646953014-85cb44e25828","photo-1501785888041-af3ef285b470"],
+Vehicles:["photo-1503376780353-7e6692767b70","photo-1492144534655-ae79c964c9d7","photo-1552519507-da3b142c6e3d","photo-1549317661-bd32c8ce0db2"],
+Cash:["photo-1579621970563-ebec7560ff3e","photo-1554224155-6726b3ff858f","photo-1563013544-824ae1b704d3"],
+Electronics:["photo-1498049794561-7780e7231661","photo-1519389950473-47ba0277781c","photo-1511707171634-5f897ff02aa9"],
+Home:["photo-1600607687939-ce8a6c25118c","photo-1600585154340-be6161a56a0c","photo-1600566753190-17f0baa2a6c3"],
+Food:["photo-1543353071-873f17a7a088","photo-1504674900247-0877df9cc836","photo-1565958011703-44f9829ba187"],
+Lifestyle:["photo-1523275335684-37898b6baf30","photo-1529139574466-a303027c1d8b","photo-1515372039744-b8f02a3ae446"],
+Beauty:["photo-1596462502278-27bfdc403348","photo-1522335789203-aabd1fc54bc9"],
+Other:["photo-1492684223066-81342ee5ff30","photo-1513151233558-d860c5398176","photo-1530103862676-de8c9debad1d"]
+};
+function prizeImage(item,category){
+ const details=[item.name,item.title,item.desc,item.query].filter(Boolean).join(" ");
+ if(category==="Travel"){const named=destinationPhoto(details);if(named)return named;}
+ const group=({Vehicle:"Vehicles",Tech:"Electronics"})[category]||category;
+ const pool=prizeImagePools[group]||prizeImagePools.Other;
+ const key=String(item.id||item.entryUrl||item.url||item.name||item.title||"prize");
+ let hash=2166136261;for(let i=0;i<key.length;i++)hash=Math.imul(hash^key.charCodeAt(i),16777619);
+ return {url:"https://images.unsplash.com/"+pool[(hash>>>0)%pool.length]+"?auto=format&fit=crop&w=900&q=82",label:group+" prize illustration"};
+}
+
+function card(s){const photo=prizeImage(s,s.category);return '<article class="card"><div class="art" aria-hidden="true"><img src="'+safe(photo.url)+'" alt="'+safe(photo.label)+'" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:cover;border-radius:12px"></div><div class="card-body"><span class="tag">'+safe(s.cadence)+(s.entryMethod==="mail-in"?" · ✉️ MAIL-IN":" · SPONSOR LINK")+'</span><h3>'+safe(s.name)+'</h3><p>'+safe(s.desc)+'</p><p><b>'+fmt(s.value)+'</b> listed prize value · '+safe(s.place)+'</p><p><small>Sponsor: '+safe(s.sponsor)+' · Ends '+safe(s.endDate)+'</small></p><div class="cardfoot"><a class="primary" href="'+safe(s.entryUrl)+'" target="_blank" rel="noopener noreferrer nofollow" style="display:inline-flex;align-items:center;text-decoration:none">'+(s.entryMethod==="mail-in"?"✉️ Mail-in instructions ↗":/rules|terms|conditions/i.test(s.entryUrl)?"Official rules ↗":"Visit promotion ↗")+'</a><button class="outline" data-action="details" data-id="'+safe(s.id)+'">Rules</button><button class="outline" data-action="save" data-id="'+safe(s.id)+'" aria-label="Save '+safe(s.name)+'">'+(isSaved(s.id)?"♥ Saved":"♡ Save")+'</button></div></div></article>'}
 function update(){
 $("filters").innerHTML=categories.map(c=>'<button class="chip '+(category===c?"active":"")+'" data-filter="'+safe(c)+'">'+safe(c)+'</button>').join("");
 let list=sample.filter(s=>(category==="All"||category===s.category||category===s.cadence||(category==="Mail-In"&&s.entryMethod==="mail-in")||category==="Favorites"&&isSaved(s.id))&&(eligibility==="all"||s.place===eligibility||(eligibility==="US"&&s.place==="AZ"))&&(s.name+" "+s.category+" "+s.desc).toLowerCase().includes(query));
