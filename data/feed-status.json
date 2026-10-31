@@ -1,42 +1,8 @@
 {
-  "checked_at": "2026-10-30T20:42:09.803925+00:00",
-  "records": 19,
-  "active_records": 19,
+  "checked_at": "2026-10-31T04:00:04.935232+00:00",
+  "records": 10,
+  "active_records": 10,
   "results": [
-    {
-      "id": "burger-king-game-day-2026",
-      "expires": "2026-11-01",
-      "expired": false,
-      "checks": [
-        {
-          "type": "entryUrl",
-          "http_status": 200,
-          "reachable": true
-        },
-        {
-          "type": "rulesUrl",
-          "http_status": 200,
-          "reachable": true
-        }
-      ]
-    },
-    {
-      "id": "chipotle-bag-2026",
-      "expires": "2026-11-10",
-      "expired": false,
-      "checks": [
-        {
-          "type": "entryUrl",
-          "http_status": 200,
-          "reachable": true
-        },
-        {
-          "type": "rulesUrl",
-          "http_status": 200,
-          "reachable": true
-        }
-      ]
-    },
     {
       "id": "filson-world-2026",
       "expires": "2026-11-30",
@@ -61,8 +27,8 @@
       "checks": [
         {
           "type": "entryUrl",
-          "http_status": 200,
-          "reachable": true
+          "http_status": 403,
+          "reachable": false
         },
         {
           "type": "rulesUrl",
@@ -106,23 +72,6 @@
       ]
     },
     {
-      "id": "ballot-royale-weekly-oct2026",
-      "expires": "2026-11-04",
-      "expired": false,
-      "checks": [
-        {
-          "type": "entryUrl",
-          "http_status": 403,
-          "reachable": false
-        },
-        {
-          "type": "rulesUrl",
-          "http_status": 403,
-          "reachable": false
-        }
-      ]
-    },
-    {
       "id": "hallmark-christmas-movie-game-2026",
       "expires": "2026-12-29",
       "expired": false,
@@ -136,23 +85,6 @@
           "type": "rulesUrl",
           "http_status": 200,
           "reachable": true
-        }
-      ]
-    },
-    {
-      "id": "food-network-whos-counting-2026",
-      "expires": "2026-11-15",
-      "expired": false,
-      "checks": [
-        {
-          "type": "entryUrl",
-          "http_status": 403,
-          "reachable": false
-        },
-        {
-          "type": "rulesUrl",
-          "http_status": 403,
-          "reachable": false
         }
       ]
     },
@@ -174,76 +106,8 @@
       ]
     },
     {
-      "id": "finish-solution-2026",
-      "expires": "2026-10-31",
-      "expired": false,
-      "checks": [
-        {
-          "type": "entryUrl",
-          "http_status": 200,
-          "reachable": true
-        },
-        {
-          "type": "rulesUrl",
-          "http_status": 200,
-          "reachable": true
-        }
-      ]
-    },
-    {
-      "id": "lysol-fall-fragrances-2026",
-      "expires": "2026-10-31",
-      "expired": false,
-      "checks": [
-        {
-          "type": "entryUrl",
-          "http_status": 200,
-          "reachable": true
-        },
-        {
-          "type": "rulesUrl",
-          "http_status": 200,
-          "reachable": true
-        }
-      ]
-    },
-    {
       "id": "common-uniform-october-2026",
       "expires": "2026-11-04",
-      "expired": false,
-      "checks": [
-        {
-          "type": "entryUrl",
-          "http_status": 200,
-          "reachable": true
-        },
-        {
-          "type": "rulesUrl",
-          "http_status": 200,
-          "reachable": true
-        }
-      ]
-    },
-    {
-      "id": "reformation-week-giveaway-2026",
-      "expires": "2026-10-31",
-      "expired": false,
-      "checks": [
-        {
-          "type": "entryUrl",
-          "http_status": 200,
-          "reachable": true
-        },
-        {
-          "type": "rulesUrl",
-          "http_status": 200,
-          "reachable": true
-        }
-      ]
-    },
-    {
-      "id": "microsoft-rewards-sweeps-119-2026",
-      "expires": "2026-10-31",
       "expired": false,
       "checks": [
         {
@@ -289,23 +153,6 @@
           "type": "rulesUrl",
           "http_status": 403,
           "reachable": false
-        }
-      ]
-    },
-    {
-      "id": "mackenzie-childs-posh-peanut-2026",
-      "expires": "2026-11-01",
-      "expired": false,
-      "checks": [
-        {
-          "type": "entryUrl",
-          "http_status": 200,
-          "reachable": true
-        },
-        {
-          "type": "rulesUrl",
-          "http_status": 200,
-          "reachable": true
         }
       ]
     },
