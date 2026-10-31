@@ -99,6 +99,16 @@ def extract_end_date(text):
             pass
     return None
 
+VALUE_PATTERN = re.compile(r'(?i)(?:approx(?:imate)?(?: retail)? value|(?:total )?prize value|(?:grand )?prize|worth|valued at|win|for a chance to win)\\s*(?:of|is|:|-)?\\s*\\$\\s*([0-9][0-9,]*(?:\\.[0-9]{1,2})?)')
+def extract_prize_value(text):
+    values=[]
+    for m in VALUE_PATTERN.finditer(text or ""):
+        try:
+            amount=float(m.group(1).replace(",",""))
+            if 1<=amount<=100000000:values.append(amount)
+        except ValueError:pass
+    return max(values) if values else None
+
 def clean(value):
     return re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", unescape(value or ""))).strip()[:350]
 def source(term):
@@ -208,6 +218,8 @@ def main():
                     "query": term,
                     "published": clean(item.findtext("pubDate")),
                     "end_date": extract_end_date(title + " " + clean(item.findtext("description"))),
+                    "prize_value_candidate": extract_prize_value(title + " " + clean(item.findtext("description"))),
+                    "prize_value_status": "unverified_search_excerpt",
                     "first_seen_utc": now,
                     "status": "UNVERIFIED - official sponsor rules review required",
                 }
