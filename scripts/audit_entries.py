@@ -71,7 +71,10 @@ def main():
         u=x.get('entry_url') or x.get('url') or ''
         canonical=u.split('?')[0].rstrip('/').lower()
         expiry=x.get('end_date')
-        if canonical in seen:
+        if x.get('validation_status') == 'rejected_nonentry':
+            counts['rejected_nonentry']+=1
+            x['validation_status']='rejected_nonentry'
+        elif canonical in seen:
             counts['duplicates']+=1
             x['validation_status']='duplicate_research_lead'
         elif expiry and expiry < today.isoformat():
