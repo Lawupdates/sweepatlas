@@ -1,21 +1,5 @@
 [
   {
-    "id": "burger-king-game-day-2026",
-    "name": "Burger King Game Day Every Day",
-    "sponsor": "Burger King",
-    "desc": "Football-themed sweepstakes with daily and weekly prize periods. Royal Perks membership required; see official rules.",
-    "category": "Food",
-    "cadence": "Daily",
-    "icon": "🍔",
-    "value": 0,
-    "place": "US",
-    "minAge": "See rules",
-    "endDate": "2026-11-01",
-    "reviewedAt": "2026-10-30",
-    "entryUrl": "https://www.bk.com/gameday-rules",
-    "rulesUrl": "https://www.bk.com/gameday-rules"
-  },
-  {
     "id": "chipotle-bag-2026",
     "name": "Chipotle Bag Giveaway",
     "sponsor": "Chipotle Mexican Grill",
@@ -60,7 +44,7 @@
     "minAge": "18+",
     "endDate": "2026-11-07",
     "reviewedAt": "2026-10-30",
-    "entryUrl": "https://www.coldstonecreamery.com/sweepstakes/",
+    "entryUrl": "https://gleam.io/WtHCN/cold-stone-creamery-the-cat-in-the-hat-sweepstakes",
     "rulesUrl": "https://www.coldstonecreamery.com/sweepstakes/"
   },
   {
@@ -96,22 +80,6 @@
     "rulesUrl": "https://verymerrygiveaway.hallmarkchannel.com/faq"
   },
   {
-    "id": "ballot-royale-weekly-oct2026",
-    "name": "Ballot Royale $25 Weekly Giveaway",
-    "sponsor": "Ballot Royale",
-    "desc": "A $25 weekly giveaway; entries accepted daily according to the official terms.",
-    "category": "Cash",
-    "cadence": "Daily",
-    "icon": "💳",
-    "value": 25,
-    "place": "US",
-    "minAge": "See rules",
-    "endDate": "2026-11-04",
-    "reviewedAt": "2026-10-30",
-    "entryUrl": "https://sweeps.ballotroyale.com/sweeps/br_25weekly",
-    "rulesUrl": "https://sweeps.ballotroyale.com/sweeps/br_25weekly"
-  },
-  {
     "id": "hallmark-christmas-movie-game-2026",
     "name": "Hallmark Countdown to Christmas Movie Game",
     "sponsor": "Hallmark Media",
@@ -140,7 +108,7 @@
     "minAge": "See rules",
     "endDate": "2026-11-15",
     "reviewedAt": "2026-10-30",
-    "entryUrl": "https://www.foodnetwork.com/magazine/food-network-magazine-whos-counting",
+    "entryUrl": "https://www.foodnetwork.com/whoscounting",
     "rulesUrl": "https://www.foodnetwork.com/magazine/food-network-magazine-whos-counting"
   },
   {
@@ -160,38 +128,6 @@
     "rulesUrl": "https://help.goldbelly.com/en_us/goldbelly-thanksgiving-sweepstakes-official-rules-Hywu3EZpfg"
   },
   {
-    "id": "finish-solution-2026",
-    "name": "What's Your Finish Solution Sweepstakes",
-    "sponsor": "Finish / Reckitt Benckiser",
-    "desc": "Official Finish promotion ending October 31. Open to eligible U.S. residents 18+; review official entry instructions and prizes.",
-    "category": "Home",
-    "cadence": "One-time",
-    "icon": "✨",
-    "value": 0,
-    "place": "US",
-    "minAge": "18+",
-    "endDate": "2026-10-31",
-    "reviewedAt": "2026-10-30",
-    "entryUrl": "https://www.finishdishwashing.com/sweepstakes-rules/",
-    "rulesUrl": "https://www.finishdishwashing.com/sweepstakes-rules/"
-  },
-  {
-    "id": "lysol-fall-fragrances-2026",
-    "name": "Lysol Fall Fragrances Sweepstakes",
-    "sponsor": "Lysol / Reckitt Benckiser",
-    "desc": "Lysol's official Fall Fragrances sweepstakes closes October 31; check the sponsor page for entry instructions.",
-    "category": "Home",
-    "cadence": "One-time",
-    "icon": "🏡",
-    "value": 0,
-    "place": "US",
-    "minAge": "18+",
-    "endDate": "2026-10-31",
-    "reviewedAt": "2026-10-30",
-    "entryUrl": "https://www.lysol.com/lysol-sweeps-rules/",
-    "rulesUrl": "https://www.lysol.com/lysol-sweeps-rules/"
-  },
-  {
     "id": "common-uniform-october-2026",
     "name": "Common Uniform Daily Drawings",
     "sponsor": "Common Uniform",
@@ -206,38 +142,6 @@
     "reviewedAt": "2026-10-30",
     "entryUrl": "https://commonuniform.com/pages/official-rules",
     "rulesUrl": "https://commonuniform.com/pages/official-rules"
-  },
-  {
-    "id": "reformation-week-giveaway-2026",
-    "name": "Reformation Week Giveaway",
-    "sponsor": "Reformation Heritage Books",
-    "desc": "Reformation Week promotion; free mail-in entry route explained in official rules. Closes October 31.",
-    "category": "Lifestyle",
-    "cadence": "One-time",
-    "icon": "📚",
-    "value": 0,
-    "place": "US",
-    "minAge": "18+ (varies by state)",
-    "endDate": "2026-10-31",
-    "reviewedAt": "2026-10-30",
-    "entryUrl": "https://heritagebooks.org/pages/reformation-week-giveaway-rules",
-    "rulesUrl": "https://heritagebooks.org/pages/reformation-week-giveaway-rules"
-  },
-  {
-    "id": "microsoft-rewards-sweeps-119-2026",
-    "name": "Microsoft Rewards Sweepstakes #119",
-    "sponsor": "Microsoft",
-    "desc": "Microsoft Rewards promotion for eligible U.S. and Puerto Rico residents; official rules close October 31.",
-    "category": "Electronics",
-    "cadence": "One-time",
-    "icon": "💻",
-    "value": 0,
-    "place": "US",
-    "minAge": "See rules",
-    "endDate": "2026-10-31",
-    "reviewedAt": "2026-10-30",
-    "entryUrl": "https://promos.microsoftrewards.com/US/en/SS/119/rules",
-    "rulesUrl": "https://promos.microsoftrewards.com/US/en/SS/119/rules"
   },
   {
     "id": "monster-energy-product-year-2026",
@@ -270,22 +174,6 @@
     "reviewedAt": "2026-10-30",
     "entryUrl": "https://www.monsterenergy.com/en-us/promotions/monster-energy-chance-to-win-a-trip-to-london-sweepstakes-circle-k/",
     "rulesUrl": "https://www.monsterenergy.com/en-us/promotions/monster-energy-chance-to-win-a-trip-to-london-sweepstakes-circle-k/"
-  },
-  {
-    "id": "mackenzie-childs-posh-peanut-2026",
-    "name": "MacKenzie-Childs × Posh Peanut Giveaway",
-    "sponsor": "MacKenzie-Childs",
-    "desc": "Home and lifestyle collection giveaway with online entry; rules state no purchase necessary.",
-    "category": "Home",
-    "cadence": "One-time",
-    "icon": "🏡",
-    "value": 0,
-    "place": "US",
-    "minAge": "See rules",
-    "endDate": "2026-11-01",
-    "reviewedAt": "2026-10-30",
-    "entryUrl": "https://www.mackenzie-childs.com/rules.html",
-    "rulesUrl": "https://www.mackenzie-childs.com/rules.html"
   },
   {
     "id": "bon-appetit-gear-year-2026",
