@@ -1,11 +1,11 @@
 {
-  "generated_utc": "2026-10-31T12:17:20.043910+00:00",
+  "generated_utc": "2026-10-31T12:17:24.538926+00:00",
   "total_source_records": 1819,
-  "searched": 1750,
-  "remaining": 69,
+  "searched": 1819,
+  "remaining": 0,
   "results_by_status": {
-    "entry_page_not_found": 1634,
-    "insufficient_title": 115,
+    "entry_page_not_found": 1692,
+    "insufficient_title": 126,
     "rejected_nonentry": 1
   },
   "notice": "Candidate links from public web search, not certified active entry forms. Human review required before publishing.",
@@ -41,8 +41,9 @@
       "search_version": 4
     },
     "d0d2e5894d82833a": {
-      "status": "insufficient_title",
-      "search_version": 4
+      "contest_title": "Sweepstakes and Contests - Food Network",
+      "original_article": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5YMk1ZU005TGxJTVhwYk54T1ZfM18xMXRZQk5remI2MDd2RENKRmxDUjluQl9JQnZxcWkwZzJ6Sng0dDFMX0dyTWVwOUpuMXpLaDBFZmEwTVFEb1dnWWFSRjhZc2Zvd2FKYmpMV2M4V2JSVDF1Qm9uMEFB?oc=5",
+      "status": "insufficient_title"
     },
     "fa3b21e5f31c3cce": {
       "status": "entry_page_not_found",
@@ -60,8 +61,9 @@
       "search_version": 4
     },
     "bcb9b8cb233cc4d3": {
-      "status": "insufficient_title",
-      "search_version": 4
+      "contest_title": "Who's Counting? - Food Network",
+      "original_article": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBGa2ZjcUlXRHRXUmpoVU1uSTMzZ2pCOWdNYzVEUTdmcDFxOThVb180WXhHWmk5QkhsWFpwWXJ6YUhhaHVPRVF0SlBlTHNPNUgwdWp0b3Y5RUJZeDlXWEg2M2hJdlE0a1BOdm1CdUw3S3YzSHdKSzVDcy1JenU?oc=5",
+      "status": "insufficient_title"
     },
     "7db705d1c28b14d0": {
       "status": "entry_page_not_found",
@@ -79,8 +81,9 @@
       "search_version": 4
     },
     "e398781008f52777": {
-      "status": "insufficient_title",
-      "search_version": 4
+      "contest_title": "Cookbook Giveaway - Food Network",
+      "original_article": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5BM2dNYmFQV0wwTlRPTWNfeENlSDJOcHdSUXg0MTdScXR4Y3Z3MDBLNDNTZmpQeExrUnA3UXNUWlYtaUZiWXhNUEFaSkFnY2dQRFpLTlpGMDBsTVZWWHRIdG0ydDQ?oc=5",
+      "status": "insufficient_title"
     },
     "2c4f8c78b7aa6055": {
       "status": "entry_page_not_found",
@@ -143,8 +146,9 @@
       "search_version": 4
     },
     "82e057e1a925609b": {
-      "status": "insufficient_title",
-      "search_version": 4
+      "contest_title": "BBQ Brawl - Food Network",
+      "original_article": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBJT01IMGVGeFhjbWNUcDBqYnlhTjlkR0twdEhiZ3ExR3dSTWNaQmo1bG5GYnBFNmItSl9kT1J2RmZva0FvcjdDTFAwWmY1NDMwWWhQdFFyaTZZX2pSeDJ5WkVoaUZVVTg?oc=5",
+      "status": "insufficient_title"
     },
     "4de2eca55b4e1bcc": {
       "status": "entry_page_not_found",
@@ -187,12 +191,14 @@
       "search_version": 4
     },
     "e3ededcfc354c645": {
-      "status": "insufficient_title",
-      "search_version": 4
+      "contest_title": "Filson - Better Outdoor Clothes, Bags, and Accessories - Filson",
+      "original_article": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9jMElJejJ1QWxPcmhZV0ZzWVliS0R6NlFKRjdZZ25NdGV3R3RKdEhpSC1HQmwyZTVnelZV?oc=5",
+      "status": "insufficient_title"
     },
     "ea69611188007be8": {
-      "status": "insufficient_title",
-      "search_version": 4
+      "contest_title": "VIP Texts - Filson",
+      "original_article": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9NclNpRDdSdWRpT2tuaWxQb2pOLUdENzJfdjktMWVXUFM4M19jUVJoNTROeXo1YXFpRVk1RXJES1NUWVhmclF4SmFPbjFzdUk?oc=5",
+      "status": "insufficient_title"
     },
     "07a64ff43553b6ab": {
       "status": "entry_page_not_found",
@@ -220,8 +226,9 @@
       "search_version": 4
     },
     "d6574489a5b55bd8": {
-      "status": "insufficient_title",
-      "search_version": 4
+      "contest_title": "New Arrivals - Filson",
+      "original_article": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1mLVdGYmZzQjZiazJ1eVlsU1lyMjkxU0d5YUpmbkFUQ1B6VW14bl9fb2luZXZVb1g5MG5pN1dETTRXenVzZkNMUjZwLVdLUzZmX2h4NlZQZng2Tms?oc=5",
+      "status": "insufficient_title"
     },
     "562e4daf396205e7": {
       "status": "entry_page_not_found",
@@ -229,8 +236,9 @@
       "search_version": 4
     },
     "2aac305770643eb6": {
-      "status": "insufficient_title",
-      "search_version": 4
+      "contest_title": "Our Events - Filson",
+      "original_article": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAwRlNlRWU3SGVXTWRwNnR0WWdxbXczZFdZcEVMRTViNHl3bEdKV29hb1FvUG55eWd6OE8tOXFIbUxpRFU0eUNxNWJGcnRFaFZsZldv?oc=5",
+      "status": "insufficient_title"
     },
     "66475820f08f0801": {
       "status": "entry_page_not_found",
@@ -238,8 +246,9 @@
       "search_version": 4
     },
     "caebf269455141aa": {
-      "status": "insufficient_title",
-      "search_version": 4
+      "contest_title": "Newsletter - Filson",
+      "original_article": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1jVmJfd0k4Q21VZUZwQzltdzBxZTd5U1N2dGx0LVJ3TGMzdFJDTTJIUGhyV2hMbUkyMzVFS2hVN3g5bF9fNm1jWk54Q0c3NHhH?oc=5",
+      "status": "insufficient_title"
     },
     "094239b87159d525": {
       "status": "entry_page_not_found",
@@ -252,8 +261,9 @@
       "search_version": 4
     },
     "c78eb6f8bb1c3cd8": {
-      "status": "insufficient_title",
-      "search_version": 4
+      "contest_title": "Workshop - Filson",
+      "original_article": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5XZTN4YTQ2ckJxekp3dGJ5eTRveG8xaVBsMFcwQTFsckZnaGpDR0o2Vmw0VkFWVUVxYWUzMUFXT3c1SGtmbmd6blNUbDlWNWgwTy1remVDYktWYjFI?oc=5",
+      "status": "insufficient_title"
     },
     "61accbf8040efe19": {
       "status": "entry_page_not_found",
@@ -276,8 +286,9 @@
       "search_version": 4
     },
     "4f4077f1c7d8ddac": {
-      "status": "insufficient_title",
-      "search_version": 4
+      "contest_title": "Our Stores - Filson",
+      "original_article": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA2emtsMzFNaGloUFBReWp4UlNUdW4wRFVXeW4tVi1XUWpIS3FWbXd6T0RRbE1uZzlzSjJOeWZIdkxtMm9hSHZjakNaWjE0OVJS?oc=5",
+      "status": "insufficient_title"
     },
     "e621500260c38d03": {
       "status": "entry_page_not_found",
@@ -670,8 +681,9 @@
       "search_version": 4
     },
     "49b603b5a03530ef": {
-      "status": "insufficient_title",
-      "search_version": 4
+      "contest_title": "PR News | Accounts in Transit: Thundery Wins Bojangles - Tue., Jun. 2, 2026 - O'Dwyer's PR News",
+      "original_article": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNa0JISFNlNC11dlN1V0ZWc3pZSnVCY2ZsRkFLZ3Z4djVZVU1veWRzVjhNQTY1SlUzWkd4emVFTEVUQkd1NEFJYjJNWEFka3Ewd1RrYnRaR1NYazUtQ1pKbkNGQmVpbXlVMVZsQ0c3WThVM3lIZVdLdm9RREhXTGZMX3VBaWZDTkRBNmRVY2l2VU9SV1NiNjZwdGlJcGQ1Sy1UTnc?oc=5",
+      "status": "insufficient_title"
     },
     "95ac89991aeaa6c4": {
       "status": "entry_page_not_found",
@@ -789,8 +801,9 @@
       "search_version": 4
     },
     "9d031d148ab260c3": {
-      "status": "insufficient_title",
-      "search_version": 4
+      "contest_title": "Sweepstakes Rules & Regulations - LAist",
+      "original_article": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1RdUJaUXpxbDJUWXYwLUsyUlgxWXhTNlRrQ0JBTEJIejZaSkNVdVctWnczZUNDRzVGOEUzbHpuX1ZpSXB6OGdJWVFqWQ?oc=5",
+      "status": "insufficient_title"
     },
     "3cec41e66f6be129": {
       "status": "entry_page_not_found",
@@ -803,8 +816,9 @@
       "search_version": 4
     },
     "38bc2d0e081acd23": {
-      "status": "insufficient_title",
-      "search_version": 4
+      "contest_title": "Rules and Winners - ABC11 News",
+      "original_article": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9NV0RzRm9tNUtWZXNSeFZJYndGeWY5T0ltQ0FHN2taakZmdlRZeG5Od0xpemFkdElNOHp6RzdhSExKOXNsOGRRSHQzZm5jT0hjZ1ZyMmpFNVY?oc=5",
+      "status": "insufficient_title"
     },
     "4d2620301f6e1184": {
       "status": "entry_page_not_found",
@@ -852,8 +866,9 @@
       "search_version": 4
     },
     "5e394b7580aa9c8f": {
-      "status": "insufficient_title",
-      "search_version": 4
+      "contest_title": "All Prizes - Hallmark Channel",
+      "original_article": "https://news.google.com/rss/articles/CBMid0FVX3lxTE83SXNoTmhncXNfWjQ2VERxMkNnaEVuRlFSTHcxTXJKWUFJSWs2NXBSWVRTVnQ2OUJJQnNsRmpoTXowNnU3TldPMENka09pY2xLRl9aTmpmLUg3T2dRTmNaS19TaWVjZXREOVVtUS1KYVd6clY0SzdR?oc=5",
+      "status": "insufficient_title"
     },
     "b36cfffdb1812bef": {
       "status": "entry_page_not_found",
@@ -866,16 +881,19 @@
       "search_version": 4
     },
     "b7508dbd92a2e326": {
-      "status": "insufficient_title",
-      "search_version": 4
+      "contest_title": "Preview - Countdown to Christmas 2026 | All Season Long - Hallmark Channel",
+      "original_article": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQnVjQVNqUjNES1llR0gtU1RpM0xWUU1fdXVhUnJaV3lFWU5GdUVHY0w5QmRmeWNWMHJadm5ReUdJN0I1bkw4cGZOb1dGeUZKMEwzbjFZbHYxSWdSX1BiTlBFR0xjRHdtbDRxYVJ4UjdFUFNicHQ4b3dQcWE0VWJxREdzbjdocFRLZWFrYVNoY0NpRXFKdVEwbzJkWFptMWwtT0E?oc=5",
+      "status": "insufficient_title"
     },
     "0b5dd79e87761430": {
-      "status": "insufficient_title",
-      "search_version": 4
+      "contest_title": "Official Rules - Hallmark Channel",
+      "original_article": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9GbXdZanVzMDB3SWp2X0R2N21YLXdBT3dOSXEwUEFDYWdROUQtUVlvS0tkU2x3SDBQMloyeURJMjdfZWZ3RGRtc01sdFRXWUljVGF4VjVmb29xb2dWNWZfRw?oc=5",
+      "status": "insufficient_title"
     },
     "9cdc4a03745dedc9": {
-      "status": "insufficient_title",
-      "search_version": 4
+      "contest_title": "Movies - Romance, Comedy, Family - Hallmark Channel",
+      "original_article": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Pa2l3RW1fVlNTWkozUHg3N3VKdllmcEptdFljWGoyVXU2WlVTcFNPcDJUSFd1LUZXZ3A3UmdmRXgzanJDdl9jVHdkVGtTb0U?oc=5",
+      "status": "insufficient_title"
     },
     "8283d38c7269d670": {
       "status": "entry_page_not_found",
@@ -928,8 +946,9 @@
       "search_version": 4
     },
     "7fb3237a1f9a3954": {
-      "status": "insufficient_title",
-      "search_version": 4
+      "contest_title": "Preview - Christmas in July 2026 - Hallmark Channel",
+      "original_article": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOEFFVUZvRl82UjVmeVFLc1BDMjZLb0pwRmFDYzdMZDNKZVhHNmhadW9Jd3lKTTNvSUxKM1BCbUVKZjdnWjZVbG92U2VhUmVSOGszWWhOY3dqc3htMGlQYloyUlUwUl9IY0JNMENTOWJhd0w0akVpOEZYY1dQUmc5dXRCd3lTdjExNWNyVUMyMjg?oc=5",
+      "status": "insufficient_title"
     },
     "eaf57c72879b330e": {
       "status": "entry_page_not_found",
@@ -942,8 +961,9 @@
       "search_version": 4
     },
     "82a389d18b00eede": {
-      "status": "insufficient_title",
-      "search_version": 4
+      "contest_title": "The Christmas Contest - Hallmark Channel",
+      "original_article": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBkR09zMDdraHE5a05YTTkxdVpyUXdnQUszUlp6cHhiNDJCcXZfU05rZVVmX3Z1bTVNamlVSzdfMHk3WE9lWk9XMEJmVFUzckZwS25yLWxob3duWmRyeTc5ZE1KQQ?oc=5",
+      "status": "insufficient_title"
     },
     "abe6f6a6a0f5848b": {
       "status": "entry_page_not_found",
@@ -966,16 +986,19 @@
       "search_version": 4
     },
     "10ca53980a9e4553": {
-      "status": "insufficient_title",
-      "search_version": 4
+      "contest_title": "Preview - What If Christmas - Hallmark Channel",
+      "original_article": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTjBCNmVLZ0JQdjFKaUtSTS1fcUlSSXJaUzB5b3QzSmhGeDFrcDBHTG9MTk1XS21CRGtQSld1Sk1zM1lGZm1IRmNmVUtoMDlEUzBiclJQNFdnRjByS2hWbjZEZWtvb0hsQ0JfVFROeTRyandHLUF4VUlkdEJuZzEzT21sUi1CQ2FHYkE?oc=5",
+      "status": "insufficient_title"
     },
     "05b0ce7ca969683a": {
-      "status": "insufficient_title",
-      "search_version": 4
+      "contest_title": "How It Works - Hallmark Channel",
+      "original_article": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA1Y0FzcERVSmJQeXBrYS1jUnJyRFAyRmY4SEdWRUJxSEctdkZGbGJSMGpad0htX28taFB3ZS1xRjhrcWhreFh2VzZ5bUpYbmJCZGttSzVYTWt0MFhmM3c?oc=5",
+      "status": "insufficient_title"
     },
     "f56459f5cf6d52aa": {
-      "status": "insufficient_title",
-      "search_version": 4
+      "contest_title": "The Christmas Contest - Live - Hallmark Channel",
+      "original_article": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQ0VhdFEzQzF4UUVvOHJUTnpFazlRQWoxajNybFFfekxWbmY5em81dWhxbXlCX2RvYVpDWXFhZUN3NUwyTlQ3WUloY0JBX0JnX1pXeEJ5c29pT2o4X2drdlZyZGVCUXhLMnVtRU5Zb2wwUTZSVWhQRGtRaVljNUdyRHpJcG04YWpwM3VULUdINng?oc=5",
+      "status": "insufficient_title"
     },
     "72a1f0db04186933": {
       "status": "entry_page_not_found",
@@ -998,8 +1021,9 @@
       "search_version": 4
     },
     "a2adae9d40c91b55": {
-      "status": "insufficient_title",
-      "search_version": 4
+      "contest_title": "Enter Prize - Hallmark Channel",
+      "original_article": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9TdUFtZlF4NTNYUDdBUk5oYVZ3MVc3cUZYbDdIbFFESFZPUXFEdU1GSnYzVUo0SWQyZGtvZVBKUTEwVnRiMmNuUjY1dk1KeGRCN055MFY1ekpMYjdHbGJpd25oUTJEenhyeXZDczlqQzZlYzcwRWc?oc=5",
+      "status": "insufficient_title"
     },
     "7f92c79b25e91d45": {
       "status": "entry_page_not_found",
@@ -1012,8 +1036,9 @@
       "search_version": 4
     },
     "3a42f35630aa3dee": {
-      "status": "insufficient_title",
-      "search_version": 4
+      "contest_title": "On Location - The Christmas Contest - Hallmark Channel",
+      "original_article": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWTRZRGYwSEwtZ05HWUJoSHdUVGV3TUxYeFVXM2Z2LXNjQ1F0ZFVKdVk4aG1KSmN0MWNNeXk0UHB0c3AtVWZvcTlqSzVtY2dnMnZfM3B2VDQ1UC14ZlliNFE5SHpPSDVkcXdZZnd4eW5aWHVuckJSXzM0dXJjM3BqbzB6RDBwXzFjWTdwVHRtaVdHZTV1ZnFSWW1R?oc=5",
+      "status": "insufficient_title"
     },
     "086bfd9eeea0be4e": {
       "status": "entry_page_not_found",
@@ -1056,8 +1081,9 @@
       "search_version": 4
     },
     "cf8c44089b8b43d7": {
-      "status": "insufficient_title",
-      "search_version": 4
+      "contest_title": "Mr. & Mrs. Christmas - Hallmark Channel",
+      "original_article": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5xcGxiSzdtNmZHWkdoN1JxMHh2Nld1b1pJYjU2WU16S3FZb0MxbDVhN2ZxdUNWRDlsUHVwTDlJZmFTS3FDeE5lQ2R2NnI1eTNaTEpTcms1c2QwcVBs?oc=5",
+      "status": "insufficient_title"
     },
     "a37c868737251c8e": {
       "status": "entry_page_not_found",
@@ -1065,12 +1091,14 @@
       "search_version": 4
     },
     "ff0eefd0491f57ab": {
-      "status": "insufficient_title",
-      "search_version": 4
+      "contest_title": "2026 Movies - Summer Nights - Hallmark Channel",
+      "original_article": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBxY3FIaWJ0SlBEcGt1bktSRlJlcVpsamZyOXd6M1VCRnBhRnJmNld5a1ZiTktMR3BBaUszS0hoOHU2eXVSTXVvVDVHaHVwOHoxZEZ3YmVGM3MzSWpmNlBUU085aE5PWnFtMDM4RFJ6RndxazhsYVlWUlZCMA?oc=5",
+      "status": "insufficient_title"
     },
     "770e99f81ed48fd5": {
-      "status": "insufficient_title",
-      "search_version": 4
+      "contest_title": "Preview - My Norwegian Holiday - Hallmark Channel",
+      "original_article": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5HWUU0XzlDdHlBMmlPZ3ZoQVJoUFNJeUtoaERvSDVrWGc4bTE4ZDM5a1hBUnVQTjNtenBmUkVjTnlnOG4tRjhfaV80czdCMFBGdy1EbV9EVkREb01ZRENRTlJR?oc=5",
+      "status": "insufficient_title"
     },
     "902f2dd0ad1e45fc": {
       "status": "entry_page_not_found",
@@ -1143,8 +1171,9 @@
       "search_version": 4
     },
     "516e32f1a930378e": {
-      "status": "insufficient_title",
-      "search_version": 4
+      "contest_title": "2026 Movies - Christmas in July - Hallmark Channel",
+      "original_article": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOU1JkZjFtRnI4cXc5RUVaVEFuWFZzSktvWWEyY3VsN080UWFlWU54N2gzVWM5aWxIeVNSZGpJZTFIdFdmUE5IemxtT09ORjYwU0xmaFcxbVE3Qlc3NDFhcEJIUXlob3BkTjN6OG41SkxkaGlvN1hYdnhMRXFUZDRGZ01ETlZvZw?oc=5",
+      "status": "insufficient_title"
     },
     "2833edbdb7bf2782": {
       "status": "entry_page_not_found",
@@ -1252,8 +1281,9 @@
       "search_version": 4
     },
     "060fb30e0d0a98a7": {
-      "status": "insufficient_title",
-      "search_version": 4
+      "contest_title": "Win a Car | The Ultimate Human Race - Comrades Marathon",
+      "original_article": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBQWkRlYmtrX01qeUlzRzRuZEoxVnAyOEZoUTZaMWxyRjJtVUNheHNCVXFNN3RnUVV0dVRvYUdjU0pkU0Zl?oc=5",
+      "status": "insufficient_title"
     },
     "cbc5626d231c670b": {
       "status": "entry_page_not_found",
@@ -1281,8 +1311,9 @@
       "search_version": 4
     },
     "9a78ae8d714602b7": {
-      "status": "insufficient_title",
-      "search_version": 4
+      "contest_title": "2026 Contest Prizes - National Audubon Society",
+      "original_article": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBuLTUyM3Z6dXRZYVVtOWlDaHZyUTdaUm5XUUMxQTFMdmkxbWNlelNTQVRsbnM1T2ExRmV2ZV85SU9Hb1hiaWtubWpDLTBKZ0x5QXhsZnNjdFFZSFdUQlkzdlRIdXNCVW5x?oc=5",
+      "status": "insufficient_title"
     },
     "96cdc18a3120830b": {
       "status": "entry_page_not_found",
@@ -1325,8 +1356,9 @@
       "search_version": 4
     },
     "5ee72372e67c4630": {
-      "status": "insufficient_title",
-      "search_version": 4
+      "contest_title": "Lei Day | Department of Parks and Recreation - City and County of Honolulu (.gov)",
+      "original_article": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB1eUo0WEFiR0p1VzJlOEF5R3AyOEN3TTZLZ05TQmhhQVp5YnN0SFVKZk83QmlqVU92M1Y5WV8tZ0JGaDc2ckkwZy01RVo2dw?oc=5",
+      "status": "insufficient_title"
     },
     "5eadf2853a9b02df": {
       "status": "entry_page_not_found",
@@ -1444,8 +1476,9 @@
       "search_version": 4
     },
     "9fd415436b8c65d9": {
-      "status": "insufficient_title",
-      "search_version": 4
+      "contest_title": "Nordica Ski Giveaway 2026-'27 - SKI Magazine",
+      "original_article": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeE42LXVTOXl2V1dENm56VDdMdEp4OGJhLUlZZmJsVVdIRlVoV0pERHJTckdyMkVuMFYwX3EwcWxTN1d5ZjZCZnNvYUUya09QM2pwcDYyLXh5aDVkMWo2Q21KZHp5MnI0RDlMVjVZdUV0Y3kxNFZMQk1sOVpYTzBXem56UHMtV1JVcjdDbUxTNA?oc=5",
+      "status": "insufficient_title"
     },
     "c1063a9ad97231a1": {
       "status": "entry_page_not_found",
@@ -1468,8 +1501,9 @@
       "search_version": 4
     },
     "1cefd0fed08fc8ae": {
-      "status": "insufficient_title",
-      "search_version": 4
+      "contest_title": "OFFICIAL RULES - Los Angeles Chargers",
+      "original_article": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9qM3REWEdsaUdXcTc5dDZudkItc3BxcFNRcklBOGt3RGtlZllzaXhPN0hUOGpnYXhjN3lyVzl1X2xmUGNzVUJQZ2lVZUNsaWc0VmlYa3hZMTI?oc=5",
+      "status": "insufficient_title"
     },
     "34f17b3ab20c6c9c": {
       "status": "entry_page_not_found",
@@ -1682,8 +1716,9 @@
       "search_version": 4
     },
     "dc61e51fda7fe3a6": {
-      "status": "insufficient_title",
-      "search_version": 4
+      "contest_title": "Lucky 7's Sweepstakes - Yahoo",
+      "original_article": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZEs3YXIyd2NYTjBrUVlRbGM3bU1VOVZPLS1rdmlMTUxjZmMwMGxCWWNNalZpZmVOdlhHOVJYMjBqMFp4U3FQQ0lKRzBkODBaMG9OSVBiWXdzNWxBeElsR3pvamVkSUxfZUJRaVluQnV6dnRaZXBYUmhXSmFkaTliREtB?oc=5",
+      "status": "insufficient_title"
     },
     "af3da2fd875b58db": {
       "status": "entry_page_not_found",
@@ -1776,8 +1811,9 @@
       "search_version": 4
     },
     "eee304384abab368": {
-      "status": "insufficient_title",
-      "search_version": 4
+      "contest_title": "USA 250 Giveaway - Hutch Post",
+      "original_article": "https://news.google.com/rss/articles/CBMickFVX3lxTE9teDh0RUlkU0tqTDhLb1FXMkY2ZHo4bFlyRm1GdUJ4R2I2YlV5bGF6TXRsRjduT0JPY3poVVBhVXVieEt2YzdrV0VBZXB1XzQ5Z3RDcXZsdW5BZjZqU1d5TnAtVGIyTzd5czhEYnZXWmVNZw?oc=5",
+      "status": "insufficient_title"
     },
     "97f8751de49a9dc4": {
       "status": "entry_page_not_found",
@@ -2040,8 +2076,9 @@
       "search_version": 4
     },
     "afa6359d26a35f62": {
-      "status": "insufficient_title",
-      "search_version": 4
+      "contest_title": "ENTER NOW: Win Cash - New Jersey 101.5",
+      "original_article": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE50WWtDTzVtTzhWaHRHSkhmUXgtTFJSN1VlNTFhQXIyWmJLQV9EZGc5OGhlTFpxTnl6RDJhNDBPNHFuTWVBdXRYdlp2NTFxVTg?oc=5",
+      "status": "insufficient_title"
     },
     "c4895ec29097f928": {
       "status": "entry_page_not_found",
@@ -2119,12 +2156,14 @@
       "search_version": 4
     },
     "8da577bc2eecc853": {
-      "status": "insufficient_title",
-      "search_version": 4
+      "contest_title": "ENTER NOW: Win Cash - WUPE",
+      "original_article": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5sbU1kZHkzcjhrbVhkSnNxWUFVaXIxaGVRYjdueEdOUXRKQ0FGX1c0RUxUNmJycFgxbXJ6cGhfd1kxTUZFVVJLUUZrdmM?oc=5",
+      "status": "insufficient_title"
     },
     "fab543b309c6cf45": {
-      "status": "insufficient_title",
-      "search_version": 4
+      "contest_title": "Preview - Merry Memories - Hallmark Channel",
+      "original_article": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUEprSF9RUTVuTU5NbHRCY2xrbmctclg3R3BDb3ZobFhZeFY0cE1yYURmbzR5S1lqR2tDWmJSOUN5b1ZMcFdtbkVMb3NBaFAyY2lyVVFNbk1qLU5TMmlnOXRLbzVNUnZqbXU3MDdNbkZ4Q3FId295cHFOcG1JQnBpUHRB?oc=5",
+      "status": "insufficient_title"
     },
     "64f65664a6647951": {
       "status": "entry_page_not_found",
@@ -2142,8 +2181,9 @@
       "search_version": 4
     },
     "b7c651883b371def": {
-      "status": "insufficient_title",
-      "search_version": 4
+      "contest_title": "Shows - Hallmark Channel TV Series & Shows - Hallmark Channel",
+      "original_article": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE44RjNDQV9FZDZodWNrS3h0dDZJcXI2dnpVTkMyTHV3T05tYnZxajZHQlB0UnZndDdBWEtCZ0JUVXlYclNCc1dfQmNOcjN2QQ?oc=5",
+      "status": "insufficient_title"
     },
     "c2ae7231ce5b0b39": {
       "status": "entry_page_not_found",
@@ -2191,8 +2231,9 @@
       "search_version": 4
     },
     "c8abf8b2cfe420e6": {
-      "status": "insufficient_title",
-      "search_version": 4
+      "contest_title": "Official General Contest Rules - Sunny 106.5",
+      "original_article": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8zTmtoUFo0aFdoLXhJTjRDNWR0UXR6UjhKZWFjbG55Y3lhRDZfZmNLdHB2MlpkMTRPNkVIOXlMejkxWDFra0ZSbVlFRWFDMmIwTkc1Y2lubFUxQ21fQ1FVeVMyQ2dxRW1Wdlh5M0Z6VldZUnVKOVE?oc=5",
+      "status": "insufficient_title"
     },
     "2301e0902bcb8c9f": {
       "status": "entry_page_not_found",
@@ -2315,8 +2356,9 @@
       "search_version": 4
     },
     "7f15dba7789c7126": {
-      "status": "insufficient_title",
-      "search_version": 4
+      "contest_title": "Sweepstakes - TLC.com",
+      "original_article": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBJY3ZWNHBCd2k5cWpJMWlUczhwVmVBbmZDSXRVdlljT1ZyUEpqcE16NFBfbi1uS0hfQVcwQ3VfckZDWGM?oc=5",
+      "status": "insufficient_title"
     },
     "39d57b1eb21573a3": {
       "status": "entry_page_not_found",
@@ -2324,8 +2366,9 @@
       "search_version": 4
     },
     "2169cfd4083d6f6d": {
-      "status": "insufficient_title",
-      "search_version": 4
+      "contest_title": "Dream it, Win it - TLC.com",
+      "original_article": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1jTXNGZWEtdEwwM0pjdjZ3X0F4VDVRNGpPOUlQX09wRDF3NHgyNVdmZ01zNVR0dTViM2J1Q1RTSVh0R3dPQXhFYllUVWxtZzEySmhYWG1XbVgzWVc2?oc=5",
+      "status": "insufficient_title"
     },
     "a6f4455e8bffdad5": {
       "status": "entry_page_not_found",
@@ -2528,8 +2571,9 @@
       "search_version": 4
     },
     "5bdb81ed600da700": {
-      "status": "insufficient_title",
-      "search_version": 4
+      "contest_title": "Red Sox Rewards Sweepstakes Rules | Boston Red Sox - MLB.com",
+      "original_article": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1IdGNjamZheFYxRTdnMEh5ckRQeGJCMGVGX1Ata0JrZjh1TVZIM1lnbXNGV3FUMmtubUZpWUhKaVdFRWpQWnNZU1JxNlF2ZUtZT1hJek1JeGpybWtVam5lcVNB?oc=5",
+      "status": "insufficient_title"
     },
     "7b408d21c535986f": {
       "status": "entry_page_not_found",
@@ -2542,8 +2586,9 @@
       "search_version": 4
     },
     "74ac5f88410052cc": {
-      "status": "insufficient_title",
-      "search_version": 4
+      "contest_title": "Official Rules - 2026 Nike Rivalries Sweepstakes - NFL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1KUU1oUTV1Nmp4ZTF2QVJDN3JGazFTRmtYMjM4MzFrWHRRSjVOd3E5VUlFVjNYbUNzOGd1a1dwMUxfT0Y1M00wQ20zZXR6YkpyVlIxZmdJUDdSbkhsRk1IOENaOTBPcnZiemZXSnR5QS1UZC03dWhaM2xn?oc=5",
+      "status": "insufficient_title"
     },
     "9492a6c058d6084f": {
       "status": "entry_page_not_found",
@@ -2551,8 +2596,9 @@
       "search_version": 4
     },
     "11b764f51a566845": {
-      "status": "insufficient_title",
-      "search_version": 4
+      "contest_title": "NFL+ | Live games and more, on the go | NFL.com/plus - NFL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9DMzk2NlQtakxFM2xNT29HMFJtYzNZMnNzdDRkYmpKMkZSckdzdkw0Ni00SmVPR256ZS12Ti1yX29WS09McjMtelBtRF8?oc=5",
+      "status": "insufficient_title"
     },
     "f0c568864383ce6c": {
       "status": "entry_page_not_found",
@@ -2665,8 +2711,9 @@
       "search_version": 4
     },
     "88ee457af573e951": {
-      "status": "insufficient_title",
-      "search_version": 4
+      "contest_title": "OFFICIAL RULES - NFL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5rTkg1T1FZOHJSa1FCSXFGUXgtSnFMRUhGWUFyRWFKc1JRV1kxeFUwNW9qVF9SOGsxcmVTX050d0dhaVo5b3I1VzBmNFc1X00weE93Tkt3YjZzalhBVTFkbkpwVWZHdjNCS0NMcUhfYWE2QUlNWlIw?oc=5",
+      "status": "insufficient_title"
     },
     "f3b044dbba243373": {
       "status": "entry_page_not_found",
@@ -2889,20 +2936,24 @@
       "search_version": 4
     },
     "44a8ba88ec5465d6": {
-      "status": "insufficient_title",
-      "search_version": 4
+      "contest_title": "Contests and Sweepstakes | Dallas Stars - NHL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9TejBWcVBOdzNaZFViLTY5UVlmTkpveTdlR0lma1cyR3pVSmRoLWJYNGZYTVM3ci1NYmVXa29mRkhLdFVVSVB3R1kteHFqWkFU?oc=5",
+      "status": "insufficient_title"
     },
     "84d5caabed3935ce": {
-      "status": "insufficient_title",
-      "search_version": 4
+      "contest_title": "OFFICIAL RULES - NHL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNW0yZDRPUml1X2gzc3RBRndkQmVXUU1pRGQ1ZUpwZW5OZExxYVlsMWhkRDZrVExTdEt0eHdkMWxkcWVyZU8xYWhrTGtlU1VFMnRtVkxFVm1nVm8xdGFtbS15Uks4QzJ6M1ZqTUVOc1F5ajJ4SnpET3N5Ulk1aTZjN0h5ejRRUQ?oc=5",
+      "status": "insufficient_title"
     },
     "6eea841fbd05790a": {
-      "status": "insufficient_title",
-      "search_version": 4
+      "contest_title": "OFFICIAL RULES - NHL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOajNiamNKVFVkcWxldUlkUFJKMEJ4ZkRCWF9lcEE5dWowZXQ0dnIxUUZrNHhsQTJ4Ry1TUHhQcHU3Ukh2T25SQ3FTNXJYNTJKUk56UnpDbzNYdThWOXdmQ0E1V0g4MWhQaG1WSFEyTC0wUVUtRHU0SkNpOUtWTHNpUXBSRlloZVdsSXc?oc=5",
+      "status": "insufficient_title"
     },
     "beb8ca2933b1c6ba": {
-      "status": "insufficient_title",
-      "search_version": 4
+      "contest_title": "CBJ MYP Renewal FAQ | Columbus Blue Jackets - NHL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBsVHBRTHZ1YkhvQjF2ZFBCb0pqOVg0QkJndUUxX1NDVGw0VnFtWTY2TzRpV2w2ekljR0JIa2FSQlFrLXY5OTljaHR0ZG85M0p4VHUzSUlocXZQRHE4dzROVnN0VkJ2ODQ?oc=5",
+      "status": "insufficient_title"
     },
     "1f40d414345f44e3": {
       "status": "entry_page_not_found",
@@ -2910,12 +2961,14 @@
       "search_version": 4
     },
     "33f9b3848de71b3e": {
-      "status": "insufficient_title",
-      "search_version": 4
+      "contest_title": "Contest Rules | Florida Panthers | Florida Panthers - NHL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jOHFjeDEzcVlEenBiVFZUTWF6QWdZZUVmTjFfRURGZkxVZHAxRUUwcDFUd3VySHF5eTFTS1M1YThJdno1NThRZWF4RG5CN3I2V2JuZnppeTNsUQ?oc=5",
+      "status": "insufficient_title"
     },
     "241b99654e9a66f5": {
-      "status": "insufficient_title",
-      "search_version": 4
+      "contest_title": "OFFICIAL RULES - NHL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1YTDhMaEEzZWNHdkRsNUtDVEMxTFkwVk9jZDFqSUVfdmlXRXJMWVVsWlpuRkFpUUpjUnljZmdVdlRsWEN2QVVhU3hUYXpCOGhBRkxGSVhqdXJjc1AzMjEwZGNYQ0hrRVZEMGI3TkI3QndPMHdJQWpoOEZ3?oc=5",
+      "status": "insufficient_title"
     },
     "820a5d8e01d66939": {
       "status": "entry_page_not_found",
@@ -2923,12 +2976,14 @@
       "search_version": 4
     },
     "3eb691149e6986f5": {
-      "status": "insufficient_title",
-      "search_version": 4
+      "contest_title": "OFFICIAL RULES - NHL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNbHVwMzBhbkRtQlBPbmJZQWNqOVkzNjh0TEhhQnlNZmRfTkFmMGx1Mkg1dHBuVGxRZnhTNTdCSEdjZ21wNEc5Tkt1Si1vRXBfeFFFLW9RcEZ0V0lmTVFZRlVPdXVhdDRqc2VOMzcydzJ0V25CUFYyVkU1VUdzU00?oc=5",
+      "status": "insufficient_title"
     },
     "b36563c38de26534": {
-      "status": "insufficient_title",
-      "search_version": 4
+      "contest_title": "OFFICIAL RULES - NHL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdDlGeGJvcTJSaVU2RnZuMzY3b0hHc3ltdnBoRU03V090YlpZNkEyYzhibUl1LVZzZGhLV1UtUmgzaUN0Uks5cGhyalBJUVJLNUxfSkNrYUJPS0JBNWpEcHN0OHctVzFYUWdHeE95N1RNbGJDVFdwS3JlQXdNRzJWYmV2RzY?oc=5",
+      "status": "insufficient_title"
     },
     "5b0b3e6eddb13865": {
       "status": "entry_page_not_found",
@@ -2936,12 +2991,14 @@
       "search_version": 4
     },
     "8a35ab9b56ccc4f3": {
-      "status": "insufficient_title",
-      "search_version": 4
+      "contest_title": "Fans | Florida Panthers | Florida Panthers - NHL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBGU211Y3pYRVhmRE4wenhWVXNCcGlnR3V2U2NtZFFQMy1PYkZXdS1sSVJFUGlDT0lfZ19OYzhlNXkxMlhfdGd2R1V6Sl8zREpYc3lnQg?oc=5",
+      "status": "insufficient_title"
     },
     "fb8862e0fb98ee32": {
-      "status": "insufficient_title",
-      "search_version": 4
+      "contest_title": "Contests and Sweepstakes | New York Islanders - NHL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBuWmFqRzgyd1YxZkFiblhmaXlRbDlUaVF4WDZ0b3FzTVpWRzRyU2l4TzhCNk84RUdmMFBDV0ZHUDA2ejVSbC1paXIwMkZYcWFCOFVPdkhNQU9femlJalhVMWhQRk9VeThXS3lZ?oc=5",
+      "status": "insufficient_title"
     },
     "07b38b47fda60ba8": {
       "status": "entry_page_not_found",
@@ -2959,8 +3016,9 @@
       "search_version": 4
     },
     "c7830f9fd0a87a1b": {
-      "status": "insufficient_title",
-      "search_version": 4
+      "contest_title": "Sweepstakes & Contests | San Jose Sharks | San Jose Sharks - NHL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA1VFdXOHhrR29yZE9MdkVNRXNNWDliczBjeHdSMkRydklGdktFRGV3ZGx3SzJVQzRlS0Vmd2V5bDBHMW83LVM5Vl9LRWw5Y1k2eG80WHhB?oc=5",
+      "status": "insufficient_title"
     },
     "5b994ae55cd99ef4": {
       "status": "entry_page_not_found",
@@ -2983,8 +3041,9 @@
       "search_version": 4
     },
     "3315fc50f0a20b95": {
-      "status": "insufficient_title",
-      "search_version": 4
+      "contest_title": "Fans | New York Rangers | New York Rangers - NHL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0ySEZtUkxjWGxhWW45aG9jOFcyczFGVmcxNVRranFfNzhzeHgtZkY4bzVWM0RmUThaMWNrbTJLZVltSXNoWVh2a1pwd2dtcmlRdGJ6SkJmZV9RejNwR1BpWlpDQjJxeXduWi02NE1R?oc=5",
+      "status": "insufficient_title"
     },
     "bdadef54cb15e788": {
       "status": "entry_page_not_found",
@@ -2997,12 +3056,14 @@
       "search_version": 4
     },
     "0c13158356eefb6b": {
-      "status": "insufficient_title",
-      "search_version": 4
+      "contest_title": "Offers and Sweepstakes | Philadelphia Flyers | Philadelphia Flyers - NHL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBJc2NuTXYtM1NpY1ZmNXZHLTNLMGxvdXBkVGk2ZmQwWDBpcVVPSTNOb2ZRQ2V1WUZCaEFMR0VqM3lSU1Q5NFlHeDBkUFdhbWM?oc=5",
+      "status": "insufficient_title"
     },
     "731bd403e862b1eb": {
-      "status": "insufficient_title",
-      "search_version": 4
+      "contest_title": "Fans | Detroit Red Wings | Detroit Red Wings - NHL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMieEFVX3lxTE40OTNfcEtIb2dMMjdndHlrY1dSOFc0UjVJZW9xQ1NfNU1MN0lCeE9QRHlwNXlBa0Rlc1pmTnJCTG9PYXZZOFRIU3V4NEZ6Z3Z5RGhrME90eGZxQ2YzZGJzb0hfek9nUXZiR291MGxpMnlKVlprTUZ0NA?oc=5",
+      "status": "insufficient_title"
     },
     "f735c8784e91741f": {
       "status": "entry_page_not_found",
@@ -3200,8 +3261,9 @@
       "search_version": 4
     },
     "740a4ca8a336de1d": {
-      "status": "insufficient_title",
-      "search_version": 4
+      "contest_title": "V Foundation - ESPN",
+      "original_article": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9vR2gxTDZwSVB5cFhiZmRpZU92VElDczdkMXdHVEtHcWJTQ1gwUW52VUJMVzBTRm4yRGl0ZmQxb3ZIMzU1NVpncktIeDR6SzZGdVRGRTBjU2hnbkdvMXoyZGNR?oc=5",
+      "status": "insufficient_title"
     },
     "70d016f445880228": {
       "status": "entry_page_not_found",
@@ -3239,8 +3301,9 @@
       "search_version": 4
     },
     "bb6ad3a7a97aefc8": {
-      "status": "insufficient_title",
-      "search_version": 4
+      "contest_title": "Rules - Good Housekeeping",
+      "original_article": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1HQnRRV3NfZW1peHc3VmpOV0NzaXBWLUhqdE5EZlJxVDFuSUh1bXo2ZUlLbjBHdDlXWHF2eXV3U0dPZ0tWNXFndV9ITGFYQ0pITzkxZXRCNExwZGhiUU9hQw?oc=5",
+      "status": "insufficient_title"
     },
     "fc5314806e03979b": {
       "status": "entry_page_not_found",
@@ -3273,8 +3336,9 @@
       "search_version": 4
     },
     "4aea47957d49ceca": {
-      "status": "insufficient_title",
-      "search_version": 4
+      "contest_title": "Giveaways and Sweepstakes - Magazine Sweeps and Prizes - Country Living Magazine",
+      "original_article": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5OejMtRE9jVDJ0d1NZY0hpeGZSZ3pITFVHN2lQRXRVeDUtU05LbW5HSElfMndYQkJqd1pILUtTQml1Sl80dDFYckRNdHEyck9yd3c?oc=5",
+      "status": "insufficient_title"
     },
     "6bc956f0a3a00413": {
       "status": "entry_page_not_found",
@@ -3322,8 +3386,9 @@
       "search_version": 4
     },
     "2eac162593d3ba8f": {
-      "status": "insufficient_title",
-      "search_version": 4
+      "contest_title": "Terms of Use - Hearst",
+      "original_article": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1iWm1vdnNMckhlMkc5T1JTY1d1S3B5dEZWWU1JUDJGOUZaaTJTNllqbVhQRlJDSHRheGxjbXJmTWxiWnhZc3BuOEZGNWdMYmhUaFdPVFdRcV83V1BPQnVR?oc=5",
+      "status": "insufficient_title"
     },
     "100f1e5e70c97b3d": {
       "status": "entry_page_not_found",
@@ -3486,8 +3551,9 @@
       "search_version": 4
     },
     "305beb1aa1f35cab": {
-      "status": "insufficient_title",
-      "search_version": 4
+      "contest_title": "FOX 2 News App Mug Contest Rules - FOX 2 Detroit",
+      "original_article": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA4SHpydjRIYUdFYUFDUTJ5VnphSW9vZ19JZFlqM28zUjRmSEdwMF9NZHJRNlAweXNrVUVnNDdxRl9DbHl4M1A5dnZMRDNfZVVRNFJQX181NjlxT1JzZVJSMGhDOG9fSzFNWVgxLU5jVmJOaFU?oc=5",
+      "status": "insufficient_title"
     },
     "bec29fcbd9f06992": {
       "status": "entry_page_not_found",
@@ -3595,8 +3661,9 @@
       "search_version": 4
     },
     "8d5663a1b3dbcd04": {
-      "status": "insufficient_title",
-      "search_version": 4
+      "contest_title": "Announcing ARC-AGI-3 - ARC Prize",
+      "original_article": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE93M083Q1NhMGU3dUZzWTNRNmstUGdQa1E4eUpCQmZNS3Q2c1d3cWxTU3g2MTF3aFRkUDBETENKanZON2JPTEJTYUVnT3NOcW1Vazcxdg?oc=5",
+      "status": "insufficient_title"
     },
     "2ed071be9dd4676a": {
       "status": "entry_page_not_found",
@@ -3994,8 +4061,9 @@
       "search_version": 4
     },
     "e337c702153ed701": {
-      "status": "insufficient_title",
-      "search_version": 4
+      "contest_title": "it’s our 8th birthday giveaway! - Treeline Review",
+      "original_article": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9rTVdFeV9LRU04U2RyS3RTdFpZT3NxNWJTYld1VkdzVXhuNTJ5QnVJRWtRUWM4TjY1b0VoZ1ZXeTEwZE5vdEtCdm1kcG04b2Y3?oc=5",
+      "status": "insufficient_title"
     },
     "8fd541f84a281913": {
       "status": "entry_page_not_found",
@@ -4118,8 +4186,9 @@
       "search_version": 4
     },
     "91aab48095894c39": {
-      "status": "insufficient_title",
-      "search_version": 4
+      "contest_title": "Sweepstakes - HGTV",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBXbDRlVGw4TGlRS0VKdHhsX29URGdjYXppSEFESG1yUDBEeVRuNEtpN2QwczZSTEs1QjM4dUJ6V2drZUlpSkdr?oc=5",
+      "status": "insufficient_title"
     },
     "45c4b21b6e3e8677": {
       "status": "entry_page_not_found",
@@ -4162,8 +4231,9 @@
       "search_version": 4
     },
     "e4cb75603b67a3d4": {
-      "status": "insufficient_title",
-      "search_version": 4
+      "contest_title": "Winners - HGTV",
+      "original_article": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5aOWVPQm9jY0E3bTB2a05vcXdMdDBKZWNfQkhnUk5KUnhGWjMtUldGVWhGTFNiY0llQW5VZ2o4b2JkUlZLcnE0MUIybEdGSG5sLVJRc2RkQ0FYQjlOMU9YQlgyTWtuN0E?oc=5",
+      "status": "insufficient_title"
     },
     "de718202c27b024b": {
       "status": "entry_page_not_found",
@@ -4201,8 +4271,9 @@
       "search_version": 4
     },
     "b698a53c57418f7a": {
-      "status": "insufficient_title",
-      "search_version": 4
+      "contest_title": "Articles - HGTV",
+      "original_article": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1EN2NpXzB4bENoYVBEbnpobjBOTFhSdmVCbWRtVzJTcmtabXhvbWhMR3pkS096elZOMEdWUVlZR3BuTmdmOHNCSy1TLW5xTmZ3Ri1Sai1GMjQ2Mi01dHR3YnFTc0xpenQtd0h1d0lwSQ?oc=5",
+      "status": "insufficient_title"
     },
     "befaeb9485ae9fd4": {
       "status": "entry_page_not_found",
@@ -4590,8 +4661,9 @@
       "search_version": 4
     },
     "0d97afed98f7a90f": {
-      "status": "insufficient_title",
-      "search_version": 4
+      "contest_title": "sweepstakes - Travel Channel - Travel Channel",
+      "original_article": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9wckt5ZGpEWEwwUXkxc3VPVzJrWjBEV0dOTnRJUC1sSTByWVhYMmtPbGI0TjF4R0xJaThiazk1cHJUZXJ5T05HbjZfTWxLT0t2QktieXFYQWk5QktwMm5qVm1mY0JzdTdkRkVjbjM2c05qaXh6Q2FtREpRUW5fQQ?oc=5",
+      "status": "insufficient_title"
     },
     "83362e4c1da41f64": {
       "status": "entry_page_not_found",
@@ -4769,8 +4841,9 @@
       "search_version": 4
     },
     "55e79795f514cc83": {
-      "status": "insufficient_title",
-      "search_version": 4
+      "contest_title": "Brewers X Sweepstakes - Entry - MLB.com",
+      "original_article": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8tZS0tdEFmQjZSOWJCX01HUlBoS1RCNVFuS04tY3lNcTcxY2NvMUczdzFmelpJOFQwMXBqUjdWc0J6TE9KT1hlbnZxa0o5dzVsX0VGX1JiWTF3bVZFVHhEa0N1SQ?oc=5",
+      "status": "insufficient_title"
     },
     "47e4eced98a9aad2": {
       "status": "entry_page_not_found",
@@ -4793,12 +4866,14 @@
       "search_version": 4
     },
     "61ee0c4c2665fc93": {
-      "status": "insufficient_title",
-      "search_version": 4
+      "contest_title": "The Rewards | Red Sox Rewards | Boston Red Sox - MLB.com",
+      "original_article": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE40aHZOQjNua1NQRk5WZGZxVGVNeGV4a3lUbWxVcDdXNVBILTVQT2JpR3F1aVFnaVJxRkZDQnJ2UlBNMEFuUEE1Wmhhc0RwMVg1VHcyQnA5Tjlqdw?oc=5",
+      "status": "insufficient_title"
     },
     "20791a2f41fbde08": {
-      "status": "insufficient_title",
-      "search_version": 4
+      "contest_title": "Royals Enter To Win Sweepstakes Official Rules | Kansas City Royals - MLB.com",
+      "original_article": "https://news.google.com/rss/articles/CBMib0FVX3lxTE16RnR5VlZKRUtRdm9jeGZ1TEExUkpIRU5URlZKSmVhNkt1aHlNbFdDbE55OTFMTHZqb18wVUlITlZWdEtTU0hsZ1RvbHBvN29iY2pvU1F1RzFJZlIwZDFLaFV0S0pVVXNXZHJFWmRibw?oc=5",
+      "status": "insufficient_title"
     },
     "e1949fb543f28aed": {
       "status": "entry_page_not_found",
@@ -4841,8 +4916,9 @@
       "search_version": 4
     },
     "5f79597b3e0bd8c0": {
-      "status": "insufficient_title",
-      "search_version": 4
+      "contest_title": "All-MLB Sweepstakes Official Rules - MLB.com",
+      "original_article": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1MakRNbTc2VFMxallnZVdHZ195WFNhc3ZRUHVlUmZMNld5Q1Z4dE1ZTjFnM25lMzNqUTE0bWxuTkZZdWE0cFRpQ1RUMHZQMFBwZWZZTExRX1FuZHV6WUN6cF9wVEd0b2ZER00tN1A3LU1KdXlU?oc=5",
+      "status": "insufficient_title"
     },
     "a83cd0bb4cc9eb57": {
       "status": "entry_page_not_found",
@@ -4865,8 +4941,9 @@
       "search_version": 4
     },
     "f2292e3efbada5aa": {
-      "status": "insufficient_title",
-      "search_version": 4
+      "contest_title": "MLB Official Rules for Sweepstakes and Contests - MLB.com",
+      "original_article": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Cd1Qweko3MVZFTWZCZUtkRWdGdGNCcm02THNGblVMYVA1dnFhSXlnZ29YNTcxMHc5MENzTlpDV19yZFBYYzJrdE55dmx0NHRZaVN5Z0RiajlwZw?oc=5",
+      "status": "insufficient_title"
     },
     "cdb3aac25335c05d": {
       "status": "entry_page_not_found",
@@ -4954,8 +5031,9 @@
       "search_version": 4
     },
     "e7d9dca97ae5e2b5": {
-      "status": "insufficient_title",
-      "search_version": 4
+      "contest_title": "Ultimate Fan Sweepstakes | Chicago White Sox - MLB.com",
+      "original_article": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZMWp4MkQtYlVKZVM1U1pJZURfcGxfOHA4LXBLeF94elc5dnZvcUx6aURoeFZpaWVPMTZaVFNOUmpXOXdRMkE3TkxFbDNxQWg2SWl3c0VDeFJ2Y1UyRHI3NU1ZM1ZXNXE5TGc?oc=5",
+      "status": "insufficient_title"
     },
     "9fc266d11ada2eb5": {
       "status": "entry_page_not_found",
@@ -5013,8 +5091,9 @@
       "search_version": 4
     },
     "d6ebe4b3e0adf973": {
-      "status": "insufficient_title",
-      "search_version": 4
+      "contest_title": "WTA Sweepstake | Official Rules - WTA Tennis",
+      "original_article": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSVJINi1jclhNZ2RHYUhYcXlUUzlLWFFPLTh0aUlvc2xIR0w4SnE0S09NaVdjRV9SRzJid0ZyZVpZUDBDMDc1ZzRpOTlJUG50aFp3dFBoZWZJSGVmamw5eWw2azBVSGhTOWh1QzJncjRqT2RBcTlXV0RYMGJkRlJCTW9DZGpmRWRxZ3dLd2FOV0xOZzIxSDdiYWhRcXY?oc=5",
+      "status": "insufficient_title"
     },
     "71887ffee8e8dc57": {
       "status": "entry_page_not_found",
@@ -5392,8 +5471,9 @@
       "search_version": 4
     },
     "7d45dd2f9839c5fd": {
-      "status": "insufficient_title",
-      "search_version": 4
+      "contest_title": "Enter to Win $2K for Mother’s Day! - 828 News Now",
+      "original_article": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAycGZtX3Z4WWJLVzBqWXFfTW9iVVhGU0N1OFRuaWl0bC1udTN1a3lOTXJ5UXYzVlRuMmFSd0JYdElfUmphampaRGZTSlBsWDFnLVY3WkIxN2xlUTc0ZnNaeS1aQWpXaWtXWXd5QQ?oc=5",
+      "status": "insufficient_title"
     },
     "2936c51116bdb53e": {
       "status": "entry_page_not_found",
@@ -5486,8 +5566,9 @@
       "search_version": 4
     },
     "3900898cf315f930": {
-      "status": "insufficient_title",
-      "search_version": 4
+      "contest_title": "A Castle of Our Own - Hallmark Channel",
+      "original_article": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB2bmFNMkNlcGQ1ZXBQcnVTOGRXRkdtbGdGN3RmbUZldnBXY2dNR3Q4LS1zZG9aOFUzZDRkc3N3RXdwQm1VcjRNM3MxOXk4bmM0aGh0UmItZm5NT3gxWldZVw?oc=5",
+      "status": "insufficient_title"
     },
     "1489e3e3bf93faa4": {
       "status": "entry_page_not_found",
@@ -5565,8 +5646,9 @@
       "search_version": 4
     },
     "2ab76490c8870812": {
-      "status": "insufficient_title",
-      "search_version": 4
+      "contest_title": "TV Schedule - Food Network",
+      "original_article": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ya2VRd2syeDdaOTFORVlhemdZLWZUSFYyMzFpSURxZEVjNDZFQ0huMzFtSnktdEdyM0ZJTHZaZ1hfcUFhamhPYmNCdHQ5WnZ4NWpieVpBZUw?oc=5",
+      "status": "insufficient_title"
     },
     "77f9234010c23a16": {
       "status": "entry_page_not_found",
@@ -5589,12 +5671,14 @@
       "search_version": 4
     },
     "edf8b3c555c82b06": {
-      "status": "insufficient_title",
-      "search_version": 4
+      "contest_title": "Halloween - Food Network",
+      "original_article": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBrZFVrRlBpVFJGbXJPLW9qNWRIT1BWRDlZWFp0SXc3YkRqUkhmTmF2N3M3NGdKQzNYNmw2Z2ExVmxudUdkN3BsTmJjN3hsaDlxcjFCQTFkMnBBSUxrblNnTGpVajRnVHlWbTV6ak9ycjAzTXdrOUE?oc=5",
+      "status": "insufficient_title"
     },
     "83afcb908407a25a": {
-      "status": "insufficient_title",
-      "search_version": 4
+      "contest_title": "Pitmasters - Food Network",
+      "original_article": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA4bjhMSkVVRnRYODhaRkFxV3hOWGFXV2dERlhrYjlUdzRqaUR4eUM0OGY4N1RxTVhmUHlfQVJVVlh1Z0ZpQl9uTkl4ZGZvUU5pbGxqZ1JNcw?oc=5",
+      "status": "insufficient_title"
     },
     "19a1e342fa003d37": {
       "status": "entry_page_not_found",
@@ -5652,8 +5736,9 @@
       "search_version": 4
     },
     "268bc7c399dccd54": {
-      "status": "insufficient_title",
-      "search_version": 4
+      "contest_title": "The Kitchen - Food Network",
+      "original_article": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5DS1FFRzZ1R3pldXRJd0g0QkZXMlAwNVBzbHlFZ25GZTA1b2V3MzExXzRaZDJiUnN3b3pDNUtBSlFBWC04QXdHSG9yb3FTS2Ezd0xLWkdBX0E?oc=5",
+      "status": "insufficient_title"
     },
     "bfb53b785c516e12": {
       "status": "entry_page_not_found",
@@ -5771,8 +5856,9 @@
       "search_version": 4
     },
     "a099ce5d6b61f44b": {
-      "status": "insufficient_title",
-      "search_version": 4
+      "contest_title": "Outlet - Filson",
+      "original_article": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5iZjN4UUxsQ2JYeVF6MFdwZXFqaGFwRXZyOWNwUjE3VW5aQkhhOHRXa2x1V1E4Zmo3MFJRUkY1U2tDczE1bEQ5Rk5rbXozcVdfazVB?oc=5",
+      "status": "insufficient_title"
     },
     "e3c2db8353e438fc": {
       "status": "entry_page_not_found",
@@ -5815,8 +5901,9 @@
       "search_version": 4
     },
     "72647fceef482a88": {
-      "status": "insufficient_title",
-      "search_version": 4
+      "contest_title": "Q&A WITH A HOTSHOT - Filson",
+      "original_article": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBMYlAzbHNGUVZ3dGpoSzJzWFY3Qkt1cGVrY2hpM2xPeEVjM2VQTEU3ZXlTNS1uakR5OFUtWjRXRlpqcERaeFlCZmtoVXM1MEF2WFl2OHQ4Z3ZQWFE2SXZHZnpkOFBoSC0xbVI3azZ2VFFzXzJpY2phTmNqSjFpdw?oc=5",
+      "status": "insufficient_title"
     },
     "8a53c1ec74634611": {
       "status": "entry_page_not_found",
@@ -5869,12 +5956,14 @@
       "search_version": 4
     },
     "7ac6eee2bdec0642": {
-      "status": "insufficient_title",
-      "search_version": 4
+      "contest_title": "Men's - Filson",
+      "original_article": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14UnBmSjFRQzRSTzUyTEdfOUVpZHVpcXBYczJCYUJ4bEdMUlE4aGxYMmVuTkZjam1WNGxfY0hoQ252X1Z2WnA1TEdCaDZaWkFO?oc=5",
+      "status": "insufficient_title"
     },
     "af3b99fe8392b382": {
-      "status": "insufficient_title",
-      "search_version": 4
+      "contest_title": "Outlet - Men's - Filson",
+      "original_article": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aMDdjM1BpZjhibzNKUVBUc2t0RDdubEhDaUFSdzZSOFlSUHUwcDJaZDF6ZF9oMkljOEExazRROThfQTl6OU9ZZFNBRXZOdlQ2a1lTMGlKSmJVUQ?oc=5",
+      "status": "insufficient_title"
     },
     "8e3ee79eb5bf7447": {
       "status": "entry_page_not_found",
@@ -5887,8 +5976,9 @@
       "search_version": 4
     },
     "c182256e4e79dd36": {
-      "status": "insufficient_title",
-      "search_version": 4
+      "contest_title": "Briefcases - Filson",
+      "original_article": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1weXoyTVh1eWF6MzRXVE5JSzR4VWNGa1p6c1gzSkZGM3Y2ZHhSYjRsMmJiTlBpdDJrRERHRnRCTDFGTTlJSDFBMHU0TUFjOWJPMEtsazFFd1U?oc=5",
+      "status": "insufficient_title"
     },
     "d5e3fa25ed579b2b": {
       "status": "entry_page_not_found",
@@ -5901,8 +5991,9 @@
       "search_version": 4
     },
     "6b63b50f9ad2d348": {
-      "status": "insufficient_title",
-      "search_version": 4
+      "contest_title": "QUESADILLA DAY - Chipotle",
+      "original_article": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0xenJLVm8yeWxLa0Joa1BZT2VqdG5tM1BlOUZ3UzVEZFRSX0htLUswZVR3MHBZUzZvdmZGMkE4ME1KNFBjeS1jME9lVUNHdzd3TG80dzhreUswa0hT?oc=5",
+      "status": "insufficient_title"
     },
     "d85913f0d2d1877d": {
       "status": "entry_page_not_found",
@@ -6430,8 +6521,9 @@
       "search_version": 4
     },
     "848ffbfc08672e83": {
-      "status": "insufficient_title",
-      "search_version": 4
+      "contest_title": "No laptop giveaway – ‘Tecno Mobile Uganda’ Facebook page a scam - Africa Check",
+      "original_article": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVnVnOHh2YVJVZnRBMkJpLXJPR2xWWms3Z3piZG9CRnRGTG9qSXM5aXR1OXJTSmMxZ3l4MS1qVUZ4ZTR6T2x0Vno4elE0d3JVcVl2N2RCQ3pCWlZ0dlpNUVBXN21lQ3dHTk1IMFZYSXN5NmEtbHo4WmhDVmRLd1NrdGZXWmV5X2VaanlCUWZuYmEwT3M3a3NnV0lobl9DZTZkME9sU3dpbE5QZ053RGlNbk5iOFpRbzNQVTd5bw?oc=5",
+      "status": "insufficient_title"
     },
     "2caabe0f0fbedc3b": {
       "status": "entry_page_not_found",
@@ -6479,8 +6571,9 @@
       "search_version": 4
     },
     "677b8b70b34e17c1": {
-      "status": "insufficient_title",
-      "search_version": 4
+      "contest_title": "Deal | Epic Games Store launches final January 2026 free game giveaway - Notebookcheck",
+      "original_article": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPU0Y3RG1LOWt2QnJucEN2SEdFYmVfTXdnQ0NjTXQzMkdOcXJOc3FfbkE5Zmd4ODVhZk1Qb0FJWVZQRU5kU2hvdEUzXzFTem04Wk14anlqa3Nqa1UwT2liTWtfa0xxUzMzcDRIN3h2T3hqYU1QZ0pqU0I3d2V1VWF1dlQtM2lUaXU0clFiZHRHZWlobUtUNFJNaVU1SlJwZU1SRXJuM2lyWmlQX2Jk?oc=5",
+      "status": "insufficient_title"
     },
     "a15b1bdae089b2e1": {
       "status": "entry_page_not_found",
@@ -6753,8 +6846,9 @@
       "search_version": 4
     },
     "3a9ac546a1b8db49": {
-      "status": "insufficient_title",
-      "search_version": 4
+      "contest_title": "Happenings | Explore Events Today - Join the Community - Today's Talk - KWOC",
+      "original_article": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1VcHFrOHpIVXIyYWlFa3EzOTZ1WWo1MUFVYWlSVmtod1JnY3lyczIzUVdsR091U1hLRVMwSVBaeUlucUozamc?oc=5",
+      "status": "insufficient_title"
     },
     "c17abf74d8c76536": {
       "status": "entry_page_not_found",
@@ -6927,8 +7021,9 @@
       "search_version": 4
     },
     "925728fe1c062a65": {
-      "status": "insufficient_title",
-      "search_version": 4
+      "contest_title": "De Bruyne, Džeko and Sané - Is Manchester City’s Bundesliga shopping spree under scrutiny? - Bulinews",
+      "original_article": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbGxNM3h5WFlvdDhKS2FDbHo5QnJnOHlyRjAzeklNdnRnVmpxT2k5TkZ4UjRRNHFyS1Vqd2NMb19iZWExNGZGSFBIS2piSHlDTFh6T2FiQzBrSE5RQmRFOEJzQUVBajZRLXVLUHUtYVY3bWJKcU56ZUZMbzBPRmVXbXQtZmo3Wmd6b3lUMG5XNlY0TWFpbHVIendZSFYtMGFJ?oc=5",
+      "status": "insufficient_title"
     },
     "7fdfeb764dcf5d4b": {
       "status": "entry_page_not_found",
@@ -7206,8 +7301,9 @@
       "search_version": 4
     },
     "a7e2f69ebb19a996": {
-      "status": "insufficient_title",
-      "search_version": 4
+      "contest_title": "Official Rules - 2025 Packers Weekly Sweepstakes - NFL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9Ub2tPeGpyU1h3NlIwbUVxcFdtYVVrTFlkODJwYjNRMTBIdWxHUWFvbnpfNVp4WXR4Yl90eGdqNTJzYTZvTDNuWFl4c201dEZVclNWazUzaFZBUzhiRnhFMTZja0FzTFdJbVMzX3J5cFRheEdndF8xVnV3?oc=5",
+      "status": "insufficient_title"
     },
     "a5e02712d951835f": {
       "status": "entry_page_not_found",
@@ -7220,8 +7316,9 @@
       "search_version": 4
     },
     "bbfff6b65a99007d": {
-      "status": "insufficient_title",
-      "search_version": 4
+      "contest_title": "Kovacevic | POST-RAW 10.27.26 - NHL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkc21oOFc0TGV2OWpFZm90OXVTelc5cmRYa3ZlOHE0N0VVM040cXFoTkZlUHppb01iMEtUR1JzeWpBaFIzR1BQRGI2NWNQSGRrWmtIR2lrZERDazBGQ25iZTdfUjQ2VUJpWmgyekFGbUxTcC0yUmkwVjk4Y0hlMXM?oc=5",
+      "status": "insufficient_title"
     },
     "d8048192fb532ad1": {
       "status": "entry_page_not_found",
@@ -7369,8 +7466,9 @@
       "search_version": 4
     },
     "42d6d344bc8147d8": {
-      "status": "insufficient_title",
-      "search_version": 4
+      "contest_title": "Jon Brown - Jacksonville Jaguars Place Kicker - ESPN",
+      "original_article": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBvUkhWYmhNeV9GQ3pQZ0IxY0xhU1c4WV8tSFRleFpwT0lsa0JhUGNyNVlXeFhJWlNZWmFoZDltLXFrWmNfMEliTWlKQ3E1dVBjbGNuS0ZQTnlBY21ZcU5hU1FVTVk?oc=5",
+      "status": "insufficient_title"
     },
     "8f1d4010e0aee836": {
       "status": "entry_page_not_found",
@@ -10292,6 +10390,757 @@
       "contest_title": "Skenes Sweepstakes | Pittsburgh Pirates - MLB.com",
       "original_article": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1laDF5LTZ6LUFlNGRsVXo5WEhndUpkSWd3aE9rbEFCZy04SE92OHZJRVBtckxrZDRwMTBKMWpPM1l4UWpyMlczdFZGMmJFVzkzc2dhX29jcGgxalZ6YjBGTQ?oc=5",
       "status": "insufficient_title"
+    },
+    "b307a035db4c6c11": {
+      "contest_title": "The entry period for the My Cardinals Connection Sweepstakes, powered by Spectrum, has ended. - MLB.com",
+      "original_article": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1oX3dXTV96a0tsaUR6UG1Xc2JGek1ZZUhjTUhreWpnNEw4TXFIb1luVXduckV6dnhCd1dxUGNMd0cxaFV0cl9RQkFybVJnak1ab2U0QWhTdmhORUNxZ1JvNGoxN3F5SVR2ekVFNHhnR3FRelNmN2dyLXVVRQ?oc=5",
+      "looked_up_at": "2026-10-31T12:17:22.290889+00:00",
+      "search_queries": [
+        "\"The entry period for the My Cardinals Connection Sweepstakes  powered by Spectrum  has ended \" entry",
+        "entry period cardinals connection powered spectrum ended sweepstakes enter official",
+        "entry period cardinals connection powered spectrum ended giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "797dbdb462a96e5e": {
+      "contest_title": "Giant Eagle/Pirates Dinner and a Movie at PNC Park Sweepstakes - MLB.com",
+      "original_article": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPU2ZyaTAwM2tWNmFXWmt4dk5iSzVtaHV0cGF0ajNRRzJtS3dLdTJ0Yko2cmppNWU3RlpaTVNpbG55b0d6d3ZPMkR0a1NGVF9xZlYzZ3JUNlBHTEtHZV9JeUlHdGw2aC1ocUZvazV6dmk5cElqSU01N2xVTjVxNFJxdFlFNGhzbDhWNnc?oc=5",
+      "looked_up_at": "2026-10-31T12:17:22.141682+00:00",
+      "search_queries": [
+        "\"Giant Eagle Pirates Dinner and a Movie at PNC Park Sweepstakes\" entry",
+        "giant eagle pirates dinner movie park sweepstakes enter official",
+        "giant eagle pirates dinner movie park giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "bf4bdf35002b7318": {
+      "contest_title": "St. Louis Cardinals Season Ticket Renewal Sweepstakes | St. Louis Cardinals - MLB.com",
+      "original_article": "https://news.google.com/rss/articles/CBMickFVX3lxTE9IMkk0bm9UZ2J1ZGFQajY3R2dKS1VhWGY4Y2tQdkVBUHRYMERxUm5kaE83djk1cEZMY2RPMFUyWTVwVFVCdFR1d2p0ZHhSUjZsYnAtQUYxWDVSSWRoSndHa0pCcXhLSldIQlVkbktzSFZ0Zw?oc=5",
+      "looked_up_at": "2026-10-31T12:17:22.195794+00:00",
+      "search_queries": [
+        "\"St  Louis Cardinals Season Ticket Renewal Sweepstakes\" entry",
+        "louis cardinals season ticket renewal sweepstakes enter official",
+        "louis cardinals season ticket renewal giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "126d8a55032f97a6": {
+      "contest_title": "Royals X Sweepstakes - Entry | Kansas City Royals - MLB.com",
+      "original_article": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1DM01LR1RKWDUyRXVCZEFOTklXekVyRmdXQkc2djQtV25RLURxV0hycjdCOWU3clpMRVN4Ym5YYUpkMG5CZGR4TzNDdzdtLWpDMTF2RFBITWRjMUFSSWpkYkFR?oc=5",
+      "status": "insufficient_title"
+    },
+    "6b6f4561d171491b": {
+      "contest_title": "All Game Tailgate Sweepstakes - MLB.com",
+      "original_article": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5leXJIaWtoaHpYeDM2UndzVkhVRk5CNXNxWHZuMFotQVZiRjlRTThXVG1VYXRjSXo3Rm9TM3pzdU5WbzNFREdRVEVPZnN1TlFnTDFOWlVkSFBDbUZ5aHNLMF85ZHlsWWxsMjI1WGxrdw?oc=5",
+      "looked_up_at": "2026-10-31T12:17:22.209569+00:00",
+      "search_queries": [
+        "\"All Game Tailgate Sweepstakes\" entry",
+        "game tailgate sweepstakes enter official",
+        "game tailgate giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "9aaa264625a8d908": {
+      "contest_title": "Mariners 50 Seasons Celebration Sweepstakes | Seattle Mariners - MLB.com",
+      "original_article": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1UOC1Qd3lNUkdMZHd2WFVxcFVHU1NFMXRaNHp0Y0NqV0JtUG5DZlQwa0U5c3RjYmR3ajd6MUhzVWhFOC1Iejc1c0pfeXVhUDFGUVdITTBza3h5WHhGaW02SXhmelJvdC1lVDczRE1ZQjM3Yk93ZmNB?oc=5",
+      "looked_up_at": "2026-10-31T12:17:22.291913+00:00",
+      "search_queries": [
+        "\"Mariners 50 Seasons Celebration Sweepstakes\" entry",
+        "mariners seasons celebration sweepstakes enter official",
+        "mariners seasons celebration giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "61ab4437098a56ae": {
+      "contest_title": "The 2026 KONAMI eBaseball™ MLB All-Star Ballot - MLB.com",
+      "original_article": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE85bjdMay0zemI1UXVsV0xPU3BwY2pVX0ZIU0FZMHRKVHR3TFJncEYtTVFaWmc1eXltZU9TMmhYR210TEdMMXRrVnFfaw?oc=5",
+      "looked_up_at": "2026-10-31T12:17:22.235816+00:00",
+      "search_queries": [
+        "\"The 2026 KONAMI eBaseball  MLB All-Star Ballot\" entry",
+        "konami ebaseball star ballot sweepstakes enter official",
+        "konami ebaseball star ballot giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "837fb0e2da65d179": {
+      "contest_title": "30 Days of Season Seat Holder Prizes Sweepstakes Official Rules | Los Angeles Angels - MLB.com",
+      "original_article": "https://news.google.com/rss/articles/CBMib0FVX3lxTE80bDJRcXBSQkJFeS1DX1pwQ0VjZTdBd0VhRDF3R0NabjFpSldJMzI5VFJhQkE3OHlhZTl0REV6eWZLbWRZV0xHX3FZSXJnX3dGX0pNT0FSUV8wdEI3Zndhc2w2aVVJUWt0ME5vTjBmcw?oc=5",
+      "looked_up_at": "2026-10-31T12:17:22.254549+00:00",
+      "search_queries": [
+        "\"30 Days of Season Seat Holder Prizes Sweepstakes Official Rules\" entry",
+        "days season seat holder prizes sweepstakes enter official",
+        "days season seat holder prizes giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "debed0e5590c22ad": {
+      "contest_title": "#AnyBodyCanWin a Rays Getaway Sweepstakes | Tampa Bay Rays - MLB.com",
+      "original_article": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9VdGR1Y3ZFWFl6X0g1QmhVSkRfZ19fdlYwd2pQZnBsNDNWVU00dlRQaW1uZjhUaXRjcmh6cWZ0YUlvanZmTmpxX3I3OE45NUpibG9SazJjSXcxdXpDcTRfa2h3akZWdw?oc=5",
+      "looked_up_at": "2026-10-31T12:17:22.156312+00:00",
+      "search_queries": [
+        "\" AnyBodyCanWin a Rays Getaway Sweepstakes\" entry",
+        "anybodycanwin rays getaway sweepstakes enter official",
+        "anybodycanwin rays getaway giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "c250b4db076aad1a": {
+      "contest_title": "Official Louisville Bats Website - MLB.com",
+      "original_article": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5vTDg0akVVZnBxaVBEeTZ4RTdHZkVQTS0xMTYtaGh5V3haVy1oZXpfd1UzZUVySDVJQjlaejM3cWx0UkJJRGpOcEVnMA?oc=5",
+      "looked_up_at": "2026-10-31T12:17:22.221666+00:00",
+      "search_queries": [
+        "\"Official Louisville Bats Website\" entry",
+        "louisville bats website sweepstakes enter official",
+        "louisville bats website giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "f2f6b46b7611fd0b": {
+      "contest_title": "Terms of Use Agreement - MLB.com",
+      "original_article": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9iOEtXOFVHZHJndFpQbDNzdUVsdEtOTzJwN3JqUV9SX1JZakE0RjNXUHBPdF8xSmF3dTdYSEY5U3Jub0N4Y0VfQXVGSFEtUFBkTUFwbWxRQVZHZHRPVTNsWlU1cw?oc=5",
+      "looked_up_at": "2026-10-31T12:17:22.271477+00:00",
+      "search_queries": [
+        "\"Terms of Use Agreement\" entry",
+        "terms agreement sweepstakes enter official",
+        "terms agreement giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "c4a73bdea9439ab5": {
+      "contest_title": "MLB Privacy Policy - MLB.com",
+      "original_article": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBjby0xSTRUNExFU3J6cHJPZnZIQ2NRdWJiNEYxNG1iZEJRRGF1Q1VDLW9wek5iZzZubVpjMlZ6WGxPRU1WM001ZUcxb2NGVHhtaVRMQTVxak80d0l6QjdYWHlCUklLUQ?oc=5",
+      "looked_up_at": "2026-10-31T12:17:22.151473+00:00",
+      "search_queries": [
+        "\"MLB Privacy Policy\" entry",
+        "privacy policy sweepstakes enter official",
+        "privacy policy giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "2e26f45889cd71a5": {
+      "contest_title": "NFLPlusPremium network icon - NFL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9uN0Vxd2lMMnNUVFhHaFB3cDBHU3hmNDN4TkRWMFNuYm55MVdGZjN1b05GUW1rUks5UUpIa01HRzdJNDh0dndNTFlhbmViY2dMeU9UekttZ1VUcU8zRFNBUVYxY0JGNmdNdUE?oc=5",
+      "looked_up_at": "2026-10-31T12:17:22.206395+00:00",
+      "search_queries": [
+        "\"NFLPlusPremium network icon\" entry",
+        "nflpluspremium network icon sweepstakes enter official",
+        "nflpluspremium network icon giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "02a03093643ffe06": {
+      "contest_title": "2026-2027 Chicago Bears – Preseason Week 1 Gameday Sweepstakes - NFL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWW5zM3J6VS1Wbld2UmxRNG5PQTFsb2xGdDdZdVNsQ3lrTVdHcXpxOHhrU1hpMl92NGtacGRJMUozWTZRYmdJOUYyVmZzOGJOdVhSU2IxY1Nhb1hZX2NuazBxalp2ajlrNWJydV9VdkZmanFraEw4RHlhMU44am9JQlVGQS11SU9MbFpuWg?oc=5",
+      "looked_up_at": "2026-10-31T12:17:22.559655+00:00",
+      "search_queries": [
+        "\"2026-2027 Chicago Bears\" entry",
+        "chicago bears sweepstakes enter official",
+        "chicago bears giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "b161e6ac13cb7110": {
+      "contest_title": "ENTER TO WIN A DENZEL WARD JERSEY SWEEPSTAKES OFFICIAL RULES NO PURCHASE NECESSARY TO ENTER OR WIN. A PURCHASE WILL NOT INCREAS - NFL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4tSW5ZVXRxWms3dVlialFVc1NadG9FZmhtdlVCbFY4cmxTZDVFa2lTTjBWRnA0UkhNeE9YWjkwcksyZC1tZDVQUy1vSVowZ19rTG84dUJjazNCSW42MmxCNTlGZnE2X2J5cDNFNWE0RDF5bk9Bal8yQg?oc=5",
+      "looked_up_at": "2026-10-31T12:17:22.757900+00:00",
+      "search_queries": [
+        "\"ENTER TO WIN A DENZEL WARD JERSEY SWEEPSTAKES OFFICIAL RULES NO PURCHASE NECESSARY TO ENTER OR WIN  A PURCHASE\" entry",
+        "denzel ward jersey purchase necessary sweepstakes enter official",
+        "denzel ward jersey purchase necessary giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "2e12880e8cd1e8da": {
+      "contest_title": "road to victory sweepstakes – official rules - NFL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQR25BVVlMWXJQd0c2aWIzRHl0ZWxDbld6Ui1rMGxERHFPVTB6UDh6WXEtbVRrY1N6cUgzNGoyRUUyU0V5NlpkUTFaQTIybkplbDh5cWx2bGZhUmdialkxeDhpU0NXSlIzdlJ5NEM1anNnQzJXWWhtbkpjTkxNcHQtZFdLeGtZWjVjZHpPb0JB?oc=5",
+      "looked_up_at": "2026-10-31T12:17:22.759718+00:00",
+      "search_queries": [
+        "\"road to victory sweepstakes\" entry",
+        "road victory sweepstakes enter official",
+        "road victory giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "486621c8dac34c99": {
+      "contest_title": "#986951-1 - NFL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5oa2VLeE01THVfbzZaWFA3Um1QTDM5LWRjNEE4Q1BGMmMyeGdJeEgzZ21qcFNqNkJyY0s5bVFZcm8xNnFfY2Q4X1ViRUhNYjVRS1M3SjdnTVJDMFRQbXFRWEw3MllkSnF5eXlFaE5FY2N5a0RPUzV5aXd0QlhNaWM?oc=5",
+      "status": "insufficient_title"
+    },
+    "d4d097568192a48d": {
+      "contest_title": "OFFICIAL RULES - NFL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9OSXBVUEp1NjNQOU1HOXlGcFk0MmkyUmIwbzB4bkQwa1lQc0VYNS1WOTF4NkN1N2RsN2lvMDFzME9acmY4LU1vTlpHRTREZ29TNHdyMG5aSXo1c2YyTEI1cUt5eTZuenZOZHpEVEQ5NjduSUYtc2pN?oc=5",
+      "status": "insufficient_title"
+    },
+    "8acfee4e6d530649": {
+      "contest_title": "OFFICIAL RULES - NFL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5hOGRxOEFhOUo3LWRVeUFFMFoyTnNwWWxPUU5iejJfNnVqQzdQNmhBN0k0WWRVcEJzR3NmcG9QQ3hBTVZmWkl3TW1WQTEtZS10UU83VklOQ1VUQnAwWUtBY2I3ckdicmFjdl9sMVRtZzdZVU0wWTg4?oc=5",
+      "status": "insufficient_title"
+    },
+    "02893868eb098c5e": {
+      "contest_title": "OFFICIAL RULES - NFL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBBZHl0Q1AwUFlMRF9NWXJFQ3hKQlJoR2xxVkd0cDBfWjAzQ2lfdjdWYUpIRjhWTU1VSmt1U1JZbmhERWp6UWlkMjlkLXhrakFLLXpjemlFUnA0cHZFSjM3Y3pFMi1rZTcycjhkbzZUcXM5S2gzem40?oc=5",
+      "status": "insufficient_title"
+    },
+    "f269a29089803fd7": {
+      "contest_title": "Illustrated Game Poster Like2Win SWEEPSTAKES OFFICIAL RULES NO PURCHASE NECESSARY TO ENTER OR WIN. A PURCHASE WILL NOT INCREASE - NFL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9zWWVJbGpnWlJxUUtNWUNJeTMwdGZJeTNyb3FQcm5EM21RTmpLcnZlU0xWNmlEYlROYWF6TGJLcTdOeUFYQ1hyVEUxbDE1X3NMdmM3dl9UVkRjVFVCZmdLVlJ5amcyN293ejRYUHBzQkxtR0hxdmJhRQ?oc=5",
+      "looked_up_at": "2026-10-31T12:17:22.779335+00:00",
+      "search_queries": [
+        "\"Illustrated Game Poster Like2Win SWEEPSTAKES OFFICIAL RULES NO PURCHASE NECESSARY TO ENTER OR WIN  A PURCHASE \" entry",
+        "illustrated game poster like2win purchase necessary sweepstakes enter official",
+        "illustrated game poster like2win purchase necessary giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "44ba375319df52d7": {
+      "contest_title": "online through the Promotion landing page at Jaguars Schedule Predictor 2026 - Jacksonville Jaguars × Dream - NFL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMiekFVX3lxTE15NDMyRGJqRndyRUUtYklRMkdsSnlHT0QzSmpPRjdjdm5NQmRLRHIxM1Raekw5RlFvYjZ5VjdfcFltVjJySnVuUjFEYTZ6d211YXpYRXhIOGVXSmF6c21HS1N6R1RrUFV3VmVhakxSNm0xNy1KNDNBYV9n?oc=5",
+      "looked_up_at": "2026-10-31T12:17:22.783107+00:00",
+      "search_queries": [
+        "\"online through the Promotion landing page at Jaguars Schedule Predictor 2026\" entry",
+        "online through landing page jaguars schedule predictor sweepstakes enter official",
+        "online through landing page jaguars schedule predictor giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "b30d25fcdeb44c17": {
+      "contest_title": "Chiefs QVChiefs Hotline Schedule Reveal Sweepstakes Official Rules (110878210v2)-c[57] - NFL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBJRHBwVE1tY3BVYXRpdGZXLUJ0WFI3aVY5NW9XSUpkS2wyS3RiX2oyTDA0c1I2WjVwX0RzdTk4N2t1Q0dWelVYeUpYbXRhRjljVV84cGFZQWhBR0pOZU1FbXgtN0dQWFIwY1R1ajZqdEhkekYyOFk4dQ?oc=5",
+      "looked_up_at": "2026-10-31T12:17:22.809264+00:00",
+      "search_queries": [
+        "\"Chiefs QVChiefs Hotline Schedule Reveal Sweepstakes Official Rules  110878210v2 -c 57 \" entry",
+        "chiefs qvchiefs hotline schedule reveal 110878210v2 sweepstakes enter official",
+        "chiefs qvchiefs hotline schedule reveal 110878210v2 giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "38c18255943f2b87": {
+      "contest_title": "kendra scott ticket giveaway sweepstakes official rules - NFL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQa0cyZE5MV3pTWDZab2lYWi1tSmgzbG9NUHpQQjA4aGpTT1NXXzNuVzdXenFGNlVvZ1Nub2xEamNQR0VVblVzaGE4ajNKVDBSVS1mYnFUOGtUbWloSklMTTVuNllsY2s5UFNnQ2dPTnJaWWRjU1pTX1RvWklTR2RZa0h2Wjlfd3pnYnpsbW5R?oc=5",
+      "looked_up_at": "2026-10-31T12:17:22.724827+00:00",
+      "search_queries": [
+        "\"kendra scott ticket giveaway sweepstakes official rules\" entry",
+        "kendra scott ticket sweepstakes enter official",
+        "kendra scott ticket giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "7aac34de7f30397c": {
+      "contest_title": "1 NEW YORK FOOTBALL GIANTS EASTER EGG HUNT SWEEPSTAKES PRESENTED BY BOB’S DISCOUNT FURNITURE, LLC OFFICIAL RULES NO PURCHASE N - NFL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1fQ2JwakVrVXNXcjVJTTJFRWFvQzFJSjBhdUdYN0FuVjR1dHZheWJaODBjY2VaN0t4WHMwb0hLMFZWWW1EakhYZUdTcUlvampwTDVTRTFiNXplMHZGYVVicUVzTmo4eU9yLVlHT19QX1JndHpTS3NIcw?oc=5",
+      "looked_up_at": "2026-10-31T12:17:22.729852+00:00",
+      "search_queries": [
+        "\"1 NEW YORK FOOTBALL GIANTS EASTER EGG HUNT SWEEPSTAKES PRESENTED BY BOB S DISCOUNT FURNITURE  LLC OFFICIAL RUL\" entry",
+        "york football giants easter hunt presented discount sweepstakes enter official",
+        "york football giants easter hunt presented discount giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "64eb5fd7788439ae": {
+      "contest_title": "Los Angeles Rams Trade Promotion Terms & Conditions - NFL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1NM0kzeUk0QkdycWZWZWRQQVY0aHo1cmpZOEJuX1o1QkVIbFprRzQ0N05zY3NrTXMzU25Fa09raDA3dXJRc2tOMG54TXNsZjVYUmNSWlBFLWYwODlGWVg5V2J2WDZnSXV1Q2dRUWh4MXlQWVhmX1d3alduMA?oc=5",
+      "looked_up_at": "2026-10-31T12:17:22.814062+00:00",
+      "search_queries": [
+        "\"Los Angeles Rams Trade Promotion Terms & Conditions\" entry",
+        "angeles rams trade terms conditions sweepstakes enter official",
+        "angeles rams trade terms conditions giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "d8f5ead4d5319bee": {
+      "contest_title": "2027-9-7 Raiders STM Renew & Win 2027 Official Rules (RLL).docx - NFL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQN3Fia3ZCMUlscDRWSzM4emhTN0Y5VUFNbmFpTXAyR2QyMWNrUnBSZGtSd3BPNmVKOFBSeUN1ZHppMWpwcV9lREhBS2w2bWMzQmRNMWNPejI0a1J3TDduLWg5MmxBZlhDWFRoaDVCc2M2REp3T0VNbG96akhMdG5YMndxM004b1luLW81Q0hzdw?oc=5",
+      "looked_up_at": "2026-10-31T12:17:22.772092+00:00",
+      "search_queries": [
+        "\"2027-9-7 Raiders STM Renew & Win 2027 Official Rules  RLL  docx\" entry",
+        "raiders renew docx sweepstakes enter official",
+        "raiders renew docx giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "c3c138710ba76ec3": {
+      "contest_title": "kendra scott ticket giveaway sweepstakes – official rules - NFL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUDJEejQ0dlFzV2k2YmFMallkYnh0MV9jRUxYSFhPN2ljUGZaOVA4djF4Zk9KWXZGMGFDSmhidjJ2aml6Q2g0WXp3TTNKTVpNMGxsbXNDYVIzVFdPZnZpbE9JMzY3U0I2ZS1nNVI4MVRwMWRDUDVIVFg5emJGY2JGbjdCdWRhemNyNm1MZnh3?oc=5",
+      "looked_up_at": "2026-10-31T12:17:22.827145+00:00",
+      "search_queries": [
+        "\"kendra scott ticket giveaway sweepstakes\" entry",
+        "kendra scott ticket sweepstakes enter official",
+        "kendra scott ticket giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "8122f56575a09ebd": {
+      "contest_title": "2027 Win the Ultimate Minnesota Vikings Experience Sweepstakes Official Rules - NFL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBsQVVDby1tOUEzWUlYbVJxcTFxM1dBcFY0bjZFUXBOc2RnRThESzA2LXVGU1l5STRNSXE1WGZ6eEhZaFZhaEw3UE9KZ0xidjBRaHdac0x3cFk4UXFjYjM1WWYzZkVXcFU4OG14ZkwzMEFDWUNRRHNBQ0lKMGZLNzQ?oc=5",
+      "looked_up_at": "2026-10-31T12:17:22.772926+00:00",
+      "search_queries": [
+        "\"2027 Win the Ultimate Minnesota Vikings Experience Sweepstakes Official Rules\" entry",
+        "ultimate minnesota vikings experience sweepstakes enter official",
+        "ultimate minnesota vikings experience giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "077b4cf85c0072b7": {
+      "contest_title": "hellmann's ultimate gameday spread sweepstakes – official rules - NFL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQXhodmx6MW5RUThxMkRqYnhidGtabUNuWW9Rc01MXzlMOFpiRUo0ZmczTG96ZzJ6WWhiX1JoWWlIMlpEN1RrUjdvUGdBWHM3dnB1amg5ekxJXzItNGU5UURBbFhUeWhGTU82NUIwczRNMGtvTlJVRF9ZUmtub0gyeG40LU9lUzlUZjRjT2VB?oc=5",
+      "looked_up_at": "2026-10-31T12:17:23.119738+00:00",
+      "search_queries": [
+        "\"hellmann's ultimate gameday spread sweepstakes\" entry",
+        "hellmann ultimate gameday spread sweepstakes enter official",
+        "hellmann ultimate gameday spread giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "04a98bfad0ff9ef0": {
+      "contest_title": "2025 sms mason graham autographed jersey & orange replica helmet - NFL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9DQlJXamMzN19SQ3RxX1NVZlVEbnM2aEVxYTNRVm50c1F6enhmUEU3OEVHUmVRWnl3cnRsZVlENE43TFEwMndWeEpLeWRYNGdqYm9WRzJVcmQ4Tlh4TnU1aHRHZGRNa0lKTG00VGZCN0wxcGRUNGF3LQ?oc=5",
+      "looked_up_at": "2026-10-31T12:17:23.433766+00:00",
+      "search_queries": [
+        "\"2025 sms mason graham autographed jersey & orange replica helmet\" entry",
+        "2025 mason graham autographed jersey orange replica sweepstakes enter official",
+        "2025 mason graham autographed jersey orange replica giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "c5816babc630af84": {
+      "contest_title": "2025 eagles landing sweepstakes – official rules - NFL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1YNFB5Z3JEb0x3ajBFWjBjV3pqU1FlR3pYOHdacV9DVmZsTDF6cFZyWmJtX3NWVHFaTkhMUFdwSFdZc3JtLTZjZ0R6aDN5OVU3aFBXTFRPbnA0Z1ZwWGxJUGZFTGZmU3hfNE1ocW5yS2R0LVRmd1RieQ?oc=5",
+      "looked_up_at": "2026-10-31T12:17:23.177104+00:00",
+      "search_queries": [
+        "\"2025 eagles landing sweepstakes\" entry",
+        "2025 eagles landing sweepstakes enter official",
+        "2025 eagles landing giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "e09d85bb629a179e": {
+      "contest_title": "NFL Salute To Service SB LXI Tickets Sweepstakes - NFL Auction",
+      "original_article": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPM2hhQktMUERRNUdjdjA4MEdlOExQNU93Z3RiZ1EtN3hXYUhHNVFVRHMxSFZHTzlpZFFGNmFxaDdpRmJVWEJ0MUd5dDJjTTlXdzNOWFRvOXBBVHdRMUdlcFVjdVNKRUlqUHVLdDRZQkw5YUNyMDdEWWlTMEU5RjFMSV9EX28yMlFrLXFhMTVRc0FKUzI2UTR3UGt5a0ZJTFJFQm5oTkE1MlJSUEd0TzFKMmRCWXRqZ0VoU1otS0VhQTlLX2lDT2FNR2dn?oc=5",
+      "looked_up_at": "2026-10-31T12:17:23.233550+00:00",
+      "search_queries": [
+        "\"NFL Salute To Service SB LXI Tickets Sweepstakes\" entry",
+        "salute service tickets sweepstakes enter official",
+        "salute service tickets giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "cd8c34ccc46f01b4": {
+      "contest_title": "Unrivaled Road Trip Sweepstakes Official Rules - NFL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ubDhpRlcwSnVNUkJCTTFaM0lCa2M5OWFuSF9tMWR5LW90eEk4R21JczhLa3Q2WXZYNzUtOTZoOFNrVGNIZGVHVDFuRXdKclNLWVQ5Qi1hcHpmWGpwRmNpMURSSEhqb3NHTmZpbDVwODNsN3NYQ25mVEhR?oc=5",
+      "looked_up_at": "2026-10-31T12:17:23.421850+00:00",
+      "search_queries": [
+        "\"Unrivaled Road Trip Sweepstakes Official Rules\" entry",
+        "unrivaled road trip sweepstakes enter official",
+        "unrivaled road trip giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "d915155fa925a766": {
+      "contest_title": "Jags at Work Sweepstakes Official Rules - NFL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5IeFF2UnYwYnhDaGpweTZhbzdETTFacTg5bERfUkpvQ3FFUklvR29LUUt2WDhfb0hGUUEzakVyZktyS0syeGJ5MlpFb1hFaUZFcHNYT0lYaC0xbEdCOVVqeTBJa0N1b3YwU2x5Tjh3aTlnN282bzlIalJR?oc=5",
+      "looked_up_at": "2026-10-31T12:17:23.296654+00:00",
+      "search_queries": [
+        "\"Jags at Work Sweepstakes Official Rules\" entry",
+        "jags work sweepstakes enter official",
+        "jags work giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "6921204f671892c3": {
+      "contest_title": "OFFICIAL RULES CINCINNATI BENGALS x “OPEN IN ORANGE HAPPY HOUR RAFFLE” NO PURCHASE NECESSARY TO ENTER OR WIN A PRIZE. A PURC - NFL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMiekFVX3lxTFByb0JTSElWVTRKclJTT0xHd2E1X2JCMDByT3VuNnN0NkxITGk3dkd0dXpaVi1KN0hWSk5PRU5BZlV3TWhrVm1sWjhrVWNvVndMRFZ1NkFUelJsaVQzM1hld2dTY3N0al9tVE4tZ0pLemptUXcwZlBVTW9B?oc=5",
+      "looked_up_at": "2026-10-31T12:17:23.489467+00:00",
+      "search_queries": [
+        "\"OFFICIAL RULES CINCINNATI BENGALS x  OPEN IN ORANGE HAPPY HOUR RAFFLE  NO PURCHASE NECESSARY TO ENTER OR WIN A\" entry",
+        "cincinnati bengals open orange happy hour raffle sweepstakes enter official",
+        "cincinnati bengals open orange happy hour raffle giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "144006ba8ec4f897": {
+      "contest_title": "OFFICIAL RULES CINCINNATI BENGALS x “OPEN IN ORANGE HAPPY HOUR RAFFLE” NO PURCHASE NECESSARY TO ENTER OR WIN A PRIZE. A PURC - NFL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9fdE9kVFlvVTZYamxyRk9IanJaVUtld3dGV2VMV3Q4TFl3enFZYTJjbWM2WDRLYjdZRkhKNzVJeGVDZENVaEF6NGxwS1JiRW1nSXdUSzJuT19KdVB6ZFRNT1ZvQ1hWb3hGLXRoTzVOZHFDX04yaUQxZm5n?oc=5",
+      "looked_up_at": "2026-10-31T12:17:23.234715+00:00",
+      "search_queries": [
+        "\"OFFICIAL RULES CINCINNATI BENGALS x  OPEN IN ORANGE HAPPY HOUR RAFFLE  NO PURCHASE NECESSARY TO ENTER OR WIN A\" entry",
+        "cincinnati bengals open orange happy hour raffle sweepstakes enter official",
+        "cincinnati bengals open orange happy hour raffle giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "0eecf8f186881fdb": {
+      "contest_title": "Bobblehead Sweepstakes NO PURCHASE REQUIRED TO ENTER OR WIN. YOU MUST BE 18 YEARS OF AGE OR OLDER TO ENTER. 1. ELIGIBILITY: The - NFL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeWJRT0ZUcXdEYzVMSE9KMlNmbkdfYXJwXzRfU2NIcG82WVlTdlhDNGs1Z0dCRWU5R2FfcFJRcWMtVFotM1BwcVJ0d1IyZjhUSEtFelZ2Vmk1RGlCcWJndzNUTHZmenE1VzFHMU0zQUlIUVZOT2RMLWVoek92TjdMVlkyYTJ6SDVzVE5PdA?oc=5",
+      "looked_up_at": "2026-10-31T12:17:23.258737+00:00",
+      "search_queries": [
+        "\"Bobblehead Sweepstakes NO PURCHASE REQUIRED TO ENTER OR WIN  YOU MUST BE 18 YEARS OF AGE OR OLDER TO ENTER  1 \" entry",
+        "bobblehead purchase required must years older sweepstakes enter official",
+        "bobblehead purchase required must years older giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "8bf43f131222f902": {
+      "contest_title": "Big Fig Like2Win Football Giveaway SWEEPSTAKES OFFICIAL RULES NO PURCHASE NECESSARY TO ENTER OR WIN. A PURCHASE WILL NOT INCREA - NFL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XeVFjcUJrdlVlMlpvY0UwRWU5Vl9idkcyTHM2ZjZRbzkzbG9hM3Fzc0ZjQVFyRldsNWUya0hpaS1tSGN4Zml0RVJmUDE0N2Z2UHlpR0dyLWhKNHdGOXloY19uUGQ5aklIWWd6bE0yQzVyNVlQdUtlYQ?oc=5",
+      "looked_up_at": "2026-10-31T12:17:23.339710+00:00",
+      "search_queries": [
+        "\"Big Fig Like2Win Football Giveaway SWEEPSTAKES OFFICIAL RULES NO PURCHASE NECESSARY TO ENTER OR WIN  A PURCHAS\" entry",
+        "like2win football purchase necessary purchas sweepstakes enter official",
+        "like2win football purchase necessary purchas giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "1306aa63e73aa89c": {
+      "contest_title": "NUGGETS WITH THE LEGENDS SWEEPSTAKES OFFICIAL RULES NO PURCHASE NECESSARY TO ENTER OR WIN. A PURCHASE WILL NOT INCREASE YOUR C - NFL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObF95Z0xBZG5kaUNnSWg3U2xKRC1ZNldBOU9lS1dCQ0M5S0doc0llajVjeTZHSlZtY2RqbV91ZkNMUy16Uk5VZDdLX08zRFNvZ09LUTlSWERMV09RaXktcWhJZHBzQU53U2NoNkE1LTgwamJfSE1zX0JDcVktQnFsMmhMcWdzZ1lNRzQ4dmFR?oc=5",
+      "looked_up_at": "2026-10-31T12:17:23.332452+00:00",
+      "search_queries": [
+        "\"NUGGETS WITH THE LEGENDS SWEEPSTAKES OFFICIAL RULES NO PURCHASE NECESSARY TO ENTER OR WIN  A PURCHASE WILL NOT\" entry",
+        "nuggets legends purchase necessary will sweepstakes enter official",
+        "nuggets legends purchase necessary will giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "5395b6bc6dae0600": {
+      "contest_title": "2025 Two Robbers Ticket Sweepstakes - NFL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOC1kUFNiWWphdVpVYXdXbkJ3eThjdEl2OW0yRENOUFZsSncxRy0tYm1wdjBUa242Mk5xRzEtY05QX1JhOEtxdVBBUGpSczBiVksxSEljekQ4S3Q5eTBZN1dCOWhNRWhQUnRETFpWUUZZaTdTOHpsSFpwMXZxT0xHYVI5WkFKUWgyTVFaWldB?oc=5",
+      "looked_up_at": "2026-10-31T12:17:23.542326+00:00",
+      "search_queries": [
+        "\"2025 Two Robbers Ticket Sweepstakes\" entry",
+        "2025 robbers ticket sweepstakes enter official",
+        "2025 robbers ticket giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "8e48949aed60fb27": {
+      "contest_title": "Social Media Sweepstakes Official Rules Peter Woods Jersey Giveaway - NFL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5CRkh5eXk2Qm1aemcyUUI5aHgxZnhqR0Q3SWpGRFJZVlhuRlQ3N0VOLXhROVk4SkcwLWw3T2pNNlByQmZtYVVLX01HdUlYNDMydzZySzFRWlRNOHkzR0xCemw4bnJTQm5PWlFhQngxbXg2SUZpR2hsVw?oc=5",
+      "looked_up_at": "2026-10-31T12:17:23.620732+00:00",
+      "search_queries": [
+        "\"Social Media Sweepstakes Official Rules Peter Woods Jersey Giveaway\" entry",
+        "social media peter woods jersey sweepstakes enter official",
+        "social media peter woods jersey giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "40466b2aabb1cb25": {
+      "contest_title": "Kansas City Chiefs® Travis Kelce Signed New Heights Hat Sweepstakes Official Rules - NFL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5GUktaZlk3UVpnWndldGdCX3BCdUpObE56dUFBdlBrTFl4LTZXRHBPMEpGSV83LXVwdVR1LUZNUVI0RmJiLXplQnc5SGp1ZThFOWI4TTJJVU5fRkRULVgycmQ4c29Iak55c2NVNEhldDJjdWpmd2JnNQ?oc=5",
+      "looked_up_at": "2026-10-31T12:17:23.681385+00:00",
+      "search_queries": [
+        "\"Kansas City Chiefs  Travis Kelce Signed New Heights Hat Sweepstakes Official Rules\" entry",
+        "kansas city chiefs travis kelce signed heights sweepstakes enter official",
+        "kansas city chiefs travis kelce signed heights giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "707a156a8c1b05a4": {
+      "contest_title": "Paris Sweepstakes - NFL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1fUkxCMjBXNjZlSVdLT2JNMTBsVUxhT3JXdEVpUGw0aXZjSnVIV1Y4VllZa1o2Zld2SkRUbW5xbGZTWkRreHhDNk1kc3c2LVR3N04zeElNTHRxVFNGaVFBbGVNeGFEb0FJ?oc=5",
+      "status": "insufficient_title"
+    },
+    "e644de974865e794": {
+      "contest_title": "WOW 2011 FACEBOOK SWEEPSTAKES - NFL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMifkFVX3lxTE12S1VpQU13QkxJREtSWnQyczNSeE9GR0VXWkxaNGl3TDlFY2tCREd5cUpndmVXMC1COUVyTnhZTlhhX2dzdHBBanUxZ2hkVDRsTnVkU2d6b2Z6ZUgtZmZyNHEzdGFQbGxjZzlybVpnTkpCS3Y0NklqUjRLOGEwZw?oc=5",
+      "looked_up_at": "2026-10-31T12:17:23.746139+00:00",
+      "search_queries": [
+        "\"WOW 2011 FACEBOOK SWEEPSTAKES\" entry",
+        "2011 facebook sweepstakes enter official",
+        "2011 facebook giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "8ab54b6cc09c7d01": {
+      "contest_title": "Kansas City Chiefs® The Lost Game Jersey Giveaway Sweepstakes Official Rules - NFL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1CNTJOR2paNlhxT2Jjd1NVcThHckhDMTlaTzN6ajlZWW1ob3RDV3N5VGZSY2RSVjZfUmhBREdaVVZ1NlFodjdsSkg3RjA2Q2xMd2t6dl9objB2aHYzY21vWVh2Q1V6NF9kZnp6N3NrMzcwaUp1bWZuUA?oc=5",
+      "looked_up_at": "2026-10-31T12:17:23.676558+00:00",
+      "search_queries": [
+        "\"Kansas City Chiefs  The Lost Game Jersey Giveaway Sweepstakes Official Rules\" entry",
+        "kansas city chiefs lost game jersey sweepstakes enter official",
+        "kansas city chiefs lost game jersey giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "c369deab6e679602": {
+      "contest_title": "Official Rules: National Tight Ends Day T-shirt Sweepstakes - NFL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZEZrenNWUC1JWnNQWHNxbDVPRGYwOFN2cXY1bzBZNXAwSVBFajRSQWMtNzAwelB1eG0zZU1iUHBsNjBuWHo0U1FsQ2cyblpLMmJmXzB3VGdvZmlZNzhib3V1U2FHN0NRX1VJaWVTU3lBZ1Ytck0ySXQ2ZVNoWGFHR09VYTVZbjdoZjFn?oc=5",
+      "looked_up_at": "2026-10-31T12:17:23.747044+00:00",
+      "search_queries": [
+        "\"Official Rules  National Tight Ends Day T-shirt Sweepstakes\" entry",
+        "national tight ends shirt sweepstakes enter official",
+        "national tight ends shirt giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "c9ed8872f688c13c": {
+      "contest_title": "2026 Super Bowl Contest Official Contest Rules Important - NFL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9oUmk1VVdpMjVYMk9VUXRkSGgxZF9SQ2p2VzBKVWJMS0ZqdmIwVlF0ZUVfRDdOaFdUS29LSDc4UUs4TUQ2aTJvQWV6RlJTcmc4Zm90bkxNV3ZXSkJyQjlKd3Z6OHRTQ0dndXhjcmNlOWdTeHhtRlZV?oc=5",
+      "looked_up_at": "2026-10-31T12:17:23.779640+00:00",
+      "search_queries": [
+        "\"2026 Super Bowl Contest Official Contest Rules Important\" entry",
+        "super bowl important sweepstakes enter official",
+        "super bowl important giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "36a79582aa2ab101": {
+      "contest_title": "SWAT THAT KICK SWEEPSTAKES OFFICIAL RULES By entering into the Swat That Kick Sweepstakes (the “Promotion”), you agree to be - NFL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1GVDRiVjJEd2JLQ2h5Y2g3M0xqbF9NLVp1YW9FNTJTakJIbHplTHZNX2pLQ1UyRFZhdzNRRkNfaUFVTWtJLUc1T1h1MlVsSGZ2OWZjbFpVWG4xdE1qZzhBdTVrMUFkdDJHc3l0akFGZVZjTTUyWUpWSmh3?oc=5",
+      "looked_up_at": "2026-10-31T12:17:23.880918+00:00",
+      "search_queries": [
+        "\"SWAT THAT KICK SWEEPSTAKES OFFICIAL RULES By entering into the Swat That Kick Sweepstakes  the  Promotion    y\" entry",
+        "swat that kick entering into sweepstakes enter official",
+        "swat that kick entering into giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "61201715594a9b20": {
+      "contest_title": "NFL Connect Sweepstakes Rules - NFL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE13YTYtRUhEUFJvbGc1eXhNU2hlSFNnUERJVUtoVmlzRmNvZ0kxMHZNSmIyZDRNcm80QllWcFBPd2UtTnZFaXdiRGhHUE4ycUkzNk9zZGstMjJkNjRZZmVwYVR4TjQ?oc=5",
+      "status": "insufficient_title"
+    },
+    "074842c9f1ca9599": {
+      "contest_title": "BUCS HIGH LOW SWEEPSTAKES FREE-TO-PLAY OFFICIAL RULES PLEASE REVIEW THE “DISPUTES & ARBITRATION” PARAGRAPH IN THESE OFF - NFL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1aMTdla0k5c1lNalhCbklpTDlweVpEc003NGtCR0VYMzJNU19DUUpJY1FxbG1RZmQxUDRiUnpQRG55MEdSSFFuSC1Jd3M5ZHVfcGt5WXBGc05MVjhmUGc5TUEwa0QwYzNXeTdSX0phNldyVGZCNTdJWklnSVFLdw?oc=5",
+      "looked_up_at": "2026-10-31T12:17:23.858492+00:00",
+      "search_queries": [
+        "\"BUCS HIGH LOW SWEEPSTAKES FREE-TO-PLAY OFFICIAL RULES PLEASE REVIEW THE  DISPUTES & ARBITRATION  PARAGRAPH IN \" entry",
+        "bucs high free play please review disputes sweepstakes enter official",
+        "bucs high free play please review disputes giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "6e242330eb22c274": {
+      "contest_title": "Hellebuyck | POST-RAW 10.27.26 - NHL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZ3FjQk9JemplUk0xUnhLTG9vQ3UtcXhhX2RrNmVuU0lyUUs5Ty1vcmZXMnFrai1sOG9ER0FUcm04R2daOVFMNjYteXRNcDNOaUxtRUJ5NWZkX0cwVFV4ZGV6cU5iandCMWxIMW1rSUZ6NXQ3clBuaVhHRkpRVGhncQ?oc=5",
+      "status": "insufficient_title"
+    },
+    "e9ef405c6c963e34": {
+      "contest_title": "Sunny Mehta on Connor Hellebuyck | PRESS CONF RAW - NHL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRWZaZE80d1BaQTlwME4zX2tGd3pENXV2RU93dExWdkVDckZCTzRCSzl0eFZuNVducjVmaDBtODRTSGowNEZ6aVM1VU9HYlEyUGVuNEFWbFBEeERVdlR4NERWVnhmX2hRMHI1bUlua2JPUVJCWlRJcVRuMWM5ZENIV0VaQTBTcE93OU1ZRUhGcE5JajZycy02WHBB?oc=5",
+      "looked_up_at": "2026-10-31T12:17:24.009671+00:00",
+      "search_queries": [
+        "\"Sunny Mehta on Connor Hellebuyck\" entry",
+        "sunny mehta connor hellebuyck sweepstakes enter official",
+        "sunny mehta connor hellebuyck giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "7a194079a081bbd7": {
+      "contest_title": "1-on-1 with Connor Helelbuyck | DEVILS NOW - NHL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVGx0Zk52NEViT2RiSjhZWktBeDhOWWp2eWdFcnFPZGdUdm0zRXVXbW9YVnZnTXZZZXZPd0JEbEtiWW5yZWVWakxHLVd6UnpTQjU2ZTVsUUZ2bk1WaXNITldxalpObHFxSzhvdHlnTk85dk12bTI5Y0ZyZW8tSVdUNlFUX29FcEh3a2JkZldkM0o?oc=5",
+      "looked_up_at": "2026-10-31T12:17:24.036477+00:00",
+      "search_queries": [
+        "\"1-on-1 with Connor Helelbuyck\" entry",
+        "connor helelbuyck sweepstakes enter official",
+        "connor helelbuyck giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "242f6be81b97dd65": {
+      "contest_title": "OFFICIAL RULES - NHL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMic0FVX3lxTE56NWJTV2hjTGE1Y3FZaGM3X0RXNmlzSFhzMmhsVmU3cndaek1IMXFlU1BZLVNkeV9DVk5oNnRZbjFtS0U1WHJTTzdGTnpTRXRxd3ZiZk9SUFVyVXVZSXNuYUdTZTdRNUFFSnpmTDhNTUpQZGc?oc=5",
+      "status": "insufficient_title"
+    },
+    "5a56db9167fc035e": {
+      "contest_title": "Keefe | POST-RAW 10.24.26 - NHL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMiekFVX3lxTE15c2tUSzJDYW9Rc21WZF9RUURraFdidXplUGk4YWZRSXpfbFJiakhuUGVaQkctZEVwOTJYOXBQRjhTc1RzVmFXY2ZFQk5Wd0V6ZTF5ZHhaaDdLc2YyNmpRVjR2NEtfOWlnQ2lKRG94QkIzM3pRcXdFYzZn?oc=5",
+      "status": "insufficient_title"
+    },
+    "b394b30a6c10f9b9": {
+      "contest_title": "Flyers Announce 2026-27 Promotional Schedule - NHL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNM3BQYjBheC1yVVQtdDUybzViN1Q4aXYxaUdwNXdCbDByZEFFUHZPQVdOM3U1bUJMQlNKVUY4TUNHblluUGZWTEk2VnpQYUFpWXF0b05YWVVSLURQaW1QNzJXVzhEYU5XRXkxWHRTWUY3Y1A0UHJBRWdnT2RYQjRiQWFRLWtGWGtBc05oeXZ4dTlYV2s?oc=5",
+      "looked_up_at": "2026-10-31T12:17:23.995589+00:00",
+      "search_queries": [
+        "\"Flyers Announce 2026-27 Promotional Schedule\" entry",
+        "flyers announce promotional schedule sweepstakes enter official",
+        "flyers announce promotional schedule giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "d4f3e4a34845b4d5": {
+      "contest_title": "Devils Game Plan Sweepstakes - NHL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA0VnlGa1VvSmRVTHpLcUVwX0pySnM5UFEySzZFNlJYRHB0dGdBblNhSFR4QllJcGF0RWRHTjgxQU5XT0o1czlJM1Fvb1BITDRwS0JWRk5Lbmo2RjRvcE5KSGlrRmNpcy1PUXE4cA?oc=5",
+      "looked_up_at": "2026-10-31T12:17:24.274716+00:00",
+      "search_queries": [
+        "\"Devils Game Plan Sweepstakes\" entry",
+        "devils game plan sweepstakes enter official",
+        "devils game plan giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "85d7348ca77e04de": {
+      "contest_title": "Contests & Promotions | Tampa Bay Lightning | Tampa Bay Lightning - NHL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9xV3dyblRrNk80Qld1NzBmQzMxY3JHVkdNOGNQNFVfVVJkZEc0X2pNYXhsRDVnY0dZdURvaFcxeXVqNXNGelh1VVAtLTluSmxIZWZSNTNQXzlFRWZtRm1admVWZWFiVkljdWc?oc=5",
+      "looked_up_at": "2026-10-31T12:17:24.070689+00:00",
+      "search_queries": [
+        "\"Contests & Promotions\" entry",
+        "contests promotions sweepstakes enter official",
+        "contests promotions giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "45c2f52b087fef09": {
+      "contest_title": "Devils Contests and Sweepstakes | New Jersey Devils - NHL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9iekR4YTMwOTlaRmJ5UlZ0eWUtR0pTd1cyTGV0UV9qQTZObVhRNXRyZmFVUHI5X2VfSXgxT2hXMlJycXdlazZ0UEJaa0Z1Wk9XMlI3MFg3MWMwLUFJcjdTd3Bka2JyVVk?oc=5",
+      "looked_up_at": "2026-10-31T12:17:24.220667+00:00",
+      "search_queries": [
+        "\"Devils Contests and Sweepstakes\" entry",
+        "devils contests sweepstakes enter official",
+        "devils contests giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "fdb04176a5a9f096": {
+      "contest_title": "Enter to Win Bruins Ultimate Fan - NHL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4wQXdVcWNpXzdmY2ZhaHR0TGIzWGhhWm43OEJqTXEwVWk2TUZpX1FIRmNWZHp1U2loZjhsaXoyeWlwN0RkQnhXalFudjVVdktTdWtVeWgtbVE0UWdwdE9RR1NZSFViZVU?oc=5",
+      "looked_up_at": "2026-10-31T12:17:24.215909+00:00",
+      "search_queries": [
+        "\"Enter to Win Bruins Ultimate Fan\" entry",
+        "bruins ultimate sweepstakes enter official",
+        "bruins ultimate giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "2d0613871f77513a": {
+      "contest_title": "Enter for a chance to win tickets to both a Knicks and a Rangers game at MSG! - NHL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ZZ0cwWGZNUlZzb0tsckM1T1I2endOZ1F5VVZtR2VGVDllUlM5UDloWFJoTk1XQ3NEbHQtVmtmS2MtalJobXdzcnFfZWhNWVhwemg2TXNld0VOQ3VLWEZV?oc=5",
+      "looked_up_at": "2026-10-31T12:17:24.398181+00:00",
+      "search_queries": [
+        "\"Enter for a chance to win tickets to both a Knicks and a Rangers game at MSG \" entry",
+        "chance tickets both knicks rangers game sweepstakes enter official",
+        "chance tickets both knicks rangers game giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "4230ae5fbe856ea1": {
+      "contest_title": "Drive for the Devils Sweepstakes | New Jersey Devils - NHL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBNY0JiSzFpeWxEZEg5d3MxSTgtRHlnOHhPQ0ZzNVpmQ0hSNE5ZZUdRYkV2MjhqX3RCbVRoS1RUTGwtSVNTZ095MFFuWHhtaW5KQ3hTT25rWml5UmE0WHFpR2FwbS1MSHc?oc=5",
+      "looked_up_at": "2026-10-31T12:17:24.254710+00:00",
+      "search_queries": [
+        "\"Drive for the Devils Sweepstakes\" entry",
+        "drive devils sweepstakes enter official",
+        "drive devils giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "90d5a82a4cd74305": {
+      "contest_title": "Countdown to Puck Drop | New Jersey Devils - NHL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9rNHR6b3pPRWRqVk85LVZ6c0RCenRmVEJOdXFZdkZkcFViY0FJX04zaW51d1loal9zY1IxMk9qUkxxYjY3djFoNXJTNEI0ck9CZG05SW5vQ1ZPeXdiLVo2Q0xtdw?oc=5",
+      "looked_up_at": "2026-10-31T12:17:24.464507+00:00",
+      "search_queries": [
+        "\"Countdown to Puck Drop\" entry",
+        "countdown puck drop sweepstakes enter official",
+        "countdown puck drop giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "909073fdaac90131": {
+      "contest_title": "Devils Jersey Appreciation Night Sweepstakes | New Jersey Devils - NHL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE82U0tqZGdFcGx6ZGF1N3R6RHphUjVVSnVXdTF3N3BJTVRhNThzcS1PWDM5MDYzS3FFMmIxNmNsMzktY3YwM0R5RmszdnpNZ1ZXcExOOVgzZnFaeTlw?oc=5",
+      "looked_up_at": "2026-10-31T12:17:24.466958+00:00",
+      "search_queries": [
+        "\"Devils Jersey Appreciation Night Sweepstakes\" entry",
+        "devils jersey appreciation night sweepstakes enter official",
+        "devils jersey appreciation night giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "b0f6b7f18fc545c2": {
+      "contest_title": "Fans | Los Angeles Kings | Los Angeles Kings - NHL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4zRlpoWERTQ0Y4OFhVR09lQVlhWmppOUhZMmNGZVlnTWc2UkN6eGJ4YThycTJzUHZqa3YwNmpsZ18wYjBUaFN1STZudEFqUThDaFc0WlVNOVY?oc=5",
+      "status": "insufficient_title"
+    },
+    "a041f041490ead11": {
+      "contest_title": "New York Islanders Unveil Eight Finalists in First-Ever NHL Fan-Driven Third Jersey Design Contest - NHL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaFAtVFpxd29XYkhoNzB0UHFUa3RtNVA2N1FaUFZxTEh4ZjFmazg3MWZEdWprXzlEVTVEOFJoMG1aYTNtcTRfQnJPODVlakh6Zzl1c0w4MG9CRGNfVjk2dmV6T3Q0MGxuRUlJQWcyVFBMTFRuY0ZzZ2drc0tSeVptT1pRMDVOTXRIOE1KYTQxdlNEMWV5UFdCYXpzX2lhMjJHUFMwSEpINkFhZXQ1djB4YzVPU2lwdnRCZ1dRc3YtREFQV0tJelhfNGFNZFdvQQ?oc=5",
+      "looked_up_at": "2026-10-31T12:17:24.380549+00:00",
+      "search_queries": [
+        "\"New York Islanders Unveil Eight Finalists in First-Ever NHL Fan-Driven Third Jersey Design Contest\" entry",
+        "york islanders unveil eight finalists first ever sweepstakes enter official",
+        "york islanders unveil eight finalists first ever giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "d99827c8a0c16283": {
+      "contest_title": "Second-Round Results From Islanders Third Jersey Fan Vote | New York Islanders - NHL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeFN2RHpsNHEtMHJvTGdHM3ZyQ1o3azZDTS00Z2hfaldpYm5WMmRBdXpkMmRVVTg5SHc1V0FValJadHVZa3JBRXd0eU5kRWdnQVg1YzZFME8zQVpsX0drVTVCb3RPTGV0X2NHRFZJcnBqTDBIVlVvb1ZBZnlUQ0VIa0R0eU1BVE02WEdYV0VtVGlDOUJNcU1v?oc=5",
+      "looked_up_at": "2026-10-31T12:17:24.537611+00:00",
+      "search_queries": [
+        "\"Second-Round Results From Islanders Third Jersey Fan Vote\" entry",
+        "second round results islanders third jersey vote sweepstakes enter official",
+        "second round results islanders third jersey vote giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "13be22e8e74b3c41": {
+      "contest_title": "A casual fan's guide to the MLB postseason - ESPN",
+      "original_article": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQU0dHeXltOWxOdmF5ZVpiS0F6ajgtaEJUSGFxZUdROHNiSWtGeTlaSW11TjYzYXhfMkdvT1cwbkxyTl9RWjFqdUxfQlpYNFVGc3d3R1pyVVlFZlNvaVFjcjJwWS0wbTU1RFl3eldlNGtwNjlSNnoyNkwzVEFvaFVVbWZBSVJVQnJvbGttZFlR?oc=5",
+      "looked_up_at": "2026-10-31T12:17:24.508472+00:00",
+      "search_queries": [
+        "\"A casual fan's guide to the MLB postseason\" entry",
+        "casual guide postseason sweepstakes enter official",
+        "casual guide postseason giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     }
   }
 }
