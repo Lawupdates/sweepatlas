@@ -11,6 +11,7 @@ ROOT=Path(__file__).resolve().parents[1]
 CAND=ROOT/"data/discovery-candidates.json"
 CURATED=ROOT/"data/sweepstakes.json"
 REPORT=ROOT/"data/entry-audit.json"
+LOOKUPS=ROOT/"data/entry-lookup-results.json"
 BLOCK={"news.google.com","google.com","www.google.com"}
 class Page(HTMLParser):
     def __init__(self):
@@ -48,6 +49,17 @@ def check(url):
 
 def main():
     candidates=json.loads(CAND.read_text()).get("candidates",[])
+    try: lookup_results=json.loads(LOOKUPS.read_text()).get("results",{})
+    except (OSError,ValueError): lookup_results={}
+    if not isinstance(lookup_results,dict):lookup_results={}
+    for x in candidates:
+        result=lookup_results.get(x.get("id"),{})
+        options=result.get("possible",[]) if isinstance(result,dict) else []
+        for option in options:
+            if option.get("destination_check") in ("entry_form_possible","promotion_page") and option.get("url","").startswith("https://"):
+                x["entry_url"]=option["url"]
+                x["entry_source"]="automated_title_lookup"
+                break
     curated=json.loads(CURATED.read_text())
     checks=[];count=0
     lead_checks=[]
@@ -86,7 +98,7 @@ def main():
         x["entry_audit_result"]=outcome
         checks.append({"id":x.get("id"),"title":x.get("title"),"url":u,"result":outcome,"kind":"discovered"})
         count+=1
-        if count>=300:break
+        # Inspect every discovered candidate with an actual entry destination.
     CAND.write_text(json.dumps({**json.loads(CAND.read_text()),"candidates":candidates},ensure_ascii=False,indent=2)+"\n")
     REPORT.write_text(json.dumps({"checked_at_utc":dt.datetime.now(dt.timezone.utc).isoformat(),"notice":"Automated detection is not proof a form works. No record becomes confirmed without manual review.","candidate_counts":dict(counts),"total_research_leads":len(candidates),"curated_count":len(curated),"automatically_confirmed_forms":0,"lead_checks":lead_checks,"results":checks},ensure_ascii=False,indent=2)+"\n")
     print("Inspected",len(checks),"potential entry pages; none automatically certified.")
