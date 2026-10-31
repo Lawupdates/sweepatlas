@@ -5,6 +5,7 @@ on:
     paths:
       - "scripts/discover.py"
       - "scripts/audit_entries.py"
+      - "scripts/resolve_entry_links.py"
       - ".github/workflows/discover.yml"
   schedule:
     - cron: "11 0,4,8,12,16,20 * * *"
@@ -29,13 +30,17 @@ jobs:
         run: python scripts/discover.py
         env:
           SWEEPATLAS_REPORT: data/discovery-candidates.json
+      - name: Search contest titles for potential entry pages
+        run: python scripts/resolve_entry_links.py
+        env:
+          LOOKUP_BATCH: "120"
       - name: Audit available entry pages without claiming confirmation
         run: python scripts/audit_entries.py
       - name: Keep newest candidate queue in repository
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/discovery-candidates.json data/entry-audit.json
+          git add data/discovery-candidates.json data/entry-audit.json data/entry-lookup-results.json
           if ! git diff --cached --quiet; then
             git commit -m "Refresh unverified sweepstakes discovery leads"
             git push
@@ -47,5 +52,6 @@ jobs:
           path: |
             data/discovery-candidates.json
             data/entry-audit.json
+            data/entry-lookup-results.json
           if-no-files-found: warn
           retention-days: 14
