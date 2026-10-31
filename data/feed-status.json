@@ -1,7 +1,7 @@
 {
-  "checked_at": "2026-10-31T04:00:53.578888+00:00",
-  "records": 23,
-  "active_records": 23,
+  "checked_at": "2026-10-31T04:58:03.788616+00:00",
+  "records": 28,
+  "active_records": 28,
   "results": [
     {
       "id": "filson-world-2026",
@@ -117,8 +117,8 @@
         },
         {
           "type": "rulesUrl",
-          "http_status": 503,
-          "reachable": false
+          "http_status": 200,
+          "reachable": true
         }
       ]
     },
@@ -391,6 +391,91 @@
           "type": "rulesUrl",
           "http_status": 404,
           "reachable": false
+        }
+      ]
+    },
+    {
+      "id": "717-supply-54-2026",
+      "expires": "2026-11-20",
+      "expired": false,
+      "checks": [
+        {
+          "type": "entryUrl",
+          "http_status": 200,
+          "reachable": true
+        },
+        {
+          "type": "rulesUrl",
+          "http_status": 200,
+          "reachable": true
+        }
+      ]
+    },
+    {
+      "id": "carpro-corvette-14-2026",
+      "expires": "2026-11-01",
+      "expired": false,
+      "checks": [
+        {
+          "type": "entryUrl",
+          "http_status": 200,
+          "reachable": true
+        },
+        {
+          "type": "rulesUrl",
+          "http_status": 200,
+          "reachable": true
+        }
+      ]
+    },
+    {
+      "id": "proof-camaro-z10-2026",
+      "expires": "2026-12-13",
+      "expired": false,
+      "checks": [
+        {
+          "type": "entryUrl",
+          "http_status": 200,
+          "reachable": true
+        },
+        {
+          "type": "rulesUrl",
+          "http_status": 200,
+          "reachable": true
+        }
+      ]
+    },
+    {
+      "id": "gas-monkey-33-2026",
+      "expires": "2026-11-09",
+      "expired": false,
+      "checks": [
+        {
+          "type": "entryUrl",
+          "http_status": 200,
+          "reachable": true
+        },
+        {
+          "type": "rulesUrl",
+          "http_status": 200,
+          "reachable": true
+        }
+      ]
+    },
+    {
+      "id": "opheim-formula-mazda-2026",
+      "expires": "2026-11-14",
+      "expired": false,
+      "checks": [
+        {
+          "type": "entryUrl",
+          "http_status": 200,
+          "reachable": true
+        },
+        {
+          "type": "rulesUrl",
+          "http_status": 200,
+          "reachable": true
         }
       ]
     }
