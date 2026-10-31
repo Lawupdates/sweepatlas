@@ -1,21 +1,5 @@
 [
   {
-    "id": "chipotle-bag-2026",
-    "name": "Chipotle Bag Giveaway",
-    "sponsor": "Chipotle Mexican Grill",
-    "desc": "Four weekly drawings with 2,000 winners per week; total 8,000 prizes. Refer to official rules for entry details.",
-    "category": "Lifestyle",
-    "cadence": "Weekly",
-    "icon": "🎒",
-    "value": 0,
-    "place": "US",
-    "minAge": "See rules",
-    "endDate": "2026-11-10",
-    "reviewedAt": "2026-10-30",
-    "entryUrl": "https://www.chipotle.com/giveaway",
-    "rulesUrl": "https://www.chipotle.com/giveaway"
-  },
-  {
     "id": "filson-world-2026",
     "name": "World of Filson Giveaway",
     "sponsor": "Filson",
@@ -94,22 +78,6 @@
     "reviewedAt": "2026-10-30",
     "entryUrl": "https://christmasmoviegame.hallmarkchannel.com/",
     "rulesUrl": "https://christmasmoviegame.hallmarkchannel.com/faq"
-  },
-  {
-    "id": "food-network-whos-counting-2026",
-    "name": "Food Network Magazine Who's Counting",
-    "sponsor": "Food Network Magazine",
-    "desc": "Guess the jar contents for a chance to win a $500 prize; read sponsor rules for required entry details.",
-    "category": "Cash",
-    "cadence": "One-time",
-    "icon": "🍪",
-    "value": 650,
-    "place": "US",
-    "minAge": "See rules",
-    "endDate": "2026-11-15",
-    "reviewedAt": "2026-10-30",
-    "entryUrl": "https://www.foodnetwork.com/whoscounting",
-    "rulesUrl": "https://www.foodnetwork.com/magazine/food-network-magazine-whos-counting"
   },
   {
     "id": "goldbelly-thanksgiving-feast-2026",
