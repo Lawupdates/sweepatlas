@@ -88,7 +88,7 @@ def main():
     # Every record is present in output even if not yet searched.
     active={x["id"] for x in records if x.get("id")}
     results={k:v for k,v in results.items() if k in active}
-    todo=[x for x in records if x.get("id") and results.get(x["id"],{}).get("search_version") != 2][:BATCH]
+    todo=[x for x in records if x.get("id") and x["id"] not in results][:BATCH]
     with cf.ThreadPoolExecutor(max_workers=WORKERS) as pool:
         for item,res in zip(todo,pool.map(lookup,todo)):
             results[item["id"]]={"contest_title":item.get("title"),"original_article":item.get("url"),**res}
