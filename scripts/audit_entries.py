@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Conservative public entry-page checker; never submits a form or solves a CAPTCHA."""
 import datetime as dt
+import concurrent.futures as cf
 import json, re, urllib.request
 from collections import Counter
 from html.parser import HTMLParser
@@ -90,15 +91,13 @@ def main():
     for x in curated:
         u=x.get("entryUrl")
         if u:checks.append({"id":x.get("id"),"title":x.get("name"),"url":u,"result":check(u),"kind":"curated","expiry":x.get("endDate")})
-    for x in candidates:
-        u=x.get("entry_url")
-        if not u:continue
-        outcome=check(u)
+    targets=[x for x in candidates if x.get("entry_url")]
+    with cf.ThreadPoolExecutor(max_workers=16) as executor:
+        outcomes=list(executor.map(lambda x:check(x["entry_url"]),targets))
+    for x,outcome in zip(targets,outcomes):
         x["entry_check_status"]="needs_manual_form_confirmation"
         x["entry_audit_result"]=outcome
-        checks.append({"id":x.get("id"),"title":x.get("title"),"url":u,"result":outcome,"kind":"discovered"})
-        count+=1
-        # Inspect every discovered candidate with an actual entry destination.
+        checks.append({"id":x.get("id"),"title":x.get("title"),"url":x["entry_url"],"result":outcome,"kind":"discovered"})
     CAND.write_text(json.dumps({**json.loads(CAND.read_text()),"candidates":candidates},ensure_ascii=False,indent=2)+"\n")
     REPORT.write_text(json.dumps({"checked_at_utc":dt.datetime.now(dt.timezone.utc).isoformat(),"notice":"Automated detection is not proof a form works. No record becomes confirmed without manual review.","candidate_counts":dict(counts),"total_research_leads":len(candidates),"curated_count":len(curated),"automatically_confirmed_forms":0,"lead_checks":lead_checks,"results":checks},ensure_ascii=False,indent=2)+"\n")
     print("Inspected",len(checks),"potential entry pages; none automatically certified.")
