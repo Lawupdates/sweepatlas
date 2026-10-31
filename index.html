@@ -565,37 +565,23 @@ Other:["photo-1492684223066-81342ee5ff30","photo-1513151233558-d860c5398176","ph
 };
 const titanCatalogPhotos=["photo-1544636331-e26879cd4d9b","photo-1494905998402-395d579af36f","photo-1531297484001-80022131f5a1","photo-1503376780353-7e6692767b70","photo-1519641471654-76ce0107ad1b","photo-1488646953014-85cb44e25828","photo-1578985545062-69928b1d9587","photo-1512909006721-3d6018887383","photo-1482517967863-00e15c9b44be","photo-1579621970563-ebec7560ff3e","photo-1547592180-85f173990554","photo-1523275335684-37898b6baf30","photo-1629203851122-3726ecdf080e","photo-1480796927426-f609979314bd","photo-1556911220-bff31c812dba","photo-1553729459-efe14ef6055d","photo-1505740420928-5e560c06d30e","photo-1510915361894-db8b60106cb1","photo-1604908176997-125f25cc6f3d","photo-1505693416388-ac5ce068fe85","photo-1593359677879-a4bb92f829d1","photo-1587202372634-32705e3bf49c","photo-1496181133206-80ce9b88a853","photo-1587831990711-23ca6441447b","photo-1436491865332-7a61a109cc05","photo-1500534623283-312aade485b7","photo-1501594907352-04cda38ebc29","photo-1442512595331-e89e73853f31","photo-1492144534655-ae79c964c9d7","photo-1519608487953-e999c86e7455","photo-1502161254066-6c74afbf7a16","photo-1533473359331-0135ef1b58bf","photo-1552519507-da3b142c6e3d","photo-1518837695005-2083093ee35b","photo-1549317661-bd32c8ce0db2","photo-1542362567-b07e54358753","photo-1563013544-824ae1b704d3","photo-1526304640581-d334cdbbf45e","photo-1554224155-6726b3ff858f","photo-1600585154340-be6161a56a0c","photo-1553440569-bcc63803a83d","photo-1581091226825-a6a2a5aee158","photo-1511707171634-5f897ff02aa9","photo-1535223289827-42f1e9919769","photo-1571607388263-1044f9ea01dd","photo-1511512578047-dfb367046420","photo-1498049794561-7780e7231661","photo-1606144042614-b2417e99c4e3","photo-1525609004556-c46c7d6cf023","photo-1563805042-7684c019e1cb","photo-1541643600914-78b084683601","photo-1603302576837-37561b2e2302","photo-1597404294360-feeeda04612e","photo-1473448912268-2022ce9509d8","photo-1534307671554-38a3974e36d3","photo-1520975958225-9134df8e8c56","photo-1483985988355-763728e1935b","photo-1557804506-669a67965ba0","photo-1517336714731-489689fd1ca8","photo-1606220588913-b3aacb4d2f46","photo-1606503153255-59d8b8b43e77","photo-1572635196237-14b3f281503f","photo-1519389950473-47ba0277781c","photo-1606144042614-b2417e99c4"];
 function prizeImage(item,category){
- const name=(String(item.name||"")+" "+String(item.desc||"")).toLowerCase();
- const group=String(category||"Lifestyle");
- const specific=[
- [/lamborghini|urus/,"photo-1544636331-e26879cd4d9b"],
- [/corvette|porsche/,"photo-1503376780353-7e6692767b70"],
- [/camaro|mustang|chevrolet|mazda|rx-7|tesla|ford|bronco|vehicle|car|ride|ducati|motorcycle|boat/,"photo-1492144534655-ae79c964c9d7"],
- [/headphone|headset|astro|earbud|airpod/,"photo-1505740420928-5e560c06d30e"],
- [/laptop|macbook|lenovo/,"photo-1496181133206-80ce9b88a853"],
- [/pc|graphics card|gpu|rtx|gaming computer/,"photo-1587831990711-23ca6441447b"],
- [/playstation|ps5|xbox|nintendo|switch|game console/,"photo-1511512578047-dfb367046420"],
- [/monitor|television|tv|oled/,"photo-1593359677879-a4bb92f829d1"],
- [/camera|3d scanner|printing/,"photo-1516035069371-29a1b244cc32"],
- [/vacation|trip|orlando|argentina|italy|london|seattle|flyaway|travel/,"photo-1488646953014-85cb44e25828"],
- [/food|feast|restaurant|burger|chocolate|kimchi/,"photo-1546069901-ba9599a7e63c"],
- [/recliner|home|furniture|backyard/,"photo-1600585154340-be6161a56a0c"]
- ];
- const categoryPool={
- Vehicles:["photo-1492144534655-ae79c964c9d7","photo-1503376780353-7e6692767b70","photo-1542362567-b07e54358753","photo-1552519507-da3b142c6e3d"],
- Electronics:["photo-1519389950473-47ba0277781c","photo-1498049794561-7780e7231661","photo-1535223289827-42f1e9919769","photo-1517336714731-489689fd1ca8"],
- Travel:["photo-1488646953014-85cb44e25828","photo-1500534623283-312aade485b7","photo-1436491865332-7a61a109cc05"],
- Cash:["photo-1553729459-efe14ef6055d","photo-1579621970563-ebec7560ff3e"],
- Home:["photo-1600585154340-be6161a56a0c","photo-1556911220-bff31c812dba"],
- Food:["photo-1546069901-ba9599a7e63c","photo-1578985545062-69928b1d9587"],
- Lifestyle:["photo-1523275335684-37898b6baf30","photo-1512909006721-3d6018887383"]
- };
+ const text=String(item.name||"")+" "+String(item.desc||"");
+ const group=Object.hasOwn(prizeImagePools,category)?category:"Other";
  const seed=[...String(item.id||item.name||"prize")].reduce((n,ch)=>(n*31+ch.charCodeAt(0))>>>0,7);
- const pool=categoryPool[group]||categoryPool.Lifestyle;
- const chosen=specific.find(([pattern])=>pattern.test(name));
- const photo=chosen?chosen[1]:pool[seed%pool.length];
- const theme=group==="Vehicles"?"vehicle":group==="Electronics"?"electronics":group.toLowerCase()+" prize";
- return {url:"https://images.unsplash.com/"+photo+"?auto=format&fit=crop&w=900&q=78",label:"Illustrative "+theme+" image, not the actual prize"};
+ const pool=prizeImagePools[group];
+ const rules={
+ Vehicles:[[/\b(lamborghini|urus)\b/i,"photo-1544636331-e26879cd4d9b"],[/\bcorvette\b/i,"photo-1552519507-da3b142c6e3d"],[/\bporsche\b/i,"photo-1503376780353-7e6692767b70"]],
+ Electronics:[[/\b(headphones?|headsets?|earbuds?|airpods?)\b/i,"photo-1505740420928-5e560c06d30e"],[/\b(laptop|macbook|lenovo)\b/i,"photo-1496181133206-80ce9b88a853"],[/\b(pc|gpu|rtx)\b|graphics card|gaming computer/i,"photo-1587831990711-23ca6441447b"],[/\b(playstation|ps5|xbox|nintendo)\b|game console/i,"photo-1511512578047-dfb367046420"],[/\b(monitor|television|tv|oled)\b/i,"photo-1593359677879-a4bb92f829d1"],[/\bcamera\b/i,"photo-1516035069371-29a1b244cc32"]],
+ Home:[[/\b(kitchen|cookware|appliance)\b/i,"photo-1556911220-bff31c812dba"]],
+ Food:[[/\b(cake|dessert|chocolate)\b/i,"photo-1578985545062-69928b1d9587"]]
+ };
+ if(group==="Travel"){
+  const destination=destinationPhoto(text);
+  if(destination)return {url:destination.url,label:destination.label+" (illustrative, not the actual prize)"};
+ }
+ const match=(rules[group]||[]).find(([pattern])=>pattern.test(text));
+ const photo=match?match[1]:pool[seed%pool.length];
+ return {url:"https://images.unsplash.com/"+photo+"?auto=format&fit=crop&w=900&q=78",label:"Illustrative "+group.toLowerCase()+" prize image, not the actual prize"};
 }
 
 function card(s){const photo=prizeImage(s,s.category);return '<article class="card"><div class="art" aria-hidden="true"><img src="'+safe(photo.url)+'" alt="'+safe(photo.label)+'" loading="lazy" decoding="async" onerror="this.onerror=null;this.style.display=\'none\';this.parentNode.classList.add(\'titan-photo-unavailable\')" style="width:100%;height:100%;object-fit:cover;border-radius:12px"></div><p class="titan-image-disclaimer">Illustrative image — not the actual prize.</p><div class="card-body"><span class="tag">'+safe(s.cadence)+(s.entryMethod==="mail-in"?" · ✉️ MAIL-IN":" · SPONSOR LINK")+'</span><h3>'+safe(s.name)+'</h3><p>'+safe(s.desc)+'</p><p><b>'+fmt(s.value)+'</b> listed prize value · '+safe(s.place)+'</p><p><small>Sponsor: '+safe(s.sponsor)+' · Ends '+safe(s.endDate)+'</small></p><div class="cardfoot"><a class="primary" href="'+safe(s.entryUrl)+'" target="_blank" rel="noopener noreferrer nofollow" style="display:inline-flex;align-items:center;text-decoration:none">'+(s.entryMethod==="mail-in"?"✉️ Mail-in instructions ↗":/rules|terms|conditions/i.test(s.entryUrl)?"Official rules ↗":"Visit promotion ↗")+'</a><button class="outline" data-action="details" data-id="'+safe(s.id)+'">Rules</button><button class="outline" data-action="save" data-id="'+safe(s.id)+'" aria-label="Save '+safe(s.name)+'">'+(isSaved(s.id)?"♥ Saved":"♡ Save")+'</button></div></div></article>'}
