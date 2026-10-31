@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://sweepstitan.com/</loc><changefreq>daily</changefreq><priority>1.0</priority></url>
-  <url><loc>https://sweepstitan.com/radar.html</loc><changefreq>daily</changefreq><priority>0.9</priority></url>
-  <url><loc>https://sweepstitan.com/entry-desk.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://sweepstitan.com/advertise.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://sweepstitan.com/advertising-rates.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://sweepstitan.com/extension-setup.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+<url><loc>https://sweepstitan.com/</loc><lastmod>2026-10-31</lastmod></url>
+<url><loc>https://sweepstitan.com/radar.html</loc><lastmod>2026-10-31</lastmod></url>
+<url><loc>https://sweepstitan.com/entry-desk.html</loc><lastmod>2026-10-31</lastmod></url>
+<url><loc>https://sweepstitan.com/get-started.html</loc><lastmod>2026-10-31</lastmod></url>
+<url><loc>https://sweepstitan.com/extension-setup.html</loc><lastmod>2026-10-31</lastmod></url>
+<url><loc>https://sweepstitan.com/advertise.html</loc><lastmod>2026-10-31</lastmod></url>
+<url><loc>https://sweepstitan.com/advertising-rates.html</loc><lastmod>2026-10-31</lastmod></url>
 </urlset>
