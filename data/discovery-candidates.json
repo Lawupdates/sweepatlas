@@ -1,6 +1,1533 @@
 {
-  "generated_at": null,
-  "notice": "Research candidates only. Not verified as active sweepstakes or direct entry forms.",
-  "sources": [],
-  "candidates": []
+  "generated_at": "2026-10-31",
+  "notice": "Unverified research links only; not confirmed entry forms or eligible/active sweepstakes.",
+  "sources": [
+    {
+      "source": "GiveOwl US",
+      "found": 3,
+      "status": "fetched"
+    },
+    {
+      "source": "FreebieShark",
+      "found": 2,
+      "status": "fetched"
+    },
+    {
+      "source": "Sweepstakes Radar",
+      "found": 1,
+      "status": "fetched"
+    },
+    {
+      "source": "Gleam Giveaways",
+      "found": 87,
+      "status": "fetched"
+    },
+    {
+      "source": "SweepsToday",
+      "found": 32,
+      "status": "fetched"
+    },
+    {
+      "source": "Sweepstakes Advantage",
+      "found": 10,
+      "status": "fetched"
+    },
+    {
+      "source": "SweepFeed",
+      "found": 144,
+      "status": "fetched"
+    },
+    {
+      "source": "I Love Giveaways",
+      "found": 48,
+      "status": "fetched"
+    }
+  ],
+  "candidates": [
+    {
+      "name": "Sweepstakes Posts",
+      "url": "https://www.freebieshark.com/category/sweepstakes",
+      "source": "FreebieShark",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "24 Days of DHL Virtual Advent Calendar 2026",
+      "url": "https://giveowl.com/e/deutsche-post-dhl--24-days-of-dhl-virtual-advent-calendar--2026/",
+      "source": "GiveOwl US",
+      "status": "research-only"
+    },
+    {
+      "name": "Arbor Place Santa\u2019s Stocking Giveaway",
+      "url": "https://giveowl.com/e/arbor-place-cbl-properties--arbor-place-santa-s-stocking-giveaway--2026/",
+      "source": "GiveOwl US",
+      "status": "research-only"
+    },
+    {
+      "name": "Baker Publishing Group Seed & Sparrow Sweepstakes",
+      "url": "https://giveowl.com/e/baker-publishing-group--baker-publishing-group-seed-sparrow-sweepstakes--2026/",
+      "source": "GiveOwl US",
+      "status": "research-only"
+    },
+    {
+      "name": "CherryVale Mall Santa\u2019s Stocking Giveaway",
+      "url": "https://giveowl.com/e/cherryvale-mall-cbl-properties--cherryvale-mall-santa-s-stocking-giveaway--2026/",
+      "source": "GiveOwl US",
+      "status": "research-only"
+    },
+    {
+      "name": "CoolSprings Galleria Santa\u2019s Stocking Giveaway",
+      "url": "https://giveowl.com/e/coolsprings-galleria-cbl-properties--coolsprings-galleria-santa-s-stocking-giveaway--2026/",
+      "source": "GiveOwl US",
+      "status": "research-only"
+    },
+    {
+      "name": "Corona Holiday 2026 Sweepstakes",
+      "url": "https://giveowl.com/e/crown-imports-llc-corona--corona-holiday-2026-sweepstakes--2026/",
+      "source": "GiveOwl US",
+      "status": "research-only"
+    },
+    {
+      "name": "Cross Creek Mall Santa\u2019s Stocking Giveaway",
+      "url": "https://giveowl.com/e/cross-creek-mall-cbl-properties--cross-creek-mall-santa-s-stocking-giveaway--2026/",
+      "source": "GiveOwl US",
+      "status": "research-only"
+    },
+    {
+      "name": "Dakota Square Mall Santa\u2019s Stocking Giveaway",
+      "url": "https://giveowl.com/e/dakota-square-mall-cbl-properties--dakota-square-mall-santa-s-stocking-giveaway--2026/",
+      "source": "GiveOwl US",
+      "status": "research-only"
+    },
+    {
+      "name": "East Towne Mall Santa\u2019s Stocking Giveaway",
+      "url": "https://giveowl.com/e/east-towne-mall-cbl-properties--east-towne-mall-santa-s-stocking-giveaway--2026/",
+      "source": "GiveOwl US",
+      "status": "research-only"
+    },
+    {
+      "name": "Electrolit Holiday Hydration Sweepstakes",
+      "url": "https://giveowl.com/e/electrolit-cab-enterprise-inc--electrolit-holiday-hydration-sweepstakes--2026/",
+      "source": "GiveOwl US",
+      "status": "research-only"
+    },
+    {
+      "name": "Experience Grand Rapids Holiday Giveaway 2026",
+      "url": "https://giveowl.com/e/experience-grand-rapids-grand-rapids-kent-county-cvb--experience-grand-rapids-holiday-giveaway--2026/",
+      "source": "GiveOwl US",
+      "status": "research-only"
+    },
+    {
+      "name": "Frontier Mall Santa\u2019s Stocking Giveaway",
+      "url": "https://giveowl.com/e/frontier-mall-cbl-properties--frontier-mall-santa-s-stocking-giveaway--2026/",
+      "source": "GiveOwl US",
+      "status": "research-only"
+    },
+    {
+      "name": "HGTV & Food Network Home for the Holidays Giveaway",
+      "url": "https://giveowl.com/e/food-network-hgtv-warner-bros-discovery--hgtv-food-network-home-for-the-holidays-giveaway--2027/",
+      "source": "GiveOwl US",
+      "status": "research-only"
+    },
+    {
+      "name": "Hallmark's Christmas Countdown Adventure Game Sweepstakes",
+      "url": "https://giveowl.com/e/hallmark-media-united-states-llc--hallmark-s-christmas-countdown-adventure-game-sweepstakes--2026/",
+      "source": "GiveOwl US",
+      "status": "research-only"
+    },
+    {
+      "name": "Hamilton Place Santa\u2019s Stocking Giveaway",
+      "url": "https://giveowl.com/e/hamilton-place-cbl-properties--hamilton-place-santa-s-stocking-giveaway--2026/",
+      "source": "GiveOwl US",
+      "status": "research-only"
+    },
+    {
+      "name": "HexClad Gordon's Golden Ticket to Italy Giveaway",
+      "url": "https://giveowl.com/e/hexclad--hexclad-gordon-s-golden-ticket-to-italy-giveaway--2026/",
+      "source": "GiveOwl US",
+      "status": "research-only"
+    },
+    {
+      "name": "Innova \"$2,000 In Tools\" Holiday Giveaway",
+      "url": "https://giveowl.com/e/innova-electronics-corporation--innova-2-000-in-tools-holiday-giveaway--2026/",
+      "source": "GiveOwl US",
+      "status": "research-only"
+    },
+    {
+      "name": "Kirkwood Mall Santa\u2019s Stocking Giveaway",
+      "url": "https://giveowl.com/e/kirkwood-mall-cbl-properties--kirkwood-mall-santa-s-stocking-giveaway--2026/",
+      "source": "GiveOwl US",
+      "status": "research-only"
+    },
+    {
+      "name": "Macerich Shopping Center Holiday Sweepstakes",
+      "url": "https://giveowl.com/e/macerich--macerich-shopping-center-holiday-sweepstakes--2026/",
+      "source": "GiveOwl US",
+      "status": "research-only"
+    },
+    {
+      "name": "Mesa Mall Santa\u2019s Stocking Giveaway",
+      "url": "https://giveowl.com/e/mesa-mall-cbl-properties--mesa-mall-santa-s-stocking-giveaway--2026/",
+      "source": "GiveOwl US",
+      "status": "research-only"
+    },
+    {
+      "name": "Oak Park Mall Santa\u2019s Stocking Giveaway",
+      "url": "https://giveowl.com/e/oak-park-mall-cbl-properties--oak-park-mall-santa-s-stocking-giveaway--2026/",
+      "source": "GiveOwl US",
+      "status": "research-only"
+    },
+    {
+      "name": "Ordo Black Friday Airbnb Giveaway 2026 (US)",
+      "url": "https://giveowl.com/e/ordo-ordoclub-ltd--ordo-black-friday-airbnb-giveaway-2026-us--2026/",
+      "source": "GiveOwl US",
+      "status": "research-only"
+    },
+    {
+      "name": "Perdue Holiday Drop Sweepstakes",
+      "url": "https://giveowl.com/e/perdue-farms--perdue-holiday-drop-sweepstakes--2026/",
+      "source": "GiveOwl US",
+      "status": "research-only"
+    },
+    {
+      "name": "Santa's $3,000 Stocking Giveaway",
+      "url": "https://giveowl.com/e/ashland-town-center-cbl-properties--santa-s-3-000-stocking-giveaway--2026/",
+      "source": "GiveOwl US",
+      "status": "research-only"
+    },
+    {
+      "name": "Seranova Beauty BFCM 2026 Cruise Sweepstakes",
+      "url": "https://giveowl.com/e/valentine-brands-llc-d-b-a-seranova-beauty--seranova-beauty-bfcm-2026-cruise-sweepstakes--2026/",
+      "source": "GiveOwl US",
+      "status": "research-only"
+    },
+    {
+      "name": "The Cat in the Hat Sweepstakes",
+      "url": "https://giveowl.com/e/cold-stone-creamery-kahala-management--the-cat-in-the-hat-sweepstakes--2026/",
+      "source": "GiveOwl US",
+      "status": "research-only"
+    },
+    {
+      "name": "The Filtery 12 Days of Non-Toxic Giveaways",
+      "url": "https://giveowl.com/e/the-filtery--the-filtery-12-days-of-non-toxic-giveaways--2026/",
+      "source": "GiveOwl US",
+      "status": "research-only"
+    },
+    {
+      "name": "The Office Depot 12 Days of Giveaways",
+      "url": "https://giveowl.com/e/office-depot-llc--the-office-depot-12-days-of-giveaways--2026/",
+      "source": "GiveOwl US",
+      "status": "research-only"
+    },
+    {
+      "name": "TruDiagnostic Black Friday Giveaway",
+      "url": "https://giveowl.com/e/trudiagnostic-inc--trudiagnostic-black-friday-giveaway--2026/",
+      "source": "GiveOwl US",
+      "status": "research-only"
+    },
+    {
+      "name": "Valley View Mall Santa\u2019s Stocking Giveaway",
+      "url": "https://giveowl.com/e/valley-view-mall-cbl-properties--valley-view-mall-santa-s-stocking-giveaway--2026/",
+      "source": "GiveOwl US",
+      "status": "research-only"
+    },
+    {
+      "name": "Valpak $5,000 Holiday Haul Sweepstakes",
+      "url": "https://giveowl.com/e/valpak-direct-marketing-systems-llc--valpak-5-000-holiday-haul-sweepstakes--2026/",
+      "source": "GiveOwl US",
+      "status": "research-only"
+    },
+    {
+      "name": "Visit Orlando Family Vacation Sweepstakes",
+      "url": "https://giveowl.com/e/visit-orlando--visit-orlando-family-vacation-sweepstakes--2026/",
+      "source": "GiveOwl US",
+      "status": "research-only"
+    },
+    {
+      "name": "Westmoreland Mall Santa\u2019s Stocking Giveaway",
+      "url": "https://giveowl.com/e/westmoreland-mall-cbl-properties--westmoreland-mall-santa-s-stocking-giveaway--2026/",
+      "source": "GiveOwl US",
+      "status": "research-only"
+    },
+    {
+      "name": "World of Filson Giveaway",
+      "url": "https://giveowl.com/e/filson--world-of-filson-giveaway--2026/",
+      "source": "GiveOwl US",
+      "status": "research-only"
+    },
+    {
+      "name": "\ud83c\uddfa\ud83c\uddf8 Win-a-trip sweepstakes",
+      "url": "https://giveowl.com/c/us/win-a-trip-sweepstakes/",
+      "source": "GiveOwl US",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "$500 Christmas giveaway",
+      "url": "https://gleamgiveaways.com/giveaways/500-christmas-giveaway/",
+      "source": "Gleam Giveaways",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "All Giveaways",
+      "url": "https://gleamgiveaways.com/giveaways/",
+      "source": "Gleam Giveaways",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "Car Giveaways",
+      "url": "https://gleamgiveaways.com/giveaways/category/auto/",
+      "source": "Gleam Giveaways",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "Carnival Emeril\u2019s Extraordinary Points Giveaway",
+      "url": "https://gleamgiveaways.com/giveaways/carnival-emeril-s-extraordinary-points-giveaway-16-winners-2026-10/",
+      "source": "Gleam Giveaways",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "Cash & Gift Card Giveaways",
+      "url": "https://gleamgiveaways.com/giveaways/category/cash-and-gift-cards/",
+      "source": "Gleam Giveaways",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "Code Coming Soon",
+      "url": "https://gleamgiveaways.com/giveaways/win-the-silver-hour-5-piece-glow-unwind-bundle-2026-10/",
+      "source": "Gleam Giveaways",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "Concerts & Live Entertainment",
+      "url": "https://gleamgiveaways.com/giveaways/category/concerts-and-events/",
+      "source": "Gleam Giveaways",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "Electronics & Gadgets",
+      "url": "https://gleamgiveaways.com/giveaways/category/electronics/",
+      "source": "Gleam Giveaways",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "Fleet Farm $500 Gift Card Sweepstakes",
+      "url": "https://gleamgiveaways.com/giveaways/fleet-farm-500-gift-card-sweepstakes-2026-10/",
+      "source": "Gleam Giveaways",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "Food & Beverage",
+      "url": "https://gleamgiveaways.com/giveaways/category/food/",
+      "source": "Gleam Giveaways",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "GAT Deals Ammo Finder Giveaway",
+      "url": "https://gleamgiveaways.com/giveaways/gat-deals-ammo-finder-giveaway-2026-10/",
+      "source": "Gleam Giveaways",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "Giveaways Under $50",
+      "url": "https://gleamgiveaways.com/giveaways/under-50/",
+      "source": "Gleam Giveaways",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "GreenPan Reserve Stainless Steel Roaster Giveaway",
+      "url": "https://gleamgiveaways.com/giveaways/greenpan-reserve-stainless-steel-roaster-giveaway-2026-10/",
+      "source": "Gleam Giveaways",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "Home, Furniture & Appliances",
+      "url": "https://gleamgiveaways.com/giveaways/category/home-and-furniture/",
+      "source": "Gleam Giveaways",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "Jagermeister\u2013Loyalty Sweepstakes",
+      "url": "https://gleamgiveaways.com/giveaways/jagermeister-loyalty-sweepstakes-2026-10/",
+      "source": "Gleam Giveaways",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "Lexar x Cassidy Lynne x Insta360 US \u2013 Digital Diva Sweepstakes",
+      "url": "https://gleamgiveaways.com/giveaways/lexar-x-cassidy-lynne-x-insta360-us-digital-diva-sweeps-2026-10/",
+      "source": "Gleam Giveaways",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "Matchbox: The Movie Series (2026) Complete Set of 12 Basics",
+      "url": "https://gleamgiveaways.com/giveaways/matchbox-the-movie-series-2026-complete-set-of-12-basics-2026-10/",
+      "source": "Gleam Giveaways",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "Miscellaneous",
+      "url": "https://gleamgiveaways.com/giveaways/category/miscellaneous/",
+      "source": "Gleam Giveaways",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "Moonraker Laser Prop Replica + signed Licensed Troubleshooter book",
+      "url": "https://gleamgiveaways.com/giveaways/moonraker-laser-prop-replica-signed-licensed-troublesho-2026-10/",
+      "source": "Gleam Giveaways",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "Movies, Music & Books",
+      "url": "https://gleamgiveaways.com/giveaways/category/movies-and-music/",
+      "source": "Gleam Giveaways",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "Music Connection Friday Freebie",
+      "url": "https://gleamgiveaways.com/giveaways/music-connection-friday-freebie-2/",
+      "source": "Gleam Giveaways",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "New York Jets Your Ticket to Sail with Carnival Sweepstakes",
+      "url": "https://gleamgiveaways.com/giveaways/new-york-jets-your-ticket-to-sail-with-carnival-sweepstakes-2026-10/",
+      "source": "Gleam Giveaways",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "Outback Steakhouse Spokesbooth Giveaway",
+      "url": "https://gleamgiveaways.com/giveaways/outback-steakhouse-spokesbooth-giveaway-3-winners-2026-10/",
+      "source": "Gleam Giveaways",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "Palen Music Mackie ProFX22v3 Mixer Giveaway",
+      "url": "https://gleamgiveaways.com/giveaways/palen-music-mackie-profx22v3-mixer-giveaway/",
+      "source": "Gleam Giveaways",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "Palen Music TAMA Imperialstar 5-piece Complete Drum Kit w/ 20\u2033 Kick Giveaway",
+      "url": "https://gleamgiveaways.com/giveaways/palen-music-tama-imperialstar-5-piece-complete-drum-kit-w-20-kick-giveaway/",
+      "source": "Gleam Giveaways",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "Pepsi Take Flight Sweepstakes \u2013 41 Winners",
+      "url": "https://gleamgiveaways.com/giveaways/pepsi-take-flight-sweepstakes-41-winners-2026-10/",
+      "source": "Gleam Giveaways",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "Pokemon: Delta Reign Free Booster Box Giveaway",
+      "url": "https://gleamgiveaways.com/giveaways/pokemon-delta-reign-free-booster-box-giveaway-2026-10/",
+      "source": "Gleam Giveaways",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "See Featured Giveaways \u2192",
+      "url": "https://gleamgiveaways.com/giveaways/featured/",
+      "source": "Gleam Giveaways",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "Sports, Fitness & Outdoors",
+      "url": "https://gleamgiveaways.com/giveaways/category/sports-and-outdoors/",
+      "source": "Gleam Giveaways",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "Stand Mixer Buying Guide: Capacity and Kitchen Space",
+      "url": "https://gleamgiveaways.com/giveaways/stand-mixer-buying-guide-capacity-and-kitchen-space-2026-10/",
+      "source": "Gleam Giveaways",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "Travel & Vacation Giveaways",
+      "url": "https://gleamgiveaways.com/giveaways/category/travel-and-leisure/",
+      "source": "Gleam Giveaways",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "Unverified Giveaways",
+      "url": "https://gleamgiveaways.com/giveaways/unverified/",
+      "source": "Gleam Giveaways",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "View Secret Code",
+      "url": "https://gleamgiveaways.com/giveaways/win-the-fn-scar-16s-2026-10/",
+      "source": "Gleam Giveaways",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "View Secret Code",
+      "url": "https://gleamgiveaways.com/giveaways/win-the-christian-louboutin-venus-bag-an-icon-of-parisi-2026-10/",
+      "source": "Gleam Giveaways",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "View Secret Code",
+      "url": "https://gleamgiveaways.com/giveaways/icy-dock-october-giveaway-2026-2026-10/",
+      "source": "Gleam Giveaways",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "Visit Aroostook Winter Weekend Getaway Giveaway",
+      "url": "https://gleamgiveaways.com/giveaways/visit-aroostook-winter-weekend-getaway-giveaway-2026-10/",
+      "source": "Gleam Giveaways",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "WIN 1 OF 3 HYPERX CLOUD ALPHA AIR GAMING HEADSETS",
+      "url": "https://gleamgiveaways.com/giveaways/win-1-of-3-hyperx-cloud-alpha-air-gaming-headsets-2026-10/",
+      "source": "Gleam Giveaways",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "WIN BIG WITH LOSI + MONSTER JAM! \ud83c\udfc6",
+      "url": "https://gleamgiveaways.com/giveaways/enter-to-win-2026-10-2/",
+      "source": "Gleam Giveaways",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "WIRELESS AUDIO GEAR GIVEAWAY",
+      "url": "https://gleamgiveaways.com/giveaways/wireless-audio-gear-giveaway/",
+      "source": "Gleam Giveaways",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "Winchester SXP Shotgun + Rhino Blind",
+      "url": "https://gleamgiveaways.com/giveaways/winchester-sxp-shotgun-rhino-blind-2026-10/",
+      "source": "Gleam Giveaways",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "iHeartRadio ALTer Ego presented by Capital One Ultimate Fan Sweepstakes | iHeartRadio",
+      "url": "https://gleamgiveaways.com/giveaways/iheartradio-alter-ego-presented-by-capital-one-ultimate-fan-sweepstakes-iheartradio/",
+      "source": "Gleam Giveaways",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "\ud83c\udf00 ViralSweep",
+      "url": "https://gleamgiveaways.com/giveaways/platform/viralsweep/",
+      "source": "Gleam Giveaways",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "\ud83c\udf7cBaby & Child",
+      "url": "https://gleamgiveaways.com/giveaways/category/baby-and-child/",
+      "source": "Gleam Giveaways",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "\ud83c\udfa7 Tunespeak",
+      "url": "https://gleamgiveaways.com/giveaways/platform/tunespeak/",
+      "source": "Gleam Giveaways",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "\ud83c\udfa8Arts & Crafts",
+      "url": "https://gleamgiveaways.com/giveaways/category/arts-and-crafts/",
+      "source": "Gleam Giveaways",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "\ud83c\udfb8Musical Instruments & Gear",
+      "url": "https://gleamgiveaways.com/giveaways/category/musical-instruments/",
+      "source": "Gleam Giveaways",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "\ud83d\udc3ePets & Animals",
+      "url": "https://gleamgiveaways.com/giveaways/category/pets-and-animals/",
+      "source": "Gleam Giveaways",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "\ud83d\udc51 KingSumo",
+      "url": "https://gleamgiveaways.com/giveaways/platform/kingsumo/",
+      "source": "Gleam Giveaways",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "\ud83d\udc55Clothing, Shoes & Accessories",
+      "url": "https://gleamgiveaways.com/giveaways/category/clothing-and-accessories/",
+      "source": "Gleam Giveaways",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "\ud83d\udc84Health & Beauty",
+      "url": "https://gleamgiveaways.com/giveaways/category/health-and-beauty/",
+      "source": "Gleam Giveaways",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "\ud83d\udc8dJewelry & Watches",
+      "url": "https://gleamgiveaways.com/giveaways/category/jewelry-and-watches/",
+      "source": "Gleam Giveaways",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "\ud83d\udcf0 Second Street",
+      "url": "https://gleamgiveaways.com/giveaways/platform/secondstreet/",
+      "source": "Gleam Giveaways",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "\ud83d\udcf7Photography & Cameras",
+      "url": "https://gleamgiveaways.com/giveaways/category/photography-and-cameras/",
+      "source": "Gleam Giveaways",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "\ud83d\udd27Tools & Hardware",
+      "url": "https://gleamgiveaways.com/giveaways/category/tools-and-hardware/",
+      "source": "Gleam Giveaways",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "\ud83e\udde9 SweepWidget",
+      "url": "https://gleamgiveaways.com/giveaways/platform/sweepwidget/",
+      "source": "Gleam Giveaways",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "\ud83e\uddf8Toys, Games & Collectibles",
+      "url": "https://gleamgiveaways.com/giveaways/category/toys-and-collectibles/",
+      "source": "Gleam Giveaways",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "\ud83e\ude99Gold & Precious Metals",
+      "url": "https://gleamgiveaways.com/giveaways/category/gold-and-precious-metals/",
+      "source": "Gleam Giveaways",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "\ud83e\udeb4Patio & Garden",
+      "url": "https://gleamgiveaways.com/giveaways/category/patio-and-garden/",
+      "source": "Gleam Giveaways",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "$100,000 Macy\u2019s Shopping Spree: Enter the Golden Confetti Sweepstakes & Contest",
+      "url": "https://ilovegiveaways.com/sweepstakes/100000-macys-shopping-spree-enter-the-golden-confetti-sweepstakes-contest/",
+      "source": "I Love Giveaways",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "2026 LG America\u2019s Most Reliable Appliances Sweepstakes",
+      "url": "https://ilovegiveaways.com/sweepstakes/2026-lg-americas-most-reliable-appliances-sweepstakes/",
+      "source": "I Love Giveaways",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "American Airlines Charlotte FC Perks Sweepstakes",
+      "url": "https://ilovegiveaways.com/sweepstakes/american-airlines-charlotte-fc-perks-instant-win/",
+      "source": "I Love Giveaways",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "Chips Ahoy! 2026 Halloween Mystery Flavor Sweepstakes",
+      "url": "https://ilovegiveaways.com/sweepstakes/chips-ahoy-2026-halloween-mystery-flavor-sweepstakes/",
+      "source": "I Love Giveaways",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "FedEx Super Bowl LXI Sweepstakes \u2013 Win a Trip",
+      "url": "https://ilovegiveaways.com/sweepstakes/fedex-super-bowl-lxi-sweepstakes-2026/",
+      "source": "I Love Giveaways",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "Ford Bronco Wild Fund Sweepstakes 2026 \u2013 Win a $60,000 SUV",
+      "url": "https://ilovegiveaways.com/sweepstakes/ford-bronco-wild-fund-sweepstakes-2026-win-a-60000-suv/",
+      "source": "I Love Giveaways",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "Ford Derby Sweepstakes: Win a Bronco SUV or Kentucky Trip",
+      "url": "https://ilovegiveaways.com/sweepstakes/ford-derby-sweepstakes-win-a-bronco-suv-or-kentucky-trip/",
+      "source": "I Love Giveaways",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "Giveaway & Affiliate Disclosure",
+      "url": "https://ilovegiveaways.com/giveaway-affiliate-disclosure/",
+      "source": "I Love Giveaways",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "Giveaways",
+      "url": "https://ilovegiveaways.com/giveaways/",
+      "source": "I Love Giveaways",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "Green Bay Packers Smile Sweepstakes 2026",
+      "url": "https://ilovegiveaways.com/sweepstakes/green-bay-packers-smile-sweepstakes-2026/",
+      "source": "I Love Giveaways",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "Lowe\u2019s 2026/2027 Monthly $500 Customer Survey Sweepstakes",
+      "url": "https://ilovegiveaways.com/sweepstakes/lowes-2026-2027-monthly-500-customer-survey-sweepstakes/",
+      "source": "I Love Giveaways",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "Monster Brewing Company Jai Alai Grill & Carving Board Sweepstakes 2026",
+      "url": "https://ilovegiveaways.com/sweepstakes/monster-brewing-jai-alai-home-field-sweepstakes-2026/",
+      "source": "I Love Giveaways",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "Sony WH-1000XM6 Dallas Cowboys Headphones Sweepstakes",
+      "url": "https://ilovegiveaways.com/sweepstakes/sony-wh-1000xm6-dallas-cowboys-headphones-sweepstakes-2026/",
+      "source": "I Love Giveaways",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "Sony WH-1000XM6 Pittsburgh Steelers Headphones Sweepstakes",
+      "url": "https://ilovegiveaways.com/sweepstakes/sony-wh-1000xm6-steelers-headphones-sweepstakes-2026/",
+      "source": "I Love Giveaways",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "View Details",
+      "url": "https://ilovegiveaways.com/sweepstakes/doordash-halloween-dash-sweepstakes-2026/",
+      "source": "I Love Giveaways",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "View Details",
+      "url": "https://ilovegiveaways.com/sweepstakes/idrinkcoffee-kees-van-der-westen-spiritello-sweepstakes-2026/",
+      "source": "I Love Giveaways",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "View Details",
+      "url": "https://ilovegiveaways.com/sweepstakes/police-shopping-spree-sweepstakes-2026/",
+      "source": "I Love Giveaways",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "View Details",
+      "url": "https://ilovegiveaways.com/sweepstakes/valpak-5000-holiday-haul-sweepstakes-2026/",
+      "source": "I Love Giveaways",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "View Details",
+      "url": "https://ilovegiveaways.com/sweepstakes/gear-patrol-aer-travel-pack-sweepstakes-2026/",
+      "source": "I Love Giveaways",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "iHeartRadio Rise and Rhythm Cruise Sweepstakes 2027",
+      "url": "https://ilovegiveaways.com/sweepstakes/iheartradio-rise-rhythm-cruise-sweepstakes-2027/",
+      "source": "I Love Giveaways",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "Big prizes$1,000+ board",
+      "url": "https://www.sweepfeed.com/sweepstakes/high-value",
+      "source": "SweepFeed",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "California sweepstakesGiveaways open to California residents.",
+      "url": "https://www.sweepfeed.com/sweepstakes/state/california",
+      "source": "SweepFeed",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "Canada sweepstakesRecorded Canadian eligibility; province exclusions apply.",
+      "url": "https://www.sweepfeed.com/sweepstakes/canada",
+      "source": "SweepFeed",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "Cariloha Halloween SweepstakesHosted by Cariloha.",
+      "url": "https://www.sweepfeed.com/sweepstakes/8448372f8637aebf",
+      "source": "SweepFeed",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "Cars & VehiclesBrowse cars & vehicles giveaways.",
+      "url": "https://www.sweepfeed.com/sweepstakes/category/automotive",
+      "source": "SweepFeed",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "Cash & PrizesBrowse cash & prizes giveaways.",
+      "url": "https://www.sweepfeed.com/sweepstakes/category/cash",
+      "source": "SweepFeed",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "Categories",
+      "url": "https://www.sweepfeed.com/sweepstakes/categories",
+      "source": "SweepFeed",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "Daily Entry",
+      "url": "https://www.sweepfeed.com/sweepstakes/daily",
+      "source": "SweepFeed",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "Electronics & TechBrowse electronics & tech giveaways.",
+      "url": "https://www.sweepfeed.com/sweepstakes/category/electronics",
+      "source": "SweepFeed",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "Ending Soon",
+      "url": "https://www.sweepfeed.com/sweepstakes/ending-soon",
+      "source": "SweepFeed",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "Florida sweepstakesGiveaways open to Florida residents.",
+      "url": "https://www.sweepfeed.com/sweepstakes/state/florida",
+      "source": "SweepFeed",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "Food & DiningBrowse food & dining giveaways.",
+      "url": "https://www.sweepfeed.com/sweepstakes/category/food",
+      "source": "SweepFeed",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "Full Disclaimer",
+      "url": "https://www.sweepfeed.com/sweepstakes-disclaimer",
+      "source": "SweepFeed",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "Gaming & EntertainmentBrowse gaming & entertainment giveaways.",
+      "url": "https://www.sweepfeed.com/sweepstakes/category/gaming",
+      "source": "SweepFeed",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "Georgia sweepstakesGiveaways open to Georgia residents.",
+      "url": "https://www.sweepfeed.com/sweepstakes/state/georgia",
+      "source": "SweepFeed",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "Gift CardsBrowse gift cards giveaways.",
+      "url": "https://www.sweepfeed.com/sweepstakes/category/gift-cards",
+      "source": "SweepFeed",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "Home & GardenBrowse home & garden giveaways.",
+      "url": "https://www.sweepfeed.com/sweepstakes/category/home",
+      "source": "SweepFeed",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "Illinois sweepstakesGiveaways open to Illinois residents.",
+      "url": "https://www.sweepfeed.com/sweepstakes/state/illinois",
+      "source": "SweepFeed",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "Instant winFind out immediately if you won.",
+      "url": "https://www.sweepfeed.com/sweepstakes/instant-win",
+      "source": "SweepFeed",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "Kendall-Jackson NBA All-Star 2027 SweepstakesHosted by Kendall-Jackson.",
+      "url": "https://www.sweepfeed.com/sweepstakes/e993f239bb32bdef",
+      "source": "SweepFeed",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "Kroger x Visit Myrtle Beach SweepstakesHosted by Retail Sports Marketing.",
+      "url": "https://www.sweepfeed.com/sweepstakes/2a90a935b8206cc8",
+      "source": "SweepFeed",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "New York sweepstakesGiveaways open to New York residents.",
+      "url": "https://www.sweepfeed.com/sweepstakes/state/new-york",
+      "source": "SweepFeed",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "New sweepstakesFresh listings added to SweepFeed.",
+      "url": "https://www.sweepfeed.com/sweepstakes/new",
+      "source": "SweepFeed",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "Ohio sweepstakesGiveaways open to Ohio residents.",
+      "url": "https://www.sweepfeed.com/sweepstakes/state/ohio",
+      "source": "SweepFeed",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "Pennsylvania sweepstakesGiveaways open to Pennsylvania residents.",
+      "url": "https://www.sweepfeed.com/sweepstakes/state/pennsylvania",
+      "source": "SweepFeed",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "Sweepstakes taxesWhat winners should know about tax paperwork.",
+      "url": "https://www.sweepfeed.com/guides/sweepstakes-taxes",
+      "source": "SweepFeed",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "Texas sweepstakesGiveaways open to Texas residents.",
+      "url": "https://www.sweepfeed.com/sweepstakes/state/texas",
+      "source": "SweepFeed",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "Today's picksA finite daily batch \u2014 a few minutes, then you're done.",
+      "url": "https://www.sweepfeed.com/sweepstakes/today",
+      "source": "SweepFeed",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "Travel & VacationsBrowse travel & vacations giveaways.",
+      "url": "https://www.sweepfeed.com/sweepstakes/category/travel",
+      "source": "SweepFeed",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "View details",
+      "url": "https://www.sweepfeed.com/sweepstakes/3b9c0f4ee500d4af",
+      "source": "SweepFeed",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "View details",
+      "url": "https://www.sweepfeed.com/sweepstakes/217aeb7f1c92ea67",
+      "source": "SweepFeed",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "View details",
+      "url": "https://www.sweepfeed.com/sweepstakes/f491bb6e82afae32",
+      "source": "SweepFeed",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "View details",
+      "url": "https://www.sweepfeed.com/sweepstakes/33f9b151cc5a002f",
+      "source": "SweepFeed",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "View details",
+      "url": "https://www.sweepfeed.com/sweepstakes/000c379bd7cd747a",
+      "source": "SweepFeed",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "View details",
+      "url": "https://www.sweepfeed.com/sweepstakes/2439434a097d9451",
+      "source": "SweepFeed",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "View details",
+      "url": "https://www.sweepfeed.com/sweepstakes/6c45f98ef25b0196",
+      "source": "SweepFeed",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "View details",
+      "url": "https://www.sweepfeed.com/sweepstakes/365d4878bd1121cc",
+      "source": "SweepFeed",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "View details",
+      "url": "https://www.sweepfeed.com/sweepstakes/79ebf392001429fb",
+      "source": "SweepFeed",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "View details",
+      "url": "https://www.sweepfeed.com/sweepstakes/988460a6765e3024",
+      "source": "SweepFeed",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "View details",
+      "url": "https://www.sweepfeed.com/sweepstakes/ac9e1c0031f19ff6",
+      "source": "SweepFeed",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "View details",
+      "url": "https://www.sweepfeed.com/sweepstakes/7e57ac6bc0c34f87",
+      "source": "SweepFeed",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "View details",
+      "url": "https://www.sweepfeed.com/sweepstakes/e20efb8a14aff3c7",
+      "source": "SweepFeed",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "View details",
+      "url": "https://www.sweepfeed.com/sweepstakes/53e8e3899a5dd263",
+      "source": "SweepFeed",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "View details",
+      "url": "https://www.sweepfeed.com/sweepstakes/e982e642cccfcec6",
+      "source": "SweepFeed",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "View details",
+      "url": "https://www.sweepfeed.com/sweepstakes/52a401e6db04a02f",
+      "source": "SweepFeed",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "View details",
+      "url": "https://www.sweepfeed.com/sweepstakes/71133bfa3af43b84",
+      "source": "SweepFeed",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "View details",
+      "url": "https://www.sweepfeed.com/sweepstakes/29057c20e7a5f52b",
+      "source": "SweepFeed",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "View details",
+      "url": "https://www.sweepfeed.com/sweepstakes/7a50aa6d085726f5",
+      "source": "SweepFeed",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "View details",
+      "url": "https://www.sweepfeed.com/sweepstakes/b5fe9ffe8ebc934d",
+      "source": "SweepFeed",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "View details",
+      "url": "https://www.sweepfeed.com/sweepstakes/30efc9ac9ce58fd9",
+      "source": "SweepFeed",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "View details",
+      "url": "https://www.sweepfeed.com/sweepstakes/259daa84394ce513",
+      "source": "SweepFeed",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "View details",
+      "url": "https://www.sweepfeed.com/sweepstakes/304aa23bfac88268",
+      "source": "SweepFeed",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "View details",
+      "url": "https://www.sweepfeed.com/sweepstakes/57c171f71926ff9e",
+      "source": "SweepFeed",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "View details",
+      "url": "https://www.sweepfeed.com/sweepstakes/656f9f559f05f213",
+      "source": "SweepFeed",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "View details",
+      "url": "https://www.sweepfeed.com/sweepstakes/30870cb8467b50ea",
+      "source": "SweepFeed",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "View details",
+      "url": "https://www.sweepfeed.com/sweepstakes/b4a4898ee3cceff7",
+      "source": "SweepFeed",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "View details",
+      "url": "https://www.sweepfeed.com/sweepstakes/9e498aca448b949c",
+      "source": "SweepFeed",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "View details",
+      "url": "https://www.sweepfeed.com/sweepstakes/c8091b6a60be5489",
+      "source": "SweepFeed",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "View details",
+      "url": "https://www.sweepfeed.com/sweepstakes/b5def45ff8c2d029",
+      "source": "SweepFeed",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "View details",
+      "url": "https://www.sweepfeed.com/sweepstakes/5f1c93cae572b133",
+      "source": "SweepFeed",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "View details",
+      "url": "https://www.sweepfeed.com/sweepstakes/e32c32635a7d7a8c",
+      "source": "SweepFeed",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "Yerba Madre Cash For College SweepstakesHosted by Guayaki Sustainable Rainforest Products.",
+      "url": "https://www.sweepfeed.com/sweepstakes/f7b7814dccda2ab5",
+      "source": "SweepFeed",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "Coca-Cola / Food Lion$5,000VerifiedCashCoca-Cola FIFA World Cup 2026 Food Lion Sweepstakes",
+      "url": "https://www.sweepstoday.com/sweepstakes/coca-cola-fifa-world-cup-2026-food-lion",
+      "source": "SweepsToday",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "Ford Motor Company$60,000VerifiedCashFord Bronco Wild Fund Sweepstakes 2026 - Win a $60,000 SUV2026 Ford Bronco Big Bend SUV valued at $50,000 plus $10,000 cash prize",
+      "url": "https://www.sweepstoday.com/sweepstakes/ford-bronco-wild-fund-sweepstakes-2026-win-a-60-000-suv",
+      "source": "SweepsToday",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "FordPrize details TBDVerifiedCashFord Tee To Trail Sweepstakes",
+      "url": "https://www.sweepstoday.com/sweepstakes/ford-tee-to-trail-sweepstakes",
+      "source": "SweepsToday",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "Golf PEIGolf vacation packageVerifiedTravelGolf PEI Golf Vacation ContestGolf vacation package",
+      "url": "https://www.sweepstoday.com/sweepstakes/golf-pei-golf-vacation-contest",
+      "source": "SweepsToday",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "Jarritos$5VerifiedFood & DrinkJarritos Zero Mandarin Free Product Sweepstakes",
+      "url": "https://www.sweepstoday.com/sweepstakes/jarritos-zero-mandarin-free-product",
+      "source": "SweepsToday",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "Straight Talk$35,000VerifiedCashStraight Talk Ford Mustang GiveawayBrand New 2026 Ford Mustang",
+      "url": "https://www.sweepstoday.com/sweepstakes/straight-talk-ford-mustang-giveaway",
+      "source": "SweepsToday",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "View the full A\u2013Z index of every sweepstake \u2192",
+      "url": "https://www.sweepstoday.com/sweepstakes/all",
+      "source": "SweepsToday",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "\u2708\ufe0fExpedia Cruises$5,000VerifiedTravelExpedia Cruises Win a Dream Vacation $5,000 Cruise 2026 Sweepstakes7-night Caribbean cruise for two with roundtrip economy airfare",
+      "url": "https://www.sweepstoday.com/sweepstakes/expedia-cruises-win-a-dream-vacation-5-000-cruise-2026-sweepstakes",
+      "source": "SweepsToday",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "\u2708\ufe0fKraft Heinz$25,000VerifiedTravelKraft Heinz Turn Gameday into the Ultimate Win Sweepstakes 2026Two tickets to the 2027 NFL Super Bowl and $13,000 cash for travel expenses",
+      "url": "https://www.sweepstoday.com/sweepstakes/kraft-heinz-turn-gameday-into-the-ultimate-win-sweepstakes-2026",
+      "source": "SweepsToday",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "\u2708\ufe0fMargaritaville at Sea$1,200VerifiedTravelMargaritaville at Sea The Road to BeachComber SweepstakesCruise certificate for Margaritaville at Sea",
+      "url": "https://www.sweepstoday.com/sweepstakes/margaritaville-at-sea-the-road-to-beachcomber-sweepstakes",
+      "source": "SweepsToday",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "\u2708\ufe0fNaked SundaysTrip to BondiVerifiedTravelWin A Trip To BondiTrip to Bondi",
+      "url": "https://www.sweepstoday.com/sweepstakes/win-a-trip-to-bondi",
+      "source": "SweepsToday",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "\u2708\ufe0fProgressive$4,600VerifiedTravelProgressive SuperMotocross VIP Weekend Sweepstakes 2026VIP trip for two to AMA SuperMotocross Anaheim 1 Event",
+      "url": "https://www.sweepstoday.com/sweepstakes/progressive-supermotocross-vip-weekend-sweepstakes-2026",
+      "source": "SweepsToday",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "\u2708\ufe0fSony Electronics$10,000VerifiedTravelSony Electronics 2026 Super Bowl LXI Sweepstakes$10,000 trip for two to Super Bowl LXI, including flights, hotel, and $300 gift card",
+      "url": "https://www.sweepstoday.com/sweepstakes/sony-electronics-2026-super-bowl-lxi-sweepstakes",
+      "source": "SweepsToday",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "\ud83c\udf54Fussie Cat$550VerifiedFood & DrinkFussie Cat Prize Packs Contest 2026Five prize packs each valued at over $110 featuring premium cat food and a limited-edition cat bed",
+      "url": "https://www.sweepstoday.com/sweepstakes/fussie-cat-prize-packs-contest-2026",
+      "source": "SweepsToday",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "\ud83c\udf81AHIWA$250VerifiedGift CardsAHIWA Black Friday $250 Gift Card Giveaway 2026$250 Gift Card",
+      "url": "https://www.sweepstoday.com/sweepstakes/ahiwa-black-friday-250-gift-card-giveaway-2026",
+      "source": "SweepsToday",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "\ud83c\udf81Husqvarna Group$2,000VerifiedGift CardsHusqvarna Group Husqvarna Review SweepstakesFour $500 VISA gift cards ($2,000 total prize pool)",
+      "url": "https://www.sweepstoday.com/sweepstakes/husqvarna-group-husqvarna-review-sweepstakes",
+      "source": "SweepsToday",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "\ud83c\udf81Jameson$21,800VerifiedGift CardsJameson NFL Streaming & Jersey Instant Win Game 2026Jameson Irish Whiskey replica Football Jersey or $1,500 towards NFL streaming services",
+      "url": "https://www.sweepstoday.com/sweepstakes/jameson-nfl-streaming-jersey-instant-win-game-2026",
+      "source": "SweepsToday",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "\ud83c\udf81STIHL$10,000VerifiedGift CardsSTIHL 100 Days of STIHL $10,000 Gift Certificates Sweepstakes 2026Ten $1,000 STIHL gift certificates",
+      "url": "https://www.sweepstoday.com/sweepstakes/stihl-100-days-of-stihl-10-000-gift-certificates-sweepstakes-2026",
+      "source": "SweepsToday",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "\ud83d\udcb0Ascent Funding$1,500VerifiedCashAscent Funding Back-to-School $1,500 Scholarship Sweepstakes 2026$1,500 Back-to-School Scholarship",
+      "url": "https://www.sweepstoday.com/sweepstakes/ascent-funding-back-to-school-1-500-scholarship-sweepstakes-2026",
+      "source": "SweepsToday",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "\ud83d\udcb0California Automobile Museum$80,000VerifiedCashCalifornia Automobile Museum Auto & Cash Giveaway1965 Porsche 356C Coupe or $50,000 cash alternative",
+      "url": "https://www.sweepstoday.com/sweepstakes/california-automobile-museum-auto-cash-giveaway",
+      "source": "SweepsToday",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "\ud83d\udcb0Dirt Racing Association, LLC$50,000VerifiedCashDRT 2026 Giveaway SweepstakesDRT Dirt Late Model roller or $50,000 cash prize",
+      "url": "https://www.sweepstoday.com/sweepstakes/drt-2026-giveaway-sweepstakes",
+      "source": "SweepsToday",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "\ud83d\udcb0Ford Motor Company$62,075VerifiedCashThe Dirt & Derby Sweepstakes2026 Ford Bronco Badlands SUV and Kentucky Derby trip for two",
+      "url": "https://www.sweepstoday.com/sweepstakes/the-dirt-derby-sweepstakes",
+      "source": "SweepsToday",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "\ud83d\udcb0Kollegio AI$10,000VerifiedCashKollegio AI Scholarship Giveaway - 3 WinnersThree prizes: $2,000, $3,000, and $5,000 grand prize",
+      "url": "https://www.sweepstoday.com/sweepstakes/kollegio-ai-scholarship-giveaway-3-winners",
+      "source": "SweepsToday",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "\ud83d\udcb0Maybelline New York$3,656VerifiedCashMaybe its Maybelline Giveaway Sweepstakes 2026Selection of Maybelline New York cosmetics and beauty products",
+      "url": "https://www.sweepstoday.com/sweepstakes/maybe-its-maybelline-giveaway-sweepstakes-2026",
+      "source": "SweepsToday",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "\ud83d\udcb0Verizon Value, Inc.$32,640VerifiedCashStraight Talk Ford Mustang 2026 Giveaway SweepstakesBrand New 2026 Ford Mustang",
+      "url": "https://www.sweepstoday.com/sweepstakes/straight-talk-ford-mustang-2026-giveaway-sweepstakes",
+      "source": "SweepsToday",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "\ud83d\udcb0Whiskey Shopper$50,000VerifiedCashWhiskey Shopper Instant Win Game Sweepstakes$50 Venmo credit with 1,000 prizes totaling $50,000",
+      "url": "https://www.sweepstoday.com/sweepstakes/whiskey-shopper-instant-win-game-sweepstakes",
+      "source": "SweepsToday",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "\ud83d\udcf1Gleam.io$1,500VerifiedElectronicsGleam.io PlayStation Pro + Grand Theft Auto SweepstakesPlayStation 5 Pro console bundled with Grand Theft Auto",
+      "url": "https://www.sweepstoday.com/sweepstakes/gleam-io-playstation-pro-grand-theft-auto-sweepstakes",
+      "source": "SweepsToday",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "\ud83d\udcf1Miller Brewing Co.$6,000VerifiedElectronicsMiller High Life Music 2026 Instant Win GameCrosley mini jukebox speaker (500 winners \u00d7 $12 each)",
+      "url": "https://www.sweepstoday.com/sweepstakes/miller-high-life-music-2026-instant-win-game",
+      "source": "SweepsToday",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "\ud83d\udcf1Polar Joe$700VerifiedElectronicsWin a Vitamix Blender & Polar Joe Gift Card from Polar Joe$700 worth of prizes including a Vitamix blender and a $250 Polar Joe gift card",
+      "url": "https://www.sweepstoday.com/sweepstakes/win-a-vitamix-blender-polar-joe-gift-card-from-polar-joe",
+      "source": "SweepsToday",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "\ud83d\udcf1PowerNationEBC Brakes mobile simulator experienceVerifiedElectronicsPowernation EBC Brakes Mobile Simulator SweepstakesEBC Brakes mobile simulator experience",
+      "url": "https://www.sweepstoday.com/sweepstakes/powernation-ebc-brakes-mobile-simulator-sweepstakes",
+      "source": "SweepsToday",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "\ud83d\udcf1The Blue Light Diet$400VerifiedElectronicsThe Blue Light Diet EMR TEK Firestorm RLT Machine 2026 SweepstakesEMR TEK Firestorm RLT Machine (Red Light Therapy device)",
+      "url": "https://www.sweepstoday.com/sweepstakes/the-blue-light-diet-emr-tek-firestorm-rlt-machine-2026-sweepstakes",
+      "source": "SweepsToday",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "Advertise",
+      "url": "https://www.sweepsadvantage.com/amember/page/sweepstakes-submissions-promotions",
+      "source": "Sweepstakes Advantage",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "Enter to Win a Laptop",
+      "url": "https://www.sweepsadvantage.com/sweepstakes-1567640.html",
+      "source": "Sweepstakes Advantage",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "Food & Grocery Contests",
+      "url": "https://www.sweepsadvantage.com/win-food-giveaway-sweepstakes",
+      "source": "Sweepstakes Advantage",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "Learn about Sweepstakes Entry",
+      "url": "https://www.sweepsadvantage.com/sweepstakes-contests-blog/welcome-to-sweepstakes-school/",
+      "source": "Sweepstakes Advantage",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "Newsletter",
+      "url": "https://www.sweepsadvantage.com/sweepstakes-newsletter.htm",
+      "source": "Sweepstakes Advantage",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "Post a Win",
+      "url": "https://www.sweepsadvantage.com/forum/forums/sweepstakes-winners-circle.11/post-thread",
+      "source": "Sweepstakes Advantage",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "Submit a Sweepstakes (Members)",
+      "url": "https://www.sweepsadvantage.com/sweepstakes-submit-form.php",
+      "source": "Sweepstakes Advantage",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "Win The Best of Glasshouse Holiday",
+      "url": "https://www.sweepsadvantage.com/win-the-best-of-glasshouse-holiday-sweepstakes",
+      "source": "Sweepstakes Advantage",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "Winners Circle",
+      "url": "https://www.sweepsadvantage.com/forum/forums/sweepstakes-winners-circle.11/",
+      "source": "Sweepstakes Advantage",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    },
+    {
+      "name": "Scam Risk Index",
+      "url": "https://www.sweepstakesradar.com/reports/sweepstakes-scam-risk-index",
+      "source": "Sweepstakes Radar",
+      "found_at": "2026-10-31",
+      "status": "research-only"
+    }
+  ]
 }
