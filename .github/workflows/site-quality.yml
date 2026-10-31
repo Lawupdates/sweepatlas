@@ -1,0 +1,45 @@
+name: SweepAtlas site quality checks
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Validate page scripts, internal links, and catalog
+        shell: bash
+        run: |
+          node <<'NODE'
+          const fs=require('fs'),vm=require('vm'),path=require('path');
+          const pages=['index.html','radar.html','entry-desk.html','advertise.html'];
+          let errors=[];
+          for(const file of pages){
+            if(!fs.existsSync(file)){errors.push('Missing page: '+file);continue}
+            const html=fs.readFileSync(file,'utf8');
+            for(const match of html.matchAll(/<script\b[^>]*>([\s\S]*?)<\/script>/gi)){
+              if(match[1].trim())try{new vm.Script(match[1],{filename:file})}catch(e){errors.push('Invalid JS '+file+': '+e.message)}
+            }
+            for(const match of html.matchAll(/(?:href|src)=["'](\.\/?[^"'?#]+)(?:[?#][^"']*)?["']/gi)){
+              const dest=path.resolve(path.dirname(file),match[1]);
+              if(!fs.existsSync(dest)&&!fs.existsSync(path.join(dest,'index.html')))errors.push('Broken local link: '+file+' -> '+match[1]);
+            }
+          }
+          let data=[];
+          try{data=JSON.parse(fs.readFileSync('data/sweepstakes.json','utf8'));if(!Array.isArray(data))throw Error('Catalog must be array')}catch(e){errors.push('Invalid catalog: '+e.message)}
+          let ids=new Set();
+          for(const x of Array.isArray(data)?data:[]){
+            if(!x.id||ids.has(x.id))errors.push('Missing/duplicate ID: '+x.id);
+            ids.add(x.id);
+            if(!['Daily','Weekly','Monthly','One-time'].includes(x.cadence))errors.push('Bad cadence: '+x.id);
+            for(const key of ['entryUrl','rulesUrl'])if(!/^https:\/\//.test(x[key]||''))errors.push('Missing HTTPS '+key+': '+x.id);
+            if(!/^\d{4}-\d{2}-\d{2}$/.test(x.endDate||''))errors.push('Missing valid date: '+x.id);
+          }
+          console.log('Checked',pages.length,'pages and',data.length,'catalog records');
+          if(errors.length){console.error(errors.join('\n'));process.exitCode=1}
+          NODE
