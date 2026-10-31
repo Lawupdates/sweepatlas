@@ -19,7 +19,7 @@ ROOT=Path(__file__).resolve().parents[1]
 SRC=ROOT/"data/discovery-candidates.json"
 OUT=ROOT/"data/entry-lookup-results.json"
 BATCH=max(1,min(int(os.environ.get("LOOKUP_BATCH","120")),1500))
-WORKERS=8
+WORKERS=12
 EXCLUDE=("news.google.com","google.com","bing.com","yahoo.com","reddit.com","facebook.com","instagram.com","pinterest.com","youtube.com","sweepstakesadvantage.com","contestgirl.com","sweepstakesfanatics.com","sweepstakeslovers.com","sweepstake.com","thefreebieguy.com","contestbee.com","ultracontest.com")
 ENTRY_HINT=re.compile(r"(sweepstakes|giveaway|enter.to.win|contest|promotion|win.a|gleam.io)",re.I)
 def fetch(url):
@@ -74,7 +74,7 @@ def lookup(item):
                 if len(possible)>=3:break
             if possible:break
         except Exception as err:errors.append(str(err)[:120])
-    result={"looked_up_at":dt.datetime.now(dt.timezone.utc).isoformat(),"search_queries":queries,"search_version":2}
+    result={"looked_up_at":dt.datetime.now(dt.timezone.utc).isoformat(),"search_queries":queries,"search_version":3}
     if possible:return {**result,"status":"possible_entry_pages","possible":possible}
     if len(errors)==len(queries):return {**result,"status":"search_failed","errors":errors}
     return {**result,"status":"entry_page_not_found"}
@@ -88,7 +88,7 @@ def main():
     # Every record is present in output even if not yet searched.
     active={x["id"] for x in records if x.get("id")}
     results={k:v for k,v in results.items() if k in active}
-    todo=[x for x in records if x.get("id") and x["id"] not in results][:BATCH]
+    todo=[x for x in records if x.get("id") and (x["id"] not in results or (results[x["id"]].get("status")=="search_failed" and results[x["id"]].get("search_version",0)<3))][:BATCH]
     with cf.ThreadPoolExecutor(max_workers=WORKERS) as pool:
         for item,res in zip(todo,pool.map(lookup,todo)):
             results[item["id"]]={"contest_title":item.get("title"),"original_article":item.get("url"),**res}
