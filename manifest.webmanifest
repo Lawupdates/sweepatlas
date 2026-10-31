@@ -1,6 +1,6 @@
 {
-  "name": "SweepAtlas — Sweepstakes Discovery",
-  "short_name": "SweepAtlas",
+  "name": "Sweeps Titan — Sweepstakes Discovery",
+  "short_name": "Sweeps Titan",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
