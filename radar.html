@@ -42,6 +42,26 @@ body.motion-off *,body.motion-off *:before,body.motion-off *:after{animation:non
 
 /* Shared Sweeps Titan navigation on smaller screens */
 @media(max-width:650px){nav{align-items:flex-start}nav>div{display:flex;gap:9px;flex-wrap:wrap;align-items:center}nav>div a{font-size:13px}nav .brand{font-size:24px}.hero{padding-top:42px}.hero h1{font-size:clamp(40px,10vw,64px)}}
+
+/* Sweeps Titan vibrant spectrum theme */
+:root{--titan-pink:#ff4ca8;--titan-orange:#ff9e42;--titan-yellow:#ffe66b;--titan-cyan:#41e5f3;--titan-mint:#52f4bc;--titan-violet:#a86aff;--titan-blue:#598aff}
+body{background:radial-gradient(ellipse at 8% 4%,#54216d 0,transparent 35%),radial-gradient(ellipse at 98% 32%,#065c73 0,transparent 40%),radial-gradient(ellipse at 40% 83%,#4b205c 0,transparent 35%),#090c22;color:#f8f8ff}
+header{border-bottom:1px solid #ffffff2b}
+.hero{background:radial-gradient(circle at 13% 30%,#822d8c 0,transparent 42%),radial-gradient(circle at 84% 18%,#057b89 0,transparent 36%),linear-gradient(125deg,#27155b,#0b1239 65%,#411d63);color:#fff}
+.hero h1 span,.hero h1 em{background:linear-gradient(105deg,var(--titan-yellow),var(--titan-pink),var(--titan-cyan));background-clip:text;-webkit-background-clip:text;color:transparent}
+a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible{outline:3px solid var(--titan-yellow);outline-offset:3px}
+.primary,.cta,button.primary,.hero a.cta{background:linear-gradient(110deg,#fc408b,#b55bff 48%,#397ef9);color:white;border:0;box-shadow:0 8px 24px #c147da55}
+.primary:hover,.cta:hover,button.primary:hover{filter:brightness(1.12)}
+.card,.box,.panel,.stat,.kpi{border-color:#8d69bd80}
+.card:nth-child(6n+1),.box:nth-child(6n+1){border-top:3px solid var(--titan-pink)}
+.card:nth-child(6n+2),.box:nth-child(6n+2){border-top:3px solid var(--titan-cyan)}
+.card:nth-child(6n+3),.box:nth-child(6n+3){border-top:3px solid var(--titan-yellow)}
+.card:nth-child(6n+4),.box:nth-child(6n+4){border-top:3px solid var(--titan-mint)}
+.card:nth-child(6n+5),.box:nth-child(6n+5){border-top:3px solid var(--titan-orange)}
+.card:nth-child(6n+6),.box:nth-child(6n+6){border-top:3px solid var(--titan-violet)}
+.tag,.pill{background:linear-gradient(115deg,#493585,#2b5678);color:#fff6d6}
+.notice{border-color:#ad80f4;background:linear-gradient(110deg,#31204d,#1b2b54);color:#fff}
+@media(prefers-reduced-motion:reduce){*,*:before,*:after{animation-duration:.01ms!important;transition-duration:.01ms!important}}
 </style></head><body>
 <header><div class="wrap"><nav><a class="brand" href="./"><span class="logo">✦</span>Sweeps Titan</a><div><a href="#discover">Explore prizes</a> &nbsp; <a href="#favorites" id="favoritesNav">Saved ♡</a> &nbsp; <a href="./advertise.html">Advertise</a> &nbsp; <a href="#" id="siteShare">Share site ↗</a> &nbsp; <button id="motionToggle" class="motion-toggle" type="button" aria-pressed="false">Pause motion</button></div></nav>
 <div class="hero"><div class="eyebrow">✦ FREE SWEEPSTAKES DISCOVERY · ADVERTISER SUPPORTED</div><h1>Big prizes.<br><span>Endless possibilities.</span></h1><p>Explore giveaways, discover new promotions and save the ones you love. Your next discovery starts here.</p><a href="#discover">Explore sweepstakes →</a></div></div></header>
