@@ -448,5 +448,22 @@
     "entryUrl": "https://opheimmotors.com/pages/official-policy",
     "rulesUrl": "https://opheimmotors.com/pages/official-policy",
     "entryMethod": "mail-in"
+  },
+  {
+    "id": "regal-imagination-adventure-2026",
+    "name": "Regal Imagination Adventure Sweepstakes",
+    "sponsor": "Regal Cinemas",
+    "desc": "A family New York City trip including flights, three hotel nights, an indoor adventure park and a science museum. Free email entry is available; read sponsor rules for the email subject and required details. Rhode Island excluded.",
+    "category": "Travel",
+    "cadence": "Daily",
+    "icon": "✈️",
+    "value": 4995,
+    "place": "US",
+    "minAge": "18+ (19 AL/NE; 21 MS)",
+    "endDate": "2026-11-26",
+    "reviewedAt": "2026-10-30",
+    "entryMethod": "email",
+    "entryUrl": "https://www.regmovies.com/promotions/imagination-adventure-sweepstakes-rules",
+    "rulesUrl": "https://www.regmovies.com/promotions/imagination-adventure-sweepstakes-rules"
   }
 ]
