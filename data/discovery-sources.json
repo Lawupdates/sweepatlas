@@ -1,0 +1,51 @@
+{
+  "checkedAt": "2026-10-31",
+  "purpose": "Discovery-source index, not imported live entries. Review source terms, sponsors, eligibility, entry URLs, and dates before publication.",
+  "sources": [
+    {
+      "name": "WinningPrizeSearch",
+      "url": "https://www.winningprizesearch.com/",
+      "status": "discovery-only"
+    },
+    {
+      "name": "GiveawayShark",
+      "url": "https://www.giveawayshark.com/giveaways",
+      "status": "discovery-only"
+    },
+    {
+      "name": "FreebieShark",
+      "url": "https://www.freebieshark.com/sweepstakes",
+      "status": "discovery-only"
+    },
+    {
+      "name": "GiveOwl US",
+      "url": "https://giveowl.com/c/us/",
+      "status": "discovery-only"
+    },
+    {
+      "name": "Sweepstakes Radar",
+      "url": "https://www.sweepstakesradar.com/browse",
+      "status": "discovery-only"
+    },
+    {
+      "name": "Sweepstakes Advantage",
+      "url": "https://www.sweepsadvantage.com/",
+      "status": "discovery-only"
+    },
+    {
+      "name": "I Love Giveaways",
+      "url": "https://ilovegiveaways.com/sweepstakes/",
+      "status": "discovery-only"
+    },
+    {
+      "name": "SweepFeed",
+      "url": "https://www.sweepfeed.com/sweepstakes",
+      "status": "discovery-only"
+    },
+    {
+      "name": "Mitspiel US",
+      "url": "https://mitspiel.us/latest-sweepstakes",
+      "status": "discovery-only"
+    }
+  ]
+}
