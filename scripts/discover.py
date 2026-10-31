@@ -84,7 +84,7 @@ TERMS = [
     f'site:countryliving.com "sweepstakes" {YEAR}',
     f'site:hearst.com "sweepstakes" {YEAR}',
 ]
-CAP = 1500
+CAP = 2500  # Retain older research leads while new titles are discovered; do not silently drop backlog.
 DATE_PATTERN = re.compile(r'(?:ends?|expires?|expiration date|deadline|closes?)\s*(?:on|at|:)?\s*(?P<date>(?:January|February|March|April|May|June|July|August|September|October|November|December|Jan|Feb|Mar|Apr|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\.?\s+\d{1,2},?\s+20\d{2}|\d{1,2}/\d{1,2}/20\d{2}|20\d{2}-\d{2}-\d{2})', re.I)
 def extract_end_date(text):
     match = DATE_PATTERN.search(text or "")
@@ -209,6 +209,15 @@ def main():
                 if not title or not valid(link):
                     continue
                 if link in existing:
+                    # Preserve historical records but recover a real RSS headline when
+                    # a prior migration replaced it with a generic numbered label.
+                    saved = existing[link]
+                    if re.match(r"^Sweepstakes source \\d+", saved.get("title", "")):
+                        saved["title"] = title
+                        saved["query"] = term
+                        saved["published"] = clean(item.findtext("pubDate"))
+                        saved["end_date"] = saved.get("end_date") or extract_end_date(title + " " + clean(item.findtext("description")))
+                        saved["prize_value_candidate"] = saved.get("prize_value_candidate") or extract_prize_value(title + " " + clean(item.findtext("description")))
                     continue
                 found += 1
                 existing[link] = {
