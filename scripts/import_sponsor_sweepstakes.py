@@ -34,13 +34,13 @@ def detail(link):
  url=link["url"]
  try:
   page=fetch(url)
-  text=clean(re.sub(r"<(script|style)\\b[^>]*>.*?</\\1>"," ",page,flags=re.I|re.S))
+  text=clean(re.sub(r"<(script|style)\b[^>]*>.*?</\1>"," ",page,flags=re.I|re.S))
   if "Open No purchase necessary" not in text and "Open" not in text:return None
-  m=re.search(r"Deadline\\s+([A-Za-z]+\\s+\\d{1,2},\\s+20\\d{2})",text)
+  m=re.search(r"Deadline\s+([A-Za-z]+\s+\d{1,2},\s+20\d{2})",text)
   if not m:return None
   end=dt.datetime.strptime(m.group(1),"%B %d, %Y").date()
   if end<TODAY:return None
-  m2=re.search(r"Prize\\s+(.{20,260}?)\\s+Deadline",text)
+  m2=re.search(r"Prize\s+(.{20,260}?)\s+Deadline",text)
   description=(m2.group(1) if m2 else "Prize information on organizer website.")[:230]
   anchors=links(page,url)
   sponsor=[a for a in anchors if "Enter at organizer" in a["name"] and urlsplit(a["url"]).scheme=="https"]
@@ -64,15 +64,15 @@ def main():
  # Always preserve research candidates even if sponsor details cannot be parsed.
  with concurrent.futures.ThreadPoolExecutor(max_workers=10) as ex:
   fetched=list(ex.map(detail,candidates))
- existing_names={re.sub(r"\\W+","",str(x.get("name","")).lower()) for x in records}
+ existing_names={re.sub(r"\W+","",str(x.get("name","")).lower()) for x in records}
  existing_urls={x.get("entryUrl","").rstrip("/") for x in records}
  added=0
  for x in fetched:
   if not x:continue
-  k=re.sub(r"\\W+","",x["name"].lower())
+  k=re.sub(r"\W+","",x["name"].lower())
   if k in existing_names or x["entryUrl"].rstrip("/") in existing_urls:continue
   records.append(x);existing_names.add(k);existing_urls.add(x["entryUrl"].rstrip("/"));added+=1
- records_file.write_text(json.dumps(records,ensure_ascii=False,indent=2)+"\\n")
- result_file.write_text(json.dumps({"generated_at":str(TODAY),"notice":"Research-only directory links; cannot be treated as verified entry forms.","candidates":[{"name":x["name"],"url":x["url"],"source":"GiveOwl US","status":"research-only"} for x in candidates],"imported_this_run":added},ensure_ascii=False,indent=2)+"\\n")
+ records_file.write_text(json.dumps(records,ensure_ascii=False,indent=2)+"\n")
+ result_file.write_text(json.dumps({"generated_at":str(TODAY),"notice":"Research-only directory links; cannot be treated as verified entry forms.","candidates":[{"name":x["name"],"url":x["url"],"source":"GiveOwl US","status":"research-only"} for x in candidates],"imported_this_run":added},ensure_ascii=False,indent=2)+"\n")
  print(json.dumps({"directory_links_found":len(candidates),"sponsor_links_parsed":sum(bool(x) for x in fetched),"added":added,"total":len(records)}))
 if __name__=="__main__":main()
