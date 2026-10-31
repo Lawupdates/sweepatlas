@@ -74,7 +74,7 @@ def lookup(item):
                 if len(possible)>=3:break
             if possible:break
         except Exception as err:errors.append(str(err)[:120])
-    result={"looked_up_at":dt.datetime.now(dt.timezone.utc).isoformat(),"search_queries":queries,"search_version":3}
+    result={"looked_up_at":dt.datetime.now(dt.timezone.utc).isoformat(),"search_queries":queries,"search_version":4}
     if possible:return {**result,"status":"possible_entry_pages","possible":possible}
     if len(errors)==len(queries):return {**result,"status":"search_failed","errors":errors}
     return {**result,"status":"entry_page_not_found"}
@@ -88,7 +88,15 @@ def main():
     # Every record is present in output even if not yet searched.
     active={x["id"] for x in records if x.get("id")}
     results={k:v for k,v in results.items() if k in active}
-    todo=[x for x in records if x.get("id") and (x["id"] not in results or (results[x["id"]].get("status")=="search_failed" and results[x["id"]].get("search_version",0)<3))][:BATCH]
+    now=dt.datetime.now(dt.timezone.utc)
+    def needs_check(item):
+        saved=results.get(item.get("id"),{})
+        if not saved or saved.get("search_version",0)<4:return True
+        try:checked=dt.datetime.fromisoformat(saved.get("looked_up_at",""))
+        except (ValueError,TypeError):return True
+        if checked.tzinfo is None:checked=checked.replace(tzinfo=dt.timezone.utc)
+        return now-checked>dt.timedelta(days=7)
+    todo=[x for x in records if x.get("id") and needs_check(x)][:BATCH]
     with cf.ThreadPoolExecutor(max_workers=WORKERS) as pool:
         for item,res in zip(todo,pool.map(lookup,todo)):
             results[item["id"]]={"contest_title":item.get("title"),"original_article":item.get("url"),**res}
