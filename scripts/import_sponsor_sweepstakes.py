@@ -41,7 +41,7 @@ def detail(link):
   end=dt.datetime.strptime(m.group(1),"%B %d, %Y").date()
   if end<TODAY:return None
   m2=re.search(r"Prize\s+(.{20,260}?)\s+Deadline",text)
-  description=(m2.group(1) if m2 else "Prize information on organizer website.")[:230]
+  description="Prize details, entry limits and eligibility are available from the organizer. Review the official rules before entering."
   anchors=links(page,url)
   sponsor=[a for a in anchors if "Enter at organizer" in a["name"] and urlsplit(a["url"]).scheme=="https"]
   if not sponsor:return None
