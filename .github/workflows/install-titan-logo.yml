@@ -1,0 +1,27 @@
+name: Install Sweeps Titan official logo
+on:
+  push:
+    paths:
+      - '.github/workflows/install-titan-logo.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  install:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Download user's actual logo artwork
+        env:
+          LOGO_URL: "https://media.canva.com/v2/image-resize/format:PNG/height:125/quality:100/uri:ifs%3A%2F%2FM%2Fe698ab03-47bd-4e0e-930c-19c2d0040652/watermark:F/width:200?csig=AAAAAAAAAAAAAAAAAAAAAB8KYxTn3_eHSqlVd8qIJvjXZ_EKBSYjlPQVjZUKLhjt&exp=1793474080&osig=AAAAAAAAAAAAAAAAAAAAACKWywaurFdGwfMbRo7V-OwdA9lqdfYTTXUCGSIcDTP4&signer=media-rpc&token=AAIAAU0AJGU2OThhYjAzLTQ3YmQtNGUwZS05MzBjLTE5YzJkMDA0MDY1MgAAAAABoZNirQBZJEuBgDIMyf_VAzoS5D6GwEOOEsUa1RpDCLbfpWwu-A&x-canva-quality=thumbnail"
+        run: |
+          mkdir -p assets
+          curl -fL --retry 3 "$LOGO_URL" -o assets/sweeps-titan-official.png
+          file assets/sweeps-titan-official.png
+          test $(wc -c < assets/sweeps-titan-official.png) -gt 1000
+      - name: Commit official logo to site
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/sweeps-titan-official.png
+          git diff --cached --quiet || (git commit -m "Install user-provided Sweeps Titan logo image" && git push)
