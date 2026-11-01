@@ -5,6 +5,7 @@ on:
     paths:
       - 'data/sweepstakes.json'
       - 'scripts/audit_sweep_links.py'
+      - 'scripts/find_sweep_link_candidates.py'
       - '.github/workflows/verify-sweep-links.yml'
   schedule:
     - cron: '0 */6 * * *'
@@ -20,6 +21,8 @@ jobs:
         with:
           python-version: '3.12'
       - run: python scripts/audit_sweep_links.py
+      - name: Research potential corrections for flagged contest links
+        run: python scripts/find_sweep_link_candidates.py
       - uses: actions/upload-artifact@v4
         with:
           name: sweep-link-audit
