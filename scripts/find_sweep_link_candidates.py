@@ -37,7 +37,7 @@ def search(record, kind):
         matches = []
         for item in root.findall(".//item"):
             link = (item.findtext("link") or "").strip()
-            title = re.sub(r"\\s+", " ", item.findtext("title") or "").strip()
+            title = re.sub(r"\s+", " ", item.findtext("title") or "").strip()
             parsed = urllib.parse.urlsplit(link)
             if parsed.scheme != "https" or not parsed.netloc or parsed.username or parsed.password:
                 continue
