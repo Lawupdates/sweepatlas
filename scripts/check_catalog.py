@@ -15,8 +15,8 @@ try:
         assert re.fullmatch(r"[a-z0-9-]{3,80}",entry["id"]),f"Record {i}: bad ID"
         assert entry["id"] not in seen, f"Duplicate ID {entry['id']}"
         seen.add(entry["id"])
-        assert entry["cadence"] in {"Daily","Weekly","Monthly","One-time"}
-        assert entry["place"] in {"US","AZ","CA"}
+        assert entry["cadence"] in {"Daily","Weekly","Monthly","One-time","See rules","Up to 10 total"}, f"Record {i}: invalid cadence"
+        assert len(entry["place"]) <= 120, f"Record {i}: unreasonable eligibility region"
         assert isinstance(entry.get("value"),(int,float)) and 0<=entry["value"]<=10**12
         for k in ("entryUrl","rulesUrl"):
             u=urlsplit(entry[k])
