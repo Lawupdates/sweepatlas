@@ -1,0 +1,34 @@
+{
+  "updated_date": "2026-11-01",
+  "notice": "Research lead checks are automated search attempts, not confirmed entry forms. Curated pages are official/promotional links but form submission is not verified.",
+  "research_leads": 1725,
+  "unique_research_urls": 1725,
+  "lookup_attempts_with_current_id": 1457,
+  "lookup_remaining": 268,
+  "lookup_results_by_status": {
+    "entry_page_not_found": 1326,
+    "insufficient_title": 111,
+    "rejected_nonentry": 20
+  },
+  "lead_review_status": {
+    "verified_rules_app_only": 1,
+    "expired": 1,
+    "research_only": 1694,
+    "verified_rules_entry_pending": 3,
+    "verified_rules_signup_unlocated": 1,
+    "rejected_nonentry": 20,
+    "pending_manual_review": 5
+  },
+  "curated_records": 307,
+  "curated_active_by_date": 290,
+  "curated_expired_by_date": 17,
+  "confirmed_entry_forms": 0,
+  "reviewed_official_sources": [
+    "https://www.nba.com/pelicans/sweepstakes/official-rules-pelicans-prize-drops-app",
+    "https://pac-12.com/news/2026/10/19/general-2026-27-pac-12-after-dark-apparel-sweepstakes-official-rules.aspx",
+    "https://www.wbrc.com/2026/10/23/official-rules-2026-christmas-village-shopping-spree-contest/",
+    "https://www.click2houston.com/contests/rules/2026/10/19/official-rules-holiday-travel-sweepstakes-the-parking-spot/",
+    "https://www.coca-cola.com/us/en/legal/football-friday-for-the-win-rules",
+    "https://articles.starcitygames.com/news/100-star-city-games-gift-certificate-weekly-giveaway/"
+  ]
+}
