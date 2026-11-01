@@ -22,8 +22,9 @@ jobs:
           for(const file of pages){
             if(!fs.existsSync(file)){errors.push('Missing page: '+file);continue}
             const html=fs.readFileSync(file,'utf8');
-            for(const match of html.matchAll(/<script\b[^>]*>([\s\S]*?)<\/script>/gi)){
-              if(match[1].trim())try{new vm.Script(match[1],{filename:file})}catch(e){errors.push('Invalid JS '+file+': '+e.message)}
+            for(const match of html.matchAll(/<script\b([^>]*)>([\s\S]*?)<\/script>/gi)){
+              if(/type\s*=\s*["'](?:application\/ld\+json|application\/json|importmap)["']/i.test(match[1]))continue;
+              if(match[2].trim())try{new vm.Script(match[2],{filename:file})}catch(e){errors.push('Invalid JS '+file+': '+e.message)}
             }
             for(const match of html.matchAll(/(?:href|src)=["'](\.\/?[^"'?#]+)(?:[?#][^"']*)?["']/gi)){
               const dest=path.resolve(path.dirname(file),match[1]);
