@@ -36,7 +36,7 @@ jobs:
           for(const x of Array.isArray(data)?data:[]){
             if(!x.id||ids.has(x.id))errors.push('Missing/duplicate ID: '+x.id);
             ids.add(x.id);
-            if(!['Daily','Weekly','Monthly','One-time'].includes(x.cadence))errors.push('Bad cadence: '+x.id);
+            if(!['Daily','Weekly','Monthly','One-time','See rules','Up to 10 total'].includes(x.cadence))errors.push('Bad cadence: '+x.id);
             for(const key of ['entryUrl','rulesUrl'])if(!/^https:\/\//.test(x[key]||''))errors.push('Missing HTTPS '+key+': '+x.id);
             if(!/^\d{4}-\d{2}-\d{2}$/.test(x.endDate||''))errors.push('Missing valid date: '+x.id);
           }
