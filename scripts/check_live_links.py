@@ -25,7 +25,7 @@ def inspect(url):
             final = response.geturl()
             body = response.read(90000).decode("utf-8", "ignore")
             title = re.search(r"<title[^>]*>(.*?)</title>", body, re.I | re.S)
-            title = re.sub(r"\\s+", " ", title.group(1)).strip()[:120] if title else ""
+            title = re.sub(r"\s+", " ", title.group(1)).strip()[:120] if title else ""
             return {"http_status": response.status, "reachable": 200 <= response.status < 400,
                     "final_url": final, "title": title}
     except urllib.error.HTTPError as error:
