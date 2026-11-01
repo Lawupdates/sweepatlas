@@ -21,7 +21,7 @@
         },
         {
           "key": "Strict-Transport-Security",
-          "value": "max-age=86400"
+          "value": "max-age=63072000"
         },
         {
           "key": "Permissions-Policy",
