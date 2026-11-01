@@ -75,6 +75,6 @@ def main():
  except:live=set()
  candidates=[v for k,v in leads.items() if k not in live and v.get("url","").startswith("https://")]
  candidates.sort(key=lambda x:(x.get("validation_status",""),x.get("title","")))
- existing.write_text(json.dumps({"generated_at":TODAY,"notice":"Unverified research links only; not confirmed entry forms or eligible/active sweepstakes.","sources":results,"candidates":candidates[:10000]},indent=2)+"\n")
+ existing.write_text(json.dumps({"generated_at":TODAY,"notice":"Unverified research links only; not confirmed entry forms or eligible/active sweepstakes.","sources":results,"candidates":candidates[:10000]},separators=(",", ":"))+"\n")
  print(json.dumps({"sources":results,"research_candidates":len(candidates),"published_records_unchanged":True}))
 if __name__=="__main__":main()
