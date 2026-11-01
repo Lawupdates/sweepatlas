@@ -12,7 +12,8 @@ module.exports = async function handler(req, res) {
   res.setHeader('Access-Control-Allow-Headers', 'Content-Type');
   res.setHeader('Cache-Control', 'no-store');
   if (req.method === 'OPTIONS') return res.status(origin && allowed.includes(origin) ? 204 : 403).end();
-  if (req.method === 'GET') return res.status(200).json({ready:Boolean(process.env.STRIPE_SECRET_KEY && process.env.SHIPPING_RATE_ID && process.env.CATALOG_JSON)});\n  if (req.method !== 'POST') return res.status(405).json({error:'Method not allowed'});
+  if (req.method === 'GET') return res.status(200).json({ready:Boolean(process.env.STRIPE_SECRET_KEY && process.env.SHIPPING_RATE_ID && process.env.CATALOG_JSON)});
+  if (req.method !== 'POST') return res.status(405).json({error:'Method not allowed'});
   if (!origin || !allowed.includes(origin)) return res.status(403).json({error:'Origin not allowed'});
   const secret = process.env.STRIPE_SECRET_KEY;
   const shipping = process.env.SHIPPING_RATE_ID;
