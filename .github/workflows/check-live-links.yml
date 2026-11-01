@@ -26,4 +26,25 @@ jobs:
           git config user.name "sweepatlas-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/feed-status.json
-          git diff --cached --quiet || (git commit -m "Update official promotion link-health report" && git push)
+          if ! git diff --cached --quiet; then
+            git commit -m "Update official promotion link-health report"
+            for attempt in 1 2 3 4; do
+              if git push origin HEAD:main; then exit 0; fi
+              git fetch origin main
+              if ! git rebase origin/main; then
+                git rebase --abort || true
+                echo "A concurrent edit prevented rebasing the report; artifact is retained."
+                exit 0
+              fi
+              sleep $((attempt * 2))
+            done
+            echo "Could not publish feed-status after retries"
+            exit 1
+          fi
+      - name: Keep link-health report even if concurrent pushes occur
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: sweep-link-health
+          path: data/feed-status.json
+          retention-days: 14
