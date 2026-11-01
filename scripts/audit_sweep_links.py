@@ -28,7 +28,13 @@ for x in records:
     if rr.get("error"): problems.append("rules_request_failed")
     if re.search(r"/(?:official-rules|rules|terms|conditions|faq)(?:/|$|[?#])",entry,re.I):
         problems.append("entry_url_looks_like_rules")
+    if not entry: problems.append("missing_entry_url")
     if entry==rules: problems.append("entry_and_rules_identical_review_manually")
+    if er.get("status") and er["status"] >= 400: problems.append("entry_http_error")
+    if er.get("finalUrl") and any(host in er["finalUrl"].lower() for host in ("google.com/search", "bing.com/search")): problems.append("entry_redirects_to_search")
+    if er.get("title") and re.search(r"404|not found|access denied|page unavailable|expired|promotion ended|contest closed",er["title"],re.I): problems.append("entry_page_unavailable_or_expired")
+    if er.get("title") and re.search(r"official rules|terms and conditions|privacy policy",er["title"],re.I): problems.append("entry_page_title_looks_like_rules")
+    if er.get("finalUrl") and re.search(r"/(?:products|collections|shop|store|news|blog|about|contact)/?$",er["finalUrl"],re.I): problems.append("entry_redirects_to_nonentry_section")
     if er.get("finalUrl") and re.search(r"/(?:official-rules|rules|terms|conditions)(?:/|$|[?#])",er["finalUrl"],re.I):
         problems.append("entry_redirects_to_rules")
     if er.get("finalUrl") and re.search(r"https?://[^/]+/?$",er["finalUrl"]):
@@ -38,7 +44,7 @@ out=ROOT/"audit-results";out.mkdir(exist_ok=True)
 report={"dateUTC":datetime.datetime.now(datetime.timezone.utc).isoformat(),"count":len(records),"uniqueUrls":len(urls),"flagged":sum(bool(x["flags"]) for x in results),"results":results}
 (out/"link-audit.json").write_text(json.dumps(report,indent=2)+"\n")
 lines=["# Sweeps Titan Link Audit","",f"Records: {len(records)}; unique URLs: {len(urls)}; records flagged for review: {report['flagged']}","",
-"HTTP success alone does NOT prove an entry form works. Blocks, captchas, location restrictions and JavaScript forms require manual review.","","| Listing | Flags | Entry URL | Rules URL |","|---|---|---|---|"]
+"CRITICAL: HTTP success alone does NOT prove the correct contest entry form works. Every flagged entry must be repaired using the exact contest name and sponsor, and manually verified before claiming verified. Blocks, captchas, location restrictions and JavaScript forms require manual review.","","| Listing | Flags | Entry URL | Rules URL |","|---|---|---|---|"]
 for x in results:
     if x["flags"]: lines.append(f"| {x['name'].replace('|','/')} | {', '.join(x['flags'])} | {x['entryUrl']} | {x['rulesUrl']} |")
 (out/"link-audit.md").write_text("\n".join(lines)+"\n")
