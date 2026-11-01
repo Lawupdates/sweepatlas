@@ -71,7 +71,7 @@ byId("product-search").addEventListener("input",e=>{searchTerm=e.target.value.to
 save();renderProducts();renderCart();renderFavorites();
 // Square itemized checkout: set this URL only after deploying your secured backend.
 // Until configured, the existing Square-hosted generic payment link remains usable.
-const squareCheckoutEndpoint = "";
+const squareCheckoutEndpoint = "https://sweeps-titan-square-checkout-sweeps-titan.vercel.app/api/checkout";
 const squarePayButton = document.querySelector('a.checkout');
 if (squarePayButton && squareCheckoutEndpoint) {
   squarePayButton.addEventListener("click", async function(event) {
