@@ -6,7 +6,10 @@ class S(HTMLParser):
     def __init__(self):
         super().__init__();self.inside=False;self.scripts=[]
     def handle_starttag(self,tag,attrs):
-        if tag=="script" and not dict(attrs).get("src"):self.inside=True
+        if tag=="script":
+            attr=dict(attrs)
+            kind=(attr.get("type") or "text/javascript").lower()
+            self.inside=not attr.get("src") and kind in {"text/javascript","application/javascript","module"}
     def handle_endtag(self,tag):
         if tag=="script":self.inside=False
     def handle_data(self,data):
