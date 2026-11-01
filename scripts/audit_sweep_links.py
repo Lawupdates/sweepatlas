@@ -29,7 +29,10 @@ for x in records:
     if re.search(r"/(?:official-rules|rules|terms|conditions|faq)(?:/|$|[?#])",entry,re.I):
         problems.append("entry_url_looks_like_rules")
     if not entry: problems.append("missing_entry_url")
+    if re.fullmatch(r"https?://[^/]+/?",entry,re.I): problems.append("entry_is_generic_homepage")
+    if re.search(r"/(?:official-rules|rules|terms|conditions|faq)(?:/|$|[?#])",entry,re.I): problems.append("entry_is_rules_not_entry")
     if entry==rules: problems.append("entry_and_rules_identical_review_manually")
+    if entry and rules and entry.rstrip("/") == rules.rstrip("/"): problems.append("entry_and_rules_same_destination")
     if er.get("status") and er["status"] >= 400: problems.append("entry_http_error")
     if er.get("finalUrl") and any(host in er["finalUrl"].lower() for host in ("google.com/search", "bing.com/search")): problems.append("entry_redirects_to_search")
     if er.get("title") and re.search(r"404|not found|access denied|page unavailable|expired|promotion ended|contest closed",er["title"],re.I): problems.append("entry_page_unavailable_or_expired")
