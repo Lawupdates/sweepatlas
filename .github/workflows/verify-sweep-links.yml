@@ -1,0 +1,27 @@
+name: Verify Sweepstakes Links
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'data/sweepstakes.json'
+      - 'scripts/audit_sweep_links.py'
+      - '.github/workflows/verify-sweep-links.yml'
+  schedule:
+    - cron: '0 */6 * * *'
+permissions:
+  contents: read
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python scripts/audit_sweep_links.py
+      - uses: actions/upload-artifact@v4
+        with:
+          name: sweep-link-audit
+          path: audit-results/
+          retention-days: 30
