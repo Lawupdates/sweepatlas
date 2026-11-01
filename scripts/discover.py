@@ -282,7 +282,7 @@ def main():
         "candidates": queue,
         "feed_errors": errors,
     }
-    DEST.write_text(json.dumps(report, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    DEST.write_text(json.dumps(report, ensure_ascii=False, separators=(",", ":")) + "\n", encoding="utf-8")
     print(f"Discovered {found} new leads; retained {len(queue)}; feed errors {len(errors)}")
     if len(errors) == len(TERMS) and not queue:
         raise SystemExit("All feeds failed and no prior candidate queue exists")
