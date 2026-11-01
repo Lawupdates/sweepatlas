@@ -42,7 +42,7 @@ body{background:radial-gradient(ellipse 75% 29% at 50% 1%,#0756a7 0%,#0a1740 46%
 <div class="notice"><strong>Merchandise preview.</strong> Browse 36 Sweeps Titan designs and build a sample cart. Square payments are available through the button below, but this cart is not connected to Square and no order is automatically submitted. Confirm product availability, shipping, tax and final total with the store before paying.</div>
 <p id="cart-status" class="muted" role="status" aria-live="polite"></p><section id="collection"><div class="heading"><div><h2>THE LUCKY COLLECTION</h2><p>Explore every style. 36 designs. One winning mindset.</p></div><div class="chips" id="filters" aria-label="Filter merchandise"></div><label class="product-search-label" for="product-search">Search products <input id="product-search" type="search" placeholder="Search all 36 products…" autocomplete="off"></label></div><p class="product-count" id="product-count" role="status"></p><div class="grid" id="products"></div></section>
 <section class="panel" id="favorites"><h2>♥ My Lucky Picks <span id="favcount"></span></h2><p class="muted">Favorites are saved on this device.</p><ul class="favorites-list" id="favs"><li>No favorites saved yet.</li></ul></section>
-<section class="panel" id="cart"><h2>🛒 Your Cart</h2><p class="muted">Cart contents are saved on your device. Prices below are estimates only.</p><div id="cartrows"></div><div class="total">Estimated subtotal: <span id="total">$0.00</span></div><p><a class="checkout" href="https://square.link/u/erHyYX8U" target="_blank" rel="noopener noreferrer" style="display:inline-block;cursor:pointer;background:#ffbf3d;color:#08152b;border-color:#ffe6a0;text-decoration:none">Pay securely with Square ↗</a></p><p class="muted checkout-note">Secure Square payment opens in a separate page. Automatic itemized checkout requires a configured payment server; until then, the estimated cart total and items are not sent to Square. Please confirm your order and final amount with the store before payment. For merchandise inquiries, <a href="mailto:emailbaskets.com@gmail.com?subject=Sweeps%20Titan%20merchandise" style="text-decoration:underline">contact the store</a>.</p></section></main>
+<section class="panel" id="cart"><h2>🛒 Your Cart</h2><p class="muted">Cart contents are saved on your device. Prices below are estimates only.</p><div id="cartrows"></div><div class="total">Estimated subtotal: <span id="total">$0.00</span></div><p><button type="button" class="checkout" id="invoice-order" style="cursor:pointer;background:#ffbf3d;color:#08152b;border-color:#ffe6a0">✉ Request exact Square invoice</button> <button type="button" id="copy-order" style="padding:14px 20px;border-radius:12px;background:#203d61;color:white;border:1px solid #668bb7;font-weight:800">Copy order details</button></p><p class="muted checkout-note">Send your itemized order to the store. The store will confirm availability, shipping, taxes, and final total, then email you a secure Square invoice for the exact amount. No payment is collected when you request an invoice.</p></section></main>
 <footer class="footer"><div class="shell">© Sweeps Titan™ · Original merchandise concepts · <a href="./">Back to sweepstakes</a> · <a href="./advertise.html">Advertise with us</a></div></footer>
 <script>
 "use strict";
@@ -69,38 +69,35 @@ document.addEventListener("click",e=>{const b=e.target.closest("button");if(!b)r
 document.addEventListener("change",e=>{if(!e.target.matches("[data-qty]"))return;let id=e.target.dataset.qty;let qty=Number.parseInt(e.target.value,10);if(!Number.isFinite(qty)||qty<1)qty=1;cart[id]=Math.min(99,qty);save();renderCart()});
 byId("product-search").addEventListener("input",e=>{searchTerm=e.target.value.toLowerCase().trim();renderProducts()});
 save();renderProducts();renderCart();renderFavorites();
-// Square itemized checkout: set this URL only after deploying your secured backend.
-// Until configured, the existing Square-hosted generic payment link remains usable.
-const squareCheckoutEndpoint = "https://sweeps-titan-square-checkout-sweeps-titan.vercel.app/api/checkout";
-const squarePayButton = document.querySelector('a.checkout');
-if (squarePayButton && squareCheckoutEndpoint) {
-  squarePayButton.addEventListener("click", async function(event) {
-    event.preventDefault();
-    const orderItems = Object.entries(cart).map(([id, quantity]) => ({id, quantity}));
-    if (!orderItems.length) {
-      byId("cart-status").textContent = "Add products to your cart before checkout.";
-      return;
-    }
-    squarePayButton.setAttribute("aria-disabled", "true");
-    squarePayButton.textContent = "Creating secure checkout…";
-    try {
-      const response = await fetch(squareCheckoutEndpoint, {
-        method: "POST", headers: {"Content-Type": "application/json"},
-        body: JSON.stringify({items: orderItems})
-      });
-      const data = await response.json();
-      if (!response.ok || !data.url || !/^https:\/\/(?:[a-z0-9-]+\.)*(?:squareup\.com|square\.link)(?:\/|$)/i.test(data.url)) {
-        throw new Error("Unable to create Square checkout");
-      }
-      window.location.assign(data.url);
-    } catch(error) {
-      byId("cart-status").textContent = "Automatic checkout is unavailable. The existing secure Square payment link is available.";
-      window.open("https://square.link/u/erHyYX8U", "_blank", "noopener,noreferrer");
-    } finally {
-      squarePayButton.removeAttribute("aria-disabled");
-      squarePayButton.textContent = "Pay securely with Square ↗";
-    }
+// Order-by-email checkout works without Square API keys or a server.
+function orderSummary(){
+  const lines=Object.entries(cart).map(([id,qty])=>{
+    const product=items.find(p=>p.id===id);
+    return qty+" × "+product.name+" @ "+money(product.price)+" = "+money(product.price*qty);
   });
+  const subtotal=Object.entries(cart).reduce((sum,[id,qty])=>sum+items.find(p=>p.id===id).price*qty,0);
+  return "Sweeps Titan merchandise invoice request\n\n"+lines.join("\n")+"\n\nEstimated subtotal: "+money(subtotal)+"\nShipping and taxes: to be confirmed\nFinal total: to be confirmed by the store\n\nPlease reply with availability, final amount and a secure Square invoice.\n\nCustomer name:\nShipping address:\nContact email:";
 }
+function hasOrder(){
+  if(Object.keys(cart).length)return true;
+  byId("cart-status").textContent="Add products to your cart first.";
+  location.hash="cart"; return false;
+}
+byId("invoice-order").addEventListener("click",()=>{
+  if(!hasOrder())return;
+  const subject=encodeURIComponent("Sweeps Titan - Square invoice request");
+  const body=encodeURIComponent(orderSummary());
+  window.location.href="mailto:emailbaskets.com@gmail.com?subject="+subject+"&body="+body;
+  byId("cart-status").textContent="Your email app should open with the itemized order. Send the email to request your Square invoice.";
+});
+byId("copy-order").addEventListener("click",async()=>{
+  if(!hasOrder())return;
+  try{
+    await navigator.clipboard.writeText(orderSummary());
+    byId("cart-status").textContent="Order details copied. Paste them into an email to emailbaskets.com@gmail.com.";
+  }catch{
+    byId("cart-status").textContent="To copy your order, use the Request exact Square invoice button.";
+  }
+});
 
 </script></body></html>
