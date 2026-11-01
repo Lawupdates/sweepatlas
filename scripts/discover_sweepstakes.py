@@ -2,7 +2,7 @@
 """Import public discovery leads, not verified sweepstakes entries.
 Uses public pages responsibly, records links for human checking and does not
 copy competitor text as listings. Source sites may block access."""
-import json,re,datetime,urllib.parse,urllib.request,html
+import json,re,datetime,urllib.parse,urllib.request,html,hashlib
 from html.parser import HTMLParser
 from pathlib import Path
 TODAY=datetime.datetime.now(datetime.timezone.utc).date().isoformat()
@@ -45,11 +45,26 @@ def main():
  try:old=json.loads(existing.read_text());old=old.get("candidates",[]) if isinstance(old,dict) else []
  except:old=[]
  leads={c["url"]:c for c in old if isinstance(c,dict) and c.get("url","").startswith("https://")}
+ # Normalize legacy source records without discarding historical metadata.
+ for c in leads.values():
+  c["title"]=c.get("title") or c.get("name") or "Unidentified promotion source"
+  c["id"]=c.get("id") or hashlib.sha256(c["url"].encode()).hexdigest()[:16]
+  c["validation_status"]=c.get("validation_status") or "research_only"
  results=[]
  for name,url in SOURCES:
   try:
    found=gather(name,url)
-   for lead in found:leads[lead["url"]]=lead
+   for lead in found:
+    link=lead["url"]
+    if link in leads:
+     # Preserve prior verification, expiry, source titles and candidate IDs.
+     record=leads[link]
+     record.setdefault("research_source",lead["source"])
+     record.setdefault("found_at",lead["found_at"])
+    else:
+     leads[link]={**lead,"id":hashlib.sha256(link.encode()).hexdigest()[:16],
+                  "title":lead["name"],"research_source":lead["source"],
+                  "validation_status":"research_only","end_date":None}
    results.append({"source":name,"found":len(found),"status":"fetched"})
   except Exception as exc:results.append({"source":name,"status":"unavailable","reason":str(exc)[:150]})
  published=Path("data/sweepstakes.json")
@@ -59,7 +74,7 @@ def main():
   live|={str(x.get("rulesUrl","")).split("#")[0] for x in records}
  except:live=set()
  candidates=[v for k,v in leads.items() if k not in live and v.get("url","").startswith("https://")]
- candidates.sort(key=lambda x:(x.get("source",""),x.get("name","")))
+ candidates.sort(key=lambda x:(x.get("validation_status",""),x.get("title","")))
  existing.write_text(json.dumps({"generated_at":TODAY,"notice":"Unverified research links only; not confirmed entry forms or eligible/active sweepstakes.","sources":results,"candidates":candidates[:10000]},indent=2)+"\n")
  print(json.dumps({"sources":results,"research_candidates":len(candidates),"published_records_unchanged":True}))
 if __name__=="__main__":main()
