@@ -255,7 +255,7 @@ async function load(){
    }
  }else failures.push("published listings");
  const seen=new Set();
- all=all.filter(x=>{const u=(x.entry_url||x.url||"").split("?")[0].replace(/\/$/,"").toLowerCase();if(!u||seen.has(u))return false;seen.add(u);return true;});
+ all=all.filter(x=>{const u=(x.entry_url||x.url||"").split("?")[0].replace(/\/$/,"").toLowerCase();const key=x.source==="curated"?"curated:"+x.id:"research:"+u;if(!u||seen.has(key))return false;seen.add(key);return true;});
  $("total").textContent=all.filter(x=>x.source==="curated"&&activeOffer(x)).length.toLocaleString();
  $("dates").textContent=all.filter(x=>Number.isFinite(expiry(x))).length.toLocaleString();
  draw();setupSpotlight();
