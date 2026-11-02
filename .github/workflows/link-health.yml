@@ -4,6 +4,7 @@ on:
     branches: [main]
     paths:
       - "scripts/link_integrity.py"
+      - "scripts/build_repair_queue.py"
       - ".github/workflows/link-health.yml"
   schedule:
     - cron: "29 1,7,13,19 * * *"
@@ -29,11 +30,13 @@ jobs:
           TITAN_LINK_WORKERS: "8"
           TITAN_LINK_TIMEOUT: "10"
         run: python scripts/link_integrity.py
+      - name: Prioritize repair backlog
+        run: python scripts/build_repair_queue.py
       - name: Store link health results
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/link-integrity.json
+          git add data/link-integrity.json data/link-repair-queue.json
           if ! git diff --cached --quiet; then
             git commit -m "Refresh Sweeps Titan entry-link health"
             git pull --rebase origin main
@@ -43,6 +46,8 @@ jobs:
         if: always()
         with:
           name: titan-link-health
-          path: data/link-integrity.json
+          path: |
+            data/link-integrity.json
+            data/link-repair-queue.json
           if-no-files-found: warn
           retention-days: 14
