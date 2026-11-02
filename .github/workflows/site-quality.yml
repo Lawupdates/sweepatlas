@@ -44,3 +44,11 @@ jobs:
           console.log('Checked',pages.length,'pages and',data.length,'catalog records');
           if(errors.length){console.error(errors.join('\n'));process.exitCode=1}
           NODE
+      - name: Inventory release requirements without claiming completion
+        run: python3 scripts/titan_release_audit.py
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: titan-release-inventory
+          path: data/titan-release-audit.json
+          retention-days: 30
