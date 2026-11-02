@@ -1,10 +1,10 @@
 {
-  "generated_utc": "2026-11-02T05:55:24.901447+00:00",
+  "generated_utc": "2026-11-02T05:55:27.870330+00:00",
   "total_source_records": 2500,
-  "searched": 2485,
-  "remaining": 15,
+  "searched": 2500,
+  "remaining": 0,
   "results_by_status": {
-    "entry_page_not_found": 2237,
+    "entry_page_not_found": 2252,
     "insufficient_title": 196,
     "rejected_nonentry": 52
   },
@@ -23395,6 +23395,186 @@
       "contest_title": "MLB Official Rules for Sweepstakes and Contests - MLB.com",
       "original_article": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Cd1Qweko3MVZFTWZCZUtkRWdGdGNCcm02THNGblVMYVA1dnFhSXlnZ29YNTcxMHc5MENzTlpDV19yZFBYYzJrdE55dmx0NHRZaVN5Z0RiajlwZw?oc=5",
       "status": "insufficient_title"
+    },
+    "cdb3aac25335c05d": {
+      "contest_title": "Tundra Home Run Sweepstakes Official Rules | Milwaukee Brewers - MLB.com",
+      "original_article": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbjR0ZjI3aVRrMmgxZWowZ2xsMUJKdS1SRUJjdWhvRHBwTmdiYXQ3TnpXZS1ORU5kMU40endIWUc3dktEVk9lQzFmbjVSN0N5YWlCUDI2dGlaY29XaDRpQkJ6SUh0bGhJNy1zSTF2LXFnTEJqS2d1clUtYnNfdFlJMDdKZ2xHRzNYSFE?oc=5",
+      "looked_up_at": "2026-11-02T05:55:27.379301+00:00",
+      "search_queries": [
+        "\"Tundra Home Run Sweepstakes Official Rules\" entry",
+        "tundra home sweepstakes enter official",
+        "tundra home giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "10c278fd2184aa4e": {
+      "contest_title": "Gunnar Henderson Team USA Jersey Sweepstakes - MLB.com",
+      "original_article": "https://news.google.com/rss/articles/CBMifkFVX3lxTE15NTVibFpWYjNzQUdFc3ZtUnp6UVpEaGVmZllHa0drQ2RMZjFtal95VWREN2hOUTBTdWFjRVF0SFZwcVl0NFRMR3hIRnZNUHU5b1EzeEVYYzRiYkYtQXhyYU1VVFE1dkFYUlFGY3Y0S0ZrNGFsUnpfRFdja3hTZw?oc=5",
+      "looked_up_at": "2026-11-02T05:55:27.494219+00:00",
+      "search_queries": [
+        "\"Gunnar Henderson Team USA Jersey Sweepstakes\" entry",
+        "gunnar henderson team jersey sweepstakes enter official",
+        "gunnar henderson team jersey giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "7f4dc1fcaad9d849": {
+      "contest_title": "Padres Fan Appreciation Sweepstakes | San Diego Padres - MLB.com",
+      "original_article": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5YU3piaDhCRnNKZ1RkWVJ2X0RzTU5TNG5XYk8yaUlSMTJZNU1SdXFZR045UENKR3FLbWF6SWpic0dVSTNYNEpJVUU4Z205TkthUWVjak1tcVpSd3d3Y1FlWl9mSzVITFpv?oc=5",
+      "looked_up_at": "2026-11-02T05:55:27.504869+00:00",
+      "search_queries": [
+        "\"Padres Fan Appreciation Sweepstakes\" entry",
+        "padres appreciation sweepstakes enter official",
+        "padres appreciation giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "2ac349d4d470206d": {
+      "contest_title": "Survey Sweepstakes Cloud Club Members Rules | San Francisco Giants - MLB.com",
+      "original_article": "https://news.google.com/rss/articles/CBMibkFVX3lxTE10NGVkMXI2TG5ZTkdsVm5BU2lyeFB5OHgyMG9pbHlBT1Fwd2VKT2lpcWdLSjNBdllnNThfeUlNQWkyTEk1c2JRUWZkV05Ob3Fka21fNDAyazBhVl9wMjlzTTc2TmVBSFo3RVJQaTR3?oc=5",
+      "looked_up_at": "2026-11-02T05:55:27.482943+00:00",
+      "search_queries": [
+        "\"Survey Sweepstakes Cloud Club Members Rules\" entry",
+        "survey cloud club members sweepstakes enter official",
+        "survey cloud club members giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "364ff2020865000e": {
+      "contest_title": "Dream Finders Homes Sweepstakes | Minor League Baseball - MLB.com",
+      "original_article": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9oZHhMbHgyd3dvMFVMcUtfbHFrZjJCbFNVQm9GaHB3NkJzQlhWejBkY2lXZlgycFpQR2ItVkRPQ3Vtb0prWWVOZzZNbzBaVXN2dXVvS0JNRzJYVHNKVXZlQi1lWGlyX0NTa1RLWEl3?oc=5",
+      "looked_up_at": "2026-11-02T05:55:27.391747+00:00",
+      "search_queries": [
+        "\"Dream Finders Homes Sweepstakes\" entry",
+        "dream finders homes sweepstakes enter official",
+        "dream finders homes giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "94399eedf703426c": {
+      "contest_title": "San Francisco Giants Monthly In-Ballpark Survey Sweepstakes | Official Rules - MLB.com",
+      "original_article": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50LUJ4U2F4eUI2cE1GcU1XanNrQ0ktck1VU1R2M241aURlNHA0bi00cTZmTHpSaGFzazRFX1RCS1NkazhNZXZmLUtZcmN4LW5OeV90UXZ4Mi1UVjY0dVU3al9MZ2FtVTZLN2JVYTVvalBwSllzM1E?oc=5",
+      "looked_up_at": "2026-11-02T05:55:27.499201+00:00",
+      "search_queries": [
+        "\"San Francisco Giants Monthly In-Ballpark Survey Sweepstakes\" entry",
+        "francisco giants monthly ballpark survey sweepstakes enter official",
+        "francisco giants monthly ballpark survey giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "1783ead17036673d": {
+      "contest_title": "The ANA \"Let's Go To Japan\" Sweepstakes entry period has ended. - MLB.com",
+      "original_article": "https://news.google.com/rss/articles/CBMidEFVX3lxTE04V3lxQkw1V1k0MlNieDJsWjVPalFtSHhMZHhRUVlpUWliUVdQbzNiZ2xRTUlFYVJOTmxEYk5YUHFrNEFLbjY5aThFSHNURUQ2YVNsaWNXUjJZb2tPWnA4cXpLOVF6dlJIeFRiZnRSbVdLZGlm?oc=5",
+      "looked_up_at": "2026-11-02T05:55:27.457278+00:00",
+      "search_queries": [
+        "\"The ANA  Let's Go To Japan  Sweepstakes entry period has ended \" entry",
+        "japan entry period ended sweepstakes enter official",
+        "japan entry period ended giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "0c28fe033e0bcc0e": {
+      "contest_title": "Cardinals Care: Caring for Kids Campaign - MLB.com",
+      "original_article": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAzZ2hLV1R4WmNNS0x1REw0dnBIaVpWSENyLUZNU2dSdVJMV0Z2OXBNTnNoM1lXUnNzOXh1aDVhcWF1a0ZHRTdLTlFXYU0ybm9Fa05rOVN3ajFzTDlRNWozTXlIY3hSUQ?oc=5",
+      "looked_up_at": "2026-11-02T05:55:27.507819+00:00",
+      "search_queries": [
+        "\"Cardinals Care  Caring for Kids Campaign\" entry",
+        "cardinals care caring kids campaign sweepstakes enter official",
+        "cardinals care caring kids campaign giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "28d00cf6475c8464": {
+      "contest_title": "Comerica Bank Detroit Tigers Ticket Sweepstakes Official Rules | Detroit Tigers - MLB.com",
+      "original_article": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWUVGUXNlcnItZTFiVXVHS29QUDNzenFRUWpORVpzVkR5dWRRTjNQZGNfN25CaFdZZnhKcWVJcm5FUE95bnVEUGRoTGJZcElGV0MwTENaNlRnYl9SOWdiZ1NlY3hnVHp1ZHkzb3VGbnM4MXlTRnROcVpWR29fYnhhUnA5VXBtWGtXTTl2QVJfSVkzeThONWIwckhCS2JUTHBfZ2xv?oc=5",
+      "looked_up_at": "2026-11-02T05:55:27.507516+00:00",
+      "search_queries": [
+        "\"Comerica Bank Detroit Tigers Ticket Sweepstakes Official Rules\" entry",
+        "comerica bank detroit tigers ticket sweepstakes enter official",
+        "comerica bank detroit tigers ticket giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "77700ef46556215b": {
+      "contest_title": "MLB going all-out to celebrate America’s Semiquincentennial - MLB.com",
+      "original_article": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYjg4em9uX1ROZHUtWG9RTi1BSDVReFppTWdOcTIxRWp2bW1HRGRqOFB2NzVrby1uNHBFX1FwMW53RW9NbmRkTC1xUlBWLUczcm1BVFM4MFR4dE1iMTl0MWczSmNENFdxdXFlNDBmQTRKdE9yMXVoLW5XZlhlcURhT0R2dW_SAZABQVVfeXFMTk90YVJqUnlzRjg4aTc4TGx0MXJfY0pYVEZIckJ4RktobVhVcDlzaWNHV2x3MGgyMFBYaGZ6SzhQUkJHRFNNQVZkdU11OWo1bHZoakR6NDdPSXd5a21WcVhNWHNYanB5aDR2Vnp0TmY0ckI4MFpiT3YxenA5V1hlRHpMYmxwam54RkV6QjVaVzVR?oc=5",
+      "looked_up_at": "2026-11-02T05:55:27.521784+00:00",
+      "search_queries": [
+        "\"MLB going all-out to celebrate America s Semiquincentennial\" entry",
+        "going celebrate america semiquincentennial sweepstakes enter official",
+        "going celebrate america semiquincentennial giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "fa5cc63120774e93": {
+      "contest_title": "The loanDepot Ballpark Bingo Sweepstakes has ended. - MLB.com",
+      "original_article": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAxTjBOY3FCUURjVi1XeHdxTXFDTE03UUFqSlFwc2lSdnFqWGtfR2ZqMHVrYnFhRDU1alVma3BjeFBCMklnYTZVWVRTazYtM3BEZ19YWmZOYW45R3lwNm1KbmZ0T0JTUlU?oc=5",
+      "looked_up_at": "2026-11-02T05:55:27.503064+00:00",
+      "search_queries": [
+        "\"The loanDepot Ballpark Bingo Sweepstakes has ended \" entry",
+        "loandepot ballpark bingo ended sweepstakes enter official",
+        "loandepot ballpark bingo ended giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "9a4f2f51e0714970": {
+      "contest_title": "Sponsor Offers | Cleveland Guardians - MLB.com",
+      "original_article": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE41QVJwX2NaR3hRSmwwTkp0ZFdOV19RSjZYMmFMRnBZaVM2cllyTExHTGM1T25HdmsxSDJ0N1FaX3h1VTNLT2p1LXVzNWJIdlBpMzVmTURxTFZBV3pG?oc=5",
+      "looked_up_at": "2026-11-02T05:55:27.613143+00:00",
+      "search_queries": [
+        "\"Sponsor Offers\" entry",
+        "sponsor offers sweepstakes enter official",
+        "sponsor offers giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "fe419764dad0f524": {
+      "contest_title": "Konami Pick ‘Em Sweepstakes Official Rules - MLB.com",
+      "original_article": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ENTVJcmpER0l2bUtsQThlVkxhTUJhR1MzcnI3eUxXOXduUmsyVE9JZk5DTlp4c2k4N1d3TTEtM3NNc0dBZHJOUzFZeEdWNHVlcFo2OEhXWVVRc04tR25QTDJtSTAyOHgwc0F2RHFZa1R2RmwyQktKaU9VSm5HQQ?oc=5",
+      "looked_up_at": "2026-11-02T05:55:27.868579+00:00",
+      "search_queries": [
+        "\"Konami Pick  Em Sweepstakes Official Rules\" entry",
+        "konami pick sweepstakes enter official",
+        "konami pick giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "0800c1e6cfef781d": {
+      "contest_title": "Miami Marlins Youth Player of the Game Sweepstakes | Miami Marlins - MLB.com",
+      "original_article": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUlZ4ek1QSnVsYVVoMTRjdVVoZ0Z4LWtBMFl0cDdtSllpcnVaa1JKQnFOTGk1U0QyXzRyM0JmZG56R0U2aWVMTE5hcmtBUWlzSEJRQ3pjTks2SUxIYS13c1dEamZFTFVoMmdfR0RPRXoxa0toeE14VnBYQTlpaUpnMWd6THlKQXRfR1pnY3F0SXN3TDNsdkE?oc=5",
+      "looked_up_at": "2026-11-02T05:55:27.662310+00:00",
+      "search_queries": [
+        "\"Miami Marlins Youth Player of the Game Sweepstakes\" entry",
+        "miami marlins youth player game sweepstakes enter official",
+        "miami marlins youth player game giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "9fc266d11ada2eb5": {
+      "contest_title": "CHICAGO CUBS CONVENTION – WEEKEND PASS & ANTHONY RIZZO AUTOGRAPH SESSION SWEEPSTAKES | Chicago Cubs - MLB.com",
+      "original_article": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5NVGpEMUpic2FGQkRjS1FSaklBVG5xS0VLU0lVOUplNmc5b0Y0Sld1c1BFY1BjdXJWUlVwcTJpSDZSR1VEajVGYS1NR250dmdYU285YU5BeGhoVjZWbUptYmRBcUE2bFhNQ1dGcFVlNGQ0SmM?oc=5",
+      "looked_up_at": "2026-11-02T05:55:27.758099+00:00",
+      "search_queries": [
+        "\"CHICAGO CUBS CONVENTION\" entry",
+        "chicago cubs convention sweepstakes enter official",
+        "chicago cubs convention giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     }
   }
 }
