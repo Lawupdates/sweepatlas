@@ -1,0 +1,48 @@
+name: Sweeps Titan entry link health
+on:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/link_integrity.py"
+      - ".github/workflows/link-health.yml"
+  schedule:
+    - cron: "29 1,7,13,19 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: titan-link-health
+  cancel-in-progress: false
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Check live catalog link health (no form submissions)
+        env:
+          TITAN_LINK_WORKERS: "8"
+          TITAN_LINK_TIMEOUT: "10"
+        run: python scripts/link_integrity.py
+      - name: Store link health results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/link-integrity.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Refresh Sweeps Titan entry-link health"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: titan-link-health
+          path: data/link-integrity.json
+          if-no-files-found: warn
+          retention-days: 14
