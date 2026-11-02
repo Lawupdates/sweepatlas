@@ -83,6 +83,18 @@ TERMS = [
     f'site:goodhousekeeping.com "sweepstakes" {YEAR}',
     f'site:countryliving.com "sweepstakes" {YEAR}',
     f'site:hearst.com "sweepstakes" {YEAR}',
+    # Search public, indexed promotion pages from major giveaway platforms.
+    # These are discovery queries, not access to private platform databases.
+    f'site:gleam.io "giveaway" "enter" {YEAR}',
+    f'site:gleam.io "sweepstakes" {YEAR}',
+    f'site:sweepwidget.com "giveaway" {YEAR}',
+    f'site:app.viralsweep.com "sweepstakes" {YEAR}',
+    f'site:woobox.com "sweepstakes" {YEAR}',
+    f'site:kingsumo.com "giveaway" {YEAR}',
+    f'site:secondstreetapp.com "sweepstakes" {YEAR}',
+    f'site:tunespeak.com "sweepstakes" {YEAR}',
+    f'site:iheart.com "sweepstakes" {YEAR}',
+    f'site:prizelogic.com "sweepstakes" {YEAR}',
 ]
 CAP = 2500  # Retain older research leads while new titles are discovered; do not silently drop backlog.
 DATE_PATTERN = re.compile(r'(?:ends?|expires?|expiration date|deadline|closes?)\s*(?:on|at|:)?\s*(?P<date>(?:January|February|March|April|May|June|July|August|September|October|November|December|Jan|Feb|Mar|Apr|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\.?\s+\d{1,2},?\s+20\d{2}|\d{1,2}/\d{1,2}/20\d{2}|20\d{2}-\d{2}-\d{2})', re.I)
@@ -115,7 +127,7 @@ def source(term):
     # Public RSS search feed; no restricted login, cookies or scraping of competitors.
     query = quote(term)
     url = f"https://news.google.com/rss/search?q={query}&hl=en-US&gl=US&ceid=US:en"
-    req = urllib.request.Request(url, headers={"User-Agent": "SweepAtlas/1.1 public-RSS research"})
+    req = urllib.request.Request(url, headers={"User-Agent": "SweepsTitan/1.2 public-RSS research"})
     with urllib.request.urlopen(req, timeout=18) as response:
         if response.status != 200:
             raise ValueError("Unexpected feed response")
@@ -132,7 +144,7 @@ def fetch_public_end_date(url):
     if host == "news.google.com" or host.endswith(".google.com"):
         return None
     try:
-        req = urllib.request.Request(url, headers={"User-Agent": "SweepAtlas/1.1"})
+        req = urllib.request.Request(url, headers={"User-Agent": "SweepsTitan/1.2"})
         with urllib.request.urlopen(req, timeout=5) as response:
             if response.status != 200 or "text/html" not in response.headers.get("Content-Type", ""):
                 return None
@@ -170,7 +182,7 @@ def locate_entry_form(url):
     if host == "news.google.com" or host.endswith(".google.com"):
         return None
     try:
-        req = urllib.request.Request(url, headers={"User-Agent": "SweepAtlas/1.1 public entry discovery"})
+        req = urllib.request.Request(url, headers={"User-Agent": "SweepsTitan/1.2 public entry discovery"})
         with urllib.request.urlopen(req, timeout=6) as response:
             if response.status != 200 or "text/html" not in response.headers.get("Content-Type", ""):
                 return None
