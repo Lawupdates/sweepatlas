@@ -1,9 +1,9 @@
 {
-  "checked_at": "2026-11-01T23:44:57.282142+00:00",
+  "checked_at": "2026-11-02T01:14:38.579509+00:00",
   "records": 331,
   "unique_urls": 569,
-  "active_records": 313,
-  "flagged_records": 179,
+  "active_records": 304,
+  "flagged_records": 177,
   "results": [
     {
       "id": "motion-urus-2026",
@@ -680,7 +680,7 @@
     {
       "id": "coffee-n-cards-2026",
       "expires": "2026-11-01",
-      "expired": false,
+      "expired": true,
       "checks": [
         {
           "type": "entryUrl",
@@ -728,7 +728,7 @@
     {
       "id": "carpro-corvette-14-2026",
       "expires": "2026-11-01",
-      "expired": false,
+      "expired": true,
       "checks": [
         {
           "type": "entryUrl",
@@ -1080,7 +1080,7 @@
     {
       "id": "lenovo-legion-go-s-oct-2026",
       "expires": "2026-11-01",
-      "expired": false,
+      "expired": true,
       "checks": [
         {
           "type": "entryUrl",
@@ -1656,7 +1656,7 @@
     {
       "id": "mackenzie-posh-peanut-2026",
       "expires": "2026-11-01",
-      "expired": false,
+      "expired": true,
       "checks": [
         {
           "type": "entryUrl",
@@ -1681,7 +1681,7 @@
     {
       "id": "burger-king-gameday-2026",
       "expires": "2026-11-01",
-      "expired": false,
+      "expired": true,
       "checks": [
         {
           "type": "entryUrl",
@@ -2461,8 +2461,8 @@
           "type": "entryUrl",
           "http_status": 200,
           "reachable": true,
-          "final_url": "https://woobox.com/94t745/rules",
-          "title": ""
+          "final_url": "https://woobox.com/94t745",
+          "title": "Grand Geneva Christmas in the Country Sweepstakes"
         },
         {
           "type": "rulesUrl",
@@ -2472,10 +2472,7 @@
           "title": "Grand Geneva Resort &amp; Spa Christmas in the Country\u2026"
         }
       ],
-      "flags": [
-        "entry_redirects_to_rules",
-        "entry_url_looks_like_rules"
-      ],
+      "flags": [],
       "verified_entry_form": false
     },
     {
@@ -2707,8 +2704,8 @@
           "type": "entryUrl",
           "http_status": 200,
           "reachable": true,
-          "final_url": "https://woobox.com/3ik6f4/rules",
-          "title": ""
+          "final_url": "https://woobox.com/3ik6f4",
+          "title": "Timber Ridge Christmas in the Country Sweepstakes"
         },
         {
           "type": "rulesUrl",
@@ -2718,10 +2715,7 @@
           "title": "Timber Ridge Lodge &amp; Waterpark Christmas in the Country\u2026"
         }
       ],
-      "flags": [
-        "entry_redirects_to_rules",
-        "entry_url_looks_like_rules"
-      ],
+      "flags": [],
       "verified_entry_form": false
     },
     {
@@ -2750,7 +2744,7 @@
     {
       "id": "sourced-bd15da8861a98f81",
       "expires": "2026-11-01",
-      "expired": false,
+      "expired": true,
       "checks": [
         {
           "type": "entryUrl",
@@ -2777,7 +2771,7 @@
     {
       "id": "sourced-1d05d7318a3b5db0",
       "expires": "2026-11-01",
-      "expired": false,
+      "expired": true,
       "checks": [
         {
           "type": "entryUrl",
@@ -2800,7 +2794,7 @@
     {
       "id": "sourced-8db0ffcc62cb7262",
       "expires": "2026-11-01",
-      "expired": false,
+      "expired": true,
       "checks": [
         {
           "type": "entryUrl",
@@ -2823,7 +2817,7 @@
     {
       "id": "sourced-0039500f6da4d067",
       "expires": "2026-11-01",
-      "expired": false,
+      "expired": true,
       "checks": [
         {
           "type": "entryUrl",
