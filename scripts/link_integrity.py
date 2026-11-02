@@ -46,7 +46,7 @@ def check(item):
             if final.path in ("","/") and parts.path not in ("","/"):result["issues"].append("redirected_to_homepage")
     except urllib.error.HTTPError as error:
         result["httpStatus"]=error.code
-        result["issues"].append("http_error")
+        result["issues"].append("access_restricted_unconfirmed" if error.code in (401,403,429) else "http_error")
     except Exception as error:
         result["issues"].append("network_check_failed")
         result["error"]=type(error).__name__
