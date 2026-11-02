@@ -36,6 +36,10 @@ def gather(source,url):
   parsed=urllib.parse.urlsplit(link)
   name=" ".join(html.unescape(a["name"]).split())[:180]
   if parsed.scheme!="https" or not name or len(name)<9 or len(name)>175:continue
+  # Category indexes, forums, navigation and advertising pages are not contests.
+  if re.search(r"/(?:category|categories|forum|forums|tag|tags|page|search)(?:/|$)",parsed.path,re.I):continue
+  if re.search(r"^<.*>$|^(?:see more|view all|browse|next|previous)$",name,re.I):continue
+  if "/amember/page/" in parsed.path:continue
   if parsed.netloc==host and ("/giveaway" in parsed.path or "/sweepstake" in parsed.path or "/contest" in parsed.path or "/promotion" in parsed.path or "/win-" in parsed.path):
    if parsed.path.rstrip("/")==urllib.parse.urlsplit(url).path.rstrip("/"):continue
    items.append({"name":name,"url":link.split("#")[0],"source":source,"found_at":TODAY,"status":"research-only"})
