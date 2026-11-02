@@ -1100,4 +1100,43 @@ const q=document.getElementById("query");if(q){e.preventDefault();document.query
 const reduced=window.matchMedia('(prefers-reduced-motion: reduce)').matches;
 function glitter(amount){if(reduced)return;document.getElementById('titan-glitter-overlay')?.remove();const layer=document.createElement('div');layer.id='titan-glitter-overlay';layer.setAttribute('aria-hidden','true');document.body.appendChild(layer);const colors=['#ffd35b','#ff87cf','#58ddff','#b997ff','#fff1ba','#66f5d6','#e4e9ff'];const fragment=document.createDocumentFragment();for(let i=0;i<amount;i++){const p=document.createElement('b');p.style.setProperty('--x',Math.random()*100+'%');p.style.setProperty('--h',(7+Math.random()*13)+'px');p.style.setProperty('--w',(4+Math.random()*7)+'px');p.style.setProperty('--drift',((Math.random()-.5)*170)+'px');p.style.setProperty('--spin',(360+Math.random()*980)+'deg');p.style.setProperty('--delay',(Math.random()*0.65)+'s');p.style.setProperty('--dur',(1.55+Math.random()*1.4)+'s');p.style.setProperty('--metal',colors[i%colors.length]);fragment.appendChild(p)}layer.appendChild(fragment);setTimeout(()=>layer.remove(),4100)}
 document.addEventListener('DOMContentLoaded',()=>{const nav=document.querySelector('.titan-navigation');if(nav&&!document.getElementById('titan-luck-showcase'))nav.insertAdjacentHTML('afterend','<div id="titan-luck-showcase"><span>✦ BIG PRIZES</span><span>✦ BIG POSSIBILITIES</span><span>✦ REAL ENTRY LINKS</span><span>✦ YOUR NEXT WIN STARTS HERE</span></div>');glitter(innerWidth<650?90:210);document.getElementById('titan-cookie-launch')?.addEventListener('click',()=>glitter(innerWidth<650?100:230));document.querySelector('.titan-royal-banner')?.addEventListener('click',()=>glitter(innerWidth<650?90:210))});
+})();</script><style id="titan-cookie-fix-500">
+#titan-fortune-cookie:not([hidden]){display:flex!important;z-index:99999!important}
+#titan-fortune-cookie .fortune-panel{overflow-y:auto!important;max-height:calc(100dvh - 22px)!important}
+#titan-fortune-cookie.is-cracked .fortune-result{display:block!important;visibility:visible!important;opacity:1!important;position:relative!important;z-index:20!important;animation:none!important}
+#titan-fortune-cookie.is-cracked .fortune-message{display:block!important;visibility:visible!important;opacity:1!important;color:#3b2412!important;background:linear-gradient(150deg,#fffef6,#fff3c8 65%,#f5d991)!important;text-shadow:none!important;font-size:clamp(18px,4.8vw,23px)!important;font-weight:800!important;line-height:1.5!important;white-space:normal!important;overflow-wrap:break-word!important;padding:20px!important;border:2px solid #d89b35!important;box-shadow:0 12px 28px #0008!important;min-height:95px}
+#titan-fortune-cookie .fortune-crack{filter:drop-shadow(0 16px 11px #0009) drop-shadow(0 0 12px #f2b44f60)!important}
+#titan-fortune-cookie .fortune-half{background:radial-gradient(ellipse at 32% 17%,#fff2b3 0%,#ebbb68 23%,#ca7c30 58%,#874015 84%,#54250b 100%)!important;border:4px ridge #a66025!important;box-shadow:inset 8px 10px 14px #fff1b39c,inset -14px -12px 18px #3a160c99,0 8px 16px #0008!important}
+#titan-fortune-cookie .fortune-crack:before{content:"";position:absolute;top:22%;left:25%;width:50%;height:50%;border-radius:50%;background:repeating-radial-gradient(ellipse,#6f361018 0 3px,#ffe7a513 4px 7px);pointer-events:none;z-index:2;transform:rotate(-14deg)}
+#titan-fortune-cookie.is-cracked .fortune-crack:before{opacity:0}
+#titan-fortune-cookie .titan-cookie-word{z-index:3;text-shadow:0 2px 5px #582b0a!important}
+#titan-fortune-cookie .fortune-dismiss{color:#f6e6ff!important}
+#titan-floating-cookie .titan-cookie-main{filter:drop-shadow(1px 5px 5px #0009) sepia(.35) saturate(1.6);font-size:clamp(58px,7vw,82px)!important}
+</style>
+<script id="titan-cookie-fix-500-script">(function(){
+"use strict";
+const starts=["An unexpected smile is heading your way","Your next big idea is warming up","Something wonderful may be around the corner","The stars are cheering for your curiosity","A bright surprise could find you","Your adventurous side is ready to shine","The universe approves your bold daydreams","A lucky little detour may delight you","Your confidence is gaining momentum","The best stories begin with one brave step","A fresh possibility is knocking","Your imagination is opening new doors","A beautiful moment deserves your attention","A playful twist could brighten your day","Your patience is growing into possibility","Your next discovery deserves a celebration","A spark of inspiration is finding you","Big dreams look good on you","A tiny moment of joy can become a memory","Your creative energy is hard to ignore","A cheerful coincidence may make you laugh","Your curiosity is your secret superpower","A lovely adventure starts with a simple yes","Your future has room for more wonder","The fortune-cookie stars are winking at you"];
+const tails=["Keep your eyes open for the little magic. ✨","And remember: fun is a prize of its own. 🎉","Take the next step with a smile. 😊","The cookie votes for extra sparkle today. 💎","Maybe today's your day to discover something new. 🔎","Dream boldly, and always read the official rules. 🥠","Make a wish, then make a plan. 🌠","Your inner optimist just did a happy dance. 💃","Add a little glitter to the ordinary. 🌈","Your lucky soundtrack deserves to be turned up. 🎶","Small joys can create big memories. 💛","The adventure is often the best part. 🧭","Stay curious; wonderful things start there. 🌟","Even the moon is rooting for your grin. 🌙","Celebrate every little victory along the way. 🏆","Let your next idea surprise you. 💡","There is always room for one more happy thought. 🍀","Your next chapter might be full of color. 🎨","Don't forget to enjoy the journey. 🚀","The cookie says: keep your sense of wonder. 🥠"];
+const fortunes=starts.flatMap(a=>tails.map(b=>a+". "+b));
+if(fortunes.length!==500||new Set(fortunes).size!==500)return;
+const root=document.getElementById("titan-fortune-cookie");
+const crack=root?.querySelector(".fortune-crack");
+const result=root?.querySelector(".fortune-result");
+const message=root?.querySelector(".fortune-message");
+if(!root||!crack||!result||!message)return;
+let order=[],position=0;
+try{const p=JSON.parse(localStorage.getItem("titan_cookie_500_v1")||"null");if(p&&Array.isArray(p.order)&&p.order.length===500&&new Set(p.order).size===500&&p.order.every(n=>Number.isInteger(n)&&n>=0&&n<500)){order=p.order;position=Math.min(500,Math.max(0,p.position||0))}}catch(e){}
+function shuffle(){order=Array.from({length:500},(_,i)=>i);for(let i=499;i>0;i--){const j=Math.floor(Math.random()*(i+1));[order[i],order[j]]=[order[j],order[i]]}position=0}
+if(order.length!==500)shuffle();
+crack.addEventListener("click",function(e){
+ if(root.classList.contains("is-cracked"))return;
+ e.stopImmediatePropagation();
+ if(position>=500)shuffle();
+ message.textContent=fortunes[order[position++]];
+ root.classList.add("is-cracked");crack.disabled=true;
+ result.hidden=false;result.style.display="block";message.hidden=false;message.style.display="block";
+ try{localStorage.setItem("titan_cookie_500_v1",JSON.stringify({order,position}))}catch(e){}
+ setTimeout(()=>{if(!root.hidden)message.focus({preventScroll:true})},250);
+},{capture:true});
+document.getElementById("titan-cookie-launch")?.addEventListener("click",()=>{result.style.display="";message.style.display="";result.hidden=false;message.hidden=false;},{capture:true});
 })();</script></body></html>
