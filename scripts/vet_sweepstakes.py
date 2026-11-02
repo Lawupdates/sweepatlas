@@ -34,7 +34,6 @@ SOURCES = [
     # Third-party directories are discovery clues only. Never copy their prose.
     "https://www.sweepstakesadvantage.com/",
     "https://www.contestgirl.com/",
-    "https://www.sweepsatlas.com/",
     "https://www.sweetiessweeps.com/",
     "https://www.online-sweepstakes.com/",
     "https://www.thefreebieblogger.com/",
@@ -124,6 +123,33 @@ def discoveries():
                 leads.append({"title":title,"candidateUrl":link,"sourceQuery":query,
                  "status":"research_needed","entryVerified":False})
         except ET.ParseError: pass
+        time.sleep(1.0)
+    # Inspect publicly accessible directory listings as leads, without copying text.
+    # Robots exclusions and access errors mean skip, never bypass.
+    from html.parser import HTMLParser
+    class Links(HTMLParser):
+        def __init__(self):
+            super().__init__()
+            self.hrefs=[]
+            self.current=None
+        def handle_starttag(self,tag,attrs):
+            if tag=="a": self.current=dict(attrs).get("href")
+        def handle_data(self,data):
+            if self.current and re.search(r"giveaway|contest|sweepstakes|win ",data,re.I):
+                self.hrefs.append((self.current,data.strip()[:140]))
+        def handle_endtag(self,tag):
+            if tag=="a":self.current=None
+    for source in SOURCES:
+        result=fetch(source)
+        if result.get("status")!="reachable": continue
+        parser=Links()
+        parser.feed(result.get("html",""))
+        for href,title in parser.hrefs[:40]:
+            candidate=urllib.parse.urljoin(source,href)
+            if not candidate.startswith("https://"): continue
+            if candidate==source: continue
+            leads.append({"title":title,"candidateUrl":candidate,"sourceQuery":source,
+                          "status":"research_needed","entryVerified":False})
         time.sleep(1.0)
     unique={x["candidateUrl"]:x for x in leads}
     return list(unique.values())[:100]
