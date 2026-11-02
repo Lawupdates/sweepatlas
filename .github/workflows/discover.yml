@@ -54,6 +54,28 @@ jobs:
         run: python scripts/audit_entries.py
       - name: Audit direct entry URL integrity without changing public listings
         run: python scripts/link_integrity.py
+      - name: Validate catalog and audit report integrity before publishing
+        shell: bash
+        run: |
+          python scripts/check_catalog.py
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          for filename in (
+              'data/discovery-candidates.json',
+              'data/entry-audit.json',
+              'data/entry-lookup-results.json',
+              'data/link-integrity.json',
+          ):
+              path = Path(filename)
+              if not path.is_file() or path.stat().st_size == 0:
+                  raise SystemExit(f'Missing or empty report: {filename}')
+              with path.open(encoding='utf-8') as report:
+                  parsed = json.load(report)
+              if not isinstance(parsed, (dict, list)):
+                  raise SystemExit(f'Unexpected report structure: {filename}')
+              print(f'Checked report: {filename}')
+          PY
       - name: Persist discovery and audit reports
         run: |
           git config user.name "github-actions[bot]"
