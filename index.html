@@ -898,7 +898,7 @@ let saved=sample.filter(s=>isSaved(s.id));$("savedList").innerHTML=saved.length?
 $("todayItems").innerHTML=saved.length?saved.map(s=>'<div class="item"><div><strong>'+safe(s.name)+'</strong><small>'+s.cadence+' · Visit official entry link</small></div><a class="primary" href="'+safe(s.entryUrl)+'" target="_blank" rel="noopener noreferrer nofollow" style="text-decoration:none">'+(/rules|terms|conditions/i.test(s.entryUrl)?"Official rules ↗":"Visit promotion ↗")+'</a><button class="outline" data-action="mark" data-id="'+s.id+'">Mark submitted</button></div>').join(""):'<div class="empty">Save a published listing to plan your entries.</div>';
 $("entryLog").innerHTML=state.log.length?state.log.slice(0,30).map(x=>{let s=sample.find(y=>y.id===x.id);return '<div class="item"><div><strong>'+safe(s?.name||x.id)+'</strong><small>'+new Date(x.at).toLocaleString()+'</small></div><span class="tag">Tracked</span></div>'}).join(""):'<div class="empty">No entries logged yet.</div>'}
 document.addEventListener("click",e=>{const viewBtn=e.target.closest("[data-titan-view]");if(viewBtn){window.titanBrowseView=viewBtn.dataset.titanView;window.titanBrowsePage=1;update();return}const pageBtn=e.target.closest("[data-titan-page]");if(pageBtn&&!pageBtn.disabled){window.titanBrowsePage=Number(pageBtn.dataset.titanPage);update();document.getElementById("titan-browse-tools")?.scrollIntoView({block:"start",behavior:"smooth"});return}let a=e.target.closest("[data-action]");if(a){if(a.dataset.action==="save")toggle(a.dataset.id);if(a.dataset.action==="mark")mark(a.dataset.id);if(a.dataset.action==="details")displayRules(a.dataset.id);if(a.dataset.action==="report"){const s=sample.find(x=>x.id===a.dataset.id);if(s){location.href="mailto:emailbaskets.com@gmail.com?subject="+encodeURIComponent("Sweeps Titan broken link: "+s.name)+"&body="+encodeURIComponent("Contest: "+s.name+"\nListed URL: "+s.entryUrl+"\nProblem: ")}}}let f=e.target.closest("[data-filter]");if(f){category=f.dataset.filter;update();document.getElementById("discover")?.scrollIntoView({behavior:"smooth",block:"start"})}let tab=e.target.closest("[data-tab]");if(tab){document.querySelectorAll("main>section").forEach(x=>x.classList.toggle("hidden",x.id!==tab.dataset.tab));document.querySelectorAll("[data-tab]").forEach(x=>x.classList.toggle("on",x===tab));document.getElementById(tab.dataset.tab)?.scrollIntoView({behavior:"smooth",block:"start"})}});
-$("query").addEventListener("input",e=>{query=e.target.value.toLowerCase();update()});$("eligibility").addEventListener("change",e=>{eligibility=e.target.value;update()});$("sort").addEventListener("change",e=>{sort=e.target.value;update()});$("closeDialog").onclick=()=>$("details").close();
+let titanSearchTimer; $("query").addEventListener("input",e=>{query=e.target.value.toLowerCase();clearTimeout(titanSearchTimer);titanSearchTimer=setTimeout(update,110)});$("eligibility").addEventListener("change",e=>{eligibility=e.target.value;update()});$("sort").addEventListener("change",e=>{sort=e.target.value;update()});$("closeDialog").onclick=()=>$("details").close();
 for(const id of ["first","last","email","phone","state","postal"])$(id).value=state.profile[id]||"";
 $("profileForm").addEventListener("submit",e=>{e.preventDefault();state.profile=Object.fromEntries(["first","last","email","phone","state","postal"].map(id=>[id,$(id).value.trim()]));persist();show("Profile stored on this device only")});
 $("copyProfile").onclick=()=>{let value=["first","last","email","phone","state","postal"].map(id=>id+": "+$(id).value).join("\n");navigator.clipboard?.writeText(value).then(()=>show("Copied profile")).catch(()=>show("Clipboard unavailable")) ?? show("Clipboard unavailable")};
@@ -1031,4 +1031,20 @@ html,body{max-width:100%;overflow-x:clip}
 #titan-fortune-cookie h2{font-size:clamp(22px,6vw,30px);margin-inline:25px}
 }
 @media(prefers-reduced-motion:reduce){#titan-page-confetti{display:none!important}}
-</style></body></html>
+</style><style id="titan-speed-accessibility-2026">
+/* Large catalogs: avoid painting offscreen cards until scrolled into view. */
+#cards .card,.cards .card{content-visibility:auto;contain-intrinsic-size:auto 470px}
+#cards .card:focus-within,.cards .card:focus-within{content-visibility:visible}
+#cards img,.cards img{aspect-ratio:16/9;object-fit:cover}
+@media(max-width:650px){#cards,.cards{grid-template-columns:minmax(0,1fr)!important}#cards .card,.cards .card{min-width:0}#cards .cardfoot,.cards .cardfoot{flex-wrap:wrap}}
+@media(prefers-reduced-motion:reduce){.card,.card:hover,.chip,.chip:hover{transform:none!important;transition:none!important}}
+</style>
+<script id="titan-quick-search">(function(){
+document.addEventListener("keydown",function(e){
+if((e.key==="/"&&!e.ctrlKey&&!e.metaKey&&!e.altKey)||((e.ctrlKey||e.metaKey)&&e.key.toLowerCase()==="k")){
+const tag=document.activeElement?.tagName||"";
+if(e.key==="/"&&(/^(INPUT|TEXTAREA|SELECT)$/.test(tag)||document.activeElement?.isContentEditable))return;
+const q=document.getElementById("query");if(q){e.preventDefault();document.querySelector("#discover")?.scrollIntoView({block:"start",behavior:matchMedia("(prefers-reduced-motion:reduce)").matches?"instant":"smooth"});q.focus();q.select();}
+}
+});
+})();</script></body></html>
