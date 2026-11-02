@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-11-02T01:43:15.208369+00:00",
+  "generatedAt": "2026-11-02T02:02:25.108548+00:00",
   "checked": 331,
   "warning": "Automated checks cannot prove a sweepstakes form accepts entries. Do not label links verified solely from this report.",
   "summary": {
-    "access_restricted_unconfirmed": 73,
+    "access_restricted_unconfirmed": 64,
     "entry_matches_rules_link": 82,
     "expired_by_listed_end_date": 27,
     "expired_or_not_found_page": 1,
-    "http_error": 6,
+    "http_error": 14,
     "likely_rules_page_not_entry": 76,
     "network_check_failed": 1,
-    "no_form_detected_manual_check": 144,
+    "no_form_detected_manual_check": 142,
     "possible_homepage_not_entry": 11,
     "redirected_to_other_host": 2,
-    "redirected_to_rules_page": 65
+    "redirected_to_rules_page": 66
   },
   "results": [
     {
@@ -21,7 +21,7 @@
       "name": "MOTION Lamborghini Urus Giveaway",
       "entryUrl": "https://stevewilldoit.com/pages/motion-urus-giveaway",
       "rulesUrl": "https://stevewilldoit.com/pages/motion-urus-giveaway",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "entry_matches_rules_link"
@@ -35,7 +35,7 @@
       "name": "DYLD 1993 Mazda RX-7 FD Giveaway",
       "entryUrl": "https://dyldindustries.com/",
       "rulesUrl": "https://dyldindustries.com/pages/dig-009-official-rules",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "reachable_needs_human_confirmation",
       "issues": [],
       "httpStatus": 200,
@@ -47,7 +47,7 @@
       "name": "Drive Protected Tesla Model Y Giveaway",
       "entryUrl": "https://driveprotected.com/pages/model-y-giveaway",
       "rulesUrl": "https://driveprotected.com/pages/model-y-giveaway",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "entry_matches_rules_link",
@@ -62,7 +62,7 @@
       "name": "Bexley Motorcar Chevrolet Cruze Giveaway",
       "entryUrl": "https://www.bexleymotorcar.com/free-car-giveaway",
       "rulesUrl": "https://www.bexleymotorcar.com/free-car-giveaway",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "entry_matches_rules_link",
@@ -77,7 +77,7 @@
       "name": "MCCS Lejeune-New River Vehicle Giveaway",
       "entryUrl": "https://lejeunenewriver.usmc-mccs.org/car-giveaway",
       "rulesUrl": "https://lejeunenewriver.usmc-mccs.org/car-giveaway",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "entry_matches_rules_link"
@@ -91,7 +91,7 @@
       "name": "World of Filson Giveaway",
       "entryUrl": "https://www.filson.com/pages/world-of-filson-giveaway",
       "rulesUrl": "https://www.filson.com/pages/world-of-filson-giveaway",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "entry_matches_rules_link",
@@ -106,7 +106,7 @@
       "name": "The Cat in the Hat Sweepstakes",
       "entryUrl": "https://gleam.io/WtHCN/cold-stone-creamery-the-cat-in-the-hat-sweepstakes",
       "rulesUrl": "https://www.coldstonecreamery.com/sweepstakes/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "access_restricted_unconfirmed"
@@ -118,7 +118,7 @@
       "name": "Hallmark Christmas Countdown Adventure",
       "entryUrl": "https://countdownadventure.hallmarkchannel.com/",
       "rulesUrl": "https://countdownadventure.hallmarkchannel.com/rules",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "no_form_detected_manual_check",
@@ -133,7 +133,7 @@
       "name": "Hallmark Very Merry Giveaway",
       "entryUrl": "https://verymerrygiveaway.hallmarkchannel.com/",
       "rulesUrl": "https://verymerrygiveaway.hallmarkchannel.com/faq",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "no_form_detected_manual_check",
@@ -148,7 +148,7 @@
       "name": "Hallmark Countdown to Christmas Movie Game",
       "entryUrl": "https://christmasmoviegame.hallmarkchannel.com/",
       "rulesUrl": "https://christmasmoviegame.hallmarkchannel.com/faq",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "no_form_detected_manual_check",
@@ -163,7 +163,7 @@
       "name": "Goldbelly Thanksgiving Feast Sweepstakes",
       "entryUrl": "https://www.goldbelly.com/spotlight/thanksgiving-sweepstakes",
       "rulesUrl": "https://help.goldbelly.com/en_us/goldbelly-thanksgiving-sweepstakes-official-rules-Hywu3EZpfg",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "reachable_needs_human_confirmation",
       "issues": [],
       "httpStatus": 200,
@@ -175,7 +175,7 @@
       "name": "Common Uniform Daily Drawings",
       "entryUrl": "https://commonuniform.com/pages/sign-up",
       "rulesUrl": "https://commonuniform.com/pages/official-rules",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "no_form_detected_manual_check"
@@ -189,7 +189,7 @@
       "name": "Monster Energy Gift Card and Product for a Year",
       "entryUrl": "https://www.monsterenergy.com/en-us/promotions/monster-energy-chance-to-win-a-gift-card-and-product-for-a-year-sweepstakes/",
       "rulesUrl": "https://www.monsterenergy.com/en-us/promotions/monster-energy-chance-to-win-a-gift-card-and-product-for-a-year-sweepstakes/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "entry_matches_rules_link",
@@ -202,7 +202,7 @@
       "name": "Monster Energy London Trip Sweepstakes",
       "entryUrl": "https://www.monsterenergy.com/en-us/promotions/monster-energy-chance-to-win-a-trip-to-london-sweepstakes-circle-k/",
       "rulesUrl": "https://www.monsterenergy.com/en-us/promotions/monster-energy-chance-to-win-a-trip-to-london-sweepstakes-circle-k/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "entry_matches_rules_link",
@@ -215,7 +215,7 @@
       "name": "Bon Appétit Gear of the Year Giveaway",
       "entryUrl": "https://www.bonappetit.com/story/gear-of-the-year-giveaway",
       "rulesUrl": "https://www.bonappetit.com/story/terms-and-conditions-gear-of-the-year-giveaway",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "no_form_detected_manual_check"
@@ -229,7 +229,7 @@
       "name": "Valpak $5,000 Holiday Haul",
       "entryUrl": "https://www.valpak.com/holiday",
       "rulesUrl": "https://www.valpak.com/holiday",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "entry_matches_rules_link",
@@ -244,7 +244,7 @@
       "name": "Sony x Cowboys Headphones",
       "entryUrl": "https://cloud.email.sel.sony.com/SonyxCowboysHeadphones",
       "rulesUrl": "https://cloud.email.sel.sony.com/SonyxCowboysHeadphones",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "entry_matches_rules_link"
@@ -258,7 +258,7 @@
       "name": "Guitar Center Fender Hauliday",
       "entryUrl": "https://www.guitarcenter.com/gear-giveaway.gc?icid=LP14674",
       "rulesUrl": "https://www.guitarcenter.com/gear-giveaway.gc?icid=LP14674",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "entry_matches_rules_link",
@@ -271,21 +271,21 @@
       "name": "Perdue Holiday Drop Sweepstakes",
       "entryUrl": "https://www.perdue.com/holiday-drop",
       "rulesUrl": "https://www.perdue.com/holiday-drop",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "entry_matches_rules_link"
       ],
       "httpStatus": 200,
       "finalUrl": "https://www.perdue.com/holiday-drop",
-      "pageTitle": "Holiday Drop | PERDUE&reg;"
+      "pageTitle": ""
     },
     {
       "id": "comfiroom-november-2026",
       "name": "Comfiroom November Recliner Giveaway",
       "entryUrl": "https://gleam.io/giveaways/98ZKF",
       "rulesUrl": "https://gleam.io/giveaways/98ZKF",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "entry_matches_rules_link",
@@ -298,7 +298,7 @@
       "name": "AGON Counter-Strike 2 Monitor Giveaway",
       "entryUrl": "https://gleam.io/giveaways/qnBYN",
       "rulesUrl": "https://gleam.io/giveaways/qnBYN",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "entry_matches_rules_link",
@@ -311,7 +311,7 @@
       "name": "AMD Valor Mortis Graphics Card Sweepstakes",
       "entryUrl": "https://gleam.io/giveaways/bpQOQ",
       "rulesUrl": "https://gleam.io/giveaways/bpQOQ",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "entry_matches_rules_link",
@@ -324,7 +324,7 @@
       "name": "AMD FSR Update Laptop Sweepstakes",
       "entryUrl": "https://gleam.io/giveaways/pGWxH",
       "rulesUrl": "https://gleam.io/giveaways/pGWxH",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "entry_matches_rules_link",
@@ -337,7 +337,7 @@
       "name": "Stormcraft Valkyrie Gaming PC",
       "entryUrl": "https://gleam.io/giveaways/cPggF",
       "rulesUrl": "https://gleam.io/giveaways/cPggF",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "entry_matches_rules_link",
@@ -350,7 +350,7 @@
       "name": "Allegiant Double Down Tour Flyaway",
       "entryUrl": "https://www.allegiantair.com/deals/DoubleDownFlyawaySweepstakes/",
       "rulesUrl": "https://www.allegiantair.com/deals/DoubleDownFlyawaySweepstakes/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "entry_matches_rules_link",
@@ -363,7 +363,7 @@
       "name": "Wild Fly Argentina Fishing Trip",
       "entryUrl": "https://wild-fly.com/pages/argentina-sweepstakes",
       "rulesUrl": "https://wild-fly.com/pages/argentina-sweepstakes",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "entry_matches_rules_link"
@@ -377,7 +377,7 @@
       "name": "Visit Orlando Family Vacation Sweepstakes",
       "entryUrl": "https://www.visitorlando.com/win-a-trip/",
       "rulesUrl": "https://www.visitorlando.com/win-a-trip/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "entry_matches_rules_link",
@@ -392,7 +392,7 @@
       "name": "Coffee N Cards Launch Giveaway",
       "entryUrl": "https://www.coffeencardsco.com/pages/giveaway-free-entry",
       "rulesUrl": "https://www.coffeencardsco.com/pages/giveaway-free-entry",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "expired_by_listed_end_date",
@@ -406,7 +406,7 @@
       "name": "717 Supply #54 Pick Your Ride Giveaway",
       "entryUrl": "https://717supply.com/pages/giveaway",
       "rulesUrl": "https://717supply.com/pages/rules",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "reachable_needs_human_confirmation",
       "issues": [],
       "httpStatus": 200,
@@ -418,7 +418,7 @@
       "name": "CarPro #14 — 2026 Corvette or $40,000",
       "entryUrl": "https://carprosweeps.com/",
       "rulesUrl": "https://carprosweeps.com/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "expired_by_listed_end_date",
@@ -435,7 +435,7 @@
       "name": "PROOF 1969 Camaro Z10 Giveaway",
       "entryUrl": "https://carryproof.com/pages/camaro-sweepstakes",
       "rulesUrl": "https://carryproof.com/pages/rules",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "no_form_detected_manual_check"
@@ -449,7 +449,7 @@
       "name": "Gas Monkey Garage Giveaway #33",
       "entryUrl": "https://www.gasmonkeygarage.com/pages/gas-monkey-garage-giveaway",
       "rulesUrl": "https://www.gasmonkeygarage.com/pages/gas-monkey-garage-giveaway",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "entry_matches_rules_link"
@@ -463,7 +463,7 @@
       "name": "Opheim Formula Mazda Giveaway",
       "entryUrl": "https://opheimmotors.com/",
       "rulesUrl": "https://opheimmotors.com/pages/official-policy",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "no_form_detected_manual_check",
@@ -478,7 +478,7 @@
       "name": "Regal Imagination Adventure Sweepstakes",
       "entryUrl": "https://rewards.regmovies.com/",
       "rulesUrl": "https://www.regmovies.com/promotions/imagination-adventure-sweepstakes-rules",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "reachable_needs_human_confirmation",
       "issues": [],
       "httpStatus": 200,
@@ -490,7 +490,7 @@
       "name": "Food Network Home for the Holidays $5,000 Giveaway",
       "entryUrl": "https://www.foodnetwork.com/sponsored/sweepstakes/home-for-the-holidays",
       "rulesUrl": "https://www.foodnetwork.com/sponsored/sweepstakes/home-for-the-holidays",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "entry_matches_rules_link"
@@ -504,7 +504,7 @@
       "name": "Food Network Magazine Who's Counting? Contest",
       "entryUrl": "https://www.foodnetwork.com/magazine/food-network-magazine-whos-counting",
       "rulesUrl": "https://www.foodnetwork.com/magazine/food-network-magazine-whos-counting",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "entry_matches_rules_link"
@@ -518,7 +518,7 @@
       "name": "HGTV Home for the Holidays $5,000 Giveaway",
       "entryUrl": "https://www.hgtv.com/sweepstakes/home-for-the-holidays",
       "rulesUrl": "https://www.hgtv.com/sweepstakes/home-for-the-holidays",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "entry_matches_rules_link"
@@ -532,7 +532,7 @@
       "name": "TLC Season to Shine $5,000 Giveaway",
       "entryUrl": "https://www.tlc.com/sweepstakes/season-to-shine",
       "rulesUrl": "https://www.tlc.com/sweepstakes/season-to-shine",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "entry_matches_rules_link"
@@ -546,7 +546,7 @@
       "name": "Food Network Taste of Fall $5,000 Giveaway",
       "entryUrl": "https://www.foodnetwork.com/features/articles/sweepstakes-and-contests",
       "rulesUrl": "https://www.foodnetwork.com/features/articles/sweepstakes-and-contests",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "entry_matches_rules_link"
@@ -560,7 +560,7 @@
       "name": "HGTV Shock Your Home Sweepstakes",
       "entryUrl": "https://www.hgtv.com/shows/house-shock/giveaway",
       "rulesUrl": "https://www.hgtv.com/shows/house-shock/giveaway",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "entry_matches_rules_link"
@@ -574,7 +574,7 @@
       "name": "Misty Mountain Gaming October Giveaway",
       "entryUrl": "https://gleam.io/giveaways/I2gHU",
       "rulesUrl": "https://gleam.io/giveaways/I2gHU",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "expired_by_listed_end_date",
@@ -588,7 +588,7 @@
       "name": "Spooktacular 3D Printing Giveaway",
       "entryUrl": "https://gleam.io/giveaways/vcPcm",
       "rulesUrl": "https://gleam.io/giveaways/vcPcm",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "entry_matches_rules_link",
@@ -601,7 +601,7 @@
       "name": "CUBOT Trick or Tech Halloween Giveaway",
       "entryUrl": "https://gleam.io/giveaways/Um5oR",
       "rulesUrl": "https://gleam.io/giveaways/Um5oR",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "entry_matches_rules_link",
@@ -614,7 +614,7 @@
       "name": "Lenovo Legion Go S October Giveaway",
       "entryUrl": "https://gleam.io/giveaways/5OO69",
       "rulesUrl": "https://gleam.io/giveaways/5OO69",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "expired_by_listed_end_date",
@@ -628,7 +628,7 @@
       "name": "Cheat Happens GIGABYTE RTX 5080 Giveaway",
       "entryUrl": "https://gleam.io/giveaways/n0N8V",
       "rulesUrl": "https://gleam.io/giveaways/n0N8V",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "entry_matches_rules_link",
@@ -641,7 +641,7 @@
       "name": "Bad Karmas and Curse of Cthulhu Giveaway",
       "entryUrl": "https://gleam.io/giveaways/CIEgN",
       "rulesUrl": "https://gleam.io/giveaways/CIEgN",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "entry_matches_rules_link",
@@ -654,7 +654,7 @@
       "name": "Chestnut Hill Tech and Gift Card Giveaway",
       "entryUrl": "https://gleam.io/giveaways/X9YOO",
       "rulesUrl": "https://gleam.io/giveaways/X9YOO",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "entry_matches_rules_link",
@@ -667,7 +667,7 @@
       "name": "Gradience x Metal Blade PS5 Giveaway",
       "entryUrl": "https://gleam.io/giveaways/nUvyg",
       "rulesUrl": "https://gleam.io/giveaways/nUvyg",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "entry_matches_rules_link",
@@ -680,7 +680,7 @@
       "name": "CLX Wuthering Waves Custom Gaming PC Giveaway",
       "entryUrl": "https://gleam.io/giveaways/9PiZj",
       "rulesUrl": "https://gleam.io/giveaways/9PiZj",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "entry_matches_rules_link",
@@ -693,7 +693,7 @@
       "name": "sweetFrog The Cat in the Hat Sweepstakes",
       "entryUrl": "https://gleam.io/giveaways/J83Uq",
       "rulesUrl": "https://gleam.io/giveaways/J83Uq",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "entry_matches_rules_link",
@@ -706,7 +706,7 @@
       "name": "Chiblee Youtooz Giveaway",
       "entryUrl": "https://gleam.io/giveaways/gpYuZ",
       "rulesUrl": "https://gleam.io/giveaways/gpYuZ",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "entry_matches_rules_link",
@@ -719,7 +719,7 @@
       "name": "Vermax RTX 5060 Gaming PC Giveaway",
       "entryUrl": "https://gleam.io/giveaways/qFGmA",
       "rulesUrl": "https://gleam.io/giveaways/qFGmA",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "entry_matches_rules_link",
@@ -732,7 +732,7 @@
       "name": "AORUS Upgrade Fight On Giveaway",
       "entryUrl": "https://gleam.io/giveaways/dkiAc",
       "rulesUrl": "https://gleam.io/giveaways/dkiAc",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "entry_matches_rules_link",
@@ -745,7 +745,7 @@
       "name": "Good Sam Ultimate Ice Fishing Giveaway",
       "entryUrl": "https://gleam.io/giveaways/8JzGD",
       "rulesUrl": "https://gleam.io/giveaways/8JzGD",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "entry_matches_rules_link",
@@ -758,7 +758,7 @@
       "name": "Arena Saddle of Your Choice Giveaway",
       "entryUrl": "https://gleam.io/giveaways/u2D9q",
       "rulesUrl": "https://gleam.io/giveaways/u2D9q",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "entry_matches_rules_link",
@@ -771,7 +771,7 @@
       "name": "Bates Saddle of Your Choice Giveaway",
       "entryUrl": "https://gleam.io/giveaways/3Pq1D",
       "rulesUrl": "https://gleam.io/giveaways/3Pq1D",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "entry_matches_rules_link",
@@ -784,7 +784,7 @@
       "name": "Wintec Saddle of Your Choice Giveaway",
       "entryUrl": "https://gleam.io/giveaways/Um0W4",
       "rulesUrl": "https://gleam.io/giveaways/Um0W4",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "entry_matches_rules_link",
@@ -797,7 +797,7 @@
       "name": "Champion Helmets Premium Helmet Giveaway",
       "entryUrl": "https://gleam.io/giveaways/m0nHf",
       "rulesUrl": "https://gleam.io/giveaways/m0nHf",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "entry_matches_rules_link",
@@ -810,7 +810,7 @@
       "name": "Technics EAH-A1000 Headphones Giveaway",
       "entryUrl": "https://gleam.io/giveaways/1Cjta",
       "rulesUrl": "https://gleam.io/giveaways/1Cjta",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "entry_matches_rules_link",
@@ -823,7 +823,7 @@
       "name": "Timekettle LiveTalk AI Earbuds Giveaway",
       "entryUrl": "https://gleam.io/giveaways/U2AnO",
       "rulesUrl": "https://gleam.io/giveaways/U2AnO",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "entry_matches_rules_link",
@@ -836,7 +836,7 @@
       "name": "John Wick Poker Set Giveaway",
       "entryUrl": "https://gleam.io/giveaways/MQqdu",
       "rulesUrl": "https://gleam.io/giveaways/MQqdu",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "entry_matches_rules_link",
@@ -849,7 +849,7 @@
       "name": "Nintendo Switch 2 and Zelda Giveaway",
       "entryUrl": "https://gleam.io/giveaways/X0u4L",
       "rulesUrl": "https://gleam.io/giveaways/X0u4L",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "entry_matches_rules_link",
@@ -862,7 +862,7 @@
       "name": "RedDeerGames Xbox Series X Giveaway",
       "entryUrl": "https://gleam.io/giveaways/8Hy1F",
       "rulesUrl": "https://gleam.io/giveaways/8Hy1F",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "entry_matches_rules_link",
@@ -875,7 +875,7 @@
       "name": "Dragon Blogger PS5 or $500 Giveaway",
       "entryUrl": "https://gleam.io/giveaways/sdqMA",
       "rulesUrl": "https://gleam.io/giveaways/sdqMA",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "entry_matches_rules_link",
@@ -888,7 +888,7 @@
       "name": "Innova $2,000 Tools Holiday Giveaway",
       "entryUrl": "https://www.innova.com/pages/holiday-giveaway",
       "rulesUrl": "https://www.innova.com/pages/holiday-giveaway",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "entry_matches_rules_link",
@@ -903,7 +903,7 @@
       "name": "Walmart Customer Satisfaction Sweepstakes Q4",
       "entryUrl": "https://corporate.walmart.com/walmart-customer-satisfaction-sweepstakes-rules",
       "rulesUrl": "https://corporate.walmart.com/walmart-customer-satisfaction-sweepstakes-rules",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "entry_matches_rules_link",
@@ -919,7 +919,7 @@
       "name": "MacKenzie-Childs x Posh Peanut Giveaway",
       "entryUrl": "https://www.mackenzie-childs.com/rules.html",
       "rulesUrl": "https://www.mackenzie-childs.com/rules.html",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "expired_by_listed_end_date",
@@ -934,7 +934,7 @@
       "name": "Burger King Game Day Every Day Sweepstakes",
       "entryUrl": "https://www.bk.com/gameday-rules",
       "rulesUrl": "https://www.bk.com/gameday-rules",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "expired_by_listed_end_date",
@@ -950,7 +950,7 @@
       "name": "Highside Lab Ducati Monster 821 Giveaway",
       "entryUrl": "https://highsidelab.com/pages/how-to-enter-003",
       "rulesUrl": "https://highsidelab.com/pages/how-to-enter-003",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "entry_matches_rules_link"
@@ -964,7 +964,7 @@
       "name": "Post & Porch $5,000 Giveaway",
       "entryUrl": "https://postandporch.com/pages/giveaway",
       "rulesUrl": "https://postandporch.com/pages/giveaway",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "entry_matches_rules_link",
@@ -979,7 +979,7 @@
       "name": "Wooltari Mini Kimchi Refrigerator Giveaway",
       "entryUrl": "https://wooltariusa.com/pages/wooltari-mini-kimchi-refrigerator-giveaway",
       "rulesUrl": "https://wooltariusa.com/pages/wooltari-mini-kimchi-refrigerator-giveaway",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "entry_matches_rules_link",
@@ -994,7 +994,7 @@
       "name": "Shared Sweeps $100,000 Giveaway #11",
       "entryUrl": "https://sharedsweeps.com/pages/rules",
       "rulesUrl": "https://sharedsweeps.com/pages/rules",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "entry_matches_rules_link",
@@ -1010,7 +1010,7 @@
       "name": "Three Stories Jewelry $1,000 Gift Card Giveaway",
       "entryUrl": "https://www.threestoriesjewelry.com/contest-sign-up",
       "rulesUrl": "https://www.threestoriesjewelry.com/contest-sign-up",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "entry_matches_rules_link"
@@ -1024,7 +1024,7 @@
       "name": "AudioControl $250 Gift Card and Gear Giveaway",
       "entryUrl": "https://audiocontrol.com/blogs/news/audiocontrol-giveaway-win-a-250-audiocontrol-gift-card-custom-yeti-gear-and-more",
       "rulesUrl": "https://audiocontrol.com/blogs/news/audiocontrol-giveaway-win-a-250-audiocontrol-gift-card-custom-yeti-gear-and-more",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "entry_matches_rules_link",
@@ -1039,7 +1039,7 @@
       "name": "CSL Giving Gives Back — Week 1",
       "entryUrl": "https://www.cslplasma.com/giveaway-tnc",
       "rulesUrl": "https://www.cslplasma.com/giveaway-tnc",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "entry_matches_rules_link",
@@ -1054,7 +1054,7 @@
       "name": "CSL Giving Gives Back — Week 2",
       "entryUrl": "https://www.cslplasma.com/giveaway-tnc",
       "rulesUrl": "https://www.cslplasma.com/giveaway-tnc",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "entry_matches_rules_link",
@@ -1069,7 +1069,7 @@
       "name": "CSL Giving Gives Back — Week 3",
       "entryUrl": "https://www.cslplasma.com/giveaway-tnc",
       "rulesUrl": "https://www.cslplasma.com/giveaway-tnc",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "entry_matches_rules_link",
@@ -1084,7 +1084,7 @@
       "name": "CSL Giving Gives Back — Week 4",
       "entryUrl": "https://www.cslplasma.com/giveaway-tnc",
       "rulesUrl": "https://www.cslplasma.com/giveaway-tnc",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "entry_matches_rules_link",
@@ -1099,7 +1099,7 @@
       "name": "CSL Giving Gives Back — Week 5",
       "entryUrl": "https://www.cslplasma.com/giveaway-tnc",
       "rulesUrl": "https://www.cslplasma.com/giveaway-tnc",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "entry_matches_rules_link",
@@ -1114,7 +1114,7 @@
       "name": "CSL Giving Gives Back — Week 6",
       "entryUrl": "https://www.cslplasma.com/giveaway-tnc",
       "rulesUrl": "https://www.cslplasma.com/giveaway-tnc",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "entry_matches_rules_link",
@@ -1129,7 +1129,7 @@
       "name": "CSL Giving Gives Back — Week 7",
       "entryUrl": "https://www.cslplasma.com/giveaway-tnc",
       "rulesUrl": "https://www.cslplasma.com/giveaway-tnc",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "entry_matches_rules_link",
@@ -1144,7 +1144,7 @@
       "name": "CSL Giving Gives Back — Week 8",
       "entryUrl": "https://www.cslplasma.com/giveaway-tnc",
       "rulesUrl": "https://www.cslplasma.com/giveaway-tnc",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "entry_matches_rules_link",
@@ -1159,7 +1159,7 @@
       "name": "CSL Giving Gives Back — Week 9",
       "entryUrl": "https://www.cslplasma.com/giveaway-tnc",
       "rulesUrl": "https://www.cslplasma.com/giveaway-tnc",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "entry_matches_rules_link",
@@ -1174,7 +1174,7 @@
       "name": "Ford Bronco Wild Fund Sweepstakes",
       "entryUrl": "https://fordeventreg.com/BWFGeneralRegistration",
       "rulesUrl": "https://fordeventreg.com/assets/pdfs/en/BWF26_Sweepstakes_Rules.pdf",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "no_form_detected_manual_check"
@@ -1188,7 +1188,7 @@
       "name": "HexClad Gordon's Golden Ticket to Italy Giveaway",
       "entryUrl": "https://hexclad.com/pages/gordons-golden-ticket-italy",
       "rulesUrl": "https://hexclad.com/pages/gordons-golden-ticket-italy",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "entry_matches_rules_link",
@@ -1204,7 +1204,7 @@
       "name": "AARP Lights, Camera, Play! Sweepstakes",
       "entryUrl": "https://www.aarp.org/entertainment/sweeps/",
       "rulesUrl": "https://www.aarp.org/entertainment/sweeps/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "entry_matches_rules_link",
@@ -1219,7 +1219,7 @@
       "name": "Chipotle Bag Giveaway — Free Daily Entry",
       "entryUrl": "https://www.bigasschipotlebag.com/alternative-method-of-entry",
       "rulesUrl": "https://www.chipotle.com/giveaway",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "reachable_needs_human_confirmation",
       "issues": [],
       "httpStatus": 200,
@@ -1231,7 +1231,7 @@
       "name": "MLF Bass Pro Shops Nitro Z19 Boat Giveaway",
       "entryUrl": "https://gleam.io/giveaways/r8CSA",
       "rulesUrl": "https://gleam.io/giveaways/r8CSA",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "entry_matches_rules_link",
@@ -1244,7 +1244,7 @@
       "name": "Logitech G x COD MW4 Game & Gear",
       "entryUrl": "https://gleam.io/giveaways/b0uxq",
       "rulesUrl": "https://gleam.io/giveaways/b0uxq",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "entry_matches_rules_link",
@@ -1257,7 +1257,7 @@
       "name": "Logitech G ASTRO A50 X Mars Red Headset",
       "entryUrl": "https://gleam.io/giveaways/iHDZW",
       "rulesUrl": "https://gleam.io/giveaways/iHDZW",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "entry_matches_rules_link",
@@ -1270,7 +1270,7 @@
       "name": "Solo Stove Colts VIP Tailgate Sweepstakes",
       "entryUrl": "https://gleam.io/giveaways/17X5t",
       "rulesUrl": "https://gleam.io/giveaways/17X5t",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "entry_matches_rules_link",
@@ -1283,7 +1283,7 @@
       "name": "Revopoint MIRACO 2 3D Scanner Giveaway",
       "entryUrl": "https://gleam.io/giveaways/OXZem",
       "rulesUrl": "https://revo.ink/tcs",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "access_restricted_unconfirmed"
@@ -1295,7 +1295,7 @@
       "name": "OUPES UPS 1200 Launch Giveaway",
       "entryUrl": "https://gleam.io/giveaways/6OqL9",
       "rulesUrl": "https://gleam.io/giveaways/6OqL9",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "entry_matches_rules_link",
@@ -1308,7 +1308,7 @@
       "name": "Shoe Palace $500 Shopping Spree Sweepstakes",
       "entryUrl": "https://www.shoepalace.com/pages/giveaway-rules",
       "rulesUrl": "https://www.shoepalace.com/pages/giveaway-rules",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "entry_matches_rules_link",
@@ -1323,7 +1323,7 @@
       "name": "2026 Packers vs. Cancer Sweepstakes",
       "entryUrl": "https://static.clubs.nfl.com/image/upload/packers/c8wylghvcdjmrxrkjyo7",
       "rulesUrl": "https://giveowl.com/e/green-bay-packers--2026-packers-vs-cancer-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "expired_by_listed_end_date",
@@ -1338,7 +1338,7 @@
       "name": "Culver's Curdtoberfest Sweepstakes",
       "entryUrl": "https://culvers.promo.eprize.com/curdtoberfest/public/fulfillment/rules.pdf",
       "rulesUrl": "https://giveowl.com/e/culver-franchising-system-llc--culver-s-curdtoberfest-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "expired_by_listed_end_date",
@@ -1353,7 +1353,7 @@
       "name": "Depend × Coach Prime Sweepstakes",
       "entryUrl": "https://d2xcq4qphg1ge9.cloudfront.net/assets/113007/4096459/original_FINAL_Depend_-_Walmart_Sweepstakes_Official_Rules.pdf",
       "rulesUrl": "https://giveowl.com/e/kimberly-clark-depend--depend-coach-prime-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "expired_by_listed_end_date",
@@ -1368,7 +1368,7 @@
       "name": "eskiin $5,000 Dream Getaway Giveaway",
       "entryUrl": "https://eskiin.com/pages/dream-getaway-giveaway",
       "rulesUrl": "https://giveowl.com/e/eskiin-inc--eskiin-5-000-dream-getaway-giveaway--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "expired_by_listed_end_date",
@@ -1383,7 +1383,7 @@
       "name": "Grand Geneva Resort & Spa Christmas in the Country Sweepstakes",
       "entryUrl": "https://woobox.com/94t745",
       "rulesUrl": "https://giveowl.com/e/grand-geneva-llc-marcus-hotels--grand-geneva-resort-spa-christmas-in-the-country-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "expired_by_listed_end_date"
@@ -1397,7 +1397,7 @@
       "name": "Halloween Audiobook Giveaway (Something Witchy or Scary)",
       "entryUrl": "https://sites.prh.com/somethingwitchysomethingscary/rules",
       "rulesUrl": "https://giveowl.com/e/penguin-random-house--halloween-audiobook-giveaway-something-witchy-or-scary--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "expired_by_listed_end_date",
@@ -1411,7 +1411,7 @@
       "name": "Hell on a Shelf Sweepstakes",
       "entryUrl": "https://sohopress.com/official-rules-hell-on-a-shelf-sweepstakes/",
       "rulesUrl": "https://giveowl.com/e/soho-press--hell-on-a-shelf-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "expired_by_listed_end_date",
@@ -1427,7 +1427,7 @@
       "name": "Hidden Valley Ranch Spooky Ranch Movie Adventure",
       "entryUrl": "https://secure.cataboom.com/remote/hvr-spooky-ranch-game/assets/docs/rules.pdf",
       "rulesUrl": "https://giveowl.com/e/hidden-valley-ranch-the-clorox-company--hidden-valley-ranch-spooky-ranch-movie-adventure--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "expired_by_listed_end_date",
@@ -1442,7 +1442,7 @@
       "name": "Kylie Cosmetics Winter Kissed Collection Sweepstakes",
       "entryUrl": "https://kyliecosmetics.com/en-bs/pages/winter-kissed-collection-giveaway",
       "rulesUrl": "https://giveowl.com/e/king-kylie-llc-kylie-cosmetics--kylie-cosmetics-winter-kissed-collection-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "expired_by_listed_end_date",
@@ -1457,7 +1457,7 @@
       "name": "Microsoft Rewards Olivia Rodrigo in Las Vegas Sweepstakes",
       "entryUrl": "https://promos.microsoftrewards.com/US/en/SS/119/rules",
       "rulesUrl": "https://giveowl.com/e/microsoft-corporation--microsoft-rewards-olivia-rodrigo-in-las-vegas-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "expired_by_listed_end_date",
@@ -1474,7 +1474,7 @@
       "name": "Must-Have Graphic Novels Sweepstakes",
       "entryUrl": "https://sites.prh.com/fall-graphic-reads-sweepstakes/rules",
       "rulesUrl": "https://giveowl.com/e/penguin-random-house--must-have-graphic-novels-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "expired_by_listed_end_date",
@@ -1488,7 +1488,7 @@
       "name": "Newport Ready to Fish Sweepstakes",
       "entryUrl": "https://newportvessels.com/pages/ready-to-fish-sweepstakes-terms-conditions",
       "rulesUrl": "https://giveowl.com/e/newport-newport-vessels--newport-ready-to-fish-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "expired_by_listed_end_date"
@@ -1502,7 +1502,7 @@
       "name": "Southern Living × Casa Rosa Miranda Lambert Cover Celebration Giveaway",
       "entryUrl": "https://www.southernliving.com/the-southern-living-x-casa-rosa-miranda-lambert-cover-celebration-giveaway-12173861",
       "rulesUrl": "https://giveowl.com/e/people-inc-southern-living--southern-living-casa-rosa-miranda-lambert-cover-celebration-giveaway--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "expired_by_listed_end_date",
@@ -1515,7 +1515,7 @@
       "name": "Tarte VIP 2026 Holiday Collection Giveaway",
       "entryUrl": "https://tartecosmetics.com/pages/vip-holiday-sweeps",
       "rulesUrl": "https://giveowl.com/e/tarte-cosmetics--tarte-vip-2026-holiday-collection-giveaway--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "expired_by_listed_end_date",
@@ -1530,7 +1530,7 @@
       "name": "Timber Ridge Lodge & Waterpark Christmas in the Country Sweepstakes",
       "entryUrl": "https://woobox.com/3ik6f4",
       "rulesUrl": "https://giveowl.com/e/marcus-hotels-inc-timber-ridge-lodge-waterpark--timber-ridge-lodge-waterpark-christmas-in-the-country-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "expired_by_listed_end_date"
@@ -1544,7 +1544,7 @@
       "name": "Ultimate NFR Experience Sweepstakes",
       "entryUrl": "https://www.lazyt.com/pages/sweepstakes",
       "rulesUrl": "https://giveowl.com/e/lazy-t-ranch--ultimate-nfr-experience-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "expired_by_listed_end_date"
@@ -1558,7 +1558,7 @@
       "name": "Penguin Random House Bantam Halloween Sweepstakes",
       "entryUrl": "https://sites.prh.com/bantam-halloween-sweepstakes-2026/rules",
       "rulesUrl": "https://giveowl.com/e/penguin-random-house-llc--penguin-random-house-bantam-halloween-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "expired_by_listed_end_date",
@@ -1575,7 +1575,7 @@
       "name": "Tailgates & Touchdowns Sweepstakes presented by Miller Lite",
       "entryUrl": "https://static.clubs.nfl.com/image/upload/jets/dvyxjvo3rlhpphpvuffr",
       "rulesUrl": "https://giveowl.com/e/new-york-jets--tailgates-touchdowns-sweepstakes-presented-by-miller-lite--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "expired_by_listed_end_date",
@@ -1590,7 +1590,7 @@
       "name": "WBRC 2026 Christmas Village Shopping Spree Contest",
       "entryUrl": "https://www.wbrc.com/2026/10/26/contest-2026-christmas-village-shopping-spree/",
       "rulesUrl": "https://www.wbrc.com/2026/10/23/official-rules-2026-christmas-village-shopping-spree-contest/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "expired_by_listed_end_date",
@@ -1605,7 +1605,7 @@
       "name": "Win a 30-Quart Turkey Fryer Set",
       "entryUrl": "https://porticogoods.com/pages/turkey-fryer-giveaway",
       "rulesUrl": "https://giveowl.com/e/portico-goods--win-a-30-quart-turkey-fryer-set--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "expired_by_listed_end_date",
@@ -1620,7 +1620,7 @@
       "name": "2026 Pepsi Grocery Gift Card Sweepstakes",
       "entryUrl": "https://pepsipromos.com/freegroceries/freegroceries_rules/",
       "rulesUrl": "https://giveowl.com/e/pepsi-cola-company--2026-pepsi-grocery-gift-card-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "no_form_detected_manual_check"
@@ -1634,7 +1634,7 @@
       "name": "INSP's Frontier Feast Sweepstakes",
       "entryUrl": "https://www.insp.com/sweepstakes-rules/",
       "rulesUrl": "https://giveowl.com/e/insp--insp-s-frontier-feast-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "likely_rules_page_not_entry",
@@ -1649,7 +1649,7 @@
       "name": "Nintendo NEW YORK My Nintendo Holiday Magic Sweepstakes",
       "entryUrl": "https://my.nintendo.com/rewards/fda3e5a574c668e6?lang=en-US",
       "rulesUrl": "https://giveowl.com/e/nintendo-of-america--nintendo-new-york-my-nintendo-holiday-magic-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "no_form_detected_manual_check"
@@ -1663,7 +1663,7 @@
       "name": "Trolli × Gears of War: E-Day Spicy Crawlers Sweepstakes",
       "entryUrl": "https://trolligears.com/rules.pdf",
       "rulesUrl": "https://giveowl.com/e/ferrara-candy-company-trolli--trolli-gears-of-war-e-day-spicy-crawlers-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "no_form_detected_manual_check"
@@ -1677,7 +1677,7 @@
       "name": "Ollie Ollieday Crystal Dog Bowl Giveaway",
       "entryUrl": "https://rules.rtm.com/content/olliedaycrystaldogbowlgiveaway/en/officialrules.pdf",
       "rulesUrl": "https://giveowl.com/e/ollie-pets-inc-administrator-realtime-media-llc--ollie-ollieday-crystal-dog-bowl-giveaway--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "likely_rules_page_not_entry",
@@ -1693,7 +1693,7 @@
       "name": "Pete’s Market 2026 Thanksgiving Dinner Giveaway",
       "entryUrl": "https://www.petesfresh.com/giveaway",
       "rulesUrl": "https://giveowl.com/e/pete-s-fresh-market--pete-s-market-2026-thanksgiving-dinner-giveaway--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "reachable_needs_human_confirmation",
       "issues": [],
       "httpStatus": 200,
@@ -1705,7 +1705,7 @@
       "name": "SNICKERS NFL and Circle K Sweepstakes",
       "entryUrl": "https://www.snickersnfl26.com/",
       "rulesUrl": "https://giveowl.com/e/mars-wrigley-snickers--snickers-nfl-and-circle-k-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "access_restricted_unconfirmed"
@@ -1717,21 +1717,19 @@
       "name": "TheChristmas.com Trans-Siberian Orchestra Giveaway",
       "entryUrl": "https://thechristmas.com/pages/trans-siberian-orchestra-giveaway",
       "rulesUrl": "https://giveowl.com/e/thechristmas-com--thechristmas-com-trans-siberian-orchestra-giveaway--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
-        "no_form_detected_manual_check"
+        "http_error"
       ],
-      "httpStatus": 200,
-      "finalUrl": "https://thechristmas.com/pages/trans-siberian-orchestra-giveaway",
-      "pageTitle": "Trans-Siberian Orchestra Giveaway &ndash; TheChristmas.com"
+      "httpStatus": 503
     },
     {
       "id": "sourced-fbbd23ff450fd429",
       "name": "Hayabusa UFC BJJ Las Vegas Sweepstakes",
       "entryUrl": "https://www.hayabusafight.com/pages/ufc-bjj-las-vegas-sweepstakes",
       "rulesUrl": "https://giveowl.com/e/hayabusa--hayabusa-ufc-bjj-las-vegas-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "no_form_detected_manual_check"
@@ -1745,7 +1743,7 @@
       "name": "Blinds To Go \"Reasons\" Sweepstakes",
       "entryUrl": "https://www.blindstogo.com/campaigns/reasons/sweepstakes/",
       "rulesUrl": "https://giveowl.com/e/blinds-to-go--blinds-to-go-reasons-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "no_form_detected_manual_check"
@@ -1759,7 +1757,7 @@
       "name": "Larry's Coffee Moccamaster Giveaway",
       "entryUrl": "https://larryscoffee.com/pages/moccamaster-giveaway",
       "rulesUrl": "https://giveowl.com/e/larry-s-coffee--larry-s-coffee-moccamaster-giveaway--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "reachable_needs_human_confirmation",
       "issues": [],
       "httpStatus": 200,
@@ -1771,7 +1769,7 @@
       "name": "Fanta Build Your Alebrije Sweepstakes and Instant Win Game",
       "entryUrl": "https://www.coca-cola.com/us/en/legal/fanta-alebrije-sweepstakes",
       "rulesUrl": "https://giveowl.com/e/the-coca-cola-company-fanta--fanta-build-your-alebrije-sweepstakes-and-instant-win-game--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "no_form_detected_manual_check"
@@ -1785,7 +1783,7 @@
       "name": "HGTV Shock Your Home Giveaway",
       "entryUrl": "https://xd.wayin.com/display/container/dc/bbc5dc2b-f9ff-494b-81e9-cf4b33cbd798/rules",
       "rulesUrl": "https://giveowl.com/e/discovery-communications-llc-hgtv--hgtv-shock-your-home-giveaway--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "likely_rules_page_not_entry",
@@ -1800,7 +1798,7 @@
       "name": "Kroger High School Football “Game Day to Beach Day” Sweepstakes",
       "entryUrl": "https://krogerhighschoolfootball.com/vmbofficialrules",
       "rulesUrl": "https://giveowl.com/e/kroger-hsfb-visit-myrtle-beach--kroger-high-school-football-game-day-to-beach-day-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "likely_rules_page_not_entry",
@@ -1816,7 +1814,7 @@
       "name": "MagnaWave Holiday Health Unwrapped Sweepstakes",
       "entryUrl": "https://www.magnawavepemf.com/contest-rules/",
       "rulesUrl": "https://giveowl.com/e/magnawave-inc--magnawave-holiday-health-unwrapped-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "no_form_detected_manual_check"
@@ -1830,7 +1828,7 @@
       "name": "NASCAR Cup Series Chase Sweepstakes presented by Ford",
       "entryUrl": "https://thechasefordpromo.nascar.com/",
       "rulesUrl": "https://giveowl.com/e/teamdigital-promotions-nascar-ford--nascar-cup-series-chase-sweepstakes-presented-by-ford--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "no_form_detected_manual_check",
@@ -1845,7 +1843,7 @@
       "name": "Real Good Foods Meatball Sweepstakes",
       "entryUrl": "https://realgoodfoods.com/pages/real-good-foods-meatball-sweepstakes-rules",
       "rulesUrl": "https://giveowl.com/e/real-good-foods--real-good-foods-meatball-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "likely_rules_page_not_entry",
@@ -1861,7 +1859,7 @@
       "name": "TWIX Hallowmas Rewards Contest",
       "entryUrl": "https://www.twix.com/Hallowmas",
       "rulesUrl": "https://giveowl.com/e/mars-wrigley-confectionery-us-twix--twix-hallowmas-rewards-contest--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "reachable_needs_human_confirmation",
       "issues": [],
       "httpStatus": 200,
@@ -1873,21 +1871,19 @@
       "name": "Cove Home Holiday Hosting Giveaway",
       "entryUrl": "https://cove-home.co/pages/holiday-giveaway",
       "rulesUrl": "https://giveowl.com/e/cove-home-llc--cove-home-holiday-hosting-giveaway--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
-        "no_form_detected_manual_check"
+        "http_error"
       ],
-      "httpStatus": 200,
-      "finalUrl": "https://cove-home.co/pages/holiday-giveaway",
-      "pageTitle": "Holiday Hosting Giveaway &ndash; Cove Home"
+      "httpStatus": 503
     },
     {
       "id": "sourced-8cb3bab677b25221",
       "name": "GEICO \"Birds on the Go\" Sweepstakes (Eagles Thanksgiving getaway)",
       "entryUrl": "https://forms.philadelphiaeagles.com/f/geicosweepstakes",
       "rulesUrl": "https://giveowl.com/e/philadelphia-eagles-geico-government-employees-insurance-company--geico-birds-on-the-go-sweepstakes-eagles-thanksgiving-getaway--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "reachable_needs_human_confirmation",
       "issues": [],
       "httpStatus": 200,
@@ -1899,7 +1895,7 @@
       "name": "Chipotle Bag Giveaway",
       "entryUrl": "https://www.chipotle.com/giveaway",
       "rulesUrl": "https://giveowl.com/e/chipotle-cmg-strategy-co--chipotle-bag-giveaway--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "no_form_detected_manual_check"
@@ -1913,7 +1909,7 @@
       "name": "Food Network Taste of Fall Giveaway",
       "entryUrl": "https://www.foodnetwork.com/sponsored/sweepstakes/taste-of-fall",
       "rulesUrl": "https://giveowl.com/e/food-network-warner-bros-discovery--food-network-taste-of-fall-giveaway--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "reachable_needs_human_confirmation",
       "issues": [],
       "httpStatus": 200,
@@ -1925,7 +1921,7 @@
       "name": "Klean Freak $5,000 Cancun Getaway",
       "entryUrl": "https://www.kleanfreak.com/pages/cancun-giveaway",
       "rulesUrl": "https://giveowl.com/e/klean-freak-llc--klean-freak-5-000-cancun-getaway--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "no_form_detected_manual_check"
@@ -1939,7 +1935,7 @@
       "name": "STIHL \"100 Days of STIHL\" Sweepstakes",
       "entryUrl": "https://www.stihlusa.com/en/100-days-sweepstakes-official-rules",
       "rulesUrl": "https://giveowl.com/e/stihl-incorporated--stihl-100-days-of-stihl-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "likely_rules_page_not_entry",
@@ -1954,7 +1950,7 @@
       "name": "Guitar Center Fender Pre-Black Friday Sweepstakes",
       "entryUrl": "https://www.guitarcenter.com/gear-giveaway.gc",
       "rulesUrl": "https://giveowl.com/e/guitar-center--guitar-center-fender-pre-black-friday-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "no_form_detected_manual_check"
@@ -1968,7 +1964,7 @@
       "name": "MadeOn Holiday Giveaway",
       "entryUrl": "https://store.hardlotion.com/pages/giveaway-rules",
       "rulesUrl": "https://giveowl.com/e/madeon-skin-care-hard-lotion--madeon-holiday-giveaway--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "no_form_detected_manual_check"
@@ -1982,7 +1978,7 @@
       "name": "Scotty McCreery at The Truth in Nashville: tickets + meet & greet",
       "entryUrl": "https://www.tunespeak.com/rules/6a9996891eaf830001e9ca36",
       "rulesUrl": "https://giveowl.com/e/tunespeak--scotty-mccreery-at-the-truth-in-nashville-tickets-meet-greet--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "likely_rules_page_not_entry",
@@ -1998,7 +1994,7 @@
       "name": "Dunkin' At Home EXTRAvaganza Arcade Game",
       "entryUrl": "https://dunkin.promo.eprize.com/fall26/public/fulfillment/rules.pdf",
       "rulesUrl": "https://giveowl.com/e/dunkin-brands-inc--dunkin-at-home-extravaganza-arcade-game--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "no_form_detected_manual_check"
@@ -2012,7 +2008,7 @@
       "name": "Roche Bros. Thanksgiving Catering Giveaway: win up to $200 of Thanksgiving catering",
       "entryUrl": "https://www.rochebros.com/blog/roche-bros-thanksgiving-catering-giveaway-terms/",
       "rulesUrl": "https://giveowl.com/e/roche-bros-supermarkets-inc--roche-bros-thanksgiving-catering-giveaway--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "no_form_detected_manual_check"
@@ -2026,7 +2022,7 @@
       "name": "The North Face Holiday Wish List Sweepstakes",
       "entryUrl": "https://www.thenorthface.com/en-us/xplr-pass/xplr-pass-sweepstakes",
       "rulesUrl": "https://giveowl.com/e/the-north-face-vf-outdoor-llc--the-north-face-holiday-wish-list-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "access_restricted_unconfirmed"
@@ -2038,7 +2034,7 @@
       "name": "Atomic Ranch Modern Christmas Tree Giveaway",
       "entryUrl": "https://www.atomic-ranch.com/modern-christmas-tree-giveaway-official-rules-2026/",
       "rulesUrl": "https://giveowl.com/e/atomic-ranch-eg-media-investments-llc--atomic-ranch-modern-christmas-tree-giveaway--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "likely_rules_page_not_entry",
@@ -2054,7 +2050,7 @@
       "name": "Angel Soft Goal Time Sweepstakes",
       "entryUrl": "https://www.angelsoft.com/win-a-year-supply-sweeps/rules",
       "rulesUrl": "https://giveowl.com/e/georgia-pacific-consumer-products-angel-soft--angel-soft-goal-time-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "expired_by_listed_end_date",
@@ -2071,7 +2067,7 @@
       "name": "Big Ten Football Championship Enter to Win",
       "entryUrl": "https://shop.bigtenstore.com/btfc-enter-to-win-rules",
       "rulesUrl": "https://giveowl.com/e/rally-house-stores-big-ten-store--big-ten-football-championship-enter-to-win--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "reachable_needs_human_confirmation",
       "issues": [],
       "httpStatus": 200,
@@ -2083,7 +2079,7 @@
       "name": "Brawny Home Essentials Sweepstakes",
       "entryUrl": "https://www.brawny.com/win-a-year-supply-sweeps/rules",
       "rulesUrl": "https://giveowl.com/e/georgia-pacific-consumer-products-brawny--brawny-home-essentials-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "likely_rules_page_not_entry",
@@ -2099,7 +2095,7 @@
       "name": "Eckrich Big Ten Championship Game Sweepstakes",
       "entryUrl": "https://eckrich.sfdbrands.com/en-us/promotions/ticket-giveaway/official-rules/",
       "rulesUrl": "https://giveowl.com/e/smithfield-foods-eckrich--eckrich-big-ten-championship-game-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "likely_rules_page_not_entry",
@@ -2112,7 +2108,7 @@
       "name": "Kanso POWDER Giveaway",
       "entryUrl": "https://www.ellisskis.com/pages/kanso-powder-giveaway",
       "rulesUrl": "https://giveowl.com/e/ellis-skis--kanso-powder-giveaway--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "reachable_needs_human_confirmation",
       "issues": [],
       "httpStatus": 200,
@@ -2124,7 +2120,7 @@
       "name": "Minute Suites Winter Escape Giveaway",
       "entryUrl": "https://minutesuites.com/winter-escape-giveaway-official-rules/",
       "rulesUrl": "https://giveowl.com/e/minute-suites--minute-suites-winter-escape-giveaway--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "likely_rules_page_not_entry",
@@ -2140,7 +2136,7 @@
       "name": "Quilted Northern Home Essentials Sweepstakes",
       "entryUrl": "https://www.quiltednorthern.com/win-a-year-supply-sweeps/rules",
       "rulesUrl": "https://giveowl.com/e/georgia-pacific-consumer-products-quilted-northern--quilted-northern-home-essentials-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "likely_rules_page_not_entry",
@@ -2156,23 +2152,20 @@
       "name": "RipSkirt Hawaii Live Like You're On Vacation Sweepstakes",
       "entryUrl": "https://ripskirthawaii.com/pages/the-live-like-youre-on-vacation-sweepstakes-official-rules",
       "rulesUrl": "https://giveowl.com/e/sierra-brands-group-ripskirt-hawaii--ripskirt-hawaii-live-like-you-re-on-vacation-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "likely_rules_page_not_entry",
-        "no_form_detected_manual_check",
-        "redirected_to_rules_page"
+        "http_error"
       ],
-      "httpStatus": 200,
-      "finalUrl": "https://ripskirthawaii.com/pages/the-live-like-youre-on-vacation-sweepstakes-official-rules",
-      "pageTitle": "The Live Like You&#39;re on Vacation Sweepstakes Official Rules &ndash; RipSkirt Hawaii"
+      "httpStatus": 503
     },
     {
       "id": "sourced-aeafb2521600846d",
       "name": "Sparkle Home Essentials Sweepstakes",
       "entryUrl": "https://www.sparkletowels.com/win-a-year-supply-sweeps/rules",
       "rulesUrl": "https://giveowl.com/e/georgia-pacific-consumer-products-sparkle--sparkle-home-essentials-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "likely_rules_page_not_entry",
@@ -2188,7 +2181,7 @@
       "name": "The Nature Photography Contest 2026",
       "entryUrl": "https://thenaturephotocontest.com/",
       "rulesUrl": "https://giveowl.com/e/the-nature-photography-contest--the-nature-photography-contest--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "reachable_needs_human_confirmation",
       "issues": [],
       "httpStatus": 200,
@@ -2200,7 +2193,7 @@
       "name": "Vanity Fair Home Essentials Sweepstakes",
       "entryUrl": "https://www.vanityfairnapkins.com/win-a-year-supply-sweeps/rules",
       "rulesUrl": "https://giveowl.com/e/georgia-pacific-consumer-products-vanity-fair--vanity-fair-home-essentials-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "likely_rules_page_not_entry",
@@ -2216,7 +2209,7 @@
       "name": "Winter Experience Newsletter Giveaway",
       "entryUrl": "https://www.destinationgranby.com/granby-giveaway-contest-rules/",
       "rulesUrl": "https://giveowl.com/e/destination-granby--winter-experience-newsletter-giveaway--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "reachable_needs_human_confirmation",
       "issues": [],
       "httpStatus": 200,
@@ -2228,7 +2221,7 @@
       "name": "AARP Movies for Grownups Sweepstakes & Instant Win",
       "entryUrl": "https://sweeps.aarp.org/moviesweepstakes/public/en/fulfillment/rules.pdf",
       "rulesUrl": "https://giveowl.com/e/aarp--aarp-movies-for-grownups-sweepstakes-instant-win--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "no_form_detected_manual_check"
@@ -2242,7 +2235,7 @@
       "name": "BURST x MAGNA-TILES Giveaway",
       "entryUrl": "https://burstoralcare.com/pages/magna-tiles-x-burstkids-sweepstakes-rules",
       "rulesUrl": "https://giveowl.com/e/burst-oral-care--burst-x-magna-tiles-giveaway--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "likely_rules_page_not_entry",
@@ -2258,7 +2251,7 @@
       "name": "Hy-Vee PERKS Hub Thanksgiving Premade Meal Pack Giveaway",
       "entryUrl": "https://www.hy-vee.com/corporate/news-events/promotions/2026-the-hyvee-perks-hub-thanksgiving-giveaway/",
       "rulesUrl": "https://giveowl.com/e/hy-vee--hy-vee-perks-hub-thanksgiving-premade-meal-pack-giveaway--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "reachable_needs_human_confirmation",
       "issues": [],
       "httpStatus": 200,
@@ -2270,21 +2263,19 @@
       "name": "Molekule Ultimate Longevity Stack Sweepstakes",
       "entryUrl": "https://molekule.com/pages/longevity",
       "rulesUrl": "https://giveowl.com/e/molekule-group-inc--molekule-ultimate-longevity-stack-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
-        "no_form_detected_manual_check"
+        "http_error"
       ],
-      "httpStatus": 200,
-      "finalUrl": "https://molekule.com/pages/longevity",
-      "pageTitle": ""
+      "httpStatus": 503
     },
     {
       "id": "sourced-421e5a03d2d06978",
       "name": "Eckler's $6,000 Mystery Giveaway",
       "entryUrl": "https://www.ecklers.com/ek-sweepstakes.html",
       "rulesUrl": "https://giveowl.com/e/turn-5-inc-eckler-s-americanmuscle-americantrucks-extremeterrain-throtl--eckler-s-6-000-mystery-giveaway--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "reachable_needs_human_confirmation",
       "issues": [],
       "httpStatus": 200,
@@ -2296,7 +2287,7 @@
       "name": "Valvoline at Advance Auto Parts Holiday on Us 2.0 Sweepstakes",
       "entryUrl": "https://promotions.valvolineglobal.com/holidayonus2026officialrules",
       "rulesUrl": "https://giveowl.com/e/valvoline-vgp-holdings-llc--valvoline-at-advance-auto-parts-holiday-on-us-2-0-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "likely_rules_page_not_entry",
@@ -2312,7 +2303,7 @@
       "name": "Golf Discount Holiday Shopping Spree Giveaway",
       "entryUrl": "https://www.golfdiscount.com/pages/giveaway",
       "rulesUrl": "https://giveowl.com/e/golf-discount--golf-discount-holiday-shopping-spree-giveaway--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "reachable_needs_human_confirmation",
       "issues": [],
       "httpStatus": 200,
@@ -2324,7 +2315,7 @@
       "name": "Flyaway to the WLDLFE Long Way Home Tour",
       "entryUrl": "https://www.tunespeak.com/rules/6a74caf0e444df0001effcac",
       "rulesUrl": "https://giveowl.com/e/tunespeak--flyaway-to-the-wldlfe-long-way-home-tour--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "likely_rules_page_not_entry",
@@ -2340,7 +2331,7 @@
       "name": "Shelf Life Survey Giveaway",
       "entryUrl": "https://sites.prh.com/shelf-life-survey-giveaway/rules",
       "rulesUrl": "https://giveowl.com/e/penguin-random-house--shelf-life-survey-giveaway--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "likely_rules_page_not_entry",
@@ -2356,7 +2347,7 @@
       "name": "Turn the Page… Christmas Is Coming! Book Giveaway",
       "entryUrl": "https://famadillo.com/turn-the-page-christmas-is-coming-giveaway/",
       "rulesUrl": "https://giveowl.com/e/famadillo-com--turn-the-page-christmas-is-coming-book-giveaway--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "reachable_needs_human_confirmation",
       "issues": [],
       "httpStatus": 200,
@@ -2368,7 +2359,7 @@
       "name": "Road to Beachcomber Sweepstakes (Zac Brown Band Love & Fear Tour)",
       "entryUrl": "https://www.margaritavilleatsea.com/zbb-giveaway-terms-and-conditions",
       "rulesUrl": "https://giveowl.com/e/margaritaville-at-sea--road-to-beachcomber-sweepstakes-zac-brown-band-love-fear-tour--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "likely_rules_page_not_entry",
@@ -2383,7 +2374,7 @@
       "name": "Ford Tee-to-Trail Sweepstakes",
       "entryUrl": "https://www.lpga.com/ford-tee-to-trail-sweepstakes/rules",
       "rulesUrl": "https://giveowl.com/e/ford-motor-company-lpga--ford-tee-to-trail-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "likely_rules_page_not_entry",
@@ -2399,7 +2390,7 @@
       "name": "KILLSTAR Black Friday Gift Card Giveaway: win a $1,000 gift card",
       "entryUrl": "https://www.killstar.com/pages/competitions",
       "rulesUrl": "https://giveowl.com/e/killstar--killstar-black-friday-gift-card-giveaway--2026-us/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "no_form_detected_manual_check"
@@ -2413,7 +2404,7 @@
       "name": "LEGO Win Your Wish List",
       "entryUrl": "https://www.lego.com/en-us/holiday-gifts/win-your-wishlist",
       "rulesUrl": "https://giveowl.com/e/lego--lego-win-your-wish-list--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "no_form_detected_manual_check"
@@ -2427,7 +2418,7 @@
       "name": "Visit Wichita's Besties Getaway Sweepstakes",
       "entryUrl": "https://www.visitwichita.com/getaway/great-wichita-holiday-getaway-rules/",
       "rulesUrl": "https://giveowl.com/e/visit-wichita--visit-wichita-s-besties-getaway-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "no_form_detected_manual_check"
@@ -2441,7 +2432,7 @@
       "name": "2026 MASTERPIECE European River Cruise Sweepstakes",
       "entryUrl": "https://www.pbs.org/wgbh/masterpiece/sweepstakes-official-rules/",
       "rulesUrl": "https://giveowl.com/e/wgbh-educational-foundation-pbs-masterpiece--2026-masterpiece-european-river-cruise-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "likely_rules_page_not_entry",
@@ -2456,7 +2447,7 @@
       "name": "Just A Pinch Fall Feast Sweepstakes",
       "entryUrl": "https://www.justapinch.com/sweepstakes/sweepstake/fall-feast-sweepstakes-1790779347",
       "rulesUrl": "https://giveowl.com/e/just-a-pinch-american-hometown-media--just-a-pinch-fall-feast-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "reachable_needs_human_confirmation",
       "issues": [],
       "httpStatus": 200,
@@ -2468,23 +2459,20 @@
       "name": "The Forward Bar BFCM Sweepstakes",
       "entryUrl": "https://theforwardbar.com/pages/bfcm-sweepstakes-official-rules",
       "rulesUrl": "https://giveowl.com/e/the-forward-company-inc--the-forward-bar-bfcm-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "likely_rules_page_not_entry",
-        "no_form_detected_manual_check",
-        "redirected_to_rules_page"
+        "http_error"
       ],
-      "httpStatus": 200,
-      "finalUrl": "https://theforwardbar.com/pages/bfcm-sweepstakes-official-rules",
-      "pageTitle": "THE FORWARD BAR BFCM SWEEPSTAKES OFFICIAL RULES &ndash; The Forward Bar"
+      "httpStatus": 503
     },
     {
       "id": "sourced-9c7a1a3bad5e8460",
       "name": "Just A Pinch Thanksgiving Treats Sweepstakes",
       "entryUrl": "https://www.justapinch.com/sweepstakes/sweepstake/thanksgiving-treats-sweepstakes-1790779382",
       "rulesUrl": "https://giveowl.com/e/just-a-pinch-american-hometown-media--just-a-pinch-thanksgiving-treats-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "reachable_needs_human_confirmation",
       "issues": [],
       "httpStatus": 200,
@@ -2496,7 +2484,7 @@
       "name": "Jackson Hole Season Snowfall Sweepstakes",
       "entryUrl": "https://www.jacksonhole.com/winter",
       "rulesUrl": "https://giveowl.com/e/jackson-hole-mountain-resort--jackson-hole-season-snowfall-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "no_form_detected_manual_check"
@@ -2510,7 +2498,7 @@
       "name": "Jaindl Farms Gift Basket Sweepstakes",
       "entryUrl": "https://jaindl.com/gift-basket-sweepstakes-oct-2026/",
       "rulesUrl": "https://giveowl.com/e/jaindl-farms--jaindl-farms-gift-basket-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "reachable_needs_human_confirmation",
       "issues": [],
       "httpStatus": 200,
@@ -2522,7 +2510,7 @@
       "name": "Just A Pinch Holiday Kickoff Sweepstakes",
       "entryUrl": "https://www.justapinch.com/sweepstakes/sweepstake/holiday-kickoff-sweepstakes-1790779422",
       "rulesUrl": "https://giveowl.com/e/just-a-pinch-american-hometown-media--just-a-pinch-holiday-kickoff-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "reachable_needs_human_confirmation",
       "issues": [],
       "httpStatus": 200,
@@ -2534,7 +2522,7 @@
       "name": "Monos Mercedes-Benz G320 Giveaway",
       "entryUrl": "https://monos.com/pages/giveaway-rules",
       "rulesUrl": "https://giveowl.com/e/monos-travel-usa-operations-ltd--monos-mercedes-benz-g320-giveaway--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "no_form_detected_manual_check"
@@ -2548,7 +2536,7 @@
       "name": "ElectroGum Early Black Friday Apple Watch Giveaway",
       "entryUrl": "https://electrogum.com/pages/apple-watch-giveaway",
       "rulesUrl": "https://giveowl.com/e/electrogum-llc--electrogum-early-black-friday-apple-watch-giveaway--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "no_form_detected_manual_check"
@@ -2562,7 +2550,7 @@
       "name": "Just A Pinch Golden Leaves Sweepstakes",
       "entryUrl": "https://www.justapinch.com/sweepstakes/sweepstake/golden-leaves-sweepstakes-1790779464",
       "rulesUrl": "https://giveowl.com/e/just-a-pinch-american-hometown-media--just-a-pinch-golden-leaves-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "reachable_needs_human_confirmation",
       "issues": [],
       "httpStatus": 200,
@@ -2574,7 +2562,7 @@
       "name": "Surron Ultra Bee Giveaway",
       "entryUrl": "https://txcdesigns.com/pages/giveaway-official-rules",
       "rulesUrl": "https://giveowl.com/e/txc-designs-the-galligan-company--surron-ultra-bee-giveaway--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "likely_rules_page_not_entry",
@@ -2590,7 +2578,7 @@
       "name": "Just A Pinch Bountiful Blessings Sweepstakes",
       "entryUrl": "https://www.justapinch.com/sweepstakes/sweepstake/bountiful-blessings-sweepstakes-1790779507",
       "rulesUrl": "https://giveowl.com/e/just-a-pinch-american-hometown-media--just-a-pinch-bountiful-blessings-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "reachable_needs_human_confirmation",
       "issues": [],
       "httpStatus": 200,
@@ -2602,7 +2590,7 @@
       "name": "Schaeffer Season 2026 Instant Win and Sweeps",
       "entryUrl": "https://schaefferseason.com",
       "rulesUrl": "https://giveowl.com/e/schaeffer-manufacturing--schaeffer-season-2026-instant-win-and-sweeps--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "redirected_to_other_host"
@@ -2616,7 +2604,7 @@
       "name": "DYLD DIG 009 1993 Mazda RX-7 Sweepstakes",
       "entryUrl": "https://dyldindustries.com/pages/dig-009-official-rules",
       "rulesUrl": "https://giveowl.com/e/dialed-industries-llc-dyld--dyld-dig-009-1993-mazda-rx-7-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "likely_rules_page_not_entry",
@@ -2631,7 +2619,7 @@
       "name": "Elf Watch November Prize Draw (US)",
       "entryUrl": "https://elf.watch/draw-terms",
       "rulesUrl": "https://giveowl.com/e/dubois-group-ltd-elf-watch--elf-watch-november-prize-draw-us--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "no_form_detected_manual_check"
@@ -2645,7 +2633,7 @@
       "name": "2026 Ford Bronco Wild Fund Sweepstakes",
       "entryUrl": "https://fordeventreg.com/assets/pdfs/en/BWF26_Sweepstakes_Rules.pdf",
       "rulesUrl": "https://giveowl.com/e/ford-motor-company--2026-ford-bronco-wild-fund-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "no_form_detected_manual_check"
@@ -2659,21 +2647,19 @@
       "name": "ACON Black Friday 2026 \"Ultimate Backyard Setup\" Giveaway",
       "entryUrl": "https://us.acon24.com/pages/black-friday",
       "rulesUrl": "https://giveowl.com/e/acon-distributacon-inc--acon-black-friday-2026-ultimate-backyard-setup-giveaway--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
-        "no_form_detected_manual_check"
+        "http_error"
       ],
-      "httpStatus": 200,
-      "finalUrl": "https://us.acon24.com/pages/black-friday",
-      "pageTitle": "ACON Black Friday 2026 Information &amp; Updates &ndash; Distributacon Inc."
+      "httpStatus": 503
     },
     {
       "id": "sourced-0ccdf8fe14341af8",
       "name": "Apollo Scooters Black Friday Weekly Draw (US)",
       "entryUrl": "https://apolloscooters.co/pages/black-friday-early-access-apollo-scooters",
       "rulesUrl": "https://giveowl.com/e/apollo-imports-inc-apollo-scooters--apollo-scooters-black-friday-weekly-draw-us--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "no_form_detected_manual_check"
@@ -2687,7 +2673,7 @@
       "name": "Bravo Insider Vanderpump Vegas Sweepstakes",
       "entryUrl": "https://www.bravotv.com/official-rules-bravo-insider-vanderpump-vegas-sweepstakes",
       "rulesUrl": "https://giveowl.com/e/bravo-nbcuniversal--bravo-insider-vanderpump-vegas-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "likely_rules_page_not_entry",
@@ -2702,7 +2688,7 @@
       "name": "Brightly Storytime 10 Year Anniversary Giveaway",
       "entryUrl": "https://sites.prh.com/brightly-storytime-kids-giveaway/rules",
       "rulesUrl": "https://giveowl.com/e/penguin-random-house--brightly-storytime-10-year-anniversary-giveaway--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "likely_rules_page_not_entry",
@@ -2718,7 +2704,7 @@
       "name": "Dacia Reserve Holiday Giveaway",
       "entryUrl": "https://www.daciareserve.food/en/giveaway-rules",
       "rulesUrl": "https://giveowl.com/e/dacia-reserve-llc--dacia-reserve-holiday-giveaway--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "no_form_detected_manual_check"
@@ -2732,7 +2718,7 @@
       "name": "Dixie Home Essentials Sweepstakes",
       "entryUrl": "https://www.dixie.com/win-a-year-supply-sweeps/rules",
       "rulesUrl": "https://giveowl.com/e/georgia-pacific-consumer-products-dixie--dixie-home-essentials-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "likely_rules_page_not_entry",
@@ -2748,7 +2734,7 @@
       "name": "Freckled Poppy \"Fashion Fuel #9\" Giveaway",
       "entryUrl": "https://freckledpoppy.com/pages/official-rules-fashion-fuel-giveaway",
       "rulesUrl": "https://giveowl.com/e/thelaigles-llc-freckled-poppy--freckled-poppy-fashion-fuel-9-giveaway--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "likely_rules_page_not_entry",
@@ -2763,7 +2749,7 @@
       "name": "Genesis Invitational 2027 Dream Sweepstakes",
       "entryUrl": "https://genesisinvitational.com/2027-sweepstakes-tc/",
       "rulesUrl": "https://giveowl.com/e/the-genesis-invitational-tgr-live--genesis-invitational-2027-dream-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "reachable_needs_human_confirmation",
       "issues": [],
       "httpStatus": 200,
@@ -2775,21 +2761,19 @@
       "name": "Holiday Giveaway: Trucker Essentials Bundle",
       "entryUrl": "https://www.truckerspride.com/pages/giveaway",
       "rulesUrl": "https://giveowl.com/e/trucker-s-pride-syross-inc--holiday-giveaway-trucker-essentials-bundle--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
-        "no_form_detected_manual_check"
+        "http_error"
       ],
-      "httpStatus": 200,
-      "finalUrl": "https://www.truckerspride.com/pages/giveaway",
-      "pageTitle": "Holiday Giveaway &ndash; Trucker&#39;s Pride"
+      "httpStatus": 503
     },
     {
       "id": "sourced-995d21f87e0e8985",
       "name": "Insider One Black Friday Power Combo Giveaway",
       "entryUrl": "https://insiderone.com/black-friday-giveaway-rules-and-terms-and-conditions/",
       "rulesUrl": "https://giveowl.com/e/insider-one--insider-one-black-friday-power-combo-giveaway--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "likely_rules_page_not_entry",
@@ -2805,7 +2789,7 @@
       "name": "Keystone Light Hunt Promotion 2026",
       "entryUrl": "https://www.promorules.com/MK262790",
       "rulesUrl": "https://giveowl.com/e/molson-coors-beverage-company-usa-keystone-light--keystone-light-hunt-promotion--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "access_restricted_unconfirmed"
@@ -2817,7 +2801,7 @@
       "name": "KILZ Rate & Win",
       "entryUrl": "https://www.kilz.com/promotions",
       "rulesUrl": "https://giveowl.com/e/kilz--kilz-rate-win--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "access_restricted_unconfirmed"
@@ -2829,7 +2813,7 @@
       "name": "Korea Now Trip Planner Sweepstakes",
       "entryUrl": "https://www.koreanow.us/official-rules/",
       "rulesUrl": "https://giveowl.com/e/hs-ad-usa--korea-now-trip-planner-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "likely_rules_page_not_entry",
@@ -2844,7 +2828,7 @@
       "name": "Main Street Collective Handmade Holiday Giveaway 2026",
       "entryUrl": "https://www.mainstreetco.us/pages/handmade-holiday-rules-2026",
       "rulesUrl": "https://giveowl.com/e/main-street-collective--main-street-collective-handmade-holiday-giveaway--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "no_form_detected_manual_check"
@@ -2858,7 +2842,7 @@
       "name": "MOON Black Friday Giveaway",
       "entryUrl": "https://moonwhiteshop.store/pages/giveaway",
       "rulesUrl": "https://giveowl.com/e/moonwhite-global-screen-limited--moon-black-friday-giveaway--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "reachable_needs_human_confirmation",
       "issues": [],
       "httpStatus": 200,
@@ -2870,7 +2854,7 @@
       "name": "OBG6 Giveaway",
       "entryUrl": "https://overkillbattalion.com/pages/official-rules",
       "rulesUrl": "https://giveowl.com/e/overkill-battalion-shared-sweeps--obg6-giveaway--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "likely_rules_page_not_entry",
@@ -2885,7 +2869,7 @@
       "name": "Slabtown Card Shop November 2026 Giveaway: Topps Holiday Football Mega Box",
       "entryUrl": "https://slabtowncardshop.com/pages/november-2026-giveaway-rules",
       "rulesUrl": "https://giveowl.com/e/slabtown-card-shop--slabtown-november-2026-giveaway--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "no_form_detected_manual_check"
@@ -2899,7 +2883,7 @@
       "name": "Sony × Dallas Cowboys WH-1000XM6 Headphones Sweepstakes",
       "entryUrl": "https://cloud.email.sel.sony.com/SonyxCowboysHeadphones_OfficialRules",
       "rulesUrl": "https://giveowl.com/e/sony-electronics--sony-dallas-cowboys-wh-1000xm6-headphones-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "likely_rules_page_not_entry",
@@ -2915,7 +2899,7 @@
       "name": "Sony × Denver Broncos WH-1000XM6 Headphones Sweepstakes",
       "entryUrl": "https://cloud.email.sel.sony.com/SonyxBroncosHeadphones_OfficialRules",
       "rulesUrl": "https://giveowl.com/e/sony-electronics--sony-denver-broncos-wh-1000xm6-headphones-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "likely_rules_page_not_entry",
@@ -2931,7 +2915,7 @@
       "name": "Sony × New England Patriots WH-1000XM6 Headphones Sweepstakes",
       "entryUrl": "https://cloud.email.sel.sony.com/SonyxPatriotsHeadphones_OfficialRules",
       "rulesUrl": "https://giveowl.com/e/sony-electronics--sony-new-england-patriots-wh-1000xm6-headphones-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "likely_rules_page_not_entry",
@@ -2947,7 +2931,7 @@
       "name": "Sony × Pittsburgh Steelers WH-1000XM6 Headphones Sweepstakes",
       "entryUrl": "https://cloud.email.sel.sony.com/SonyxSteelersHeadphones_OfficialRules",
       "rulesUrl": "https://giveowl.com/e/sony-electronics--sony-pittsburgh-steelers-wh-1000xm6-headphones-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "likely_rules_page_not_entry",
@@ -2963,7 +2947,7 @@
       "name": "Sony × Seattle Seahawks WH-1000XM6 Headphones Sweepstakes",
       "entryUrl": "https://cloud.email.sel.sony.com/SonyxSeahawksHeadphones_OfficialRules",
       "rulesUrl": "https://giveowl.com/e/sony-electronics--sony-seattle-seahawks-wh-1000xm6-headphones-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "likely_rules_page_not_entry",
@@ -2979,20 +2963,20 @@
       "name": "Stork and Sun Sweepstakes",
       "entryUrl": "https://storkandsun.com/pages/sweepstakes-official-rules",
       "rulesUrl": "https://giveowl.com/e/stork-and-sun-llc--stork-and-sun-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "likely_rules_page_not_entry",
-        "access_restricted_unconfirmed"
+        "http_error"
       ],
-      "httpStatus": 429
+      "httpStatus": 503
     },
     {
       "id": "sourced-f2a7ac0bb597897d",
       "name": "The Pioneer Woman Magazine Holiday 2026 Caption Contest",
       "entryUrl": "https://www.thepioneerwoman.com/just-for-fun/a74221142/captioncontest/",
       "rulesUrl": "https://giveowl.com/e/hearst-magazine-media-the-pioneer-woman-magazine--the-pioneer-woman-magazine-holiday-2026-caption-contest--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "no_form_detected_manual_check"
@@ -3006,7 +2990,7 @@
       "name": "Voodoo Ranger x Halloween Sweepstakes",
       "entryUrl": "https://www.newbelgium.com/siteassets/rules/4369418466_vr_x_halloween.pdf",
       "rulesUrl": "https://giveowl.com/e/new-belgium-brewing-company--voodoo-ranger-x-halloween-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "likely_rules_page_not_entry",
@@ -3022,7 +3006,7 @@
       "name": "Win a U.S. Military Certificate Frame",
       "entryUrl": "https://famadillo.com/military-certificate-frame-giveaway/",
       "rulesUrl": "https://giveowl.com/e/famadillo-com--win-a-u-s-military-certificate-frame--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "reachable_needs_human_confirmation",
       "issues": [],
       "httpStatus": 200,
@@ -3034,7 +3018,7 @@
       "name": "Jackson & Perkins Weekly Holiday Giveaway",
       "entryUrl": "https://www.jacksonandperkins.com/jackson-perkins-weekly-holiday-giveaway-2026/a/jackson-perkins-weekly-holiday-giveaway-2026/",
       "rulesUrl": "https://giveowl.com/e/jackson-perkins-jppa--jackson-perkins-weekly-holiday-giveaway--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "no_form_detected_manual_check"
@@ -3048,7 +3032,7 @@
       "name": "Revelstoke Mountain Resort Winter Getaway Contest (US)",
       "entryUrl": "https://www.revelstokemountainresort.com/contests/winter-getaway-contest/",
       "rulesUrl": "https://giveowl.com/e/revelstoke-mountain-resort--revelstoke-mountain-resort-winter-getaway-contest-us--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "reachable_needs_human_confirmation",
       "issues": [],
       "httpStatus": 200,
@@ -3060,7 +3044,7 @@
       "name": "Royal Collection Trust: Win a Buckingham Palace Christmas Hamper",
       "entryUrl": "https://www.royalcollectionshop.co.uk/competition",
       "rulesUrl": "https://giveowl.com/e/royal-collection-trust--royal-collection-trust-win-a-buckingham-palace-christmas-hamper--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "no_form_detected_manual_check"
@@ -3074,7 +3058,7 @@
       "name": "Dave & Sissy Christmas $30,000 Giveaway 2026",
       "entryUrl": "https://daveandsissydailydeals.com/christmas-30000-giveaway-2026",
       "rulesUrl": "https://giveowl.com/e/dave-and-sissy-media-llc--dave-sissy-christmas-30-000-giveaway--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "reachable_needs_human_confirmation",
       "issues": [],
       "httpStatus": 200,
@@ -3086,19 +3070,21 @@
       "name": "Get Back Necklaces Costa Rica Giveaway",
       "entryUrl": "https://www.getbacknecklaces.com/pages/costa-rica-giveaway",
       "rulesUrl": "https://giveowl.com/e/get-back-necklaces--get-back-necklaces-costa-rica-giveaway--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
-        "access_restricted_unconfirmed"
+        "no_form_detected_manual_check"
       ],
-      "httpStatus": 429
+      "httpStatus": 200,
+      "finalUrl": "https://www.getbacknecklaces.com/pages/costa-rica-giveaway",
+      "pageTitle": "Costa Rica Giveaway &ndash; Get Back Necklaces"
     },
     {
       "id": "sourced-09a68c8fea7a7d63",
       "name": "The Toy Insider 2026 Room Full of Toys Holiday Sweepstakes",
       "entryUrl": "https://thetoyinsider.com/win-a-room-full-of-the-hottest-toys-of-2026/",
       "rulesUrl": "https://giveowl.com/e/the-toy-insider-adventure-media-events--the-toy-insider-2026-room-full-of-toys-holiday-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "reachable_needs_human_confirmation",
       "issues": [],
       "httpStatus": 200,
@@ -3110,7 +3096,7 @@
       "name": "Chevy Packers Fan Experience Sweepstakes",
       "entryUrl": "https://chevypackersexperience.com/",
       "rulesUrl": "https://giveowl.com/e/chevrolet-wisconsin-area-chevy-dealers--chevy-packers-fan-experience-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "reachable_needs_human_confirmation",
       "issues": [],
       "httpStatus": 200,
@@ -3122,7 +3108,7 @@
       "name": "Mother Earth News Brinsea Maxi 24 Incubator Giveaway",
       "entryUrl": "https://www.motherearthnews.com/sweepstakes/brinsea-maxi/rules/",
       "rulesUrl": "https://giveowl.com/e/mother-earth-news-ogden-publications--mother-earth-news-brinsea-maxi-24-incubator-giveaway--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "likely_rules_page_not_entry",
@@ -3137,32 +3123,35 @@
       "name": "Haven's First Chapter Sweepstakes",
       "entryUrl": "https://bakerpublishinggroup.com/pages/havens-first-chapter-sweepstakes-official-rules",
       "rulesUrl": "https://giveowl.com/e/baker-publishing-group--haven-s-first-chapter-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "likely_rules_page_not_entry",
-        "access_restricted_unconfirmed"
+        "no_form_detected_manual_check",
+        "redirected_to_rules_page"
       ],
-      "httpStatus": 429
+      "httpStatus": 200,
+      "finalUrl": "https://bakerpublishinggroup.com/pages/havens-first-chapter-sweepstakes-official-rules",
+      "pageTitle": "Haven&#39;s First Chapter Sweepstakes Official Rules &ndash; Baker Publishing Group"
     },
     {
       "id": "sourced-ea536ba00431ceb2",
       "name": "Peet's Home for the Holidays Giveaway",
       "entryUrl": "https://www.peets.com/pages/holiday-giveaway",
       "rulesUrl": "https://giveowl.com/e/peet-s-coffee--peet-s-home-for-the-holidays-giveaway--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
-      "status": "needs_review",
-      "issues": [
-        "access_restricted_unconfirmed"
-      ],
-      "httpStatus": 429
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
+      "status": "reachable_needs_human_confirmation",
+      "issues": [],
+      "httpStatus": 200,
+      "finalUrl": "https://www.peets.com/pages/holiday-giveaway",
+      "pageTitle": "holiday giveaway &ndash; Peet&#39;s Coffee"
     },
     {
       "id": "sourced-1207397ff76124ae",
       "name": "Be Great Golf «Great Eight» Sweepstakes",
       "entryUrl": "https://begreatgolf.com/giveaway/",
       "rulesUrl": "https://giveowl.com/e/be-great-golf--be-great-golf-great-eight-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "access_restricted_unconfirmed"
@@ -3174,7 +3163,7 @@
       "name": "Hot Wheels 2026 Ram Trucks Sweepstakes",
       "entryUrl": "https://ram.hotwheelssweepstakes.com/rules.aspx",
       "rulesUrl": "https://giveowl.com/e/mattel-hot-wheels--hot-wheels-2026-ram-trucks-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "no_form_detected_manual_check"
@@ -3188,7 +3177,7 @@
       "name": "Clorox Catch Holiday 2026 Instant Win",
       "entryUrl": "https://www.clorox.com/lp/clorox-play/",
       "rulesUrl": "https://giveowl.com/e/the-clorox-company--clorox-catch-holiday-2026-instant-win--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "no_form_detected_manual_check"
@@ -3202,7 +3191,7 @@
       "name": "M&M's 2026 Heroic Sweepstakes",
       "entryUrl": "https://www.mms.com/en-us/marvel-rules",
       "rulesUrl": "https://giveowl.com/e/mars-wrigley-confectionery-us-m-m-s--m-m-s-2026-heroic-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "no_form_detected_manual_check",
@@ -3217,7 +3206,7 @@
       "name": "Marriott Bonvoy Super Bowl Sleepover Suite Sweepstakes",
       "entryUrl": "https://www.joinmarriottbonvoy.com/superbowlsleepoversuite",
       "rulesUrl": "https://giveowl.com/e/marriott-international--marriott-bonvoy-super-bowl-sleepover-suite-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "reachable_needs_human_confirmation",
       "issues": [],
       "httpStatus": 200,
@@ -3229,7 +3218,7 @@
       "name": "MontereyRentals.com 40th Anniversary Sweepstakes",
       "entryUrl": "https://www.montereyrentals.com/sweepstakes/entry",
       "rulesUrl": "https://giveowl.com/e/montereyrentals-com--montereyrentals-com-40th-anniversary-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "reachable_needs_human_confirmation",
       "issues": [],
       "httpStatus": 200,
@@ -3241,7 +3230,7 @@
       "name": "Rabbit Hole Hosting Kit Sweepstakes",
       "entryUrl": "https://motivemktg.com/rabbit-hole-hostingkit-rules/",
       "rulesUrl": "https://giveowl.com/e/rabbit-hole-pernod-ricard-usa--rabbit-hole-hosting-kit-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "reachable_needs_human_confirmation",
       "issues": [],
       "httpStatus": 200,
@@ -3253,32 +3242,36 @@
       "name": "Sunstone “Build Your World” Giveaway",
       "entryUrl": "https://permanentjewelry.sunstonewelders.com/pages/build-your-world-2026",
       "rulesUrl": "https://giveowl.com/e/sunstone-welders--sunstone-build-your-world-giveaway--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
-        "access_restricted_unconfirmed"
+        "no_form_detected_manual_check"
       ],
-      "httpStatus": 429
+      "httpStatus": 200,
+      "finalUrl": "https://permanentjewelry.sunstonewelders.com/pages/build-your-world-2026",
+      "pageTitle": "Build Your World Sweepstakes — Sunstone Permanent Jewelry"
     },
     {
       "id": "sourced-8388bc6b337b438c",
       "name": "Walt's Pickleball Supply 2026 Holiday JOOLA Paddle Giveaway",
       "entryUrl": "https://waltspickleballsupply.com/pages/2026-holiday-joola-paddle-giveaway-official-rules",
       "rulesUrl": "https://giveowl.com/e/walt-s-pickleball-supply--walt-s-pickleball-supply-2026-holiday-joola-paddle-giveaway--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "likely_rules_page_not_entry",
-        "access_restricted_unconfirmed"
+        "redirected_to_rules_page"
       ],
-      "httpStatus": 429
+      "httpStatus": 200,
+      "finalUrl": "https://waltspickleballsupply.com/pages/2026-holiday-joola-paddle-giveaway-official-rules",
+      "pageTitle": "2026 Holiday JOOLA Paddle Giveaway Official Rules2026 Holiday JOOLA Paddle Giveaway Official Rules &ndash; Walt&#39;s Pickleball Supply"
     },
     {
       "id": "sourced-b0c183a13747c87f",
       "name": "Maybe It's a Maybelline Sweepstakes",
       "entryUrl": "https://www.maybelline.com/terms-of-use/maybe-a-maybelline-giveaway",
       "rulesUrl": "https://giveowl.com/e/maybelline-new-york--maybe-it-s-a-maybelline-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "no_form_detected_manual_check"
@@ -3292,7 +3285,7 @@
       "name": "Ford Mustang 5.0 Fever Sweepstakes",
       "entryUrl": "https://www.mustang50fever.com/",
       "rulesUrl": "https://giveowl.com/e/ford-performance--ford-mustang-5-0-fever-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "reachable_needs_human_confirmation",
       "issues": [],
       "httpStatus": 200,
@@ -3304,7 +3297,7 @@
       "name": "Inter Miami CF Perks: Win 100,000 AAdvantage Miles",
       "entryUrl": "https://www.intermiamicfperks.com/",
       "rulesUrl": "https://giveowl.com/e/american-airlines--inter-miami-cf-perks-win-100-000-aadvantage-miles--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "no_form_detected_manual_check",
@@ -3319,20 +3312,23 @@
       "name": "Christmas Eve Feder Giveaway",
       "entryUrl": "https://trwarmory.com/pages/christmas-eve-feder-giveaway-official-rules",
       "rulesUrl": "https://giveowl.com/e/trw-armory--christmas-eve-feder-giveaway--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "likely_rules_page_not_entry",
-        "access_restricted_unconfirmed"
+        "no_form_detected_manual_check",
+        "redirected_to_rules_page"
       ],
-      "httpStatus": 429
+      "httpStatus": 200,
+      "finalUrl": "https://trwarmory.com/pages/christmas-eve-feder-giveaway-official-rules",
+      "pageTitle": "TRW Armory Christmas Eve Feder Giveaway — Official Rules"
     },
     {
       "id": "sourced-7b082c93eb9c2e1d",
       "name": "Collegiate Power Movers Home for the Holidays Giveaway",
       "entryUrl": "https://www.collegiatepowermovers.com/giveaway",
       "rulesUrl": "https://giveowl.com/e/collegiate-power-movers--collegiate-power-movers-home-for-the-holidays-giveaway--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "no_form_detected_manual_check"
@@ -3346,7 +3342,7 @@
       "name": "Principe E92 335i Giveaway",
       "entryUrl": "https://principeapparel.com/rules",
       "rulesUrl": "https://giveowl.com/e/principe-performance-and-parts--principe-e92-335i-giveaway--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "likely_rules_page_not_entry",
@@ -3362,19 +3358,19 @@
       "name": "Silver Giveaway",
       "entryUrl": "https://www.bourne2treasure.com/pages/giveaway-rules",
       "rulesUrl": "https://giveowl.com/e/bourne2treasure--silver-giveaway--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
-      "status": "needs_review",
-      "issues": [
-        "access_restricted_unconfirmed"
-      ],
-      "httpStatus": 429
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
+      "status": "reachable_needs_human_confirmation",
+      "issues": [],
+      "httpStatus": 200,
+      "finalUrl": "https://www.bourne2treasure.com/pages/giveaway-rules",
+      "pageTitle": "Silver Giveaway Official Rules &ndash; Bourne2Treasure"
     },
     {
       "id": "sourced-b94d9fd29cc970d2",
       "name": "Hallmark Channel's Very Merry Giveaway Sweepstakes",
       "entryUrl": "https://verymerrygiveaway.hallmarkchannel.com/rules",
       "rulesUrl": "https://giveowl.com/e/hallmark-media-united-states-llc--hallmark-channel-s-very-merry-giveaway-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "likely_rules_page_not_entry",
@@ -3390,7 +3386,7 @@
       "name": "Lay's Happy Holi-Lays Instant Win Game",
       "entryUrl": "https://www.happyholi-lays.com/rules",
       "rulesUrl": "https://giveowl.com/e/frito-lay-inc--lay-s-happy-holi-lays-instant-win-game--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "likely_rules_page_not_entry",
@@ -3406,7 +3402,7 @@
       "name": "2026 Henry Holiday Countdown Sweepstakes",
       "entryUrl": "https://visithenrycountygeorgia.com/the-henry-holiday-countdown-sweepstakes-rules/",
       "rulesUrl": "https://giveowl.com/e/henry-county-convention-and-visitors-bureau-visit-henry-county-ga--2026-henry-holiday-countdown-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "likely_rules_page_not_entry",
@@ -3421,7 +3417,7 @@
       "name": "Hallmark Channel Countdown to Christmas Movie Game",
       "entryUrl": "https://christmasmoviegame.hallmarkchannel.com/rules",
       "rulesUrl": "https://giveowl.com/e/hallmark-media--hallmark-channel-countdown-to-christmas-movie-game--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "likely_rules_page_not_entry",
@@ -3437,19 +3433,21 @@
       "name": "$500 Monthly Noble Outfitters Gear Giveaway",
       "entryUrl": "https://www.nobleoutfitters.com/pages/giveaway-rules",
       "rulesUrl": "https://giveowl.com/e/noble-outfitters--500-monthly-noble-outfitters-gear-giveaway--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
-        "access_restricted_unconfirmed"
+        "no_form_detected_manual_check"
       ],
-      "httpStatus": 429
+      "httpStatus": 200,
+      "finalUrl": "https://www.nobleoutfitters.com/pages/giveaway-rules",
+      "pageTitle": "Giveaway Rules &ndash; Noble Outfitters"
     },
     {
       "id": "sourced-11f8783bd8d8362e",
       "name": "2026 FCA US LLC Sweepstakes",
       "entryUrl": "https://sweeps.stellantisexperiences.com/",
       "rulesUrl": "https://giveowl.com/e/fca-us-llc-stellantis--2026-fca-us-llc-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "no_form_detected_manual_check",
@@ -3464,7 +3462,7 @@
       "name": "2026 Snackworks Monthly Promotion",
       "entryUrl": "https://snackworks.th12ty.com/rules.pdf",
       "rulesUrl": "https://giveowl.com/e/mondelez-global-llc--2026-snackworks-monthly-promotion--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "no_form_detected_manual_check"
@@ -3478,7 +3476,7 @@
       "name": "Abe's Undergraduate Scholarship Sweepstakes",
       "entryUrl": "https://www.abestudentloans.com/resources/scholarships/undergraduate-college-scholarship-sweepstakes/official-rules/",
       "rulesUrl": "https://giveowl.com/e/monogram-llc-abe-student-loans--abe-s-undergraduate-scholarship-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "likely_rules_page_not_entry",
@@ -3494,7 +3492,7 @@
       "name": "Always Discreet Protect the Moment Sweepstakes",
       "entryUrl": "https://www.alwaysdiscreetsweepstakes.com/",
       "rulesUrl": "https://giveowl.com/e/procter-gamble-always-discreet--always-discreet-protect-the-moment-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "reachable_needs_human_confirmation",
       "issues": [],
       "httpStatus": 200,
@@ -3506,7 +3504,7 @@
       "name": "AriZona Legends Tour Sweeps",
       "entryUrl": "https://drinkarizona.com/pages/hot-wheels-x-arizona-sweeps-terms",
       "rulesUrl": "https://giveowl.com/e/arizona-beverages-usa-llc--arizona-legends-tour-sweeps--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "access_restricted_unconfirmed"
@@ -3518,7 +3516,7 @@
       "name": "BEHR Rate & Win Sweepstakes 2026",
       "entryUrl": "https://www.behr.com/binaries/content/assets/behrbrxm/web/pdfs/2026-rate-and-win-rules-and-regs.pdf",
       "rulesUrl": "https://giveowl.com/e/behr-paint-company--behr-rate-win-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "no_form_detected_manual_check"
@@ -3532,7 +3530,7 @@
       "name": "BUBBA Burger 2026 Monthly Sweepstakes",
       "entryUrl": "https://bubbafoods.com/bubba-burger-2026-monthly-sweepstakes-official-rules/",
       "rulesUrl": "https://giveowl.com/e/bubba-foods-llc--bubba-burger-2026-monthly-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "likely_rules_page_not_entry",
@@ -3547,7 +3545,7 @@
       "name": "Callaway Quarterly Gift Card Sweeps",
       "entryUrl": "https://www.callawaygolf.com/gift-card-sweeps",
       "rulesUrl": "https://giveowl.com/e/callaway-golf--callaway-quarterly-gift-card-sweeps--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "access_restricted_unconfirmed"
@@ -3559,7 +3557,7 @@
       "name": "Continental Tire 2026 CRM Sweepstakes",
       "entryUrl": "https://continentaltire.com/monthly-sweepstakes-rules",
       "rulesUrl": "https://giveowl.com/e/continental-tire--continental-tire-2026-crm-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "likely_rules_page_not_entry",
@@ -3575,7 +3573,7 @@
       "name": "Enfamil Family Beginnings Formula for a Year Sweepstakes",
       "entryUrl": "https://www.enfamil.com/free-formula-sweepstakes/",
       "rulesUrl": "https://giveowl.com/e/mead-johnson-enfamil--enfamil-family-beginnings-formula-for-a-year-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "reachable_needs_human_confirmation",
       "issues": [],
       "httpStatus": 200,
@@ -3587,7 +3585,7 @@
       "name": "Every Table. Any Night. Hosting Kit Sweepstakes",
       "entryUrl": "https://wentevineyards.com/every-table-every-night-giveaway-rules-and-regulations/",
       "rulesUrl": "https://giveowl.com/e/wente-family-vineyards--every-table-any-night-hosting-kit-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "no_form_detected_manual_check"
@@ -3601,7 +3599,7 @@
       "name": "Fandango's SMS Sweepstakes",
       "entryUrl": "https://www.fandangomovietickets.com/smssweepstakes/",
       "rulesUrl": "https://giveowl.com/e/fandango-media-llc--fandango-s-sms-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "no_form_detected_manual_check"
@@ -3615,7 +3613,7 @@
       "name": "ForeverWick Candle 2026 Diamond Giveaway",
       "entryUrl": "https://foreverwickcandle.com/pages/sw-2026",
       "rulesUrl": "https://giveowl.com/e/foreverwick-candle--foreverwick-candle-2026-diamond-giveaway--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "access_restricted_unconfirmed"
@@ -3627,7 +3625,7 @@
       "name": "General Mills Cereal’s #1 Biggest Fan Contest",
       "entryUrl": "https://www.biggestfancontest.com/officialrules",
       "rulesUrl": "https://giveowl.com/e/general-mills--general-mills-cereal-s-1-biggest-fan-contest--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "likely_rules_page_not_entry",
@@ -3643,7 +3641,7 @@
       "name": "Hill's Pet of the Month Sweepstakes",
       "entryUrl": "https://petofthemonth.hillspet.com/",
       "rulesUrl": "https://giveowl.com/e/hill-s-pet-nutrition--hill-s-pet-of-the-month-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "http_error"
@@ -3655,7 +3653,7 @@
       "name": "Kellanova Snack & Score Sweepstakes",
       "entryUrl": "https://www.snackandscoresweeps.kellanovaawayfromhome.com/en-us/home.html",
       "rulesUrl": "https://giveowl.com/e/kellanova--kellanova-snack-score-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "http_error"
@@ -3667,7 +3665,7 @@
       "name": "Kellogg's Cocoa Loops Wonka Golden Ticket Sweepstakes",
       "entryUrl": "https://www.wkkelloggwonka.com/",
       "rulesUrl": "https://giveowl.com/e/wk-kellogg-co--kellogg-s-cocoa-loops-wonka-golden-ticket-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "no_form_detected_manual_check",
@@ -3682,7 +3680,7 @@
       "name": "Kraft Singles \"The Single Greatest Cheeseburger Call\" Sweepstakes",
       "entryUrl": "https://www.kraftheinz.com/kraft-singles/thesinglegreatestcall/rules",
       "rulesUrl": "https://giveowl.com/e/kraft-heinz-foods-company-kraft-singles--kraft-singles-the-single-greatest-cheeseburger-call-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "likely_rules_page_not_entry",
@@ -3697,7 +3695,7 @@
       "name": "Marketsz Major Sweepstake: win an iPhone 18 Pro",
       "entryUrl": "https://www.marketsz.com/giveaway/rules",
       "rulesUrl": "https://giveowl.com/e/marketsz-inc--marketsz-major-sweepstake--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "likely_rules_page_not_entry",
@@ -3713,7 +3711,7 @@
       "name": "Minties Intervention Sweepstakes",
       "entryUrl": "https://www.minterventions.com/rules",
       "rulesUrl": "https://giveowl.com/e/pet-iq-llc-minties--minties-intervention-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "likely_rules_page_not_entry",
@@ -3729,7 +3727,7 @@
       "name": "Modelo Soccer 2026 Sweepstakes",
       "entryUrl": "https://www.modelousa.com/pages/soccer-2026",
       "rulesUrl": "https://giveowl.com/e/modelo-crown-imports--modelo-soccer-2026-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "access_restricted_unconfirmed"
@@ -3741,7 +3739,7 @@
       "name": "Mor Furniture Email Subscribers Monthly Giveaway",
       "entryUrl": "https://www.morfurniture.com/pages/giveaway",
       "rulesUrl": "https://giveowl.com/e/mor-furniture-for-less-inc--mor-furniture-email-subscribers-monthly-giveaway--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "access_restricted_unconfirmed"
@@ -3753,7 +3751,7 @@
       "name": "Movie Inner Circle 2026 Sweepstakes",
       "entryUrl": "https://www.fandangomovietickets.com/movieinnercircle/",
       "rulesUrl": "https://giveowl.com/e/fandango--movie-inner-circle-2026-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "no_form_detected_manual_check"
@@ -3767,7 +3765,7 @@
       "name": "Natural Light Great Beer, Great Price, Great Prizes Sweepstakes",
       "entryUrl": "https://www.naturallight.com/great-prizes-rules",
       "rulesUrl": "https://giveowl.com/e/anheuser-busch-llc-natural-light--natural-light-great-beer-great-price-great-prizes-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "reachable_needs_human_confirmation",
       "issues": [],
       "httpStatus": 200,
@@ -3779,7 +3777,7 @@
       "name": "Orville Redenbacher's x Hallmark Channel Snack Watch and Win Sweepstakes",
       "entryUrl": "https://snackwatchandwin.com/Info/OfficialRules/",
       "rulesUrl": "https://giveowl.com/e/conagra-brands-hallmark-media--orville-redenbacher-s-x-hallmark-channel-snack-watch-and-win-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "likely_rules_page_not_entry",
@@ -3795,7 +3793,7 @@
       "name": "Pop Secret Assemble in NYC Sweepstakes",
       "entryUrl": "https://airbaton.net/l/popsecret-assemble-in-nyc",
       "rulesUrl": "https://giveowl.com/e/pop-secret-our-home--pop-secret-assemble-in-nyc-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "access_restricted_unconfirmed"
@@ -3807,7 +3805,7 @@
       "name": "Sallie $2,000 No-Essay Scholarship Sweepstakes",
       "entryUrl": "https://www.sallie.com/scholarships/no-essay",
       "rulesUrl": "https://giveowl.com/e/slm-education-services-llc-sallie--sallie-2-000-no-essay-scholarship-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "reachable_needs_human_confirmation",
       "issues": [],
       "httpStatus": 200,
@@ -3819,7 +3817,7 @@
       "name": "Santa Margherita Uncork Extraordinary Moments Holiday Sweepstakes 2026",
       "entryUrl": "https://www.santamargheritawines.com/holidaygiveawayrules",
       "rulesUrl": "https://giveowl.com/e/herita-usa-santa-margherita--santa-margherita-uncork-extraordinary-moments-holiday-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "no_form_detected_manual_check"
@@ -3833,7 +3831,7 @@
       "name": "Shopper’s Voice “Speak Up to Win” 2026",
       "entryUrl": "https://www.shoppersvoice.com/2026-shoppers-voice-official-sweepstakes-rules/",
       "rulesUrl": "https://giveowl.com/e/shopper-s-voice--shopper-s-voice-speak-up-to-win--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "likely_rules_page_not_entry",
@@ -3849,7 +3847,7 @@
       "name": "Skyfari Now Boarding Sweepstakes presented by Alaska Airlines",
       "entryUrl": "https://zoo.sandiegozoo.org/alaska-airlines-skyfari-now-boarding-sweepstakes-terms",
       "rulesUrl": "https://giveowl.com/e/san-diego-zoo-wildlife-alliance--skyfari-now-boarding-sweepstakes-presented-by-alaska-airlines--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "reachable_needs_human_confirmation",
       "issues": [],
       "httpStatus": 200,
@@ -3861,7 +3859,7 @@
       "name": "Teoxane RHA Collection Ultimate RHA Getaway Sweepstakes",
       "entryUrl": "https://www.rhacollection.com/ultimate-getaway-sweepstakes",
       "rulesUrl": "https://giveowl.com/e/revance-therapeutics-inc-rha-collection--teoxane-rha-collection-ultimate-rha-getaway-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "access_restricted_unconfirmed"
@@ -3873,7 +3871,7 @@
       "name": "Texas State Travel Guide 2026 Reader Survey Sweepstakes",
       "entryUrl": "https://texashighways.com/travel-guide-sweepstakes-rules/",
       "rulesUrl": "https://giveowl.com/e/texas-highways-ajr-media-group--texas-state-travel-guide-2026-reader-survey-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "likely_rules_page_not_entry",
@@ -3886,7 +3884,7 @@
       "name": "The Spice Project Holiday Gift Box Giveaway",
       "entryUrl": "https://famadillo.com/spice-project-holiday-gift-boxes-giveaway/",
       "rulesUrl": "https://giveowl.com/e/famadillo-com--the-spice-project-holiday-gift-box-giveaway--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "reachable_needs_human_confirmation",
       "issues": [],
       "httpStatus": 200,
@@ -3898,7 +3896,7 @@
       "name": "Trip to Hawaii Sweepstakes 2026",
       "entryUrl": "https://www.hawaiianbros.com/rewards/sweepstakes-official-rules",
       "rulesUrl": "https://giveowl.com/e/hawaiian-bros--trip-to-hawaii-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "likely_rules_page_not_entry",
@@ -3914,7 +3912,7 @@
       "name": "U.S. Bank Ultimate Super Bowl LXI Sweepstakes",
       "entryUrl": "https://usbank.readysweeps.com/",
       "rulesUrl": "https://giveowl.com/e/u-s-bank--u-s-bank-ultimate-super-bowl-lxi-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "reachable_needs_human_confirmation",
       "issues": [],
       "httpStatus": 200,
@@ -3926,7 +3924,7 @@
       "name": "Win a Sleep Zone CottonNest Duvet Cover Set",
       "entryUrl": "https://famadillo.com/sleep-zone-cottonnest-midnight-floral-duvet-cover-giveaway/",
       "rulesUrl": "https://giveowl.com/e/famadillo-com--win-a-sleep-zone-cottonnest-duvet-cover-set--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "reachable_needs_human_confirmation",
       "issues": [],
       "httpStatus": 200,
@@ -3938,7 +3936,7 @@
       "name": "Win a Zomee Mother's Nature H1 Breast Pump",
       "entryUrl": "https://famadillo.com/zomee-mothers-nature-h1-breast-pump-giveaway/",
       "rulesUrl": "https://giveowl.com/e/famadillo-com--win-a-zomee-mother-s-nature-h1-breast-pump--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "reachable_needs_human_confirmation",
       "issues": [],
       "httpStatus": 200,
@@ -3950,7 +3948,7 @@
       "name": "Eddie Bauer Adventure Club \"Red Rock and Roam\" Giveaway",
       "entryUrl": "https://getaways.eddiebaueradventureclub.com/redrockandroam",
       "rulesUrl": "https://giveowl.com/e/eddie-bauer-adventure-club--eddie-bauer-adventure-club-red-rock-and-roam-giveaway--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "reachable_needs_human_confirmation",
       "issues": [],
       "httpStatus": 200,
@@ -3962,7 +3960,7 @@
       "name": "Jersey Mike's NFL Predictor Game Contest",
       "entryUrl": "https://www.jerseymikes.com/news/jersey-mikes-nfl-predictor-game-contest-official-rules-2026",
       "rulesUrl": "https://giveowl.com/e/jersey-mike-s-franchise-systems-llc--jersey-mike-s-nfl-predictor-game-contest--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "likely_rules_page_not_entry",
@@ -3978,7 +3976,7 @@
       "name": "Royal Caribbean Cruise Giveaway",
       "entryUrl": "https://www.dreamvacations.com/vacation/rules",
       "rulesUrl": "https://giveowl.com/e/world-travel-holdings-dream-vacations-cruiseone--royal-caribbean-cruise-giveaway--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "likely_rules_page_not_entry",
@@ -3993,7 +3991,7 @@
       "name": "Margaritaville Vacation Club \"Vacation a Day\" Giveaway",
       "entryUrl": "https://finsup.margaritavillevacationclub.com/sweepstakes-2026",
       "rulesUrl": "https://giveowl.com/e/margaritaville-vacation-club--margaritaville-vacation-club-vacation-a-day-giveaway--2027/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "reachable_needs_human_confirmation",
       "issues": [],
       "httpStatus": 200,
@@ -4005,7 +4003,7 @@
       "name": "Taste of Home Reader Survey 2026 Sweepstakes",
       "entryUrl": "https://www.tasteofhome.com/taste-of-home-reader-survey-2026-sweepstakes-654-official-rules/",
       "rulesUrl": "https://giveowl.com/e/taste-of-home-rda-enthusiast-brands--taste-of-home-reader-survey-2026-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "likely_rules_page_not_entry",
@@ -4020,7 +4018,7 @@
       "name": "Hilton Grand Vacations Jackpot Sweepstakes",
       "entryUrl": "https://www.hiltongrandvacations.com/lp/sweepstakes",
       "rulesUrl": "https://giveowl.com/e/hilton-grand-vacations--hilton-grand-vacations-jackpot-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "no_form_detected_manual_check"
@@ -4034,7 +4032,7 @@
       "name": "KING'S HAWAIIAN Best Slider In Football Sweepstakes",
       "entryUrl": "https://www.bestsliderinfootball.com/#/rules",
       "rulesUrl": "https://giveowl.com/e/king-s-hawaiian-bakery-west-inc--king-s-hawaiian-best-slider-in-football-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "no_form_detected_manual_check",
@@ -4049,7 +4047,7 @@
       "name": "Toyota Gameday Giveaways Sweepstakes",
       "entryUrl": "https://toyotasgamedaygiveaways.com/rules.pdf",
       "rulesUrl": "https://giveowl.com/e/toyota-motor-sales-usa--toyota-gameday-giveaways-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "no_form_detected_manual_check"
@@ -4063,7 +4061,7 @@
       "name": "ANA \"Hokkaido\" Sweepstakes",
       "entryUrl": "https://www.ana.co.jp/en/us/plan-book/promotions/hokkaido-2026/",
       "rulesUrl": "https://giveowl.com/e/all-nippon-airways-ana--ana-hokkaido-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "network_check_failed"
@@ -4075,7 +4073,7 @@
       "name": "Hint Treat Yourself Sweepstakes",
       "entryUrl": "https://www.hinttreatyourselfsweeps.com/rules",
       "rulesUrl": "https://giveowl.com/e/hint-inc--hint-treat-yourself-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "likely_rules_page_not_entry",
@@ -4088,7 +4086,7 @@
       "name": "Coca-Cola 2026–2027 Product Sweepstakes",
       "entryUrl": "https://www.coca-cola.com/us/en/offerings/portfolio/evergreen-promotion",
       "rulesUrl": "https://giveowl.com/e/the-coca-cola-company--coca-cola-2026-2027-product-sweepstakes--2027/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "no_form_detected_manual_check"
@@ -4102,7 +4100,7 @@
       "name": "Great Day Improvements $100K Home Makeover Sweepstakes",
       "entryUrl": "https://www.greatdayimprovements.com/home-makeover/",
       "rulesUrl": "https://giveowl.com/e/great-day-improvements--great-day-improvements-100k-home-makeover-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "no_form_detected_manual_check"
@@ -4116,7 +4114,7 @@
       "name": "Sudocrem and Win 2026 Instant Win Game",
       "entryUrl": "https://www.sudocremwin.com/",
       "rulesUrl": "https://giveowl.com/e/leda-innovations-usa-inc-sudocrem--sudocrem-and-win-2026-instant-win-game--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "reachable_needs_human_confirmation",
       "issues": [],
       "httpStatus": 200,
@@ -4128,7 +4126,7 @@
       "name": "Tourism Whistler Go Bigger in Whistler Contest (US)",
       "entryUrl": "https://www.whistler.com/winter-contest/",
       "rulesUrl": "https://giveowl.com/e/tourism-whistler--tourism-whistler-go-bigger-in-whistler-contest-us--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "access_restricted_unconfirmed"
@@ -4140,7 +4138,7 @@
       "name": "Ethan Allen $1,500 Gift Card Sweepstakes",
       "entryUrl": "https://www.ethanallen.com/en_US/email-sweepstakes-terms.html",
       "rulesUrl": "https://giveowl.com/e/ethan-allen-global-inc--ethan-allen-1-500-gift-card-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "reachable_needs_human_confirmation",
       "issues": [],
       "httpStatus": 200,
@@ -4152,7 +4150,7 @@
       "name": "L.O.L. Surprise! Music Festival Sweepstakes",
       "entryUrl": "https://lolsurprisemusicfestival.turnkeysweeps.com/",
       "rulesUrl": "https://giveowl.com/e/mga-entertainment--l-o-l-surprise-music-festival-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "access_restricted_unconfirmed"
@@ -4164,7 +4162,7 @@
       "name": "G FUEL Nintendo Switch 2 Sweepstakes",
       "entryUrl": "https://gfuel.com/pages/nintendo-switch-2-sweepstakes-entry-rules",
       "rulesUrl": "https://giveowl.com/e/g-fuel--g-fuel-nintendo-switch-2-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "access_restricted_unconfirmed"
@@ -4176,7 +4174,7 @@
       "name": "Microsoft Rewards Monthly Sweepstakes 2026–27",
       "entryUrl": "https://promos.microsoftrewards.com/US/en/ME/4/rules",
       "rulesUrl": "https://giveowl.com/e/microsoft-corporation--microsoft-rewards-monthly-sweepstakes-2026-27--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "likely_rules_page_not_entry",
@@ -4192,7 +4190,7 @@
       "name": "Pine-Sol Clean Sweep Instant Win",
       "entryUrl": "https://www.pinesol.com/play/",
       "rulesUrl": "https://giveowl.com/e/the-clorox-company-pine-sol--pine-sol-clean-sweep-instant-win--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "reachable_needs_human_confirmation",
       "issues": [],
       "httpStatus": 200,
@@ -4204,7 +4202,7 @@
       "name": "Hobby Farms 12 Days of Giveaways",
       "entryUrl": "https://www.hobbyfarms.com/12-days-of-giveaways/",
       "rulesUrl": "https://giveowl.com/e/hobby-farms-eg-media-investments-llc--hobby-farms-12-days-of-giveaways--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "reachable_needs_human_confirmation",
       "issues": [],
       "httpStatus": 200,
@@ -4216,7 +4214,7 @@
       "name": "SpartanNash 2026 Season of Giving Sweepstakes: win groceries for a year",
       "entryUrl": "https://www.remkes.com/wp-content/uploads/2026/10/2026-Season-of-Giving-Offical-Rules.pdf",
       "rulesUrl": "https://giveowl.com/e/spartannash--spartannash-2026-season-of-giving-sweepstakes-win-groceries-for-a-year--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "no_form_detected_manual_check"
@@ -4230,7 +4228,7 @@
       "name": "Taste of Home “Potluck with a Spin” Recipe Contest",
       "entryUrl": "https://www.tasteofhome.com/taste-of-home-potluck-with-a-spin-recipe-contest-352-official-rules/",
       "rulesUrl": "https://giveowl.com/e/taste-of-home-rda-enthusiast-brands--taste-of-home-potluck-with-a-spin-recipe-contest--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "likely_rules_page_not_entry",
@@ -4245,7 +4243,7 @@
       "name": "Zilch Formulas Black Friday Giveaway: 3 months of Zilch for you and a friend",
       "entryUrl": "https://zilchformulas.com/pages/giveaway",
       "rulesUrl": "https://giveowl.com/e/zilch-formulas--zilch-formulas-black-friday-giveaway--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "access_restricted_unconfirmed"
@@ -4257,7 +4255,7 @@
       "name": "Coca-Cola Friday for the Win Football Sweepstakes",
       "entryUrl": "https://www.coca-cola.com/us/en/offerings/coca-cola/football",
       "rulesUrl": "https://www.coca-cola.com/us/en/legal/football-friday-for-the-win-rules",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "no_form_detected_manual_check"
@@ -4271,7 +4269,7 @@
       "name": "KPRC The Parking Spot Holiday Travel Sweepstakes",
       "entryUrl": "https://www.click2houston.com/contests/2026/10/19/holiday-travel-sweepstakes-enter-to-win-3-weeks-of-free-airport-parking-from-the-parking-spot/",
       "rulesUrl": "https://www.click2houston.com/contests/rules/2026/10/19/official-rules-holiday-travel-sweepstakes-the-parking-spot/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "reachable_needs_human_confirmation",
       "issues": [],
       "httpStatus": 200,
@@ -4283,7 +4281,7 @@
       "name": "KitchenAid x Corkcicle MindFULLness Fridge Sweepstakes",
       "entryUrl": "https://www.kitchenaidxcorkciclesweeps.com/rules",
       "rulesUrl": "https://giveowl.com/e/whirlpool-corporation-kitchenaid--kitchenaid-x-corkcicle-mindfullness-fridge-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "likely_rules_page_not_entry",
@@ -4296,7 +4294,7 @@
       "name": "WinCo Foods 'Fresh Turkey, Full Table' Butterball Sweepstakes",
       "entryUrl": "https://promotions.wincofoods.com/fresh-turkey-full-table-butterball-sweepstakes-official-rules-copy/",
       "rulesUrl": "https://giveowl.com/e/winco-foods--winco-foods-fresh-turkey-full-table-butterball-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "likely_rules_page_not_entry",
@@ -4312,7 +4310,7 @@
       "name": "Ordo Black Friday Airbnb Giveaway 2026 (US)",
       "entryUrl": "https://www.ordolife.com/en-us/pages/giveaway-terms-conditions",
       "rulesUrl": "https://giveowl.com/e/ordo-ordoclub-ltd--ordo-black-friday-airbnb-giveaway-2026-us--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "access_restricted_unconfirmed"
@@ -4324,7 +4322,7 @@
       "name": "Experience Grand Rapids Holiday Giveaway 2026",
       "entryUrl": "https://www.experiencegr.com/holiday-giveaway/",
       "rulesUrl": "https://giveowl.com/e/experience-grand-rapids-grand-rapids-kent-county-cvb--experience-grand-rapids-holiday-giveaway--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "reachable_needs_human_confirmation",
       "issues": [],
       "httpStatus": 200,
@@ -4336,7 +4334,7 @@
       "name": "Baker Publishing Group Seed & Sparrow Sweepstakes",
       "entryUrl": "https://bakerpublishinggroup.com/pages/seed-and-sparrow-sweepstakes-official-rules",
       "rulesUrl": "https://giveowl.com/e/baker-publishing-group--baker-publishing-group-seed-sparrow-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "likely_rules_page_not_entry",
@@ -4349,7 +4347,7 @@
       "name": "Hamilton Place Santa’s Stocking Giveaway",
       "entryUrl": "https://www.hamiltonplace.com/store/santas_workshop/event/holiday-giveaway",
       "rulesUrl": "https://giveowl.com/e/hamilton-place-cbl-properties--hamilton-place-santa-s-stocking-giveaway--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "reachable_needs_human_confirmation",
       "issues": [],
       "httpStatus": 200,
@@ -4361,7 +4359,7 @@
       "name": "Santa's $3,000 Stocking Giveaway",
       "entryUrl": "https://ashlandtowncenter.com/store/santas_workshop/event/holiday-giveaway",
       "rulesUrl": "https://giveowl.com/e/ashland-town-center-cbl-properties--santa-s-3-000-stocking-giveaway--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "reachable_needs_human_confirmation",
       "issues": [],
       "httpStatus": 200,
@@ -4373,7 +4371,7 @@
       "name": "CoolSprings Galleria Santa’s Stocking Giveaway",
       "entryUrl": "https://www.coolspringsgalleria.com/store/santas_workshop/event/holiday-giveaway",
       "rulesUrl": "https://giveowl.com/e/coolsprings-galleria-cbl-properties--coolsprings-galleria-santa-s-stocking-giveaway--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "reachable_needs_human_confirmation",
       "issues": [],
       "httpStatus": 200,
@@ -4385,7 +4383,7 @@
       "name": "Arbor Place Santa’s Stocking Giveaway",
       "entryUrl": "https://www.arborplace.com/store/santas_workshop/event/holiday-giveaway",
       "rulesUrl": "https://giveowl.com/e/arbor-place-cbl-properties--arbor-place-santa-s-stocking-giveaway--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "reachable_needs_human_confirmation",
       "issues": [],
       "httpStatus": 200,
@@ -4397,7 +4395,7 @@
       "name": "CherryVale Mall Santa’s Stocking Giveaway",
       "entryUrl": "https://www.shopcherryvalemall.com/store/santas_workshop/event/holiday-giveaway",
       "rulesUrl": "https://giveowl.com/e/cherryvale-mall-cbl-properties--cherryvale-mall-santa-s-stocking-giveaway--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "reachable_needs_human_confirmation",
       "issues": [],
       "httpStatus": 200,
@@ -4409,7 +4407,7 @@
       "name": "Cross Creek Mall Santa’s Stocking Giveaway",
       "entryUrl": "https://www.crosscreekmall.com/store/santas_workshop/event/holiday-giveaway",
       "rulesUrl": "https://giveowl.com/e/cross-creek-mall-cbl-properties--cross-creek-mall-santa-s-stocking-giveaway--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "reachable_needs_human_confirmation",
       "issues": [],
       "httpStatus": 200,
@@ -4421,7 +4419,7 @@
       "name": "Dakota Square Mall Santa’s Stocking Giveaway",
       "entryUrl": "https://www.shopdakotasquare.com/store/santas_workshop/event/holiday-giveaway",
       "rulesUrl": "https://giveowl.com/e/dakota-square-mall-cbl-properties--dakota-square-mall-santa-s-stocking-giveaway--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "reachable_needs_human_confirmation",
       "issues": [],
       "httpStatus": 200,
@@ -4433,7 +4431,7 @@
       "name": "East Towne Mall Santa’s Stocking Giveaway",
       "entryUrl": "https://www.shopeasttowne-mall.com/store/santas_workshop/event/holiday-giveaway",
       "rulesUrl": "https://giveowl.com/e/east-towne-mall-cbl-properties--east-towne-mall-santa-s-stocking-giveaway--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "reachable_needs_human_confirmation",
       "issues": [],
       "httpStatus": 200,
@@ -4445,7 +4443,7 @@
       "name": "Frontier Mall Santa’s Stocking Giveaway",
       "entryUrl": "https://www.frontiermall.com/store/santas_workshop/event/holiday-giveaway",
       "rulesUrl": "https://giveowl.com/e/frontier-mall-cbl-properties--frontier-mall-santa-s-stocking-giveaway--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "reachable_needs_human_confirmation",
       "issues": [],
       "httpStatus": 200,
@@ -4457,7 +4455,7 @@
       "name": "Kirkwood Mall Santa’s Stocking Giveaway",
       "entryUrl": "https://www.shopkirkwoodmall.com/store/santas_workshop/event/holiday-giveaway",
       "rulesUrl": "https://giveowl.com/e/kirkwood-mall-cbl-properties--kirkwood-mall-santa-s-stocking-giveaway--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "reachable_needs_human_confirmation",
       "issues": [],
       "httpStatus": 200,
@@ -4469,7 +4467,7 @@
       "name": "Mesa Mall Santa’s Stocking Giveaway",
       "entryUrl": "https://www.shopmesamall.com/store/santas_workshop/event/holiday-giveaway",
       "rulesUrl": "https://giveowl.com/e/mesa-mall-cbl-properties--mesa-mall-santa-s-stocking-giveaway--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "reachable_needs_human_confirmation",
       "issues": [],
       "httpStatus": 200,
@@ -4481,7 +4479,7 @@
       "name": "Oak Park Mall Santa’s Stocking Giveaway",
       "entryUrl": "https://www.shopoakparkmall.com/store/santas_workshop/event/holiday-giveaway",
       "rulesUrl": "https://giveowl.com/e/oak-park-mall-cbl-properties--oak-park-mall-santa-s-stocking-giveaway--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "reachable_needs_human_confirmation",
       "issues": [],
       "httpStatus": 200,
@@ -4493,7 +4491,7 @@
       "name": "Valley View Mall Santa’s Stocking Giveaway",
       "entryUrl": "https://www.valleyviewmall.com/store/santas_workshop/event/holiday-giveaway",
       "rulesUrl": "https://giveowl.com/e/valley-view-mall-cbl-properties--valley-view-mall-santa-s-stocking-giveaway--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "reachable_needs_human_confirmation",
       "issues": [],
       "httpStatus": 200,
@@ -4505,7 +4503,7 @@
       "name": "Westmoreland Mall Santa’s Stocking Giveaway",
       "entryUrl": "https://www.westmorelandmall.com/store/santas_workshop/event/holiday-giveaway",
       "rulesUrl": "https://giveowl.com/e/westmoreland-mall-cbl-properties--westmoreland-mall-santa-s-stocking-giveaway--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "reachable_needs_human_confirmation",
       "issues": [],
       "httpStatus": 200,
@@ -4517,7 +4515,7 @@
       "name": "Seranova Beauty BFCM 2026 Cruise Sweepstakes",
       "entryUrl": "https://seranova.gorgias.help/en-US/seranova-beauty-bfcm-2026-cruise-sweepstakes-9122253",
       "rulesUrl": "https://giveowl.com/e/valentine-brands-llc-d-b-a-seranova-beauty--seranova-beauty-bfcm-2026-cruise-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "reachable_needs_human_confirmation",
       "issues": [],
       "httpStatus": 200,
@@ -4529,7 +4527,7 @@
       "name": "Viking Q4 2026 \"2027 8-Day Journey\" Sweepstakes",
       "entryUrl": "https://www.vikingcruises.com/sweepstakes-details/europe-north-america-sweepstakes/terms.html",
       "rulesUrl": "https://giveowl.com/e/viking-river-cruises--viking-q4-2026-2027-8-day-journey-sweepstakes--2026/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "access_restricted_unconfirmed"
@@ -4541,7 +4539,7 @@
       "name": "Core Nutritionals Custom Polaris RZR Sweepstakes",
       "entryUrl": "https://www.corenutritionals.com/pages/giveaway",
       "rulesUrl": "https://www.corenutritionals.com/pages/giveaway",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "entry_matches_rules_link",
@@ -4554,7 +4552,7 @@
       "name": "Squirt Day of the Dead QR Code Sweepstakes",
       "entryUrl": "https://www.celebratewithsquirtsoda.com/",
       "rulesUrl": "https://www.celebratewithsquirtsoda.com/",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "entry_matches_rules_link",
@@ -4570,7 +4568,7 @@
       "name": "Fiserv 2026 Season of Giving and Receiving Sweepstakes",
       "entryUrl": "https://cloud.e.fiserv.com/2026_SOGR_Rules",
       "rulesUrl": "https://cloud.e.fiserv.com/2026_SOGR_Rules",
-      "checkedAt": "2026-11-02T01:43:15.208369+00:00",
+      "checkedAt": "2026-11-02T02:02:25.108548+00:00",
       "status": "needs_review",
       "issues": [
         "entry_matches_rules_link",
