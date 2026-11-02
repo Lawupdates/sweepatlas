@@ -28,7 +28,7 @@ def check(item):
     if not entry.startswith("https://"):result["issues"].append("invalid_entry_scheme");return result
     parts=urllib.parse.urlsplit(entry)
     if parts.username or parts.password or not parts.hostname:result["issues"].append("unsafe_url");return result
-    if RULE_HINT.search(parts.path):result["issues"].append("likely_rules_page_not_entry")
+    if RULE_HINT.search(parts.path) or RULE_HINT.search(parts.query):result["issues"].append("likely_rules_page_not_entry")
     # Public URL check; never submit entry form and never claim an actual user entry.
     try:
         req=urllib.request.Request(entry,headers={"User-Agent":UA,"Accept":"text/html,application/xhtml+xml"},method="GET")
@@ -38,12 +38,14 @@ def check(item):
             body=response.read(150000).decode("utf-8","replace")
             title=re.search(r"<title[^>]*>(.*?)</title>",body,re.I|re.S)
             result["pageTitle"]=re.sub(r"\s+"," ",title.group(1)).strip()[:180] if title else ""
-            if DEAD_HINT.search(result["pageTitle"]):result["issues"].append("expired_or_not_found_page")
+            if DEAD_HINT.search(result["pageTitle"]) or DEAD_HINT.search(body[:60000]):result["issues"].append("expired_or_not_found_page")
             if not FORM_HINT.search(body):result["issues"].append("no_form_detected_manual_check")
             final=urllib.parse.urlsplit(response.url)
             if final.hostname!=parts.hostname:result["issues"].append("redirected_to_other_host")
-            if RULE_HINT.search(final.path):result["issues"].append("redirected_to_rules_page")
+            if final.scheme!="https":result["issues"].append("insecure_redirect")
+            if RULE_HINT.search(final.path) or RULE_HINT.search(final.query):result["issues"].append("redirected_to_rules_page")
             if final.path in ("","/") and parts.path not in ("","/"):result["issues"].append("redirected_to_homepage")
+            if final.hostname==parts.hostname and final.path in ("","/") and not final.query and not FORM_HINT.search(body):result["issues"].append("possible_homepage_not_entry")
     except urllib.error.HTTPError as error:
         result["httpStatus"]=error.code
         result["issues"].append("access_restricted_unconfirmed" if error.code in (401,403,429) else "http_error")
