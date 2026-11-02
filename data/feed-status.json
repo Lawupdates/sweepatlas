@@ -1,9 +1,9 @@
 {
-  "checked_at": "2026-11-02T05:57:24.808602+00:00",
-  "records": 331,
-  "unique_urls": 569,
-  "active_records": 304,
-  "flagged_records": 177,
+  "checked_at": "2026-11-02T07:39:25.682563+00:00",
+  "records": 332,
+  "unique_urls": 570,
+  "active_records": 305,
+  "flagged_records": 183,
   "results": [
     {
       "id": "motion-urus-2026",
@@ -434,21 +434,21 @@
       "checks": [
         {
           "type": "entryUrl",
-          "http_status": 200,
-          "reachable": true,
-          "final_url": "https://www.guitarcenter.com/gear-giveaway.gc?icid=LP14674",
-          "title": "Gear Giveaway Sweepstakes | Guitar Center"
+          "http_status": 403,
+          "reachable": false,
+          "error": "http_error"
         },
         {
           "type": "rulesUrl",
-          "http_status": 200,
-          "reachable": true,
-          "final_url": "https://www.guitarcenter.com/gear-giveaway.gc?icid=LP14674",
-          "title": "Gear Giveaway Sweepstakes | Guitar Center"
+          "http_status": 403,
+          "reachable": false,
+          "error": "http_error"
         }
       ],
       "flags": [
-        "entry_and_rules_same_url_review"
+        "entryUrl_unconfirmed_or_blocked",
+        "entry_and_rules_same_url_review",
+        "rulesUrl_unconfirmed_or_blocked"
       ],
       "verified_entry_form": false
     },
@@ -659,21 +659,21 @@
       "checks": [
         {
           "type": "entryUrl",
-          "http_status": 200,
-          "reachable": true,
-          "final_url": "https://www.visitorlando.com/win-a-trip/",
-          "title": "Win a Trip | Visit Orlando"
+          "http_status": 403,
+          "reachable": false,
+          "error": "http_error"
         },
         {
           "type": "rulesUrl",
-          "http_status": 200,
-          "reachable": true,
-          "final_url": "https://www.visitorlando.com/win-a-trip/",
-          "title": "Win a Trip | Visit Orlando"
+          "http_status": 403,
+          "reachable": false,
+          "error": "http_error"
         }
       ],
       "flags": [
-        "entry_and_rules_same_url_review"
+        "entryUrl_unconfirmed_or_blocked",
+        "entry_and_rules_same_url_review",
+        "rulesUrl_unconfirmed_or_blocked"
       ],
       "verified_entry_form": false
     },
@@ -833,10 +833,9 @@
       "checks": [
         {
           "type": "entryUrl",
-          "http_status": 200,
-          "reachable": true,
-          "final_url": "https://rewards.regmovies.com/",
-          "title": "Regal RCC"
+          "http_status": 403,
+          "reachable": false,
+          "error": "http_error"
         },
         {
           "type": "rulesUrl",
@@ -846,8 +845,8 @@
         }
       ],
       "flags": [
+        "entryUrl_unconfirmed_or_blocked",
         "entry_is_homepage_review",
-        "entry_redirects_to_homepage",
         "rulesUrl_unconfirmed_or_blocked"
       ],
       "verified_entry_form": false
@@ -2120,21 +2119,21 @@
       "checks": [
         {
           "type": "entryUrl",
-          "http_status": 200,
-          "reachable": true,
-          "final_url": "https://hexclad.com/pages/gordons-golden-ticket-italy",
-          "title": "Gordon\u2019s Golden Ticket Italy | HexClad"
+          "http_status": 403,
+          "reachable": false,
+          "error": "http_error"
         },
         {
           "type": "rulesUrl",
-          "http_status": 200,
-          "reachable": true,
-          "final_url": "https://hexclad.com/pages/gordons-golden-ticket-italy",
-          "title": "Gordon\u2019s Golden Ticket Italy | HexClad"
+          "http_status": 403,
+          "reachable": false,
+          "error": "http_error"
         }
       ],
       "flags": [
-        "entry_and_rules_same_url_review"
+        "entryUrl_unconfirmed_or_blocked",
+        "entry_and_rules_same_url_review",
+        "rulesUrl_unconfirmed_or_blocked"
       ],
       "verified_entry_form": false
     },
@@ -3528,10 +3527,9 @@
       "checks": [
         {
           "type": "entryUrl",
-          "http_status": 200,
-          "reachable": true,
-          "final_url": "https://www.thenorthface.com/en-us/xplr-pass/xplr-pass-sweepstakes",
-          "title": "XPLR Pass Sweepstakes | The North Face"
+          "http_status": 403,
+          "reachable": false,
+          "error": "http_error"
         },
         {
           "type": "rulesUrl",
@@ -3541,7 +3539,9 @@
           "title": "The North Face Holiday Wish List Sweepstakes | GiveOwl"
         }
       ],
-      "flags": [],
+      "flags": [
+        "entryUrl_unconfirmed_or_blocked"
+      ],
       "verified_entry_form": false
     },
     {
@@ -3852,10 +3852,9 @@
       "checks": [
         {
           "type": "entryUrl",
-          "http_status": 200,
-          "reachable": true,
-          "final_url": "https://www.destinationgranby.com/granby-giveaway-contest-rules/",
-          "title": "Granby Giveaway Contest Rules"
+          "http_status": 403,
+          "reachable": false,
+          "error": "http_error"
         },
         {
           "type": "rulesUrl",
@@ -3865,7 +3864,9 @@
           "title": "Winter Experience Newsletter Giveaway | GiveOwl"
         }
       ],
-      "flags": [],
+      "flags": [
+        "entryUrl_unconfirmed_or_blocked"
+      ],
       "verified_entry_form": false
     },
     {
@@ -4213,10 +4214,9 @@
       "checks": [
         {
           "type": "entryUrl",
-          "http_status": 200,
-          "reachable": true,
-          "final_url": "https://www.visitwichita.com/getaway/great-wichita-holiday-getaway-rules/",
-          "title": "Great Wichita Holiday Getaway Rules"
+          "http_status": 403,
+          "reachable": false,
+          "error": "http_error"
         },
         {
           "type": "rulesUrl",
@@ -4226,7 +4226,9 @@
           "title": "Visit Wichita's Besties Getaway Sweepstakes | GiveOwl"
         }
       ],
-      "flags": [],
+      "flags": [
+        "entryUrl_unconfirmed_or_blocked"
+      ],
       "verified_entry_form": false
     },
     {
@@ -4239,7 +4241,7 @@
           "http_status": 200,
           "reachable": true,
           "final_url": "https://www.pbs.org/wgbh/masterpiece/sweepstakes-official-rules/",
-          "title": ""
+          "title": "2026 MASTERPIECE European River Cruise Sweepstakes Official Rules | Masterpiece | Official Site | PBS"
         },
         {
           "type": "rulesUrl",
@@ -4249,7 +4251,9 @@
           "title": "2026 MASTERPIECE European River Cruise Sweepstakes | GiveOwl"
         }
       ],
-      "flags": [],
+      "flags": [
+        "entry_title_looks_like_rules"
+      ],
       "verified_entry_form": false
     },
     {
@@ -6238,10 +6242,9 @@
       "checks": [
         {
           "type": "entryUrl",
-          "http_status": 200,
-          "reachable": true,
-          "final_url": "https://wentevineyards.com/every-table-every-night-giveaway-rules-and-regulations/",
-          "title": "Every Table Every Night Giveaway Rules and Regulations | Wente Vineyards"
+          "http_status": 403,
+          "reachable": false,
+          "error": "http_error"
         },
         {
           "type": "rulesUrl",
@@ -6251,7 +6254,9 @@
           "title": "Every Table. Any Night. Hosting Kit Sweepstakes | GiveOwl"
         }
       ],
-      "flags": [],
+      "flags": [
+        "entryUrl_unconfirmed_or_blocked"
+      ],
       "verified_entry_form": false
     },
     {
@@ -6330,9 +6335,10 @@
       "checks": [
         {
           "type": "entryUrl",
-          "http_status": 405,
-          "reachable": false,
-          "error": "http_error"
+          "http_status": 200,
+          "reachable": true,
+          "final_url": "https://petofthemonth.hillspet.com/",
+          "title": "Hill's Pet of the Month Sweepstakes"
         },
         {
           "type": "rulesUrl",
@@ -6343,7 +6349,8 @@
         }
       ],
       "flags": [
-        "entry_is_homepage_review"
+        "entry_is_homepage_review",
+        "entry_redirects_to_homepage"
       ],
       "verified_entry_form": false
     },
@@ -6601,9 +6608,10 @@
       "checks": [
         {
           "type": "entryUrl",
-          "http_status": 403,
-          "reachable": false,
-          "error": "http_error"
+          "http_status": 200,
+          "reachable": true,
+          "final_url": "https://airbaton.net/l/popsecret-assemble-in-nyc",
+          "title": "Assemble in NYC Sweepstakes"
         },
         {
           "type": "rulesUrl",
@@ -6613,9 +6621,7 @@
           "title": "Pop Secret Assemble in NYC Sweepstakes | GiveOwl"
         }
       ],
-      "flags": [
-        "entryUrl_unconfirmed_or_blocked"
-      ],
+      "flags": [],
       "verified_entry_form": false
     },
     {
@@ -7556,10 +7562,9 @@
       "checks": [
         {
           "type": "entryUrl",
-          "http_status": 200,
-          "reachable": true,
-          "final_url": "https://www.experiencegr.com/holiday-giveaway/",
-          "title": "Holiday Giveaway | Grand Rapids, MI"
+          "http_status": 403,
+          "reachable": false,
+          "error": "http_error"
         },
         {
           "type": "rulesUrl",
@@ -7569,7 +7574,9 @@
           "title": "Experience Grand Rapids Holiday Giveaway 2026 | GiveOwl"
         }
       ],
-      "flags": [],
+      "flags": [
+        "entryUrl_unconfirmed_or_blocked"
+      ],
       "verified_entry_form": false
     },
     {
@@ -8042,6 +8049,31 @@
       "flags": [
         "entry_and_rules_same_url_review",
         "entry_title_looks_like_rules"
+      ],
+      "verified_entry_form": false
+    },
+    {
+      "id": "monster-java-outdoor-swag-2026",
+      "expires": "2026-12-31",
+      "expired": false,
+      "checks": [
+        {
+          "type": "entryUrl",
+          "http_status": 403,
+          "reachable": false,
+          "error": "http_error"
+        },
+        {
+          "type": "rulesUrl",
+          "http_status": 403,
+          "reachable": false,
+          "error": "http_error"
+        }
+      ],
+      "flags": [
+        "entryUrl_unconfirmed_or_blocked",
+        "entry_and_rules_same_url_review",
+        "rulesUrl_unconfirmed_or_blocked"
       ],
       "verified_entry_form": false
     }
