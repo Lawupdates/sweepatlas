@@ -13,6 +13,7 @@ CAND=ROOT/"data/discovery-candidates.json"
 CURATED=ROOT/"data/sweepstakes.json"
 REPORT=ROOT/"data/entry-audit.json"
 LOOKUPS=ROOT/"data/entry-lookup-results.json"
+ARCHIVE=ROOT/"data/research-archive.json"
 BLOCK={"news.google.com","google.com","www.google.com"}
 class Page(HTMLParser):
     def __init__(self):
@@ -102,6 +103,14 @@ def main():
         x["entry_audit_result"]=outcome
         checks.append({"id":x.get("id"),"title":x.get("title"),"url":x["entry_url"],"result":outcome,"kind":"discovered"})
     CAND.write_text(json.dumps({**json.loads(CAND.read_text()),"candidates":candidates},ensure_ascii=False,indent=2)+"\n")
-    REPORT.write_text(json.dumps({"checked_at_utc":dt.datetime.now(dt.timezone.utc).isoformat(),"notice":"Automated detection is not proof a form works. No record becomes confirmed without manual review.","candidate_counts":dict(counts),"total_research_leads":len(candidates),"curated_count":len(curated),"automatically_confirmed_forms":0,"lead_checks":lead_checks,"results":checks},ensure_ascii=False,indent=2)+"\n")
+    # The research archive is not a source of verified or public listings.
+    # Preserve its count separately so routine discovery refreshes cannot erase history.
+    try:
+        archived=json.loads(ARCHIVE.read_text(encoding="utf-8")).get("leads",[])
+    except (OSError,ValueError,TypeError):
+        archived=[]
+    active_urls={x.get("url","").split("#")[0] for x in candidates}
+    historical_only={x.get("url","").split("#")[0] for x in archived if x.get("url","").startswith("https://")} - active_urls
+    REPORT.write_text(json.dumps({"checked_at_utc":dt.datetime.now(dt.timezone.utc).isoformat(),"notice":"Automated detection is not proof a form works. Archived research URLs are not active sweepstakes or confirmed entry forms.","candidate_counts":dict(counts),"total_research_leads":len(candidates)+len(historical_only),"current_research_candidates":len(candidates),"historical_research_only":len(historical_only),"archived_source_records":len(archived),"curated_count":len(curated),"automatically_confirmed_forms":0,"lead_checks":lead_checks,"results":checks},ensure_ascii=False,indent=2)+"\n")
     print("Inspected",len(checks),"potential entry pages; none automatically certified.")
 if __name__=="__main__":main()
