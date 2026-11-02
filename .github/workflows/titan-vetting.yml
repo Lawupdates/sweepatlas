@@ -1,0 +1,38 @@
+name: Sweeps Titan - Discovery and Link Vetting
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 */6 * * *'
+permissions:
+  contents: write
+concurrency:
+  group: sweepstitan-vetting
+  cancel-in-progress: false
+jobs:
+  source-vetting:
+    runs-on: ubuntu-latest
+    timeout-minutes: 28
+    steps:
+      - name: Checkout current source
+        uses: actions/checkout@v4
+      - name: Use Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Vet existing records and discover new public leads
+        run: python scripts/vet_sweepstakes.py --discover --max-checks 350
+      - name: Upload human-review queues
+        uses: actions/upload-artifact@v4
+        with:
+          name: sweepstitan-vetting-queues
+          path: data/vetting/*.json
+          retention-days: 30
+      - name: Commit audit outputs (never silently overwrite contest URLs)
+        run: |
+          git config user.name "Sweeps Titan Vetting Bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/vetting/latest.json data/vetting/repair-queue.json data/vetting/discovery-queue.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Vetting: update contest discovery and repair queues [skip ci]"
+            git push
+          fi
