@@ -911,7 +911,7 @@ async function loadHealth(){try{const r=await fetch("./data/feed-status.json?rev
 $("refreshCatalog").onclick=loadCatalog;
 $("backupLocal").onclick=()=>{const a=document.createElement("a"),u=URL.createObjectURL(new Blob([JSON.stringify({version:1,profile:state.profile,saved:state.saved,log:state.log,checks:state.checks},null,2)],{type:"application/json"}));a.href=u;a.download="sweepstitan-backup.json";a.click();setTimeout(()=>URL.revokeObjectURL(u),1000)};
 $("restoreLocal").onchange=async e=>{const file=e.target.files?.[0];if(!file)return;try{if(file.size>2000000)throw Error("File too large");const d=JSON.parse(await file.text());if(d.version!==1||!Array.isArray(d.saved)||!Array.isArray(d.log)||!d.profile||typeof d.profile!=="object"||!d.checks||typeof d.checks!=="object")throw Error("Invalid backup");if(!confirm("Replace locally stored profile and entry log with this backup?"))return;state={saved:d.saved.filter(x=>typeof x==="string").slice(0,5000),log:d.log.filter(x=>x&&typeof x.id==="string"&&typeof x.at==="string").slice(0,5000),profile:Object.fromEntries(["first","last","email","phone","state","postal"].map(k=>[k,String(d.profile[k]||"").slice(0,200)])),checks:d.checks};persist();location.reload()}catch(err){alert(err.message)}finally{e.target.value=""}};
-async function updateTitanCatalogCounter(){const el=document.getElementById("titan-verified-count");if(!el)return;try{const r=await fetch("./data/sweepstakes.json?rev="+Date.now(),{cache:"no-store"});const v=await r.json();el.textContent="Published records: "+(Array.isArray(v)?v.length.toLocaleString():"unavailable");}catch{el.textContent="Catalog count temporarily unavailable";}}
+async function updateTitanCatalogCounter(){const el=document.getElementById("titan-verified-count");if(!el)return;try{const r=await fetch("./data/sweepstakes.json",{cache:"default"});const v=await r.json();el.textContent="Catalog records: "+(Array.isArray(v)?v.length.toLocaleString():"unavailable");}catch{el.textContent="Catalog count temporarily unavailable";}}
 updateTitanCatalogCounter();
 async function loadResearchCount(){const el=$("heroResearch");if(!el)return;try{const r=await fetch("./data/discovery-candidates.json?rev="+Date.now(),{cache:"no-store"});if(!r.ok)throw Error("feed");const d=await r.json();const candidates=Array.isArray(d.candidates)?d.candidates:[];const urls=new Set(candidates.filter(x=>x&&typeof x.url==="string"&&/^https:\/\//.test(x.url)).map(x=>x.url.split("?")[0].replace(/\/$/,"").toLowerCase()));el.textContent=urls.size.toLocaleString();el.title="Research leads, not verified live sweepstakes or confirmed entry forms";}catch{el.textContent="—";el.title="Research feed unavailable";}}
 
@@ -1047,4 +1047,14 @@ if(e.key==="/"&&(/^(INPUT|TEXTAREA|SELECT)$/.test(tag)||document.activeElement?.
 const q=document.getElementById("query");if(q){e.preventDefault();document.querySelector("#discover")?.scrollIntoView({block:"start",behavior:matchMedia("(prefers-reduced-motion:reduce)").matches?"instant":"smooth"});q.focus();q.select();}
 }
 });
-})();</script></body></html>
+})();</script><style id="titan-final-mobile-tap-polish">
+/* Improve keyboard/touch usability without obscuring the existing vibrant artwork. */
+:where(button,a,input,select,textarea):focus-visible{outline:3px solid #43f5ed!important;outline-offset:3px}
+:where(.card,.panel,.item,.titan-navigation,.titan-royal-banner){min-width:0}
+@media(max-width:650px){
+  .cardfoot a,.cardfoot button{min-height:44px;max-width:100%;overflow-wrap:anywhere}
+  .titan-utility,.titan-utility-links,.section-title{flex-wrap:wrap;min-width:0}
+  .titan-utility-links a{min-height:44px;display:inline-flex;align-items:center}
+}
+@media(prefers-reduced-motion:reduce){*,*::before,*::after{scroll-behavior:auto!important}}
+</style></body></html>
