@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-02T01:14:38.579509+00:00",
+  "checked_at": "2026-11-02T05:57:24.808602+00:00",
   "records": 331,
   "unique_urls": 569,
   "active_records": 304,
@@ -434,21 +434,21 @@
       "checks": [
         {
           "type": "entryUrl",
-          "http_status": 403,
-          "reachable": false,
-          "error": "http_error"
+          "http_status": 200,
+          "reachable": true,
+          "final_url": "https://www.guitarcenter.com/gear-giveaway.gc?icid=LP14674",
+          "title": "Gear Giveaway Sweepstakes | Guitar Center"
         },
         {
           "type": "rulesUrl",
-          "http_status": 403,
-          "reachable": false,
-          "error": "http_error"
+          "http_status": 200,
+          "reachable": true,
+          "final_url": "https://www.guitarcenter.com/gear-giveaway.gc?icid=LP14674",
+          "title": "Gear Giveaway Sweepstakes | Guitar Center"
         }
       ],
       "flags": [
-        "entryUrl_unconfirmed_or_blocked",
-        "entry_and_rules_same_url_review",
-        "rulesUrl_unconfirmed_or_blocked"
+        "entry_and_rules_same_url_review"
       ],
       "verified_entry_form": false
     },
@@ -2844,10 +2844,9 @@
       "checks": [
         {
           "type": "entryUrl",
-          "http_status": 200,
-          "reachable": true,
-          "final_url": "https://pepsipromos.com/freegroceries/freegroceries_rules/",
-          "title": "2026 PEPSI\u00ae GROCERY GIFT CARD SWEEPSTAKES - Pepsi Promos"
+          "http_status": null,
+          "reachable": false,
+          "error": "TimeoutError"
         },
         {
           "type": "rulesUrl",
@@ -2857,7 +2856,9 @@
           "title": "2026 Pepsi Grocery Gift Card Sweepstakes | GiveOwl"
         }
       ],
-      "flags": [],
+      "flags": [
+        "entryUrl_unconfirmed_or_blocked"
+      ],
       "verified_entry_form": false
     },
     {
@@ -4238,7 +4239,7 @@
           "http_status": 200,
           "reachable": true,
           "final_url": "https://www.pbs.org/wgbh/masterpiece/sweepstakes-official-rules/",
-          "title": "2026 MASTERPIECE European River Cruise Sweepstakes Official Rules | Masterpiece | Official Site | PBS"
+          "title": ""
         },
         {
           "type": "rulesUrl",
@@ -4248,9 +4249,7 @@
           "title": "2026 MASTERPIECE European River Cruise Sweepstakes | GiveOwl"
         }
       ],
-      "flags": [
-        "entry_title_looks_like_rules"
-      ],
+      "flags": [],
       "verified_entry_form": false
     },
     {
