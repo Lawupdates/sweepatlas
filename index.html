@@ -1232,24 +1232,42 @@ input::placeholder,textarea::placeholder{color:#cbd2eb}
 @media(max-width:650px){.titan-mega-promo{padding:30px 16px 18px!important;gap:8px!important}.titan-mega-art{flex:0 1 170px}.titan-mega-art img{width:min(170px,60vw)!important}.titan-mega-label{font-size:9px;max-width:100%}}
 @media(prefers-reduced-motion:reduce){.titan-mega-art,.titan-mega-art::before,.titan-mega-art::after{animation:none!important}}
 </style><style id="titan-power-tools-style">.titan-power-tools{padding:18px;margin:16px 0;border:1px solid #56b9ff;border-radius:20px;background:linear-gradient(125deg,#122448,#17203d);color:#fff}.titan-power-tools h3{margin:0 0 14px;font-size:22px}.titan-power-tools small{font-size:13px;color:#8ee9ff}.titan-tool-buttons{display:flex;gap:10px;flex-wrap:wrap}.titan-tool-buttons button{border:1px solid #5ed8ff;background:linear-gradient(120deg,#8c35d2,#285bcc);color:white;font-weight:900;padding:12px 16px;border-radius:12px;min-height:44px}.titan-power-tools p{color:#d7e5ff;margin-bottom:0}.titan-select-entry{display:inline-flex;align-items:center;gap:6px;color:#fff;font-weight:800;min-height:42px}.titan-select-entry input{width:18px;height:18px}.titan-block-sponsor,.titan-note-button,.titan-collection-button,.titan-hide-entry{border:1px solid #69c9fd;border-radius:10px;background:#1b2a4a;color:white;font-weight:800;padding:8px 10px;min-height:42px}.cardfoot{flex-wrap:wrap!important}@media(max-width:620px){.titan-tool-buttons{flex-direction:column}.titan-tool-buttons button{width:100%}}</style>
-<script id="titan-power-tools-js">(function(){
-const key='titan_power_tools_v1';let data={blocked:[],hidden:[],notes:{},collections:{},wins:[]};try{data={...data,...JSON.parse(localStorage.getItem(key)||'{}')}}catch(e){}
-const save=()=>localStorage.setItem(key,JSON.stringify(data));const status=m=>{const n=document.getElementById('titan-power-status');if(n)n.textContent=m};
-window.titanBlocked=s=>data.hidden.includes(s.id)||data.blocked.includes(String(s.sponsor||'').toLowerCase());
-if(typeof update==='function')update();
+<script id="titan-power-tools-js">
+(function(){
+'use strict';
+const key='titan_power_tools_v1';
+let data={blocked:[],hidden:[],notes:{},collections:{},wins:[]};
+try{const stored=JSON.parse(localStorage.getItem(key)||'{}');data={...data,...stored};}catch(e){}
+if(!Array.isArray(data.blocked))data.blocked=[];
+if(!Array.isArray(data.hidden))data.hidden=[];
+if(!data.collections||typeof data.collections!=='object')data.collections={};
+if(!data.notes||typeof data.notes!=='object')data.notes={};
+if(!Array.isArray(data.wins))data.wins=[];
+const save=()=>{try{localStorage.setItem(key,JSON.stringify(data))}catch(e){status('Browser storage unavailable; changes may not be saved.')}};
+const status=m=>{const node=document.getElementById('titan-power-status');if(node)node.textContent=m};
+window.titanBlocked=s=>data.hidden.includes(String(s.id))||data.blocked.includes(String(s.sponsor||'').trim().toLowerCase());
 const selected=new Set();
-// Maintain selected cards across pagination and distinguish opening from completed entry submission.
-
-document.addEventListener('change',e=>{const el=e.target;if(!el.matches('.titan-power-select'))return;el.checked?selected.add(el.dataset.id):selected.delete(el.dataset.id);status(selected.size+' selected · open only official sponsor pages you want to enter.')});
-document.addEventListener('click',e=>{
-const block=e.target.closest('.titan-block-sponsor');if(block){const item=sample.find(s=>String(s.id)===block.dataset.id);if(!item)return;const name=String(item.sponsor||'').toLowerCase();if(confirm('Hide all listings from '+item.sponsor+' on this device? You can restore them later.')){data.blocked=[...new Set([...data.blocked,name])];save();update()}return}
-const hide=e.target.closest('.titan-hide-entry');if(hide){const item=sample.find(s=>String(s.id)===hide.dataset.id);if(!item)return;data.hidden=[...new Set([...data.hidden,String(item.id)])];save();update();status('Hidden '+item.name+' on this device. Restore from Manage hidden sponsors.');return}
-const collect=e.target.closest('.titan-collection-button');if(collect){const item=sample.find(s=>String(s.id)===collect.dataset.id);if(!item)return;const name=prompt('Collection name (Dream Cars, Travel, Daily):','My Favorites');if(!name)return;const clean=name.trim().slice(0,60);if(!clean)return;data.collections[clean]=[...new Set([...(data.collections[clean]||[]),String(item.id)])];save();status('Added '+item.name+' to '+clean);return}
-if(e.target.closest('#titan-collections')){const names=Object.keys(data.collections);if(!names.length){status('No collections yet. Choose Collect on a sweepstakes card.');return}const name=prompt('Collections: '+names.join(', ')+'; type one to view:',names[0]);if(!name||!data.collections[name])return;const items=sample.filter(s=>data.collections[name].includes(String(s.id)));alert(name+' ('+items.length+' listings): '+items.slice(0,40).map(s=>s.name).join('; '));return}
-if(e.target.closest('#titan-wins')){const result=prompt('Prize you won (Cancel to close). Existing: '+(data.wins.length?data.wins.map(x=>x.name).join(', '):'none'));if(!result)return;const value=prompt('Prize value USD (optional):','0');data.wins.push({name:result.slice(0,120),value:Math.max(0,Number(value)||0),at:new Date().toISOString()});save();status('Saved to your private win journal!');return}
-const note=e.target.closest('.titan-note-button');if(note){const item=sample.find(s=>String(s.id)===note.dataset.id);if(!item)return;const v=prompt('Private note for '+item.name+' (stored on this device):',data.notes[item.id]||'');if(v!==null){data.notes[item.id]=v.slice(0,1000);save();status('Saved private note for '+item.name)}return}
-if(e.target.closest('#titan-batch-open')){const items=sample.filter(s=>selected.has(String(s.id))&&!window.titanBlocked(s)&&s.entryUrl).slice(0,10);if(!items.length){status('Choose at least one visible contest first.');return}for(const item of items){window.open(item.entryUrl,'_blank','noopener,noreferrer')}status('Requested '+items.length+' sponsor pages. Check your browser tabs; enable pop-ups if needed. Entry is not automatically submitted.');return}
-if(e.target.closest('#titan-show-hidden')){const names=data.blocked.length?data.blocked.join(', '):'none';if(confirm('Hidden sponsor domains/names: '+names+'. Restore all hidden sponsors and contests?')){data.blocked=[];data.hidden=[];save();update();status('All hidden sponsors restored.')}return}
-if(e.target.closest('#titan-export-tools')){const payload=JSON.stringify({saved:state.saved,entryLog:state.log,blockedSponsors:data.blocked,notes:data.notes,collections:data.collections,wins:data.wins,exported:new Date().toISOString()},null,2);const blob=new Blob([payload],{type:'application/json'}),url=URL.createObjectURL(blob),a=document.createElement('a');a.href=url;a.download='sweeps-titan-my-lists.json';a.click();setTimeout(()=>URL.revokeObjectURL(url),1000);status('Your saved lists and notes have been exported.')}
+function refresh(){if(typeof update==='function')update()}
+refresh();
+document.addEventListener('change',e=>{
+ const el=e.target;if(!el.matches('.titan-power-select'))return;
+ el.checked?selected.add(String(el.dataset.id)):selected.delete(String(el.dataset.id));
+ status(selected.size+' selected. Opening a sponsor site does not submit an entry.');
 });
-})();</script></body></html>
+document.addEventListener('click',e=>{
+const block=e.target.closest('.titan-block-sponsor');
+if(block){const item=sample.find(s=>String(s.id)===block.dataset.id);if(!item)return;const name=String(item.sponsor||'').trim().toLowerCase();if(!name)return;if(confirm('Hide all listings by '+item.sponsor+' on this device?')){data.blocked=[...new Set([...data.blocked,name])];save();refresh()}return}
+const hide=e.target.closest('.titan-hide-entry');
+if(hide){const item=sample.find(s=>String(s.id)===hide.dataset.id);if(!item)return;data.hidden=[...new Set([...data.hidden,String(item.id)])];save();refresh();status('Hidden '+item.name+' on this device.');return}
+const collect=e.target.closest('.titan-collection-button');
+if(collect){const item=sample.find(s=>String(s.id)===collect.dataset.id);if(!item)return;const name=prompt('Collection name (example: Travel or Dream Cars):','My Favorites');if(!name)return;const clean=name.trim().slice(0,60);if(!clean)return;const ids=Array.isArray(data.collections[clean])?data.collections[clean]:[];data.collections[clean]=[...new Set([...ids,String(item.id)])];save();status('Added '+item.name+' to '+clean);return}
+const note=e.target.closest('.titan-note-button');
+if(note){const item=sample.find(s=>String(s.id)===note.dataset.id);if(!item)return;const v=prompt('Private note for '+item.name+':',data.notes[item.id]||'');if(v!==null){data.notes[item.id]=v.slice(0,1000);save();status('Private note saved.')}return}
+if(e.target.closest('#titan-collections')){const names=Object.keys(data.collections);if(!names.length){status('Choose Collect on a sweepstakes card to create a collection.');return}const name=prompt('Collections: '+names.join(', ')+String.fromCharCode(10)+'Type a name to view:',names[0]);if(!name||!Array.isArray(data.collections[name]))return;const items=sample.filter(s=>data.collections[name].includes(String(s.id)));alert(name+' ('+items.length+' current listings):'+String.fromCharCode(10)+items.slice(0,40).map(s=>s.name).join(String.fromCharCode(10)));return}
+if(e.target.closest('#titan-wins')){const history=data.wins.length?data.wins.map(x=>x.name+' ($'+x.value+')').join(', '):'none yet';const prize=prompt('My Wins: '+history+String.fromCharCode(10)+'Enter the prize you won (Cancel to close):');if(!prize)return;const value=prompt('Estimated prize value in USD (optional):','0');data.wins.push({name:prize.slice(0,120),value:Math.max(0,Number(value)||0),at:new Date().toISOString()});save();status('Win saved in your private journal!');return}
+if(e.target.closest('#titan-batch-open')){const items=sample.filter(s=>selected.has(String(s.id))&&!window.titanBlocked(s)&&s.entryUrl).slice(0,10);if(!items.length){status('Select at least one visible contest first.');return}for(const item of items){window.open(item.entryUrl,'_blank','noopener,noreferrer')}status('Requested '+items.length+' sponsor pages. Allow pop-ups if needed; no entries were submitted automatically.');return}
+if(e.target.closest('#titan-show-hidden')){const names=data.blocked.length?data.blocked.join(', '):'none';if(confirm('Hidden sponsors: '+names+'. Restore all hidden contests and sponsors?')){data.blocked=[];data.hidden=[];save();refresh();status('All hidden contests and sponsors restored.')}return}
+if(e.target.closest('#titan-export-tools')){const payload=JSON.stringify({saved:state.saved,entryLog:state.log,blockedSponsors:data.blocked,hidden:data.hidden,notes:data.notes,collections:data.collections,wins:data.wins,exported:new Date().toISOString()},null,2);const blob=new Blob([payload],{type:'application/json'}),url=URL.createObjectURL(blob),a=document.createElement('a');a.href=url;a.download='sweeps-titan-my-lists.json';a.click();setTimeout(()=>URL.revokeObjectURL(url),1500);status('Export saved.');return}
+});
+})();
+</script></body></html>
