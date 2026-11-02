@@ -1159,4 +1159,18 @@ header,header a,header button,.titan-navigation,.titan-navigation a,.titan-navig
 input,select,textarea{color:#fff;font-weight:700}
 input::placeholder,textarea::placeholder{color:#cbd2eb}
 @media(max-width:600px){.card p,.panel p{font-size:15px;line-height:1.55}}
+</style><style id="titan-believe-floating-style">
+#titan-inspiration-believe{position:relative;isolation:isolate;overflow:hidden;background:radial-gradient(ellipse at 18% 30%,#7342bb88,transparent 45%),radial-gradient(ellipse at 83% 70%,#077db577,transparent 46%),linear-gradient(115deg,#190e3d,#291356,#092c55)!important;animation:titanBelieveFloat 4.5s ease-in-out infinite,titanBelieveGlow 7s ease-in-out infinite alternate;transform-origin:center;box-shadow:0 16px 42px #0008,0 0 24px #ba60ff4d!important}
+#titan-inspiration-believe p{position:relative;z-index:2;animation:titanBelieveText 3.8s ease-in-out infinite;letter-spacing:-.025em!important}
+#titan-inspiration-believe p span{display:inline-block;animation:titanBelieveShine 3s ease-in-out infinite alternate;text-shadow:0 1px 8px #fff7,0 0 25px currentColor}
+#titan-inspiration-believe p span:last-child{animation-delay:1.1s}
+#titan-inspiration-believe::before,#titan-inspiration-believe::after{content:"✦  ✧  ✨  ✦  ✧  ✦";position:absolute;inset:6px 0 auto;color:#ffe09d;font-size:clamp(15px,2.6vw,26px);letter-spacing:clamp(10px,4vw,42px);white-space:nowrap;opacity:.85;pointer-events:none;animation:titanBelieveStars 5.5s linear infinite}
+#titan-inspiration-believe::after{inset:auto 0 8px;color:#7ff4ff;animation-direction:reverse;animation-duration:6.5s}
+@keyframes titanBelieveFloat{0%,100%{transform:translateY(0) rotate(-.4deg)}50%{transform:translateY(-11px) rotate(.4deg)}}
+@keyframes titanBelieveGlow{0%{border-color:#a66bff}50%{border-color:#48e2fc}100%{border-color:#ff85d1}}
+@keyframes titanBelieveText{0%,100%{transform:translateY(0)}50%{transform:translateY(-4px)}}
+@keyframes titanBelieveShine{from{filter:brightness(1)}to{filter:brightness(1.4)}}
+@keyframes titanBelieveStars{0%{transform:translateX(-12%);opacity:.5}50%{opacity:1}100%{transform:translateX(12%);opacity:.5}}
+@media(max-width:600px){#titan-inspiration-believe{margin:22px 12px 35px!important;padding:36px 15px!important}#titan-inspiration-believe p{font-size:clamp(25px,6vw,38px)!important;line-height:1.25!important}}
+@media(prefers-reduced-motion:reduce){#titan-inspiration-believe,#titan-inspiration-believe p,#titan-inspiration-believe p span,#titan-inspiration-believe::before,#titan-inspiration-believe::after{animation:none!important;transform:none!important}}
 </style></body></html>
