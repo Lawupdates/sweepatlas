@@ -1,12 +1,12 @@
 {
-  "generated_utc": "2026-11-02T15:40:43.082778+00:00",
+  "generated_utc": "2026-11-02T15:40:52.596871+00:00",
   "total_source_records": 2159,
-  "searched": 250,
-  "remaining": 1909,
+  "searched": 491,
+  "remaining": 1668,
   "results_by_status": {
-    "entry_page_not_found": 201,
-    "insufficient_title": 9,
-    "rejected_nonentry": 40
+    "entry_page_not_found": 399,
+    "insufficient_title": 44,
+    "rejected_nonentry": 48
   },
   "notice": "Candidate links from public web search, not certified active entry forms. Human review required before publishing.",
   "results": {
@@ -2746,6 +2746,2613 @@
       "status": "rejected_nonentry",
       "search_version": 4,
       "looked_up_at": "2026-11-02T15:40:42.696780+00:00"
+    },
+    "9b027febd9137561": {
+      "contest_title": "Instant withdrawal sweepstakes casino: 5 fast-paying picks for July 2026 right now - PennLive.com",
+      "original_article": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPc2VEdkFGVjdTUEZ3dzBLVm41WDJHS3dzVUlpMkEwWVVrMHlVVTVEM0UwYk9aQTNPUDJrdXdBUHgzTkhoUVdKUHBXelVhVks0aGtnTTc4QV91b1JyUUViaHpLX1VmSUc3UnJ2RThUNDJlQ2RfTmtmNUhtWEZqS1ROMUZYcnMwQ0h4cXpsNUtxUzF0WjY2MHpZVkVYNE1PNkQ4ZDl3Z29FOWRsTmo2RGd6amVHZjlPRFl6RUJueDJGVnZZUnlnTWRBVndfMl8xRDFyQk1mdHBB?oc=5",
+      "status": "rejected_nonentry",
+      "search_version": 4,
+      "looked_up_at": "2026-11-02T15:40:45.855397+00:00"
+    },
+    "e775c0b0cd98531d": {
+      "contest_title": "ENTER NOW: Win Cash - Q106.5",
+      "original_article": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBuQTZ6WXFrdzdVVnRHVUFuM3BoQjVlOFJTcWJDTW9Ud0taTC1FdE5QaEZnWUgzQXUtc3V2ckxFZ0VSOFJRQkNrTTlCNGo?oc=5",
+      "status": "insufficient_title"
+    },
+    "f0a89520ef0405db": {
+      "contest_title": "2026 KSNT Tailgate Sweepstakes sponsored by LMH Health - KSNT 27 News",
+      "original_article": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMlVRblhnek8wZTM2aVdUZjFWUk1SZnNLdF9YY1NWOVdzTUVyRi1hR0dWMExHeVdhaDVvUVJnMFZ1SGpwemlnTlVPWW9GNWp6eWdINUtLWlBybTZXS18xTDI2UHBVYUVOVzdhQVpteHE1QUJLSm5CNDcyLTZld0pkLUNtQ1lpVmRzWGhKUWVR0gGTAUFVX3lxTE5BVlVSdjQ3N3JTVFlsTVBDb19tRkp0c3QxVk9RWHR2U2xpSUMzZjJoRWlua1luajBUWi1qb3A0cVlLUDREYnVPSlphakVMWThCZ0F2cFhBVlc2YlRVbWYweGhEX21ZNmFyMXVwR0JYOGcxaktueUVhNnUwSVNqU1FqUWRpaGNQQ2FoVUV0dTRHdFJUNA?oc=5",
+      "looked_up_at": "2026-11-02T15:40:46.304203+00:00",
+      "search_queries": [
+        "\"2026 KSNT Tailgate Sweepstakes sponsored by LMH Health\" entry",
+        "ksnt tailgate sponsored health sweepstakes enter official",
+        "ksnt tailgate sponsored health giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "9d7eecad8f6720f8": {
+      "contest_title": "Alexa's Got You Sweepstakes: Enter by June 18. - Mashable",
+      "original_article": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBIUXBOdGlJcmF4bWUwcHlnb0k4S2hxYmtrOXFhY0o5dm5NcEsxMGtFNEtCWmRONTlKbkxJcWdhMndIQVFkUTJtdGY2OFoxOUFYSWNHTVMtVVVQY1VXVXdTcjAzLU5hTGo2eEFRUVl0bW0zV1U?oc=5",
+      "looked_up_at": "2026-11-02T15:40:46.290374+00:00",
+      "search_queries": [
+        "\"Alexa's Got You Sweepstakes  Enter by June 18 \" entry",
+        "alexa june sweepstakes enter official",
+        "alexa june giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "b03963ce2f603f3b": {
+      "contest_title": "Dudley DeBosier Announces $2,000 Back-to-School Giveaway - New Orleans Magazine",
+      "original_article": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZzBxMHZhTDB4a1N2MVFpa1N2SjBmWDBwRjBldHB4NGF6NWVSSGY5d25mS2dHTzIxdUg4TEFLWjR6ejVWUmJhRmhTblIwQjhNVFBlNmRESUg1bjdoLVVMSV9HNUR4RDhBZzZfRm90WGs0aVNXT2djYnF3MlQxOF9LLWxRRTZzSmw0Tlo4?oc=5",
+      "looked_up_at": "2026-11-02T15:40:46.367281+00:00",
+      "search_queries": [
+        "\"Dudley DeBosier Announces  2 000 Back-to-School Giveaway\" entry",
+        "dudley debosier announces back school sweepstakes enter official",
+        "dudley debosier announces back school giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "9da3ce91e83b192f": {
+      "contest_title": "RedBird Farms Fan of the Game - Arizona Sports",
+      "original_article": "https://news.google.com/rss/articles/CBMickFVX3lxTE5hYjN1a3h2dktxWUNnSzB6SzVNbkxTMU5Fa0E2YzR3WURWbHJJOHN5MjM0Q2NwVmx3RVV4NEYtU05SU1I5RzhTRXd2OERNNDNsMlVFM3hIZGlRYnRVS2pscjdNTzZUV3FtUHVvaGRzN0Z1QQ?oc=5",
+      "looked_up_at": "2026-11-02T15:40:46.385499+00:00",
+      "search_queries": [
+        "\"RedBird Farms Fan of the Game\" entry",
+        "redbird farms game sweepstakes enter official",
+        "redbird farms game giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "afa6359d26a35f62": {
+      "contest_title": "ENTER NOW: Win Cash - New Jersey 101.5",
+      "original_article": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE50WWtDTzVtTzhWaHRHSkhmUXgtTFJSN1VlNTFhQXIyWmJLQV9EZGc5OGhlTFpxTnl6RDJhNDBPNHFuTWVBdXRYdlp2NTFxVTg?oc=5",
+      "status": "insufficient_title"
+    },
+    "c4895ec29097f928": {
+      "contest_title": "2026 Columbus St. Jude Dream Home Giveaway to take place on Thursday - WRBL",
+      "original_article": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPT1RERUVqR2ZtbTBFeVo1Z2JnSXE1Vnk5T1lUMHJibnpWeHJKbXlhci14ZGJuV3RjODFkaVNtaWR1eXRPWk9XZjRoVVpRLUFObWdhZXF3dkR6cGVqclhVYjJjV0ROcGZYdWNSYkxuM3VBdnVJUDRQdkpvODdrUzBUWWtydUpiV25BS2NMTnVXdzAydDhsOFlsQdIBngFBVV95cUxPeXZfLVh5M29FTm1Sb0YybElxOFpMVnpIZURpZkhHMUdQZklGaWhpYkdyNWd6aldwMUdzUGtnVndMbFktNHBoa09KVmtCNl9sS2FsUUpjNUE0WkJWRG5iM0Q4alIzdkNnQndfQ1c4dFJUT0tFQ1ZDa1NRUEpuQm9zRHRNZVk4cVdYdEFOSGVMLVNmZjhnN3psV2J1Xzl6Zw?oc=5",
+      "looked_up_at": "2026-11-02T15:40:46.413532+00:00",
+      "search_queries": [
+        "\"2026 Columbus St  Jude Dream Home Giveaway to take place on Thursday\" entry",
+        "columbus jude dream home take place thursday sweepstakes enter official",
+        "columbus jude dream home take place thursday giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "34cb7983395e195d": {
+      "contest_title": "Winners for the 2026 St. Jude Dream Home Giveaway! - KSNV",
+      "original_article": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPXzU1aXZGQ1B4WEpPVzN4dkxZcW4ybjZfVlU2YW8tX0xwa1RoVG1MbHdYa1dUT1NzUUFIQTF2TEFMd2JwYmFTTGJSdXVjbE16bTIyaXVUa2QxNWxCdm1rX0Fwcld0b3ZXRkM5c2NSdkRkcThGRXBlTk1JOE9vak1LU0FlZk5ZeDZ6NDFzZE5tU1pCNl9INFhlVE56NHBzOXQ2X2VjMm8wNmdkRlp6LXJ0cV9R?oc=5",
+      "looked_up_at": "2026-11-02T15:40:46.328035+00:00",
+      "search_queries": [
+        "\"Winners for the 2026 St  Jude Dream Home Giveaway \" entry",
+        "winners jude dream home sweepstakes enter official",
+        "winners jude dream home giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "3ff6b0c988e8ae8b": {
+      "contest_title": "5 casinos like Stake.us worth a spin right now - AL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVEFIaEJyRHdkbDFRMTVvYVQ3ekotME5TM2lKSVRlZmp3SktmclFVdVFsblpENHNMSVRUa3RVUlMtLTgxdS1HeEtOMjhhVDdsaGlTTlJwVUs3NmJIUWNPMzYtYTJ3TUVxZ29LY0NGZ3dBM2FyaUR6NjZ6ZWQtOTNzMHBrTURNT3BuXzZHbzBxdEUwTmc?oc=5",
+      "looked_up_at": "2026-11-02T15:40:46.314918+00:00",
+      "search_queries": [
+        "\"5 casinos like Stake us worth a spin right now\" entry",
+        "casinos like stake worth spin right sweepstakes enter official",
+        "casinos like stake worth spin right giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "471d3373afc2af73": {
+      "contest_title": "Cracker Barrel sweepstakes to give 250 customers free gas, food - The Asheville Citizen Times",
+      "original_article": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMWp1amRsakNiTS1ib3A0cTQ4UVZ5X3JSNWZNaUZ5T05zWjVaYmpjbWpYU3MtUk5DeXFOWXRIdEhYeWxWZThsaXQ1aWVjZC1qamkyb0YtMHNJVVFsdnMtdkFHaEZsYUpDb240Njd6V0VfY3QycWNWWjBEVk5jVE84RXRrTGlhSEJsLXdnSlZmLVA5U01MTEVyYjFwVXlxYm9wTGdJZEhGYmFPQVVkNVRBSjFlYWJWSUgyRnFB?oc=5",
+      "looked_up_at": "2026-11-02T15:40:46.386429+00:00",
+      "search_queries": [
+        "\"Cracker Barrel sweepstakes to give 250 customers free gas  food\" entry",
+        "cracker barrel give customers free food sweepstakes enter official",
+        "cracker barrel give customers free food giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "8d8816827ccd4c49": {
+      "contest_title": "Best Sweepstakes Casino Apps 2026 - the-independent.com",
+      "original_article": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWXBDUWtWWmdVbnhBUlppbE0zQVRNZ05aUFg4UG1nN1dwQmJVNGJVOGN3S3NaTzUyTW9nRXBBWUlEbEotZ203Zzh0dUR4NFlLcUdPN1hDeU5jZEtGUTQxdTRxNk1pWFVNZFNJYWdIemd5QVJkUDJaZmFUYlZJaVVtaw?oc=5",
+      "status": "rejected_nonentry",
+      "search_version": 4,
+      "looked_up_at": "2026-11-02T15:40:45.868084+00:00"
+    },
+    "3a5cd44c4793ab41": {
+      "contest_title": "Best 4th of July picks for the 7 fastest payout sweepstakes casino worth trying - AL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdU02bVNWcDd0RFQ5a2tKWDRoVG5kcDlYRHRGcGQ0TFVDcm5mSEg0Y0dtZnJ4R1hnbC0xbHlwMkoxcFJ5YkV5Mm1WREg1MWV3QzZJOXRydmo1VHE5VVozMWR0OFZ6azNDX0d4Tlg4ejVKbzBGSEphcjhlc3ZXLVBjdlhhUjBfU05BaTV6MlhXTWd6Q1lQREI0Sk5RbjVyMmN3TFZwRlc4SkNyN3VaNUlGdy1SYU9IMjRWWDB5NWR1SnQ?oc=5",
+      "status": "rejected_nonentry",
+      "search_version": 4,
+      "looked_up_at": "2026-11-02T15:40:45.871694+00:00"
+    },
+    "0ef69788e6047053": {
+      "contest_title": "List of Sweepstakes Casinos (September 2026): Legal Platforms Ranked - RotoWire",
+      "original_article": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYzlFbU5lZllfT09QMm4tNGpTbldwanUxVUtiVXAzaHUwYlZudFdiTzRjNFRjbWN6SXZUNUQzY0NRb2hZcl9CMHkyZ3RiUzlLMEhiSWpQMkRxTF82czVLS0xhdUt5d3BKX0NWZEpheW1LR1pUQlBuUy0teXFvQk9td0wxTWdzY2R3X1hOS1U5aEV2ekVtM3pzS1VvckxnQTFMcnFzaU8zSGFkU2UzX0tXMllNc3lwckJl?oc=5",
+      "status": "rejected_nonentry",
+      "search_version": 4,
+      "looked_up_at": "2026-11-02T15:40:45.871724+00:00"
+    },
+    "ae404f0f1e0d24e5": {
+      "contest_title": "Think You Can Beat The Freeze? RaceTrac’s Sweepstakes Returns for 2026 - The Manila Times",
+      "original_article": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdlNETkppT3NtWmdKMk1wVnVQeHptU05xZGVacThkS2FMbWswVzJ2QUJFX2cxQjhaOHIyN2xUM3hNeU5CZkhlNnl5VFA0MTNQUDNMaUdBOEZteUZoQkRKLUJNb2xlYW5BcUlneDZfWUk3QUhOWmhOWlp2c2tTSXgyNW53UEMyVm1obFdDZkZjZUJIZkd5V2lEMlhJWDhOdEFzYlhTVHZ4MWJQWllFb283anN3bVA0ZmQ5R1ZRNFExS1AtamhndF8zQk1VZVA4NGFPdzVoUUtKYl9qUdIB3wFBVV95cUxQVFhyWmJWWl8yV2ViLTA3RTl4NUVvTDVLVFQ0T1V1dFVYTFVBWkhGR09nUUVHbGdhS2VJX1BRNFhxWDBvMUpGZ3VyTVF4VDJtLVNyMFlINHRoenhpem05TDBOTTJrTzRubXVON2Z4cmFSS0RwRHBzRThlb1ZkN0RWb0VDcm5tZ0s0U1VYU0lzZW1LbGZxNVg4RlhxNEV6MkVBdFM3ZXgtWkNjdWEtVU5QeU4yeXJNVDQ4RTgySVhBc19ZU1lGcW1JT19hZF9TRXBSbW5EZ0dYWjZSX05yVGww?oc=5",
+      "looked_up_at": "2026-11-02T15:40:46.401368+00:00",
+      "search_queries": [
+        "\"Think You Can Beat The Freeze  RaceTrac s Sweepstakes Returns for 2026\" entry",
+        "think beat freeze racetrac returns sweepstakes enter official",
+        "think beat freeze racetrac returns giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "c74eb6419fa0f93a": {
+      "contest_title": "Fastest payout sweepstakes casino: Which sites cash out fastest in July 2026 - NJ.com",
+      "original_article": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPd1AycHhkT2lTQWx1c0hYZmtuaklqUmV0MjdyeVRiSHM4SG1Qb2hudlg4amVQbVNzdTRtejZlZjdiVU1VdjVjblVqdXdXOHh2MEtfMGVzVlo5a1JUd1g0QzFFczY0alBJNTctclBFM0JJMW9acFNDWlJ6d3NaSXFUbEVzaS1keXI2WHVNaFM3ZVA2ODNac0JMcDVaVjVNNGNudS1MX1FpeEFpRlBvWVJtVk4wOFZrbFRMdWJz?oc=5",
+      "status": "rejected_nonentry",
+      "search_version": 4,
+      "looked_up_at": "2026-11-02T15:40:45.875671+00:00"
+    },
+    "aa64fd6232d59ea5": {
+      "contest_title": "New York Sweepstakes Casinos in 2026: Legal Status, Restrictions, & Legitimate Alternatives - RG.org",
+      "original_article": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9MUW81TzVvZ0pScGpKVF9DRDV1UHpfdWJJU244RExhQzYxMnVMeDg5WXJjWTF4M21pbkd5TU5TRVBhbDgwX2d3MzRnLTVyeVhOVVJrSnhMcS13NWxaN19uSA?oc=5",
+      "status": "rejected_nonentry",
+      "search_version": 4,
+      "looked_up_at": "2026-11-02T15:40:45.880668+00:00"
+    },
+    "d7de109ea5aa5402": {
+      "contest_title": "5 Best Sweepstakes Casinos and Apps October 2026 - List Wire",
+      "original_article": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc2NlUEpVb0UxeWlsOG1aZm1Dai1xTUd0aVVZLVg2dGw5d2Z1MnRZY2I0RUVFWmQyaUlkaVJHX19zQWpieVBUMmNxdDJlQUU3alZIaTVkamRhdTNBU3R3UlR5Q0duRDMyaWEyb1JuT3JTQ056OFdYNm14cjV2Y3Y4SWhaVFczaWpsTEJNTzRydC1ObU5TbF9NVDlpUkphdG9LWm5SY0sxT1k?oc=5",
+      "status": "rejected_nonentry",
+      "search_version": 4,
+      "looked_up_at": "2026-11-02T15:40:45.880696+00:00"
+    },
+    "60a2c5b9bdb43293": {
+      "contest_title": "July 2026 Freebies, Free Food, Cash Giveaways, Grants & Settlement Deadlines - Low Income Relief",
+      "original_article": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTGgzNnhXQUlfZ3NxcEJEVTJTdkoxaXBjNkdJZmNRS3FTdlREd1pSUWtOczhiLXU0MnpWLWJsanFhbnNGTUxLNkpFU19iT2Zjay1vTU5leFN1ZjVUQXlWT0lfbVhXVnFSekpUQWZzNkJNUXlETGVtOFNTWVhwdUhkajhoMzZmZUVHbnJKcmVXSm5neGxBQXc0MFV5c2dWS2N3cXc?oc=5",
+      "looked_up_at": "2026-11-02T15:40:46.362565+00:00",
+      "search_queries": [
+        "\"July 2026 Freebies  Free Food  Cash Giveaways  Grants & Settlement Deadlines\" entry",
+        "july freebies free food cash giveaways grants sweepstakes enter official",
+        "july freebies free food cash giveaways grants giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "8da577bc2eecc853": {
+      "contest_title": "ENTER NOW: Win Cash - WUPE",
+      "original_article": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5sbU1kZHkzcjhrbVhkSnNxWUFVaXIxaGVRYjdueEdOUXRKQ0FGX1c0RUxUNmJycFgxbXJ6cGhfd1kxTUZFVVJLUUZrdmM?oc=5",
+      "status": "insufficient_title"
+    },
+    "4d2620301f6e1184": {
+      "contest_title": "Nintendo Announces Holiday Sweepstakes and Store Merchandise - TwistedVoxel",
+      "original_article": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ra053ZkNwdk9TZGJiVzNnTTNZVXNPYW9GUnFQanJscjhMa21lLUFaUGJCMVV5NDljQVJqLV9qQWFJT2hUNDdKbnlkOVdQdHJERlJ0NjR3SFhDem5zQ1BfV1pZc21qZUc4RW5iNFRQcENsRTJpMHl3?oc=5",
+      "looked_up_at": "2026-11-02T15:40:46.353431+00:00",
+      "search_queries": [
+        "\"Nintendo Announces Holiday Sweepstakes and Store Merchandise\" entry",
+        "nintendo announces holiday store merchandise sweepstakes enter official",
+        "nintendo announces holiday store merchandise giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "c86caa8f1052c0b1": {
+      "contest_title": "McLuck holiday sweepstakes: How to win a 2026 Chevrolet Silverado - MLive.com",
+      "original_article": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcUI4OTYwQnZMNm5sNUJiVmliMEpaejZ0NHU3WXZZaU11YUNIekxINWJ3NHpkSl90MU1RdVEwR2laQUlMZ0VEczk0WHNFOHZyUGUwOFEyeWJFYk1UdExKcFdQRlJ1MTV2LWxtb0dzRWxIU3VlSk5XR28wTXZhMERYWkxBbXdFbjg1aXlnZDdxYnBaWDc3cG53YkZYYWtPV3VFd3VuVUJFaEtwMWlQOExQbDNBcVZfWk1VcERV?oc=5",
+      "looked_up_at": "2026-11-02T15:40:46.357442+00:00",
+      "search_queries": [
+        "\"McLuck holiday sweepstakes  How to win a 2026 Chevrolet Silverado\" entry",
+        "mcluck holiday chevrolet silverado sweepstakes enter official",
+        "mcluck holiday chevrolet silverado giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "38bc2d0e081acd23": {
+      "contest_title": "Rules and Winners - ABC11 News",
+      "original_article": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9NV0RzRm9tNUtWZXNSeFZJYndGeWY5T0ltQ0FHN2taakZmdlRZeG5Od0xpemFkdElNOHp6RzdhSExKOXNsOGRRSHQzZm5jT0hjZ1ZyMmpFNVY?oc=5",
+      "status": "insufficient_title"
+    },
+    "24b452abe0ff05e9": {
+      "contest_title": "Lou Malnati’s is Giving Away Free Pizza Every Week in 2026 - Secret Chicago",
+      "original_article": "https://news.google.com/rss/articles/CBMickFVX3lxTE5vX0pvYW42OUw3dEdOcGx5YnBBTENPVnZuVW03V3QtZE9BZWR4N0Z5MDJrLXdyS2xuNDZESlpCYjhFY2dMM2FCU1Z1WTNKdk9mZW1NTVNRaFFMXzFOcC1IYnpDbW0xZTdZd2FPQXJadWFIZw?oc=5",
+      "looked_up_at": "2026-11-02T15:40:46.629441+00:00",
+      "search_queries": [
+        "\"Lou Malnati s is Giving Away Free Pizza Every Week in 2026\" entry",
+        "malnati giving away free pizza every week sweepstakes enter official",
+        "malnati giving away free pizza every week giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "8e73094dbdaa1659": {
+      "contest_title": "Nintendo Kicks off Holiday Season With a Chance to Win a Trip to Visit Nintendo New York - Business Wire",
+      "original_article": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUk5lQ2NWZC1zWHgwb0dSZHZHNW85d0NhTkw0NUNJU3dWS2FrMjhfZDVrQUpjWTZMeXFkejBPQ1RNZV8wMGg1TEhIYjNYY2wwX1VFSXlSeHYweTRocy1uRTV0cFc1RjBZUGZVRHBIYlZFLV9NcDlNeXQwTW9jcENpc2J5aDk4LUd3WFR4VHJ5TzlCVTk3RGhBLWhsQjU4cEVpVWxvV2RFWjN6YXdZanRzYzFOUVljaVFrZjVIYTFxT1B6bFlWV25fdDVOLVFDY0hOYXM4VW5lNnB1REthTHc?oc=5",
+      "looked_up_at": "2026-11-02T15:40:46.819822+00:00",
+      "search_queries": [
+        "\"Nintendo Kicks off Holiday Season With a Chance to Win a Trip to Visit Nintendo New York\" entry",
+        "nintendo kicks holiday season chance trip visit sweepstakes enter official",
+        "nintendo kicks holiday season chance trip visit giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "c389508b9d7e94c4": {
+      "contest_title": "PERDUE® and Food Network Are Flying Five Foodies to NYC for a Holiday Feast with Chef Lorenzo Espada - GlobeNewswire",
+      "original_article": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPanpiV1Z0bG5BdUJMYzRYRzMzNTFmS001bTFwaDlLdWYweDlzWXM5enZSNHpJOGNNNENhN1F6Q29LcW5pczNMUEpUMl8wUWJndEJwa1BEQzdXUUJhT3FzdVhHaWM2WXFLb1kyQk1QSUtWakF2Rm9jUlhNNE1KeXNUQmliX0hHMmJoSVRmWWNhYkZtSl9zcHYzQ0pTSDByMUdzNUU4UlA1ZDBCVmFGZ3Itdzl3Q0VHRGxjQXFWeDVLUG14QUlGNzBQNDFkdmhEQ2VvWXBrWDcxdzZyS3p4elgzVndPdFBXaDhCelJIMzc0ZWVJeUVWMTJ6WFg0ZDU0YVBnVXpjeg?oc=5",
+      "looked_up_at": "2026-11-02T15:40:46.663767+00:00",
+      "search_queries": [
+        "\"PERDUE  and Food Network Are Flying Five Foodies to NYC for a Holiday Feast with Chef Lorenzo Espada\" entry",
+        "perdue food network flying five foodies holiday sweepstakes enter official",
+        "perdue food network flying five foodies holiday giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "72e989a8c1a20678": {
+      "contest_title": "California Giant sweepstakes celebrates Home for the Holidays - The Packer",
+      "original_article": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQN0tPbmsyZ1pQV2pvU3JsZnNxSGlwZ0xSbGlUcFBDOWFsRmpTZDZmaGNxdzR1Vm5TRF9uem9wenc0TGdFQ1QyemlIQkVGOGhMd0FOaGtKX1BUWEFYWUI5Q0x4ZDQ4TjFSc1VILU1jeV9KTDBqMnZPRTcwNEd2VFRTV1MyXzlmeXhHYnlOQVktMTNUZXg5MDRJRVJRSEhaZDg?oc=5",
+      "looked_up_at": "2026-11-02T15:40:46.686142+00:00",
+      "search_queries": [
+        "\"California Giant sweepstakes celebrates Home for the Holidays\" entry",
+        "california giant celebrates home holidays sweepstakes enter official",
+        "california giant celebrates home holidays giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "cfacf8b2728b5585": {
+      "contest_title": "The Win Zone: New sweepstakes casino 2026 with no deposit bonus 2,500 GC + 2.5 Free Sweeps Coins - PennLive.com",
+      "original_article": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWXBnN2ctTlA2N3dBLTY4blJuVjhMcXRuc3VGYXEtVm4yLWF1Y3VLWmJMbUVVVmZ6eFZhSktUWm9xb1VYVXZldXpwS0NDN1UyLXRja3BQRTlYYzlZRURQS0xPdFRxZ2pNeG1XTmQtcW9SQ0F4dV9PTE83bm1HUGdIZ1ZrNzJwcmpSa1VZcXROOU9HVVN0ZjhHX05FaUVIUmhRaWstNHExZUtpSjdZdThYTXA4bkV6bFNxQWoyb2s5SENtSzg5VnlUUkQzbXRnaE9LMWk0dUFaVEJjQ1U?oc=5",
+      "status": "rejected_nonentry",
+      "search_version": 4,
+      "looked_up_at": "2026-11-02T15:40:46.353470+00:00"
+    },
+    "0df820d87d94e520": {
+      "contest_title": "Win Super Bowl Tickets or a Caribbean Vacation — Verizon’s Holiday Giveaway is Live - | Cord Cutters News",
+      "original_article": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOY1pWSVJPZVg2WmRyUFB2RVo1RTZ6UTFXdHFKeGlnc3NzQm5SWkU0a0VwZ29fQ3B5Wll5WTdJQVp2VGhFTWx4MXFTVjlhel9RM0FYUzZweHUtamQ2TzFSbU1PcnB2d055UzBSSGNRYm5rZ2pXampQRTFHQktXa3laMkF2cWpNREpodFZrelpHRktHRDBOQkk5Q2FpeFh1V1pWR0ZiU0hSeDlPcWZBbWfSAbYBQVVfeXFMTjhDd2YzM2tfVW5mNUxrUzM3TXl0ZjJqNUZ4cDkxS3puS09UMXVrTG1vWDRKT19oWWx4VFg1Sm9Ud1plekNNLUlLdDJjSDBPMGFtSlJVOGpRVU1VclpLaTk0NFBQVWJrX0NEeWZBdmdwS3hMUkJPeUZOdDJBZUtCTUVrbzJTeGlLX0dUS0JwT3BzUmVXN1VHWW5oYzNWU29TNVhCS2hDQzA5T0xzTDVKUXZ2dGZ1dUE?oc=5",
+      "looked_up_at": "2026-11-02T15:40:46.746520+00:00",
+      "search_queries": [
+        "\"Win Super Bowl Tickets or a Caribbean Vacation   Verizon s Holiday Giveaway is Live\" entry",
+        "super bowl tickets caribbean vacation verizon holiday sweepstakes enter official",
+        "super bowl tickets caribbean vacation verizon holiday giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "5e394b7580aa9c8f": {
+      "contest_title": "All Prizes - Hallmark Channel",
+      "original_article": "https://news.google.com/rss/articles/CBMid0FVX3lxTE83SXNoTmhncXNfWjQ2VERxMkNnaEVuRlFSTHcxTXJKWUFJSWs2NXBSWVRTVnQ2OUJJQnNsRmpoTXowNnU3TldPMENka09pY2xLRl9aTmpmLUg3T2dRTmNaS19TaWVjZXREOVVtUS1KYVd6clY0SzdR?oc=5",
+      "status": "insufficient_title"
+    },
+    "4f9fb6b5daaa3c0c": {
+      "contest_title": "Hallmark Channel's Countdown to Christmas Movie Game - Hallmark Channel",
+      "original_article": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9jZTFZZW5QMUQwQzRBM0wzOGZ0R2F1Q2dLREQ0SHF0TEx4amZNZUlXUGoxa09YVkQxOFFOV1N1aWc1SllvTG0zTExxVVM3NVBYN1gtRkUzZ3BtUVU?oc=5",
+      "looked_up_at": "2026-11-02T15:40:46.862142+00:00",
+      "search_queries": [
+        "\"Hallmark Channel's Countdown to Christmas Movie Game\" entry",
+        "hallmark channel countdown christmas movie game sweepstakes enter official",
+        "hallmark channel countdown christmas movie game giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "b36cfffdb1812bef": {
+      "contest_title": "Merriest Christmas Contest - Hallmark Channel",
+      "original_article": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBNTW04bHc2aDNLdUxiX0hNMEpGSUFPem1YZkt3endmblhHX3ZzZUVMOTkzT1BVandIT3RPUVIxVTBxLWNwbzJzcXBKZWo0NXBCSVZwS3JhbXQ4M0FTamtvcVlvZWJMV1I5Smc?oc=5",
+      "looked_up_at": "2026-11-02T15:40:46.851743+00:00",
+      "search_queries": [
+        "\"Merriest Christmas Contest\" entry",
+        "merriest christmas sweepstakes enter official",
+        "merriest christmas giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "627f61d37621f6e1": {
+      "contest_title": "Hallmark Channel TV Official Site - Hallmark Movies, Shows, Schedule - Hallmark Channel",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA3cHB1RnVBWHFnSWJxZ0F4OTdYNjA3a2c5R2NCcTRjcmM3ZTRYLTNaaDQ2MVNzdWpEcDU3OXpTN0dvWHhGLWRB?oc=5",
+      "looked_up_at": "2026-11-02T15:40:46.760510+00:00",
+      "search_queries": [
+        "\"Hallmark Channel TV Official Site\" entry",
+        "hallmark channel site sweepstakes enter official",
+        "hallmark channel site giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "19db23fc10e9e72f": {
+      "contest_title": "The Santa Summit - Hallmark Channel",
+      "original_article": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBxM0NhSE96RTZ0WHZ1M0hlSTc4WEpaZFNHTGNvR2d1NVBidmhZV2huWERYUWtudHpxRlA0QkxiNlVCQmhzNXBGaG12VlpiZkFYQTNKV2RkRnpLeFl2?oc=5",
+      "looked_up_at": "2026-11-02T15:40:46.829679+00:00",
+      "search_queries": [
+        "\"The Santa Summit\" entry",
+        "santa summit sweepstakes enter official",
+        "santa summit giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "ec7695e97eac0d3d": {
+      "contest_title": "Hallmark Christmas Experience - Coming this Holiday Season - Hallmark Channel",
+      "original_article": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQa2RINEZOMXFsVXJXNWk3SjhJX3VQRkhwQlk4SlE4Rk5USG1qek1PaWVaWXdvekhiTndMaWRremF3R3BGbVB4N1RxbnM2VHZxRUpSV0htV1lSQmlJenFXUUY5d1ZJRXpuSnB0V3VWVWR3TkhVaGQwRnNYTHJoNnN3b1RfeXZHd2ZGeU5GcDEyUENqZE1HM0JrNHFabDdrSUE4b1RvUXVmbTQ?oc=5",
+      "looked_up_at": "2026-11-02T15:40:46.844167+00:00",
+      "search_queries": [
+        "\"Hallmark Christmas Experience\" entry",
+        "hallmark christmas experience sweepstakes enter official",
+        "hallmark christmas experience giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "8283d38c7269d670": {
+      "contest_title": "Movies & Series Programming Guide - Countdown to Christmas 2025 - Hallmark Channel",
+      "original_article": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZ0NqNTZGWmZUUWtON3FvRG1mVEk2Yi1NUGkyWWhLbHBvZTdiWlUwMjN0V3Fadkt4d29ZTUVTNzMtOUJEcFNFVUtUWkpkYlBNMkY0ZWs5RE1kckdjdUF2WElnYXRFdFVhTDlaUldvRG16UlJkWmNaV0ItNWVMZ1Utc0l4SHVjWDIz?oc=5",
+      "looked_up_at": "2026-11-02T15:40:46.733836+00:00",
+      "search_queries": [
+        "\"Movies & Series Programming Guide\" entry",
+        "movies series programming guide sweepstakes enter official",
+        "movies series programming guide giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "110b0003ca2e756d": {
+      "contest_title": "About The Nights Before Christmas - Hallmark Channel",
+      "original_article": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9UdTR4cnEta2RGd1dxTEhaS2JjcmdTZ2lMV0ZsR3VUWXJqY1hON0RiS0RBdFNveHV2SnZLNkliUlJFQ0pUcmNLRTh6Sk9UX2RUZVhQcGZpT2t0bGJ1X1VQczRodFlUWU8ydXU4?oc=5",
+      "looked_up_at": "2026-11-02T15:40:46.737993+00:00",
+      "search_queries": [
+        "\"About The Nights Before Christmas\" entry",
+        "about nights before christmas sweepstakes enter official",
+        "about nights before christmas giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "3cee1309594b20b6": {
+      "contest_title": "First Look - Holiday Ever After: A Disney World Wish Come True - Coming this Countdown to Christmas - Hallmark Channel",
+      "original_article": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQQ004SU5TSzE4UUptNWxWMGF0QzdKaFVxQ3k1Z3R3bmVqTmVlY1doNy1Yb0FEeTBHSEJwQ2hJR2ozRTZqYmtQT3VMaDlUUTM2cTBsVDlURGc5YW05UGlaMXlNRG5ZRUpLcFVQT1hRME8tLV9JaWZvbUgwQ3pvU2FuaklKcU9TeFREdGxKTFNTZlZMbU9YdF8xcGE3aU5SQXF3VDEzTkduY1FsTUxvRGp3dUp3eFNBUUx1c1ZTU2o4SE4zb0g4V3hsaE9OaVYzUkpkblJkVmtTTmJQcUllN25lX3J2cmVBN3lPR0NJd20xTU8tVUFEa1ZkTFl4SE5jZTJQNVI4Mkd0MWVaQjhmcm93?oc=5",
+      "looked_up_at": "2026-11-02T15:40:47.029854+00:00",
+      "search_queries": [
+        "\"First Look\" entry",
+        "first look sweepstakes enter official",
+        "first look giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "d27590f975e36014": {
+      "contest_title": "Holiday Touchdown: A Bears Love Story - Cast - Hallmark Channel",
+      "original_article": "https://news.google.com/rss/articles/CBMifkFVX3lxTE45R01ZSERreFJ5RmwtUTNxMm9ZUGVfdFR1aFBla2FDYVFRNGt1RWJzMDBPelhwMG1IdEk3Q1ZHOXJFMGgzcXJ2SUU0cUl1dm9abnBCdlY2d2Q2bEF1UmcwMEZVb21FVi1hRnNJZTRERWQ1X2RfNHEtdEVrQkh3UQ?oc=5",
+      "looked_up_at": "2026-11-02T15:40:47.071703+00:00",
+      "search_queries": [
+        "\"Holiday Touchdown  A Bears Love Story\" entry",
+        "holiday touchdown bears love story sweepstakes enter official",
+        "holiday touchdown bears love story giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "272cc2b71271c84a": {
+      "contest_title": "Round and Round - Hallmark Channel",
+      "original_article": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1oQ1RYSGZnYlE4TEtKbEFiMG92Y2NjWWhOMnRmR0ZXdjFDbFdNbWpQYzhTOFFJcy1DLWN1bXFoY0REenQxY1ZpYWtrRFY2aFU3c3hvRXlZdGkxM00?oc=5",
+      "status": "insufficient_title"
+    },
+    "b625bd760fb13519": {
+      "contest_title": "About Eight Nights for Love - Hallmark Channel",
+      "original_article": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE51YktQQ2J0RFFyQk5BOHZSd3JDcW1KcUxiRnRZcDNFUnVCNVhCaUN3U2FwbVJ6ZkhkdEVSbG05NkMwbEFCMGV2MGVFanJfUWd5RGRWMGRidjlMR0tEWG9EXzRDSQ?oc=5",
+      "looked_up_at": "2026-11-02T15:40:47.032415+00:00",
+      "search_queries": [
+        "\"About Eight Nights for Love\" entry",
+        "about eight nights love sweepstakes enter official",
+        "about eight nights love giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "8f2d57f720fae0f5": {
+      "contest_title": "Episode Guide | Mistletoe Murder - Hallmark Channel",
+      "original_article": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcE5YR3BOa1loSEprZk8tQWFVbnMtb0hNMzk3TmpPOHdseTJCVlh2M2Vwa085M3AtVmZHUG1nVjdwM2dOWDdoRnd0ZUdCYzlqcVJ6aHB5WmxIRHVpR3hmaDh0bnpBV2FrMGU0NE9ldzlIRk1Kcmg1dnRJX1ktaFN1endfSlY1Wlc4?oc=5",
+      "looked_up_at": "2026-11-02T15:40:47.141845+00:00",
+      "search_queries": [
+        "\"Episode Guide\" entry",
+        "episode guide sweepstakes enter official",
+        "episode guide giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "3e43eed076616993": {
+      "contest_title": "Hallmark Channel's Countdown to Christmas Movie Game - Hallmark Channel",
+      "original_article": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ZOGVuLUswajd3d1F3S2d2UzFfa2VQRzJpQ1U5M1lVejFWNGpyY0l4a21BNHpta2Fwb3JMZWJFLTFDSmdZcFZrd2ZzTjhIX2tERHRGRTVmeDV3bklMWFR3?oc=5",
+      "looked_up_at": "2026-11-02T15:40:47.160878+00:00",
+      "search_queries": [
+        "\"Hallmark Channel's Countdown to Christmas Movie Game\" entry",
+        "hallmark channel countdown christmas movie game sweepstakes enter official",
+        "hallmark channel countdown christmas movie game giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "f2fbc381b4afb0d0": {
+      "contest_title": "About the Countdown to Christmas Movie Game - Hallmark Channel",
+      "original_article": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTl9oVndBRkNrTHE5eTBjeGljOHNxdlZnS3VjNHNVcnh6OE91YTVVTGR4RjJ1OEhCMlNzNzR3NjJVUGxKSjlkZUZOTWV0S1BhRVprR1UxNkdSLXNqMjM4WlZBN1YxYXo1V1lfQkJ5eXF4Q2pUZzFCWFdncDhjM0x2a0M0SDVmSHVLUWdpTlpn?oc=5",
+      "looked_up_at": "2026-11-02T15:40:47.131913+00:00",
+      "search_queries": [
+        "\"About the Countdown to Christmas Movie Game\" entry",
+        "about countdown christmas movie game sweepstakes enter official",
+        "about countdown christmas movie game giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "b447f7ce23b4c721": {
+      "contest_title": "Christmas in July - Official Rules - Hallmark Channel",
+      "original_article": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5UMGhTZnRlZVYwZF9LQUpLOWpPbUR5R3lFbC1oSlBlWTV1NUJ5MzF4MEtnWXBKRElKLWh3cTZNakx4dU91T05RaWgwSGRBNTAxcTM2OFAzU3lhM2hIcDd6dUZucGVoNTZmZlp5VA?oc=5",
+      "looked_up_at": "2026-11-02T15:40:47.154186+00:00",
+      "search_queries": [
+        "\"Christmas in July\" entry",
+        "christmas july sweepstakes enter official",
+        "christmas july giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "1b0801a206ec6b85": {
+      "contest_title": "Countdown to Christmas - Watch the Best Christmas Movies, Sweepstakes, & More - Hallmark Channel",
+      "original_article": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE56RWNKSHNjSUcxczJfWkZOWEV6OTdUM1FQY0Frb2xUOTQxQ0lHYzhDLU1VczR4M2MwR1h5eXJTdU5tX0I3a25kQXMzNzllX0hRbTNj?oc=5",
+      "looked_up_at": "2026-11-02T15:40:47.188754+00:00",
+      "search_queries": [
+        "\"Countdown to Christmas\" entry",
+        "countdown christmas sweepstakes enter official",
+        "countdown christmas giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "447c4d86bf707008": {
+      "contest_title": "Hallmark Channel Sweepstakes - Hallmark Channel",
+      "original_article": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9zdFhhRkJOcVV2NWtjWDRNc2FMdFZfRXExdUNpTlNZZktWREVaWW1hNXJrY01JWHVxX0swWFhFXy16bFM2ZmFYajRsanZkdE9oNEQxQnVRaEJPRTZ1cXhxS2xuTWZRU0pmZXB2OQ?oc=5",
+      "looked_up_at": "2026-11-02T15:40:47.185171+00:00",
+      "search_queries": [
+        "\"Hallmark Channel Sweepstakes\" entry",
+        "hallmark channel sweepstakes enter official",
+        "hallmark channel giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "6c9e40c6383a4d9d": {
+      "contest_title": "Holiday Home Decoration Sweepstakes Winner - Home & Family - Hallmark Channel",
+      "original_article": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcWJkQmdieU9IVG1tUEY4ckRGWGhQYTk5QXdxNmtzTWV1eTFaYUwxejZMbXhaRjR3RU1KSUZRUHRXSW9UVmtHTVhUWGRYcW5iSUNQVnd3RnM5M2NZOTYzU3BRbVM1YXpCNnVyTTVvZGdJdHV1alJ1Mi03dUhCVzhaaFBtQnB2ZTRpcjkwMUxiU1I1b21OZ0FjX29Jc0xmdDJabVN0d3J0RWRSaDEtbWdQS0Q5bw?oc=5",
+      "looked_up_at": "2026-11-02T15:40:47.327489+00:00",
+      "search_queries": [
+        "\"Holiday Home Decoration Sweepstakes Winner\" entry",
+        "holiday home decoration winner sweepstakes enter official",
+        "holiday home decoration winner giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "0b5dd79e87761430": {
+      "contest_title": "Official Rules - Hallmark Channel",
+      "original_article": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9GbXdZanVzMDB3SWp2X0R2N21YLXdBT3dOSXEwUEFDYWdROUQtUVlvS0tkU2x3SDBQMloyeURJMjdfZWZ3RGRtc01sdFRXWUljVGF4VjVmb29xb2dWNWZfRw?oc=5",
+      "status": "insufficient_title"
+    },
+    "6e245ace64ef65dd": {
+      "contest_title": "Countdown to Christmas 2026 Preview - Hallmark Channel",
+      "original_article": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPX1NDbnZEeFVMQ3ZyQloyMWlDLXAwT1dDamZZNDV0MjVpcVdUb2Q0MXpidTk3V25UTnhYTXZTdnhwTHhuTHp1VWpmbWJZMDZEM1dET3QyLUJrbU9IUUpQeXdQT016NVZBcFpTQlcxZndUZ0NjYVEzaGczZm9rUUdva0lIQkFBdDA?oc=5",
+      "looked_up_at": "2026-11-02T15:40:47.250411+00:00",
+      "search_queries": [
+        "\"Countdown to Christmas 2026 Preview\" entry",
+        "countdown christmas preview sweepstakes enter official",
+        "countdown christmas preview giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "abe6f6a6a0f5848b": {
+      "contest_title": "John Brotherton as Ben in The Christmas Contest - Hallmark Channel",
+      "original_article": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBjV2t4VWJMeG5Jd1UzQjB1eGdPYzJNRndEajBjZkZNbVBpa2lHYWFfNkt1RjRpb1RBVk9yZ3h0akxQa1dNWk1UVlphMkRXYUtTZzBGeFktcnd3QzNwMlZsZDRJLUFXSVR5UnliSk5aWTBRdWdBX2NaNTFOeF9YYzA?oc=5",
+      "looked_up_at": "2026-11-02T15:40:47.319070+00:00",
+      "search_queries": [
+        "\"John Brotherton as Ben in The Christmas Contest\" entry",
+        "john brotherton christmas sweepstakes enter official",
+        "john brotherton christmas giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "7fb3237a1f9a3954": {
+      "contest_title": "Preview - Christmas in July 2026 - Hallmark Channel",
+      "original_article": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOEFFVUZvRl82UjVmeVFLc1BDMjZLb0pwRmFDYzdMZDNKZVhHNmhadW9Jd3lKTTNvSUxKM1BCbUVKZjdnWjZVbG92U2VhUmVSOGszWWhOY3dqc3htMGlQYloyUlUwUl9IY0JNMENTOWJhd0w0akVpOEZYY1dQUmc5dXRCd3lTdjExNWNyVUMyMjg?oc=5",
+      "status": "insufficient_title"
+    },
+    "d1aa2e07aff0a298": {
+      "contest_title": "Hallmark Channel’s Countdown to Christmas Keepsake Ornament Giveaway Rules - Hallmark Channel",
+      "original_article": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMkJqdzktYmJIZnB5bDM2S2Etbk9iVk9ObG5rc01mb1MzSDRrTjAwTFJOdUJaTmR2UlFod3JmTjZQeDk0clZSRm90ZzJ6SjMtUXV3OHExNVdvdHhFVG5oM2xtX2RTd0IzQmJEQTFjMDZ5R190Q3E5RTFBYTF6clduVnVZSnZrYTdQQ3Y5a0R4RjJDTGc0TDg0bzZoaWYyUFJmVFlEb25fTjVnX0tjQkxKME9nUTNxb0VwVU5MSzUwR2Rjel9TUTVnZw?oc=5",
+      "looked_up_at": "2026-11-02T15:40:47.449600+00:00",
+      "search_queries": [
+        "\"Hallmark Channel s Countdown to Christmas Keepsake Ornament Giveaway Rules\" entry",
+        "hallmark channel countdown christmas keepsake ornament sweepstakes enter official",
+        "hallmark channel countdown christmas keepsake ornament giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "70bc61d31603af71": {
+      "contest_title": "Preview - The Christmas Contest - Hallmark Channel",
+      "original_article": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORWN0bjB5eXB3al9aTjRZSnVJSDF3VXdKWUZ2SXlzM09KcWxaTDBvUmRMQS1jdnZxSmpFcHBEdDBUN19ESHRTSmpfa2ZaMHNwYnc3Tk1ieWdWb1A2cDdHb05DczVfZXhMX243UFpLYzM3UU9Rck1KZlF6azdIdHpQZVFWVjRvS3ViRC1RYzBZS3hfZmpK?oc=5",
+      "status": "insufficient_title"
+    },
+    "82a389d18b00eede": {
+      "contest_title": "The Christmas Contest - Hallmark Channel",
+      "original_article": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBkR09zMDdraHE5a05YTTkxdVpyUXdnQUszUlp6cHhiNDJCcXZfU05rZVVmX3Z1bTVNamlVSzdfMHk3WE9lWk9XMEJmVFUzckZwS25yLWxob3duWmRyeTc5ZE1KQQ?oc=5",
+      "status": "insufficient_title"
+    },
+    "6b95cf139829a871": {
+      "contest_title": "Hallmark Keepsake Ornament Reveal – Crayola® Colorful Schoolhouse Ornament - Home & Family - Hallmark Channel",
+      "original_article": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxON2M0QkNFbEpLejVDLXA4QmFNV1JLQXJMcTgzOWNPNnl4N1ktMkxWRlJuX0F1SHkxaUx4NWRNam43WnlXT1RaY0k4MW90QnJBMUpxU3ZpZ0tQZ2Q5bDNOWWNic2FZMzJDaW9wUVZwU1UyeFZvU2tkazd1bEtLR1VDZGVtbjQ2OVo0QVY1Ui1wOWFnU002WEU3djRhODB6MU1yQ21icWM3MkVNRWVlYi1ncVp6OFI3VU10cktERTdjTGdJbUdZRU81dVRBVGRyTkFsb1lSWg?oc=5",
+      "looked_up_at": "2026-11-02T15:40:47.450316+00:00",
+      "search_queries": [
+        "\"Hallmark Keepsake Ornament Reveal\" entry",
+        "hallmark keepsake ornament reveal sweepstakes enter official",
+        "hallmark keepsake ornament reveal giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "05b0ce7ca969683a": {
+      "contest_title": "How It Works - Hallmark Channel",
+      "original_article": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA1Y0FzcERVSmJQeXBrYS1jUnJyRFAyRmY4SEdWRUJxSEctdkZGbGJSMGpad0htX28taFB3ZS1xRjhrcWhreFh2VzZ5bUpYbmJCZGttSzVYTWt0MFhmM3c?oc=5",
+      "status": "insufficient_title"
+    },
+    "72a1f0db04186933": {
+      "contest_title": "Hallmark’s Merriest Christmas Towns Contest Terms and Conditions ● VOID WHERE PROHIBITED BY LAW. ● ALL DISPUTES WILL BE - Hallmark Channel",
+      "original_article": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYV9MM3N6RExsUU9MY2JJcVRaei15emw0c1FZYnNGbjNJZjh2M3ZIUWdobUZ3X1VDMWhQSEo4NHRPM1Y3ODlkQlBoMklzMkZOZnhvYXRZT2JXRGVJZjg0Z1pucnBOZko0Z012Wk5UbjNSZzFBVGtJMlJYWVAtNHlBS2oxeTJsRHQ5a1hVVlF5R0NmRWdCUDRqQndZQnJUMW9DQVVXbEJNUWRFZ3U3QWc?oc=5",
+      "looked_up_at": "2026-11-02T15:40:47.448318+00:00",
+      "search_queries": [
+        "\"Hallmark s Merriest Christmas Towns Contest Terms and Conditions   VOID WHERE PROHIBITED BY LAW    ALL DISPUTE\" entry",
+        "hallmark merriest christmas towns terms conditions void sweepstakes enter official",
+        "hallmark merriest christmas towns terms conditions void giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "5717ad3e442440ce": {
+      "contest_title": "More Loveuary - Hallmark Channel",
+      "original_article": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1DMHNJdkgyRGphWDA1eGRxRS1TNFJGbEkzQzl5QWpKSTRNaU44eUtOTkZZZE9MSTZwXzN4SVo5LVlMVDhFQzJzQ0NhMXNoTW1qdWc?oc=5",
+      "looked_up_at": "2026-11-02T15:40:47.505162+00:00",
+      "search_queries": [
+        "\"More Loveuary\" entry",
+        "more loveuary sweepstakes enter official",
+        "more loveuary giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "7f92c79b25e91d45": {
+      "contest_title": "The Christmas Contest- About - Hallmark Channel",
+      "original_article": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONHF1ZEhsMFdJajhuTlp2aWwwSDNlX0U3VS1KOXloM2gwN2hhTndvaTVvZUFSejJzdXNjUGt0TWVQZlBBZmZVMlc2UGotY3R4b3JVbmZ0aUpxX3ROWUl2cE1Oc2RRVk9adld5RmZSUUdnZlYtd04zUF9ya05OUWdWNEd4NE82LVoz?oc=5",
+      "looked_up_at": "2026-11-02T15:40:47.470981+00:00",
+      "search_queries": [
+        "\"The Christmas Contest- About\" entry",
+        "christmas about sweepstakes enter official",
+        "christmas about giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "611f27de2b953523": {
+      "contest_title": "Holiday Touchdown: A Bears Love Story - Hallmark Channel",
+      "original_article": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5JQS14X0JCV0ZwSDRoVTBCbF9ZZXBFZlhiR1dncElSWktsaVIzLXdBOXpPYk9nTldjYk9EUEJpeENPOVM1NnhTWGlrVDFQTzFfSVZXNGNydG5POHNrSm9yTnlDcFNPTGswUHpfYnRMYmN3THNVZGFj?oc=5",
+      "looked_up_at": "2026-11-02T15:40:47.499413+00:00",
+      "search_queries": [
+        "\"Holiday Touchdown  A Bears Love Story\" entry",
+        "holiday touchdown bears love story sweepstakes enter official",
+        "holiday touchdown bears love story giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "9b75844fabf611bd": {
+      "contest_title": "MORE FROM BAKED WITH LOVE: HOLIDAY - Hallmark Channel",
+      "original_article": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE84TmtMMTlCeThCNlNVRHRWdUlwVXNSZW9QS1UwbWtnTVIxb3REVDBFS1RmcDdGRmpIeTlDU3lsT0FlSHlqeGU1cTdzZVdyTmRVSTFjRUttWHFkekpoaTVqVVk0YTBqUQ?oc=5",
+      "looked_up_at": "2026-11-02T15:40:47.635736+00:00",
+      "search_queries": [
+        "\"MORE FROM BAKED WITH LOVE  HOLIDAY\" entry",
+        "more baked love holiday sweepstakes enter official",
+        "more baked love holiday giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "a2adae9d40c91b55": {
+      "contest_title": "Enter Prize - Hallmark Channel",
+      "original_article": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9TdUFtZlF4NTNYUDdBUk5oYVZ3MVc3cUZYbDdIbFFESFZPUXFEdU1GSnYzVUo0SWQyZGtvZVBKUTEwVnRiMmNuUjY1dk1KeGRCN055MFY1ekpMYjdHbGJpd25oUTJEenhyeXZDczlqQzZlYzcwRWc?oc=5",
+      "status": "insufficient_title"
+    },
+    "96c9a4fb162c0133": {
+      "contest_title": "Winter Wonderlanes - Hallmark Channel",
+      "original_article": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Fa0lwMUFoeWV6VG1RUlBjTW1CeWVDZXIyTUlzY2hFa1J2aWhuYXlicFl2WFp3eExlOC1XVGc1MWpoQV9lRlF5Umg4b0IydzNNTEREZmctSGV4UWFfRTVN?oc=5",
+      "looked_up_at": "2026-11-02T15:40:47.517598+00:00",
+      "search_queries": [
+        "\"Winter Wonderlanes\" entry",
+        "winter wonderlanes sweepstakes enter official",
+        "winter wonderlanes giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "3a42f35630aa3dee": {
+      "contest_title": "On Location - The Christmas Contest - Hallmark Channel",
+      "original_article": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWTRZRGYwSEwtZ05HWUJoSHdUVGV3TUxYeFVXM2Z2LXNjQ1F0ZFVKdVk4aG1KSmN0MWNNeXk0UHB0c3AtVWZvcTlqSzVtY2dnMnZfM3B2VDQ1UC14ZlliNFE5SHpPSDVkcXdZZnd4eW5aWHVuckJSXzM0dXJjM3BqbzB6RDBwXzFjWTdwVHRtaVdHZTV1ZnFSWW1R?oc=5",
+      "status": "insufficient_title"
+    },
+    "6363a28d20ce6fb5": {
+      "contest_title": "'Tis the Season for Setups - Hallmark Channel",
+      "original_article": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBTQjAxby1OTEJCckJqcTgtVXdpQ0ROSmVCazN0cS1PVmQ4enRjQ180Vkk0SFBMSmItSEhYZ3lwYUVqN0lTZTJyekR3U2oxOVE5RWo0YjFOY0trWndjaWlHdFlLdS1pdW9x?oc=5",
+      "looked_up_at": "2026-11-02T15:40:47.663003+00:00",
+      "search_queries": [
+        "\"'Tis the Season for Setups\" entry",
+        "season setups sweepstakes enter official",
+        "season setups giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "086bfd9eeea0be4e": {
+      "contest_title": "Winter Escape 2026 Movies - Hallmark Channel",
+      "original_article": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1WTE9kSjZQUVRpeFotVE50UTNnTmZQeFM1enByY1NRSUdDaFl2TnpPaFc1aXNsUjFHSDN4LTZTTjVObjIwTUNranZvM1luaWpwYjRFTEY4dkFuTW0tRXZuNGtFYy1VRXVvdUJ3Z3dWZTFyQ25mSklhVW5taw?oc=5",
+      "looked_up_at": "2026-11-02T15:40:47.571901+00:00",
+      "search_queries": [
+        "\"Winter Escape 2026 Movies\" entry",
+        "winter escape movies sweepstakes enter official",
+        "winter escape movies giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "e9b75ef89fc6dcd4": {
+      "contest_title": "Sneak Peek - The Christmas Contest - Hallmark Channel",
+      "original_article": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdlY1NjZZUHBXOU11eTNBc3F6SUctamEyVWxiRFVka3FxcHFvd0dsWVBRUnVWV2loZDMzQ2JvNHA4RFhyTnFVWGxJYUhjYlUybTBOemsyUW00TnNudWYyTGh1b3pXc0pTbmJhdDFjWUlDTFRWQzRZQ09USUVCZXN4dmxzeWN2Y3AwXzJYRU9pSFdOT0xHeEphMg?oc=5",
+      "looked_up_at": "2026-11-02T15:40:47.683705+00:00",
+      "search_queries": [
+        "\"Sneak Peek\" entry",
+        "sneak peek sweepstakes enter official",
+        "sneak peek giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "83b7760dd2d9eefe": {
+      "contest_title": "Photos from The Christmas Contest - Hallmark Channel",
+      "original_article": "https://news.google.com/rss/articles/CBMingFBVV95cUxOY3VVT2FjWGVOVGRFMWRPZ1V1eEFXcmhScW9MVzJjZFA5dm55TzRWbzlRbjRiQUlNa2YxRjIxWGttYm9LMUs5ZlpzVlVZLUMyNUUtanoxaVRoVFN6UVJWcmlBMl9QRUN4eW9PZnpBcks4VjNRbnpoZ0xTWkI5eGpuZU5KQ1BiWUhSQTZpXzFEd1dYWUhOUXJCdW00QkRTdw?oc=5",
+      "looked_up_at": "2026-11-02T15:40:47.832698+00:00",
+      "search_queries": [
+        "\"Photos from The Christmas Contest\" entry",
+        "photos christmas sweepstakes enter official",
+        "photos christmas giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "50b50b55a3a67fb5": {
+      "contest_title": "Christmas in July - Hallmark Channel 2026 Schedule - Hallmark Channel",
+      "original_article": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUk5YdkxLSjhVVmhMcHozd0tKcXFGODNXd1J1QmhwUkpuNWtibGR4b2tvVVpHSlpSSmdwcW9JRmxrQmJvWFpsM3Yxc1dtZ2xhbjJHczR2OVVabTZ3V2czM0NsdWlyeXNYNkJ4UHNzVHNBc2oydXlCQ0RKX0NDMWtMX2NBUUQyMXJfUWdvMjE5N1o0SUx0M2J4VkdTZHR4S05mNGRV?oc=5",
+      "looked_up_at": "2026-11-02T15:40:47.845040+00:00",
+      "search_queries": [
+        "\"Christmas in July\" entry",
+        "christmas july sweepstakes enter official",
+        "christmas july giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "97159a3ff5d77c6a": {
+      "contest_title": "Candace Cameron Bure as Lara in The Christmas Contest - Hallmark Channel",
+      "original_article": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOEMyT1NWYkhzXzBWd1MzUzl3RUlMTDAxS25iLTAwcjluYzhxbTlTM0t6UjFndmdSVXJWRm9yWUQ2eXJYaXZYcHhtd25qN2pWYUlfY1ljUHRSNGVZQlJnb0NqLW5SQko2RWFVS280Z3MxcjUySzVpQ2RrZHRZdVVWbkVHYTVYZw?oc=5",
+      "looked_up_at": "2026-11-02T15:40:47.779367+00:00",
+      "search_queries": [
+        "\"Candace Cameron Bure as Lara in The Christmas Contest\" entry",
+        "candace cameron bure lara christmas sweepstakes enter official",
+        "candace cameron bure lara christmas giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "935d95f36d0a99a1": {
+      "contest_title": "Texas Two-Step - Hallmark Channel",
+      "original_article": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5SaUUzRGE1NTl4OENKNHR1M0FIRE9PLVNZb0I3WVJ2TjFTVDU4MTI0YjBNWk82UVVlaGllOXpxT2ZOTnR6SDYtSnd1eXNaeHdONXBnUmVDOUtCdw?oc=5",
+      "looked_up_at": "2026-11-02T15:40:47.777968+00:00",
+      "search_queries": [
+        "\"Texas Two-Step\" entry",
+        "texas step sweepstakes enter official",
+        "texas step giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "09d8c16fcd03df82": {
+      "contest_title": "Finding Mr. Christmas is on Hallmark+ - Hallmark Channel",
+      "original_article": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Peko1SWhTckotNHRBT1BHZUdGZFdtMkozYjNNbElIMXBJcm96MzdnWDQtQmw4LTJLR0hMSTA3UWozTk9kNkRpWDhNNkgwUXBqU1Y0OXVXMmU2QjRhbWpMci13?oc=5",
+      "looked_up_at": "2026-11-02T15:40:47.841415+00:00",
+      "search_queries": [
+        "\"Finding Mr  Christmas is on Hallmark \" entry",
+        "finding christmas hallmark sweepstakes enter official",
+        "finding christmas hallmark giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "a37c868737251c8e": {
+      "contest_title": "Barbara Niven as Donna in The Christmas Contest - Hallmark Channel",
+      "original_article": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5BQmRCdDRjQjRid0luLVR3NVdjaTFDNkg4d3FaajlLQTVFUl9wOXVtN2ZnbnFsd2tEM0QwbHVVOUFFWUVjTEVJb1lvVEJ5MFNjMGZidmc1dXlJTlVYU2ZHYkZ3dmROc3NaR3J2NE1QbnVqeFU4UUlZazc3Z2I?oc=5",
+      "looked_up_at": "2026-11-02T15:40:47.843258+00:00",
+      "search_queries": [
+        "\"Barbara Niven as Donna in The Christmas Contest\" entry",
+        "barbara niven donna christmas sweepstakes enter official",
+        "barbara niven donna christmas giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "cf8c44089b8b43d7": {
+      "contest_title": "Mr. & Mrs. Christmas - Hallmark Channel",
+      "original_article": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5xcGxiSzdtNmZHWkdoN1JxMHh2Nld1b1pJYjU2WU16S3FZb0MxbDVhN2ZxdUNWRDlsUHVwTDlJZmFTS3FDeE5lQ2R2NnI1eTNaTEpTcms1c2QwcVBs?oc=5",
+      "status": "insufficient_title"
+    },
+    "ff0eefd0491f57ab": {
+      "contest_title": "2026 Movies - Summer Nights - Hallmark Channel",
+      "original_article": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBxY3FIaWJ0SlBEcGt1bktSRlJlcVpsamZyOXd6M1VCRnBhRnJmNld5a1ZiTktMR3BBaUszS0hoOHU2eXVSTXVvVDVHaHVwOHoxZEZ3YmVGM3MzSWpmNlBUU085aE5PWnFtMDM4RFJ6RndxazhsYVlWUlZCMA?oc=5",
+      "status": "insufficient_title"
+    },
+    "8ad63f03a3476e82": {
+      "contest_title": "Countdown to Christmas Movies & Series News - Hallmark Channel",
+      "original_article": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbUtIbFc5STB0aUxnRl9CTzFpRVhaYWFvaFlHUXNzbkdCOWRlaGRjQUFpOEVWM2pZLXVpVWVQRXk1MGFSWHdTSXNLZHF3TXhWUTNqUnRGbFY4MmE1RWhKWWpRdXFodURhcXhMYi1wZHdNX1pDcktWNFFOVEcweGJKYw?oc=5",
+      "looked_up_at": "2026-11-02T15:40:47.893830+00:00",
+      "search_queries": [
+        "\"Countdown to Christmas Movies & Series News\" entry",
+        "countdown christmas movies series news sweepstakes enter official",
+        "countdown christmas movies series news giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "1489e3e3bf93faa4": {
+      "contest_title": "A Danish Christmas - Hallmark Channel",
+      "original_article": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0tS0RXOXZkZTVKc0dKeEhLUDBhdTliT01abGpQNWRubVJCSFhvMWQxR00ycnYya0MxQ1J5djFPS1YwbGI1RmszQ2p2bVhSLXRVUzRLM2M0RkJSSWNtV1hv?oc=5",
+      "looked_up_at": "2026-11-02T15:40:47.868263+00:00",
+      "search_queries": [
+        "\"A Danish Christmas\" entry",
+        "danish christmas sweepstakes enter official",
+        "danish christmas giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "fdfa9b686551dd11": {
+      "contest_title": "Christmas in July 2026 Premieres - Hallmark Channel",
+      "original_article": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9RQmtLR2dUNXFkX0psRjZkRzB3SktuWUhUcGw5cTYwM0prOGhxUDhyaF9VWGJhQzMtQ3I2dkRtR1kzRzQ4MGNmSGNTSzkxY3RSVDNqa1gtXy1YajF3Y1E?oc=5",
+      "looked_up_at": "2026-11-02T15:40:47.937624+00:00",
+      "search_queries": [
+        "\"Christmas in July 2026 Premieres\" entry",
+        "christmas july premieres sweepstakes enter official",
+        "christmas july premieres giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "d09e7e9259af7243": {
+      "contest_title": "Who's Coming for Christmas? - Hallmark Channel",
+      "original_article": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1JeUg5eGRnVEFXZlcxaFRHczdKQXNnMnA3MlFfYkhBbWNiZDgxeTNnTUdxRlFFV1dHc2YxRUJQWlhKSTFlc3JNRFVtUkNtUXk0TzdybHdpVm5Jc2dsaEROSjRBZ3paN1pY?oc=5",
+      "looked_up_at": "2026-11-02T15:40:48.017861+00:00",
+      "search_queries": [
+        "\"Who's Coming for Christmas \" entry",
+        "coming christmas sweepstakes enter official",
+        "coming christmas giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "902f2dd0ad1e45fc": {
+      "contest_title": "Christmas Delivered - Hallmark Channel",
+      "original_article": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9FTXc3eGl6dE9GMDE2dG5CY2J0Xy1wanhTZWU2RHRFYkd2LVhNa25hT1IzV2c2NDJOelZFdTNsNlNXalFuR19fdVBDTk9LOHZmUXpEaUFYbnhjTUUwYkpzQQ?oc=5",
+      "looked_up_at": "2026-11-02T15:40:48.002463+00:00",
+      "search_queries": [
+        "\"Christmas Delivered\" entry",
+        "christmas delivered sweepstakes enter official",
+        "christmas delivered giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "3900898cf315f930": {
+      "contest_title": "A Castle of Our Own - Hallmark Channel",
+      "original_article": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB2bmFNMkNlcGQ1ZXBQcnVTOGRXRkdtbGdGN3RmbUZldnBXY2dNR3Q4LS1zZG9aOFUzZDRkc3N3RXdwQm1VcjRNM3MxOXk4bmM0aGh0UmItZm5NT3gxWldZVw?oc=5",
+      "status": "insufficient_title"
+    },
+    "bf1ae2c0700343a9": {
+      "contest_title": "Keepsake Ornament Giveaway - Ruby Slippers - Home & Family - Hallmark Channel",
+      "original_article": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOXJZTWNuQ3BYTWFyN0lTaFhRMHNJLXVpVGNoNmJmNlIyQjN0VS1jdS16MXN4VmFfOGZBMFBUZUNmUVA5ZllDcGliQThwMDJ4ZVBOcExJTW5UQ1V0cjBuSWpTUHh5el9TbUZXXy0zVFRFbm1rMUJrTXFKOFg4T1dQMG5uYmxFUm1XVS1ud1k5STB5VWU5NUVROWR1MnlvQ080T0l6VmhHT0htWll3TkVFcQ?oc=5",
+      "looked_up_at": "2026-11-02T15:40:48.021356+00:00",
+      "search_queries": [
+        "\"Keepsake Ornament Giveaway\" entry",
+        "keepsake ornament sweepstakes enter official",
+        "keepsake ornament giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "09c1a8e8411dde27": {
+      "contest_title": "Holiday Unplugged - Hallmark Channel",
+      "original_article": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBUOXZPMnk4SGJpR3FtMGt4WFhzZDFOeUJPV2s2WkVvOXhib3pHT0ZPZ2g4dXg5S1IyampfdlpkdTVLNFdXR1R2STVWT2NLQzl3eWpNN05LTlR4MTRXNUE?oc=5",
+      "looked_up_at": "2026-11-02T15:40:48.151534+00:00",
+      "search_queries": [
+        "\"Holiday Unplugged\" entry",
+        "holiday unplugged sweepstakes enter official",
+        "holiday unplugged giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "df868d0514715a27": {
+      "contest_title": "Classic Christmas Moments - The Christmas Card - Hallmark Channel",
+      "original_article": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWDhENmxNOWJyYkYxRjgzbXR2dFZ6QnlmSlNidGY1VkJtbUEydUdWTXB2WFZtOVgyZHlLa25VQXZhTE5mNWltYlBsQzZGWk9DZS00TlI4eTRpUy01WGxOMjI1Y2ZHNTZGOEN4TlVydFA1RHNPb2NYM0dUZVB2VFJKZzBmVTQ3WVNSemlReHpIRjZEeGhfT2dVUg?oc=5",
+      "looked_up_at": "2026-11-02T15:40:48.214468+00:00",
+      "search_queries": [
+        "\"Classic Christmas Moments\" entry",
+        "classic christmas moments sweepstakes enter official",
+        "classic christmas moments giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "e52e3c1dc39d4233": {
+      "contest_title": "Keepsake Ornament Giveaway - My Favorite Holiday Song - Home & Family - Video - Hallmark Channel",
+      "original_article": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNb2hQVUJUNkFxSEY0VXQwb2F6cGRWdjNDWk9zSlA1V05NVVVSVTMzSkFaNU9KaUFra2ZCa0xPOWt3Nl9pV2lCMWRKd3Z6aVhYMkFrSlkxaGhPZDB2QjI3UGNjR0hlLThjeTNUdlNIbXZhNDJXTTNVaTNyTTZVU3hVcVBWS2FJd1o3c3l0clg5SkdUSDBvbUo1TElMMlM5THltaTZpNkFUeGl2c3ZuSXlHWU0zdTRMWnpZMmJBaWNXUQ?oc=5",
+      "looked_up_at": "2026-11-02T15:40:48.140067+00:00",
+      "search_queries": [
+        "\"Keepsake Ornament Giveaway\" entry",
+        "keepsake ornament sweepstakes enter official",
+        "keepsake ornament giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "eaf57c72879b330e": {
+      "contest_title": "The More the Merrier - Hallmark Channel",
+      "original_article": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE42aEdTcllIbmRPdXJCdVlaNUZGOFR1dmZtb2dGMElnbVZzWXJScnJKT3FUTWpuOTBQaENYX0JyVXBSSXVrSndhSFBoc2xIa3poRHJoVU9ocnpvOFBfbktudmF3?oc=5",
+      "looked_up_at": "2026-11-02T15:40:48.197261+00:00",
+      "search_queries": [
+        "\"The More the Merrier\" entry",
+        "more merrier sweepstakes enter official",
+        "more merrier giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "37eac1265469f3f9": {
+      "contest_title": "Keepsake Ornament Giveaway - Chris Kringle’s Kitchen - Home & Family - Hallmark Channel",
+      "original_article": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMHYxVUo5a1V1czhPVHhoV2VwOE02Vnh0ZVl2M3luTW9SZHFEWmxYcW1pdWYxVlN4aUc0T3hQRVJmN1ZGZW4zZFBkekltTnJ3eGU5UFhQSm1hdG1VMG1sSTJiRkFybV9SOUpwMzJ2dWEwYTBHNWVScXdhOTA5MHl5RGpfSWViNTdxY2VZWWxqRm9yMzRxMF9GX0tYWnA5RElJQTNYOHc0WTFqNGFJRC1fZEUzZHRWby1HYU5Fag?oc=5",
+      "looked_up_at": "2026-11-02T15:40:48.295375+00:00",
+      "search_queries": [
+        "\"Keepsake Ornament Giveaway\" entry",
+        "keepsake ornament sweepstakes enter official",
+        "keepsake ornament giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "29122de2a18b1ac3": {
+      "contest_title": "About Double Booked for the Holidays - Hallmark Channel",
+      "original_article": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ULXlYRnRmZmdYOHVReV9RTmJzRm96QXlEc2prYWRnQnI2WlV2S09YYmFUQjJPcGJsNVBlSFJYT29DMEF3N2tNLWc2WWlpZ2NpVEJKSnVCWHB5eGdLRjQybjdIcTU0eWc2LTZscFNJTQ?oc=5",
+      "looked_up_at": "2026-11-02T15:40:48.196858+00:00",
+      "search_queries": [
+        "\"About Double Booked for the Holidays\" entry",
+        "about double booked holidays sweepstakes enter official",
+        "about double booked holidays giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "04349c8392f7a974": {
+      "contest_title": "The Sweetest Christmas - About - Hallmark Channel",
+      "original_article": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOU1JUdmdYRzhrYXFvT0Jjakh6S3hFVXVMOWtyZUE3bFFaaXkxaGxWMFhCTkY3b05NakJ4clNxY2JDZXU2MkJSMG9Ba1JFVE5JZ2dqdndHS0t5WnVkbU1ISGpOUzJSejg3SEFNelR3ZThvem8yYmFQOWF6bElDLUt6WUFKWno5d2FqLUVN?oc=5",
+      "looked_up_at": "2026-11-02T15:40:48.208846+00:00",
+      "search_queries": [
+        "\"The Sweetest Christmas\" entry",
+        "sweetest christmas sweepstakes enter official",
+        "sweetest christmas giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "eaaad23aa1a62160": {
+      "contest_title": "The Most Wonderful Secret - Hallmark Channel",
+      "original_article": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9mUUFzcGR2RDAyRUlNXzMzRGJucWpIeklXclozcWRUTzh5REwxZEc3UzBrQnpJWTZNVllsRzhLcENIYmNIOEhGT19oekJGU1lybjFFS2tSa1l4SUlaWlU4N0JTbmpqbWRl?oc=5",
+      "looked_up_at": "2026-11-02T15:40:48.333164+00:00",
+      "search_queries": [
+        "\"The Most Wonderful Secret\" entry",
+        "most wonderful secret sweepstakes enter official",
+        "most wonderful secret giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "71587d23d0fe6f9f": {
+      "contest_title": "Snowbound for the Holidays - Hallmark Channel",
+      "original_article": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5hNWhKRmlNdkxNTHZfU0hkT3ZsdWNXc3oxTlF6WC0tUkxsXzRsTzZUQWdYaVdnMG1acFEzaDRNMXhwWEo3a0xFeThWWVh6MzFldGRhWFhyNzFmS015c1pEVEFvdGFzd2FiX1E?oc=5",
+      "looked_up_at": "2026-11-02T15:40:48.288448+00:00",
+      "search_queries": [
+        "\"Snowbound for the Holidays\" entry",
+        "snowbound holidays sweepstakes enter official",
+        "snowbound holidays giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "ce7e9ee3fb348c18": {
+      "contest_title": "Tuesday, January 14th. 2020 - Hallmark Channel",
+      "original_article": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBwbmZHSGVYbXlRVWp3bmZGc1hfYWVwMnNWWk5UVU5nQmFOTTNPeDY5ZzlsalpoUGxLQlQwenJrMk1RTnpUNjEzUDNEWHdFNFRNSjFwT0lZUDRRLU9NLXR2MXEwRndJRENSOVZWMnNweFFUTHcxYlBpRGpIZnNvUQ?oc=5",
+      "looked_up_at": "2026-11-02T15:40:48.417929+00:00",
+      "search_queries": [
+        "\"Tuesday  January 14th  2020\" entry",
+        "tuesday january 14th 2020 sweepstakes enter official",
+        "tuesday january 14th 2020 giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "ddcb6b0c2a9657b5": {
+      "contest_title": "The Hallmark Movie Checklist App - Hallmark Channel",
+      "original_article": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Mc2pSbDlsazlMZTBPNkJnOUNnTzd6T05KNExTRUFzR0lSWFdVUDdqNnZJQ2dEMTB6V1lVcF9mMDI0WWJPN3lqZk1oak5LSVpBWGFEb0J1akF6bDNkTmZtOFNzUEhlOTlDMU44eQ?oc=5",
+      "looked_up_at": "2026-11-02T15:40:48.878276+00:00",
+      "search_queries": [
+        "\"The Hallmark Movie Checklist App\" entry",
+        "hallmark movie checklist sweepstakes enter official",
+        "hallmark movie checklist giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "ed2cbe8a86e7da1d": {
+      "contest_title": "Classic Christmas Moments - Christmas Under Wraps - Hallmark Channel",
+      "original_article": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQXdRU0haRlI3TTBuQ25mRkRmLTJxVnh1dDdYVXROTWh6aHBlejlEazdCX2Q1UkpYWFhVd21vemxuUTZwdUFYRlRveVJmY2tZRHdUWl9pdGpRQ1E0VkVlSExFVEVibHJRUGJUOVlxcVlLWmVvbzduaThBVUstM0ViLUliaDd4cUVRRnR0TGtta2tOTzNOSXhhelV5TXM?oc=5",
+      "looked_up_at": "2026-11-02T15:40:48.365882+00:00",
+      "search_queries": [
+        "\"Classic Christmas Moments\" entry",
+        "classic christmas moments sweepstakes enter official",
+        "classic christmas moments giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "c73b06e4225a94f4": {
+      "contest_title": "Loveuary 2026 Movies - Hallmark Channel",
+      "original_article": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBZZGN2ZkhUT2lfTzlQVWVrdHViRzNiYk9IUUItZDFpazg4eERwNDhuU0xsS3RiTGk3YlduQmVsNDYzU0ZkT1lja09ETS1RZE5OT3N2SnpNampucTVBdXF3eFJyLTBVMXZMRFRvRHpB?oc=5",
+      "looked_up_at": "2026-11-02T15:40:48.504679+00:00",
+      "search_queries": [
+        "\"Loveuary 2026 Movies\" entry",
+        "loveuary movies sweepstakes enter official",
+        "loveuary movies giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "ff4b99cd052cff33": {
+      "contest_title": "Fall Into Love 2026 Premieres - Hallmark Channel",
+      "original_article": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9BUko4MjMzaUpVRjNVZ1F3VUlQOEk4a3FrbGxxcmlSWi1HWnM3T3J4SnFDckJrSzRfbTJxTkR5NkVvWUFFY05ZOWkwOEF1LV9zZlZUQURUalBDUQ?oc=5",
+      "looked_up_at": "2026-11-02T15:40:48.566306+00:00",
+      "search_queries": [
+        "\"Fall Into Love 2026 Premieres\" entry",
+        "fall into love premieres sweepstakes enter official",
+        "fall into love premieres giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "32301ce74a0db289": {
+      "contest_title": "Classic Christmas Moments - Christmas at Holly Lodge - Hallmark Channel",
+      "original_article": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcDhJbDN5dzRGcW5kTnItTXlneFZLWVdvXzJuNnJwS29vdnVGTUs1czA3b0U1T1JCa2lKeURPQnRTUko4S2hNdGpQa0lHOTFWU3ota0N6WXVCdzlQT1BFd212aG9XdUx6Zi01R3ItRXVjYXlJNzJNSnZ0YUI5Ny1ldmN0YzQ5SFJKMVo5SUEydGlHSnllZS1Cc3VvUW5LRGJm?oc=5",
+      "looked_up_at": "2026-11-02T15:40:48.568179+00:00",
+      "search_queries": [
+        "\"Classic Christmas Moments\" entry",
+        "classic christmas moments sweepstakes enter official",
+        "classic christmas moments giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "2833edbdb7bf2782": {
+      "contest_title": "Catherine Disher Interview - Home & Family - Hallmark Channel",
+      "original_article": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbENzOW4tT0NiZXRxaVdNT1FIZGJ2Z1RpVW42XzFBREJDbE9EcXJVUnFpVVQxRy0zLTh1S29sRnhYUWowYllTR184M2hqYzU3ajJhTHNzNTBPaEhrUWwyVkJiNHQxSHU2cGFyZzJST3lFRUtWSTNtbUdCZ3l2UHNUSVVMbXdva0NlWkF5cmYzNTVybGNleURScQ?oc=5",
+      "looked_up_at": "2026-11-02T15:40:48.870888+00:00",
+      "search_queries": [
+        "\"Catherine Disher Interview\" entry",
+        "catherine disher interview sweepstakes enter official",
+        "catherine disher interview giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "124fc4702c56a808": {
+      "contest_title": "Wedding of a Lifetime - About - Hallmark Channel",
+      "original_article": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZzNVVWRxc2ROaVd6dzBQdlc0d2ZYb3VNVGlfVFI4ZHI1NlZZZHh2NTRxSElGSEdCVFpiQnFJV0hxZHhZR2J1NkRXWVQtSFhJNEJwUDBlY01kSFBmcnFGeElwVHZ0UGZqZW1UNDVzMHpzRjdzaGNTdjBDcld1b0xQaE1lNUVmbjhB?oc=5",
+      "looked_up_at": "2026-11-02T15:40:48.544406+00:00",
+      "search_queries": [
+        "\"Wedding of a Lifetime\" entry",
+        "wedding lifetime sweepstakes enter official",
+        "wedding lifetime giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "701d362a21fe35e5": {
+      "contest_title": "At Home With Our Family - Cameron's Backyard Movie Night - Hallmark Channel",
+      "original_article": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWWVNWkQ5ZElKc0N6OWNCLXl0ZGQtNmp6UDlLd3pRS1pGX3VFZTRUa1JNSTVWNXdmWXlBdGd1VjUycF9XUFByMGx2MUxjWEx0bDhxREdlenFWUVA5NXI3bFN4V2xqcUt6ZTQ1WG8xY1NnTmRKaHdaT1l4U1lBYlFoaHYzNlF6TGg3QnlZc2ZsS2h1TjRfejRzVkt2cWNGTXJYY3E2dVZXMzltQnZD?oc=5",
+      "looked_up_at": "2026-11-02T15:40:48.587004+00:00",
+      "search_queries": [
+        "\"At Home With Our Family\" entry",
+        "home family sweepstakes enter official",
+        "home family giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "52976c65f3f80ceb": {
+      "contest_title": "Winter Wonderlanes Prize Pack - Hallmark Channel",
+      "original_article": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBON3QzMkI1Q0dEYlNXWS11bHpWSnEzV1M0X2hJMUYxRmMzMUd2QWRWaDcwRnQ4ZlpTbHU1bjJfSGNpWTUzZmVJVGNWeEdDVUM5QVZUcU05TlZGSlFNZTZIU2ZDRDU4dw?oc=5",
+      "looked_up_at": "2026-11-02T15:40:48.957487+00:00",
+      "search_queries": [
+        "\"Winter Wonderlanes Prize Pack\" entry",
+        "winter wonderlanes prize pack sweepstakes enter official",
+        "winter wonderlanes prize pack giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "ddda16c0eec7ccf1": {
+      "contest_title": "The Stars of Countdown to Christmas - Hallmark Channel",
+      "original_article": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTGVlUjVXdGpFcWVPTWwwMVZXdEZsQmFqWDVtMVlPdENvVkNFMlVBVUVQY2xQUlpCTGF4alR1ZS1oZ0xlMllKTkd1ODVBd1RoYzJDYlJqWWhINFVWS3hnNWo5RFhnd1dIMTlwaVVtZzdxVnB0ZHVKV1BHbm9XUURCc0xiN2FDTFU?oc=5",
+      "looked_up_at": "2026-11-02T15:40:48.644473+00:00",
+      "search_queries": [
+        "\"The Stars of Countdown to Christmas\" entry",
+        "stars countdown christmas sweepstakes enter official",
+        "stars countdown christmas giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "83595e92e1210a10": {
+      "contest_title": "Adopting St. Nick Prize - Hallmark Channel",
+      "original_article": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ob2NZZEZlZWNDWXJWd09URGM3enpKcEMzNTV1NTZPbzdWbHFsR2FDRGlVV0w0Y2F5aWVPYXEwcEpmc09CQkF5eW5FaW1GOGFhZDBScnpxa2kxWmNRMzZqNndWeWJSdw?oc=5",
+      "looked_up_at": "2026-11-02T15:40:48.621570+00:00",
+      "search_queries": [
+        "\"Adopting St  Nick Prize\" entry",
+        "adopting nick prize sweepstakes enter official",
+        "adopting nick prize giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "51258ef5c5f2cd13": {
+      "contest_title": "All Prizes - Hallmark Channel",
+      "original_article": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4xTGdWbDhwdklLaWluS3dUUTF6M25NVnlqd1JLQ0syb1AtTXc1R21rTFhucE41Nm1LMlMwblRWVFpMVXVtTXVpWDVzZGdyengwTDdDeDhBY1NWa1k3MnJFdDBYbVJSWVhlam9zblo5V3RhZUtSNG5R?oc=5",
+      "status": "insufficient_title"
+    },
+    "516e32f1a930378e": {
+      "contest_title": "2026 Movies - Christmas in July - Hallmark Channel",
+      "original_article": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOU1JkZjFtRnI4cXc5RUVaVEFuWFZzSktvWWEyY3VsN080UWFlWU54N2gzVWM5aWxIeVNSZGpJZTFIdFdmUE5IemxtT09ORjYwU0xmaFcxbVE3Qlc3NDFhcEJIUXlob3BkTjN6OG41SkxkaGlvN1hYdnhMRXFUZDRGZ01ETlZvZw?oc=5",
+      "status": "insufficient_title"
+    },
+    "2321e370e192cf15": {
+      "contest_title": "Holiday Ever After: A Disney World Wish Come True - Hallmark Channel",
+      "original_article": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONTQwVTl5ZTlDOWh3dEhYODlLMjRQUlFFMWtRMmJkclRDT1F1cnhDXzRGOHlMcGl2TnVMNDBtaXo4YTVHZHNQZENXWWRJeW1lTUU1bUdMc0VVNVE3Q1p1cnVlbF9qUU9MbjZuR3dvRlFZUjQzdzdobExvVnJNdTBsY0JNVFRnaTg?oc=5",
+      "looked_up_at": "2026-11-02T15:40:48.739930+00:00",
+      "search_queries": [
+        "\"Holiday Ever After  A Disney World Wish Come True\" entry",
+        "holiday ever after disney world wish come sweepstakes enter official",
+        "holiday ever after disney world wish come giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "727bb676d83304a8": {
+      "contest_title": "Winter Essentials Bundle - Hallmark Channel",
+      "original_article": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5rNUhuWHFZSGlja2xabTM0cUo1UWd3cmlFckp6c0NOSWozLURJcW1XMTNSdlp6WVZUeWNlMENINVlCTldKalBVMFcwajJMem8ySk1BMUw2NUU5Nkx2dl9teDJPQ3p4OFk?oc=5",
+      "looked_up_at": "2026-11-02T15:40:48.891687+00:00",
+      "search_queries": [
+        "\"Winter Essentials Bundle\" entry",
+        "winter essentials bundle sweepstakes enter official",
+        "winter essentials bundle giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "10ca53980a9e4553": {
+      "contest_title": "Preview - What If Christmas - Hallmark Channel",
+      "original_article": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTjBCNmVLZ0JQdjFKaUtSTS1fcUlSSXJaUzB5b3QzSmhGeDFrcDBHTG9MTk1XS21CRGtQSld1Sk1zM1lGZm1IRmNmVUtoMDlEUzBiclJQNFdnRjByS2hWbjZEZWtvb0hsQ0JfVFROeTRyandHLUF4VUlkdEJuZzEzT21sUi1CQ2FHYkE?oc=5",
+      "status": "insufficient_title"
+    },
+    "dd99f5e8bcc4f2bd": {
+      "contest_title": "Taste of Fall - Food Network",
+      "original_article": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBoVm9jaVJULWFHeDFWNVhNU3BMWGVaNUttUU1aNWs1NkF5YjlHWGhFbnQ4cnJNNDA0QTVsZ2FqejgzSERuVVhlaXdmVFZndGVpY3drU0ZkWEJuT3Vkd0p6T3Qya05POHJkN0M5VDlaZEY?oc=5",
+      "looked_up_at": "2026-11-02T15:40:48.845931+00:00",
+      "search_queries": [
+        "\"Taste of Fall\" entry",
+        "taste fall sweepstakes enter official",
+        "taste fall giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "f45146dc45facde6": {
+      "contest_title": "Get Into the Halloween Spirit With These 24 Food Deals and Freebies - Food Network",
+      "original_article": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RRmZkd0EyYWlxSUVFYkVLeEF4T3AxWW1UYjZrRzZLcjJSRHRHRUowWU1PNEF0YU5NT1U4czRvVDRBU3ZYM2MtN2J3YTZQUUFnQkZxdHlxNGNaWVhYLVg1YUxOZHFOeVBHeHVMR3F1bmxWaXVrWC1sa1N1YnlyblE?oc=5",
+      "looked_up_at": "2026-11-02T15:40:49.012388+00:00",
+      "search_queries": [
+        "\"Get Into the Halloween Spirit With These 24 Food Deals and Freebies\" entry",
+        "into halloween spirit these food deals freebies sweepstakes enter official",
+        "into halloween spirit these food deals freebies giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "9a4778964fdf2bec": {
+      "contest_title": "Watch a Sneak Peek: 'Holiday Baking Championship' Season 13 - Food Network",
+      "original_article": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSW9acDV1U2dNcm9oQV9rZVJPYmh3TEp0RHBRU0phdm9td19aMlY3cmtIYXg1bmRyZV9FVnBFWkh1Mk96Q2xBNXpiYl9JUGppUFc1aFlWVzhTekdMemRwcFJaOUZYdzZ2eFRIVlFBY1FBNEYwLXR6QmdFMl90RWtmaEVOSXZIYkQtSFd0cW9xcG9ncDJ5d2IxUEpOaGhLYjdTSWVpWW05OGxUY1pPTXBzR3FPMW9UY1ZENVlhZzU4bFpjZw?oc=5",
+      "looked_up_at": "2026-11-02T15:40:48.898987+00:00",
+      "search_queries": [
+        "\"Watch a Sneak Peek  'Holiday Baking Championship' Season 13\" entry",
+        "watch sneak peek holiday baking championship season sweepstakes enter official",
+        "watch sneak peek holiday baking championship season giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "4cb235136934f7ec": {
+      "contest_title": "Season to Shine - Food Network",
+      "original_article": "https://news.google.com/rss/articles/CBMic0FVX3lxTE02YWp6YTZoUVdHS3NjOW5VcHpwQXk0VFFwamlSNlRWTHE5UTVJUDhqZTFYaWtSZkNhdFZ4MW80WHRoSTdKM3FXN1ZTXzBvOEZwbVEwMHlHM3FRMFlwREVKUnpVT3pTWDgzQ1BuSXBac2NpQkk?oc=5",
+      "looked_up_at": "2026-11-02T15:40:48.869593+00:00",
+      "search_queries": [
+        "\"Season to Shine\" entry",
+        "season shine sweepstakes enter official",
+        "season shine giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "f8c682772c7fbf02": {
+      "contest_title": "Home for the Holidays - Food Network",
+      "original_article": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8zdlpmSWdOM2ppMFRJbEZYQVpqdjA0ekh2LTNZcDVGT3RFd1N6Y0YwaDZvWXdZaDh5R1FUOFBUbmt6dnREb25Mdm5RZ2V1ODJsQ3N1M0Qyc01NV2loR3dPUlNSTldFN1BrMHcyTWJPMXlFRGpvUlVOSWItQQ?oc=5",
+      "looked_up_at": "2026-11-02T15:40:48.961018+00:00",
+      "search_queries": [
+        "\"Home for the Holidays\" entry",
+        "home holidays sweepstakes enter official",
+        "home holidays giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "385eb24d46ea2a02": {
+      "contest_title": "Ina's Meat Loaf Recipe | Ina Garten - Food Network",
+      "original_article": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9YX3NyNG1kZ0NpQUJQN3dGaTZjSWk2MWU4YldTOXF0c3Yycy1SZG9od3RNVThIYmU5cWV0STNMV3hOaEdVTUNwVWcxV1hfdUU5R0VodDlkZndWVGFqV040V29pRW91SmdtSjRyektvX2loeFkyZ1M5SENuOA?oc=5",
+      "looked_up_at": "2026-11-02T15:40:49.036230+00:00",
+      "search_queries": [
+        "\"Ina's Meat Loaf Recipe\" entry",
+        "meat loaf recipe sweepstakes enter official",
+        "meat loaf recipe giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "9606578a17e3feaf": {
+      "contest_title": "16 Horribly Delicious Halloween Punch Recipes - Food Network",
+      "original_article": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMDhxNld4TTVHRzk4VjhRM2JqUDB0dFhWejlQMWg4RGFjQzZlRHB1b1ViMmlMaEZFNnNPOHhmUjJvZ1VmdG5XcG1sUE1VTXNtZUc1UWZIcXdvSEpUSGNsamp6bFQzVUp1aTd0cXlGaDVQV09xOFgydU5nbmJMam1CaFhjdlF0bHdmNjFUTlB6Uk5VMXBNSFE?oc=5",
+      "looked_up_at": "2026-11-02T15:40:48.966666+00:00",
+      "search_queries": [
+        "\"16 Horribly Delicious Halloween Punch Recipes\" entry",
+        "horribly delicious halloween punch recipes sweepstakes enter official",
+        "horribly delicious halloween punch recipes giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "70d03d09b6476972": {
+      "contest_title": "20 Vegan Halloween Recipes Everyone Will Love - Food Network",
+      "original_article": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUE9FQzNjVHVVbGU0RmtJbnIxUWY0YmdKWkdEdkg0bm85ZjVNRC1xNUtyUFlGaFR0c1dRM1dJbUVuRXk1RVpJM2p4cGxVanY4UFNncnkyRHBfU1JnaFByN2R5M2xkUFpwaDA5VExPeFF3NVdxZjdYbzRXSk15azhtcHNCS0Y1OFRkdXNrWkNlS1FGbFJBbVE?oc=5",
+      "looked_up_at": "2026-11-02T15:40:49.117159+00:00",
+      "search_queries": [
+        "\"20 Vegan Halloween Recipes Everyone Will Love\" entry",
+        "vegan halloween recipes everyone will love sweepstakes enter official",
+        "vegan halloween recipes everyone will love giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "616587498148274b": {
+      "contest_title": "Cooking Channel - Food Network",
+      "original_article": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwS0xnaUVRdmVYUGp3NmhUUXVYM1NWdmlyQVo3QklZQXpZM3NjLWRWbXdhdHNDQlRScmtCRHJuUUFfQnIwNFlXV0RRSGhxOHdfSWNuTEtB?oc=5",
+      "looked_up_at": "2026-11-02T15:40:49.148165+00:00",
+      "search_queries": [
+        "\"Cooking Channel\" entry",
+        "cooking channel sweepstakes enter official",
+        "cooking channel giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "4179c6363c38c7df": {
+      "contest_title": "90 Food Advent Calendars You Can Buy for the 2026 Holiday Season - Food Network",
+      "original_article": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RUHRpVEFjell4NExER1JpNndkMWtHWXhGZ1NOZENWT1ljY3V6RUVBV1ROVWtCV0JRS0tMOWJha2RXeU80S2FLWTF2WXhQSWRyU1Ixd1d4UU9fTEdsemotbXg3U1dDT2xkTUo4UlBDWFRORDdYTWtGazZEcEZnYzA?oc=5",
+      "looked_up_at": "2026-11-02T15:40:49.351449+00:00",
+      "search_queries": [
+        "\"90 Food Advent Calendars You Can Buy for the 2026 Holiday Season\" entry",
+        "food advent calendars holiday season sweepstakes enter official",
+        "food advent calendars holiday season giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "3c97d501a5d8ce7f": {
+      "contest_title": "5 Best Potato Ricers of 2026, Tested and Reviewed - Food Network",
+      "original_article": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVVhfSHlJUHZFZFFHYnd6SVpfM2ljd2dCUU9tNFBidzlHdXdzRHhHVXlyNGV6YWZVM3VzUFlVa3F1ZEdpaU9vQVNpd0c4REN6enBBa2lZQU9haU1INzBMOGJ6cV9TSWp2bDVoaTZBZHNiejQxLTFIVFZTZjY3V3VzMGdaS0VkdmwtdmdwZWdHbw?oc=5",
+      "looked_up_at": "2026-11-02T15:40:49.281409+00:00",
+      "search_queries": [
+        "\"5 Best Potato Ricers of 2026  Tested and Reviewed\" entry",
+        "best potato ricers tested reviewed sweepstakes enter official",
+        "best potato ricers tested reviewed giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "fe362fb34641c9bf": {
+      "contest_title": "10 Top-Rated Soup Recipes With Hundreds of Glowing, 5-Star Reviews - Food Network",
+      "original_article": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBGc0o2VEIxX1dVTEVOYThRam04QWlwaVV6ZWFiTmRIcHYwV3pBbXpTUXVmOVlWWFBqTnNITEt3YklIbTRBeXhYb3czMDBuZ3Y0SjFsRHpDLTlzTXdxMEdEOF9va1dSbFVjTWtLMnF2Yk5PMms?oc=5",
+      "looked_up_at": "2026-11-02T15:40:49.266022+00:00",
+      "search_queries": [
+        "\"10 Top-Rated Soup Recipes With Hundreds of Glowing  5-Star Reviews\" entry",
+        "rated soup recipes hundreds glowing star reviews sweepstakes enter official",
+        "rated soup recipes hundreds glowing star reviews giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "aa4909abea46215f": {
+      "contest_title": "Food Network Magazine - Food Network",
+      "original_article": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBPclJxMjVhbTdKYU1tVjhUbk11OG1XbE1lanJhUmQtTXFWOGpFNTJTMUg4dkVFZHJ3eEluSlU5dnlLWlJ2Rk5aNVBkVDA?oc=5",
+      "looked_up_at": "2026-11-02T15:40:49.269194+00:00",
+      "search_queries": [
+        "\"Food Network Magazine\" entry",
+        "food network magazine sweepstakes enter official",
+        "food network magazine giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "4ee6ad0b5376648b": {
+      "contest_title": "Steak Medallions with Potatoes Recipe | Ree Drummond - Food Network",
+      "original_article": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMmpKbGJ4eEVSLURXaW9BSjk0dnd6VlAtWXlNZTUxSzgyOEpBT1REWVl2d29ESjB6TS0zd290bjlJcXFYS2NFbk9qaXl0Vm01cmxWZUU1NWZNbzkwaFVJVnhreUJYYmxVeHVTWU43cXhNQURtNklBVnZFM1Nid2I0bGJ3TllrX2xJQ2lTSkxCVDVOdw?oc=5",
+      "looked_up_at": "2026-11-02T15:40:49.222416+00:00",
+      "search_queries": [
+        "\"Steak Medallions with Potatoes Recipe\" entry",
+        "steak medallions potatoes recipe sweepstakes enter official",
+        "steak medallions potatoes recipe giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "475cf647eb4763ed": {
+      "contest_title": "Green Goddess Chopped Salad Recipe | Ree Drummond - Food Network",
+      "original_article": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOVktTmhYS3NoUTBST1BaVFYzZzBSVFlJd0gxWWxxSGNEZ2RQUmdsaE9RSDJkWE5UNlphZW1tSmZxQldkT3FKcVNJSnJBU19CdU1SZ3Jha1pJVDd5U05qMTFtanJ1VmZoaWl5LUcwNFVBdEs3NkEyTUt0TndkX2VHT1J2YmNQYkVGcTlYckp3?oc=5",
+      "looked_up_at": "2026-11-02T15:40:49.293335+00:00",
+      "search_queries": [
+        "\"Green Goddess Chopped Salad Recipe\" entry",
+        "green goddess chopped salad recipe sweepstakes enter official",
+        "green goddess chopped salad recipe giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "eb99ccbe35358185": {
+      "contest_title": "Bang Bang Shrimp Shrimp Bao Bao Recipe | Jeff Mauro - Food Network",
+      "original_article": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQXJtbDdpNXlWendqaUYtdkZ5dEFlQnMtQVJxLTN1eUdWVkdmVk5PSFlacjFSbU04N2VYd1VwY2hSOURpTUVyVWZLSDRORG5UcFpGa2tUZlVvdlVOS3ExeW44SkR1YW5aUFNtOXpJLXlCMnlKclU4ckZVeUF3SUYxSHFlQjhqZERzTzhKb2RJcEs?oc=5",
+      "looked_up_at": "2026-11-02T15:40:49.331997+00:00",
+      "search_queries": [
+        "\"Bang Bang Shrimp Shrimp Bao Bao Recipe\" entry",
+        "bang shrimp recipe sweepstakes enter official",
+        "bang shrimp recipe giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "e024c0711afb8289": {
+      "contest_title": "Haunted Halloween Milkshakes - Food Network",
+      "original_article": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUWU2TFZLRzdweHl4UldtY1lyM0FnSXBKR3JFMUFjNmpwYTl6SndVSVl1cDlCLXFXRHhVenFmZUtyS1Y5ZmhlM0Foa002TXZhU1h5VjN3V0FqYU9hR1JPS05jdlY2YjlJcnppcmtnTUpGTU4wX1NxaGs4Wlk0OENqa3dVSTUzSVprRzFLb1Fob1g3M2swdE9UV0JSOA?oc=5",
+      "looked_up_at": "2026-11-02T15:40:49.620014+00:00",
+      "search_queries": [
+        "\"Haunted Halloween Milkshakes\" entry",
+        "haunted halloween milkshakes sweepstakes enter official",
+        "haunted halloween milkshakes giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "59c712bad50b10d7": {
+      "contest_title": "Caprese Crostini Ghosts - Food Network",
+      "original_article": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbHhrWEZWNG5pZ2gySjVwNzhIYTAwOGVOOXVfdWxQMTNndWFvc1drMXRTakRhYmt2VzhJNHh2bEdEVVBjZUhka2xBX2FveU5xYU1Yb0VzQUZaaUVoYWdRWEt1bEg1MVJfQUx0aEVhVVdjX3NoRFBjZHhMdFFUeE5haDNvVkViUkUzWF94NXpZSng0TXM?oc=5",
+      "looked_up_at": "2026-11-02T15:40:49.331521+00:00",
+      "search_queries": [
+        "\"Caprese Crostini Ghosts\" entry",
+        "caprese crostini ghosts sweepstakes enter official",
+        "caprese crostini ghosts giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "df5df432cd0ae507": {
+      "contest_title": "Halloween Deviled Tea Eggs Recipe | Maneet Chauhan - Food Network",
+      "original_article": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMC1yN21jQVZLU3NINzh3Mzc1MVJ2T1ZUMkI4c2djR2pSWEdHSmxHanZhSll1bEN1UVV4LVlQZTFIRVcyT0I3M21TeGhDMVpGWm9oNkozUVVuSXpDTE9sYzQ5TWI4VkRHOHViSkNiTEoyZXR5eGNmdHBLTW9HUXlkRjU5OU1yUm9hR0YyWVJ3?oc=5",
+      "looked_up_at": "2026-11-02T15:40:49.432024+00:00",
+      "search_queries": [
+        "\"Halloween Deviled Tea Eggs Recipe\" entry",
+        "halloween deviled eggs recipe sweepstakes enter official",
+        "halloween deviled eggs recipe giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "f666ff017b827c11": {
+      "contest_title": "Ree's Baked Ziti Recipe | Ree Drummond - Food Network",
+      "original_article": "https://news.google.com/rss/articles/CBMidkFVX3lxTE51RHptcG9NYzc5b0U5eWxnYjlNRnhhSXoyaFhEaWZ1T25TXzEyVHhGV1hkaWxQUVd0WE40NlZxTU1BQXJLT09CaGZudU5teGFXRUprX2ZpN0kzZHZxVW8xY1JKSFFKRC0wVnNzcWtGSjZnTmx0T2c?oc=5",
+      "looked_up_at": "2026-11-02T15:40:49.463649+00:00",
+      "search_queries": [
+        "\"Ree's Baked Ziti Recipe\" entry",
+        "baked ziti recipe sweepstakes enter official",
+        "baked ziti recipe giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "702e394a3c498098": {
+      "contest_title": "Beatty's Chocolate Cake Recipe | Ina Garten - Food Network",
+      "original_article": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeGw0RkVQZzRJY2x1VnVCZnQ1c3VNUGh2WXVVZW8zaWFTZ0loaFEwTjd5dlNSalFKeHhISUtfamhnenVERWw3N2EtSFFodlBiVTRaNV8yZlZTSmJsZnNyTmE1NGNuQUNDS0dnMjluMEJmLWRNb0lIb29HMzlkOVBiajJkSlM3SlZ0cWFaMQ?oc=5",
+      "looked_up_at": "2026-11-02T15:40:49.510741+00:00",
+      "search_queries": [
+        "\"Beatty's Chocolate Cake Recipe\" entry",
+        "beatty chocolate cake recipe sweepstakes enter official",
+        "beatty chocolate cake recipe giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "ec8e6879ebd13786": {
+      "contest_title": "Tyler's Chicken Francese Recipe | Tyler Florence - Food Network",
+      "original_article": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdXdpUGswdjJtUG9HWmtONTRxY2ZIbmhCd0xzU1ZmVkpTb3d4ME9KRW1HSkhKZldmT3QtZ2pfcENkck9Xd1VGZDhrWE1DTERaWXhGT0dRblgwWU40MzRSdU5md1FHZ0JaaWk0S3FGRjY3TEJ0eHZtUDdMNHI2Ti0tWFVlUkFLRGZQMGc?oc=5",
+      "looked_up_at": "2026-11-02T15:40:49.594282+00:00",
+      "search_queries": [
+        "\"Tyler's Chicken Francese Recipe\" entry",
+        "tyler chicken francese recipe sweepstakes enter official",
+        "tyler chicken francese recipe giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "89933da52d92f812": {
+      "contest_title": "45 Essential Rice Recipes You Can Make Any Night of the Week - Food Network",
+      "original_article": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBVR2NHU3BxSDl4N2tBQjZSd29hMEY4RU44aEViUnFhUTdNLTNoSzVoRHpUVHVrUjc2WW9PZDAxSTVpSW9ibllGV3dqRzB6MDduYVFVYW9UX2ctcnhzbXV1cW4zLVNvOVdCZHVvVw?oc=5",
+      "looked_up_at": "2026-11-02T15:40:49.636819+00:00",
+      "search_queries": [
+        "\"45 Essential Rice Recipes You Can Make Any Night of the Week\" entry",
+        "essential rice recipes make night week sweepstakes enter official",
+        "essential rice recipes make night week giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "f7c9118792dd8143": {
+      "contest_title": "Spicy Herb Garden Butter Recipe | Ree Drummond - Food Network",
+      "original_article": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMTdCV3d1RDZPOFZMSzc2UzQtekJiQ1ZoOWk0cW5SUGwzQWdjN3VtRmlsTUZaNVkzU3BkZUtXSXp4RG5LRDVqTEFPelh5RjdaNUtDNXc1VllTYWtZQjNQRDRxQXZkaTJKRkprZGRYMGR5LV90elZxTkptbV9MSGJfM2hmUWJjeWw3ZWc?oc=5",
+      "looked_up_at": "2026-11-02T15:40:49.598921+00:00",
+      "search_queries": [
+        "\"Spicy Herb Garden Butter Recipe\" entry",
+        "spicy herb garden butter recipe sweepstakes enter official",
+        "spicy herb garden butter recipe giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "d0d2e5894d82833a": {
+      "contest_title": "Sweepstakes and Contests - Food Network",
+      "original_article": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5YMk1ZU005TGxJTVhwYk54T1ZfM18xMXRZQk5remI2MDd2RENKRmxDUjluQl9JQnZxcWkwZzJ6Sng0dDFMX0dyTWVwOUpuMXpLaDBFZmEwTVFEb1dnWWFSRjhZc2Zvd2FKYmpMV2M4V2JSVDF1Qm9uMEFB?oc=5",
+      "status": "insufficient_title"
+    },
+    "fa3b21e5f31c3cce": {
+      "contest_title": "HGTV Dream Home 2026 - Food Network",
+      "original_article": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQc2tjbjdYemNqOWQ0UzlQS3B0UFIxMERxWk05LTRHZ0RPLW41NkV4YUwza1VrbmJuQjJXNUktajdnRzdqWnJKcGlWWGtNcmVTaTM2b0ZOTzJMMVJoRGxBdGFJM0ptZXR6ZkVXQmQ0eXowUlJfTUMzd1Z2T3EtSzBid1lsTktmUQ?oc=5",
+      "looked_up_at": "2026-11-02T15:40:49.685708+00:00",
+      "search_queries": [
+        "\"HGTV Dream Home 2026\" entry",
+        "hgtv dream home sweepstakes enter official",
+        "hgtv dream home giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "436c79db6281fdcd": {
+      "contest_title": "HGTV Smart Home 2026 - Food Network",
+      "original_article": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNTljaXBfcjR6M3l0eGVYY1dsa3FlSTZ2SjlDY0xockNvVTJ1R3hZMm1BamtnWkVmN1JvTWNsYzhURXFFbHJoMG9jVVpwTk5EMFYyQXJ6UWZ0S29RcDNrdHZMdGNkT1lySFBrVkoyZVZDcERyQnhraG1jNE9EaTRrbUdnd2RVUQ?oc=5",
+      "looked_up_at": "2026-11-02T15:40:50.119324+00:00",
+      "search_queries": [
+        "\"HGTV Smart Home 2026\" entry",
+        "hgtv smart home sweepstakes enter official",
+        "hgtv smart home giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "58f071cf4b8a4109": {
+      "contest_title": "RECENT SWEEPSTAKES WINNERS - Food Network",
+      "original_article": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVGQzXzVXcGtrSnFmTmtQSlZCaUZPOEZlQndLMTJhMHNpdDhFeEJGLVpWUHdzZUlsSTNiMG10YkxLaVJfMUlUNGE3TUYyLWxSd3FYVlJ3VG1OZ1dqS2hEcmJCMFQzNlFRZmRqZktTeDVXVi1WWlFMR2szSndTZGdFT0Mxc3FhLWJ4cUdGaXVWR1M5WnRlTHNybk0wbnV6RDJnU0pjRjN3?oc=5",
+      "looked_up_at": "2026-11-02T15:40:49.690919+00:00",
+      "search_queries": [
+        "\"RECENT SWEEPSTAKES WINNERS\" entry",
+        "recent winners sweepstakes enter official",
+        "recent winners giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "bcb9b8cb233cc4d3": {
+      "contest_title": "Who's Counting? - Food Network",
+      "original_article": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBGa2ZjcUlXRHRXUmpoVU1uSTMzZ2pCOWdNYzVEUTdmcDFxOThVb180WXhHWmk5QkhsWFpwWXJ6YUhhaHVPRVF0SlBlTHNPNUgwdWp0b3Y5RUJZeDlXWEg2M2hJdlE0a1BOdm1CdUw3S3YzSHdKSzVDcy1JenU?oc=5",
+      "status": "insufficient_title"
+    },
+    "7db705d1c28b14d0": {
+      "contest_title": "See the Spacious Kitchen at HGTV Dream Home 2026 - Food Network",
+      "original_article": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNN2tINXhhejhOZWxWRTEzNW1ELUJ5bmdnTVI4MTlfbWwwd05XQ2ZHRkVYTTJaWVdKMlNWQVkxUDV0bG9sc1VIbk9IQWRrM3E1R0ZuZkJJWUdzcGFudkJaSHdQRi15V2ctalVONmNqeGhkR0NmbzdUbVQyZTViYmM0bVlVam5LR0puYTBmeU40TzM5X09BS0tGRVB4SHg2NXVwX2F1UDdrUXQxYTdfX0I0WmE5Tmt4NUV5YTN6SA?oc=5",
+      "looked_up_at": "2026-11-02T15:40:49.699180+00:00",
+      "search_queries": [
+        "\"See the Spacious Kitchen at HGTV Dream Home 2026\" entry",
+        "spacious kitchen hgtv dream home sweepstakes enter official",
+        "spacious kitchen hgtv dream home giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "780ac6ef361d4978": {
+      "contest_title": "Fantasy Kitchen Sweepstakes Prizes - Food Network",
+      "original_article": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSjV2R2VNM3F0OXNQcTF5N240WWQ5TjZWcDRUY3d1LWV0TkN2TzJ3WC1qVUJCeGkweGQ2MWk0RGFjRHM0R0MxZEMxMjJLRGlZWHBONGs0UXlQYXRyREctZlkwYkJMSGotOTBEa1dlb0ZBckRxT1A1RGtZQzVQNW0taENkM210OG5xN1J3SF9aeWtYM2U4NmlZa282aGZ4NjdOQkZHN0ZxOVU?oc=5",
+      "looked_up_at": "2026-11-02T15:40:49.707384+00:00",
+      "search_queries": [
+        "\"Fantasy Kitchen Sweepstakes Prizes\" entry",
+        "fantasy kitchen prizes sweepstakes enter official",
+        "fantasy kitchen prizes giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "d1b516ae69fe3621": {
+      "contest_title": "Tour the Spacious Kitchen and Dining Room From HGTV Smart Home 2026 - Food Network",
+      "original_article": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbVdWR3lRWmQxMTNwV1JZaEY3eEJrRmx2YkJENnVpdjhfTklOY3M2SExKeERXZXhMQXlaQlpBTDkxaTRlWUtQZEp5MGU3YkZ0dVdhMG1tWWJyWmpubzhyaVBXeDRHSnlzMXJBUkVfSEViUjQ3VVNsYTgyR2d3dzUySy1sd3RfUW5zUjFtaUF1WW9Ba19EdldseExDMU8wakwzWmxpcjlrNWpBOGhTYTcxQ3FnUVlEUQ?oc=5",
+      "looked_up_at": "2026-11-02T15:40:49.799538+00:00",
+      "search_queries": [
+        "\"Tour the Spacious Kitchen and Dining Room From HGTV Smart Home 2026\" entry",
+        "tour spacious kitchen dining room hgtv smart sweepstakes enter official",
+        "tour spacious kitchen dining room hgtv smart giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "e398781008f52777": {
+      "contest_title": "Cookbook Giveaway - Food Network",
+      "original_article": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5BM2dNYmFQV0wwTlRPTWNfeENlSDJOcHdSUXg0MTdScXR4Y3Z3MDBLNDNTZmpQeExrUnA3UXNUWlYtaUZiWXhNUEFaSkFnY2dQRFpLTlpGMDBsTVZWWHRIdG0ydDQ?oc=5",
+      "status": "insufficient_title"
+    },
+    "2c4f8c78b7aa6055": {
+      "contest_title": "Grubhub Is Offering a ‘Side of Couch’ With Wing Orders - Food Network",
+      "original_article": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOendQMzh5TWZjRUJMbXJ5eG5GdTJESnZPTWZTallSTUVrRVB0WldpU3BkUkNJR05pZkdHQ3JoMnlGSTQ1VnhmTFNsaDZUcmR4bVZ2N0tSMXN4WXJjbTQ0QlJzdEZFZWlDUkhzcXRleDJZYnBpTUctYnprX01FdXNUc09lRGFvcHJHbXhLYkVaREpKX3FHQnNneGkwbk1YYndkcVhWazV3?oc=5",
+      "looked_up_at": "2026-11-02T15:40:49.827263+00:00",
+      "search_queries": [
+        "\"Grubhub Is Offering a  Side of Couch  With Wing Orders\" entry",
+        "grubhub offering side couch wing orders sweepstakes enter official",
+        "grubhub offering side couch wing orders giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "0ff39c9def5a4e4e": {
+      "contest_title": "Food Network Serves Up a Frightfully Delicious Fall Show Lineup - Food Network",
+      "original_article": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcEFNY0dyUmJjQ1RRYnh1T2NLbEY3NXo3S3VXSzZKWVhRdFRiUThMdXRYOGpBY21CNkJIVWYxdVI5VnN5Z0JXUjBkYVpXcnZmS0czS2FIcXZHRFBzblZsN2JfNEhBYzRxNnZiM2tRcjNZakJKUHpMQy1RdFNyQk1pU0xjbE9lMGk5aVRIU0VRNDhjR21KVTMydnVR?oc=5",
+      "looked_up_at": "2026-11-02T15:40:49.863174+00:00",
+      "search_queries": [
+        "\"Food Network Serves Up a Frightfully Delicious Fall Show Lineup\" entry",
+        "food network serves frightfully delicious fall show sweepstakes enter official",
+        "food network serves frightfully delicious fall show giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "a0e76c9c95bdcaff": {
+      "contest_title": "19 Deals and Freebies You Can Get on National Ice Cream Day - Food Network",
+      "original_article": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYTRkeUl5ZGlRb1ZOc0w1ekowNFp3ZnFnQWc2Nm81dDVZX1U0RnpyRlBEenVhWjVCZ0hpbmp3R1VtTDFZV29hWTNrd2NoRWJQX2d5ZnMxNGNLblVWZ2xTREhCajlZSU52bmhRTkNBU1hSSXloLXpoZ0kzUzVGTjBPT2ZJWklQdzRNYmc?oc=5",
+      "looked_up_at": "2026-11-02T15:40:49.927073+00:00",
+      "search_queries": [
+        "\"19 Deals and Freebies You Can Get on National Ice Cream Day\" entry",
+        "deals freebies national cream sweepstakes enter official",
+        "deals freebies national cream giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "a6f29c0180e312e0": {
+      "contest_title": "Food Network's Season of Sweetness Sweepstakes - Food Network",
+      "original_article": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1obUh5aF9CY0oyZ21HSlB6TmRxdm5UbW5JamFrbkZEUGpZNDg0aUdkbGI3RHQwR2Jfc1R5VmJ0TS1sYjU4X21RMEZUOHhjR0I3bnNFc3YzVXFBVG11U2xjanBwZkxWOWVVSjFhS1pxNmtERXhnTWRnb1Nn?oc=5",
+      "looked_up_at": "2026-11-02T15:40:49.947098+00:00",
+      "search_queries": [
+        "\"Food Network's Season of Sweetness Sweepstakes\" entry",
+        "food network season sweetness sweepstakes enter official",
+        "food network season sweetness giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "2542230d5fd6268a": {
+      "contest_title": "Pepsi and Off Season Made NFL Puffers for Your Soda Cans - Food Network",
+      "original_article": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOEZ6azBoYnR6UzNNOTUwRW9ydktUYTRvMWxBTFZWaWxqSVBvY3ptRE9DRmN0cGRxWmxtcmR2V0ZaaTdGSWNERUxUTnpETmhRNmhDNGRDUXU1UC1yS1VyMi10Z2Vlb0dHS1c0Q3ZKcDgwUmpjX3E3Y2tyY09fWXZtSWhxTGRLUDBpWWZzS3ZGVW1Ga0dtaC0xNA?oc=5",
+      "looked_up_at": "2026-11-02T15:40:49.970500+00:00",
+      "search_queries": [
+        "\"Pepsi and Off Season Made NFL Puffers for Your Soda Cans\" entry",
+        "pepsi season made puffers your soda cans sweepstakes enter official",
+        "pepsi season made puffers your soda cans giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "b3d0032f204963b3": {
+      "contest_title": "Beat Bobby Flay - Food Network",
+      "original_article": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9YbzdoTmNhNUF5bl9jMUZOa0NIengzVFBMQ1I3a0VwZGota3VGODlIektlcGszWXhfRVhETXdQd25HMWViMnZtQjF4RFc0M096RUZfbjcwRV90eXpBcUE?oc=5",
+      "looked_up_at": "2026-11-02T15:40:49.994264+00:00",
+      "search_queries": [
+        "\"Beat Bobby Flay\" entry",
+        "beat bobby flay sweepstakes enter official",
+        "beat bobby flay giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "97e6f9153f03edab": {
+      "contest_title": "Here's What's Airing on Food Network This July - Food Network",
+      "original_article": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbEpqWExJN0EtMlV6UnlPNDB5dFQ1eTNRR1dnbmgzZk9QZ2cwRXA1dGxsWjMwUkRYTkNIcGVvY1VkX1ZwbjNkZWxuSnRnS1RJNzRiN3ZjMEk5bkVZVGwyYW1fQTFVcm05UkR1TUcwTjhjQ1NuY0prQVo3VS1jN2diclBldw?oc=5",
+      "looked_up_at": "2026-11-02T15:40:50.153289+00:00",
+      "search_queries": [
+        "\"Here's What's Airing on Food Network This July\" entry",
+        "here what airing food network this july sweepstakes enter official",
+        "here what airing food network this july giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "377eb2edb58e26c7": {
+      "contest_title": "The Latest Food News - Food Network",
+      "original_article": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4xZGMtTERkQ1B0NGJEb1R0RGVjb1JMdHNENVp5ZlFrMUNkOWJSd1JhNXRzOWNZaWJONUNicVJWaGhyOWsxcEZjQTE0SQ?oc=5",
+      "looked_up_at": "2026-11-02T15:40:50.062540+00:00",
+      "search_queries": [
+        "\"The Latest Food News\" entry",
+        "latest food news sweepstakes enter official",
+        "latest food news giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "51df13d18f8906c1": {
+      "contest_title": "Holiday Specials on Food Network - Food Network",
+      "original_article": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUTBMNFVUd1M3SnNYVW5BOUhTWEluZkx4SXNoRlJYcEZVWmdacDBTYWo0emhZWlE4NjhEM3UtOFlZdDY1Z1NueW9FT25tWmNCd3ItSEVURlpFQ0VUZ0IyYnFDN3F4NEw3cm9FRFg1S3Juck0yRWsxc01SVnRacklLSS1tTHRadkIwdnpNSGczdUNMdw?oc=5",
+      "looked_up_at": "2026-11-02T15:40:50.157591+00:00",
+      "search_queries": [
+        "\"Holiday Specials on Food Network\" entry",
+        "holiday specials food network sweepstakes enter official",
+        "holiday specials food network giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "0d6a206f0c7b53c8": {
+      "contest_title": "Easy Recipes, Healthy Eating Ideas and Chef Recipe Videos | Food Network - Food Network",
+      "original_article": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1oemVXUFFYZUlHMjNJRnNiUXdYWDk4V3NxMkx5ZjJHLTFTYVBCWjBPaU9Gc2xteGM3bjZMd0NjdGtaZw?oc=5",
+      "looked_up_at": "2026-11-02T15:40:50.045307+00:00",
+      "search_queries": [
+        "\"Easy Recipes  Healthy Eating Ideas and Chef Recipe Videos\" entry",
+        "easy recipes healthy eating ideas chef recipe sweepstakes enter official",
+        "easy recipes healthy eating ideas chef recipe giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "e71c17d6f342774f": {
+      "contest_title": "Get Ready to Cozy Up With Food Network's Holiday Shows - Food Network",
+      "original_article": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNakdLRDRoRy1qUGE1NVNfV2oxWHRZZnNGSmRodnFJcm1ULWUxaHMydHpGMlZlRU9ydEFoSlcxSExpWF82R1lMZnhLZWlOY1dhNzY0NHdZbDBuX1pNSDA2WlhQOTJzRndMYnR6LThpZVZXTW5vd05KcEh4NWtwOHNCcW1nTS15Zk8wb3h1YnZB?oc=5",
+      "looked_up_at": "2026-11-02T15:40:50.154090+00:00",
+      "search_queries": [
+        "\"Get Ready to Cozy Up With Food Network's Holiday Shows\" entry",
+        "ready cozy food network holiday shows sweepstakes enter official",
+        "ready cozy food network holiday shows giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "f1ab3b495a044e92": {
+      "contest_title": "Fill Out Your Tournament of Champions, Season 6 Bracket NOW! - Food Network",
+      "original_article": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORDIyUEhDbzd5TlhQbFFyeWQxQlU4TmZJSTd2OERGTVlsM0RSc3VvOFhJLWV3TGhHTFRtQ0NXemlKSU5TM2JOQU1CNHdPQ2ZEc0lQb0l1NWdzWWFFdWtMbmd0c1hJUWdHaHNfd2tiaW93VHhsRlVqWkhuWDBkTzkzOFBKa2FhMHlDTmpCWWFwcERJd3lWUi1PbDN3?oc=5",
+      "looked_up_at": "2026-11-02T15:40:50.220797+00:00",
+      "search_queries": [
+        "\"Fill Out Your Tournament of Champions  Season 6 Bracket NOW \" entry",
+        "fill your tournament champions season bracket sweepstakes enter official",
+        "fill your tournament champions season bracket giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "a0aa719ca8e34486": {
+      "contest_title": "The Pioneer Woman Recipes - Food Network",
+      "original_article": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9oSFQyQjU4SWdyTS1XZG5WaVp5TjYweGFzZGJoUVpwa1JEQ0pZVU1BZFJWbXdhak1PVExhRHBkSjdUWXRkTmQwaGExenZlbnpEWjJXNlBxRExma1FIRDBGdGhDLUlEMUhkcXBz?oc=5",
+      "looked_up_at": "2026-11-02T15:40:50.275270+00:00",
+      "search_queries": [
+        "\"The Pioneer Woman Recipes\" entry",
+        "pioneer woman recipes sweepstakes enter official",
+        "pioneer woman recipes giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "ac2e785ac2725ee1": {
+      "contest_title": "Halloween Baking Championship Set Tour - Food Network",
+      "original_article": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBDbUFTQjlDWEVYU2pVaXJDdGtUSkg1V1o5cWNtczlSVUlWdGd4MGlZVWdIbmlPNDlNbnFOcUExZGJKMXk5Y2hGdUhBanpwejdBem1yQjdLdkFvN3NvSFVZdXFmTlNCMjQwMUxoRnZXRVk?oc=5",
+      "looked_up_at": "2026-11-02T15:40:50.260106+00:00",
+      "search_queries": [
+        "\"Halloween Baking Championship Set Tour\" entry",
+        "halloween baking championship tour sweepstakes enter official",
+        "halloween baking championship tour giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "31c0feb5b676a3d0": {
+      "contest_title": "Our Top 50 Thanksgiving Recipes - Food Network",
+      "original_article": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBiN2lleEpjWDBrRmFRZ0UwQzVjS1hUNFhzTnpmSUhfVVZSR2xsajFnMDRCRHh4cEwzZ2pYU0stN0dxOGJXMEJ0SHhNclFBWWhYZFhfOXROdV9fUmZ5SWtFbGI3Tm13WExVU19BUnFVelVLVEduX1RlX1Rn?oc=5",
+      "looked_up_at": "2026-11-02T15:40:50.329941+00:00",
+      "search_queries": [
+        "\"Our Top 50 Thanksgiving Recipes\" entry",
+        "thanksgiving recipes sweepstakes enter official",
+        "thanksgiving recipes giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "f16d35f74d41561c": {
+      "contest_title": "Halloween Cookie Challenge - Food Network",
+      "original_article": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ncjZwS2ZiX0dmcEZBR2hpSTd0cUJiUWVKY0g4Qm1DY212S1l0aFlhOGxtZU1jbHBlVnBBZUMtV2p1bmpEd3VnOEM1ZkNRUmlhTkxOSV8yQXpvNjZGc0pndXlpalczZG9TUkI4Zg?oc=5",
+      "looked_up_at": "2026-11-02T15:40:50.444418+00:00",
+      "search_queries": [
+        "\"Halloween Cookie Challenge\" entry",
+        "halloween cookie challenge sweepstakes enter official",
+        "halloween cookie challenge giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "64b149cf1b32d198": {
+      "contest_title": "The Kitchen Recipes - Food Network",
+      "original_article": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9TTXZ0VnNXMnlwcDk3UlAzWl9TUjZMQmFBVTVmMGdBak9MblBhRVlvam9SWTNidDJYWXFuVl9zREZHeGFoZzZxY05GN2lKZVJqMEpqU0hSZ0l2bUVtS0RXUmpBOA?oc=5",
+      "looked_up_at": "2026-11-02T15:40:50.358097+00:00",
+      "search_queries": [
+        "\"The Kitchen Recipes\" entry",
+        "kitchen recipes sweepstakes enter official",
+        "kitchen recipes giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "82e057e1a925609b": {
+      "contest_title": "BBQ Brawl - Food Network",
+      "original_article": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBJT01IMGVGeFhjbWNUcDBqYnlhTjlkR0twdEhiZ3ExR3dSTWNaQmo1bG5GYnBFNmItSl9kT1J2RmZva0FvcjdDTFAwWmY1NDMwWWhQdFFyaTZZX2pSeDJ5WkVoaUZVVTg?oc=5",
+      "status": "insufficient_title"
+    },
+    "4de2eca55b4e1bcc": {
+      "contest_title": "Tournament of Champions - Food Network",
+      "original_article": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE41aE1nMHFQYlFxOV9HT0JKRERZNDg4WUo1eTc0UHYyX0dtTWw1SEtjQmNTbVZUNm5ob3lBWWJBVk1ORE9MYk1UV3c4dV9BZ290UFJNRWFoRGhUelVPaXkxRTdrSDI1NFhs?oc=5",
+      "looked_up_at": "2026-11-02T15:40:50.414128+00:00",
+      "search_queries": [
+        "\"Tournament of Champions\" entry",
+        "tournament champions sweepstakes enter official",
+        "tournament champions giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "b7bc3f2973cf05ad": {
+      "contest_title": "Food Network Announces a Magical New Season of 'Harry Potter: Wizards of Baking' - Food Network",
+      "original_article": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeFU2WDVDdmMzek5Zclh6b0xqczZVa3lPNE4xZzhrSDdyU01GNzVENFFqWXVXb1dRRURxUmI4cGowc2Y1dXhOZlZ0LTBQcmt4elItSTBoQXpwRlJwelpNdmlJdE14V2xBR09vcnNadnFRRlM0bWtDdzZuY29SWWtPYlQyNzE2cEhjRHNiTnRpQTVOb3dPMHlfTW9uUkctREhyQXhTNTgzYXlNUTktY2RTcG1sdjY3ei1n?oc=5",
+      "looked_up_at": "2026-11-02T15:40:50.481145+00:00",
+      "search_queries": [
+        "\"Food Network Announces a Magical New Season of 'Harry Potter  Wizards of Baking'\" entry",
+        "food network announces magical season harry potter sweepstakes enter official",
+        "food network announces magical season harry potter giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "89b7aca903db1080": {
+      "contest_title": "Outrageous Pumpkins - Food Network",
+      "original_article": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAxRFYyVHFqc1doNzFVSkNlZXhDbWZuSzl3bmJLeUJ2Mi1icjdiaWV4UFF6VUdfbGdlOU9aalhrQ1NwVnJyVmVESnlZWHNMWmQ3aWxocWJVSmVDdWJSaTYzdkVrUQ?oc=5",
+      "looked_up_at": "2026-11-02T15:40:50.555501+00:00",
+      "search_queries": [
+        "\"Outrageous Pumpkins\" entry",
+        "outrageous pumpkins sweepstakes enter official",
+        "outrageous pumpkins giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "75e254f979a3fc70": {
+      "contest_title": "I Turned My Kitchen Into an Ice Cream Shop with the GreenPan Frost Machine - Food Network",
+      "original_article": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUTRKM1ZjYlNUV2JwbFlWYVdycno5X2lPbUx3MU9jejZETURzZ3ZILUlYS29VWGFMSVZLVmpOOHJZZEVRdUtSVnFvS3FqRlBfMmVSSU5reVBqTHMwWFB4LTJ5NFNxSGNneGV5Vzc0V2hWN0NZcEY4Ums4U3d1MkpxV293cXBOS1ViY1ZtWFEzcjJzUHNrNkFITWZ6UGlzb1dIWGF1Tjd3UEVsZw?oc=5",
+      "looked_up_at": "2026-11-02T15:40:50.653449+00:00",
+      "search_queries": [
+        "\"I Turned My Kitchen Into an Ice Cream Shop with the GreenPan Frost Machine\" entry",
+        "turned kitchen into cream shop greenpan frost sweepstakes enter official",
+        "turned kitchen into cream shop greenpan frost giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "b6826e056f3e957b": {
+      "contest_title": "Watch a Sneak Peek: '100 Cooks' Comes to Food Network - Food Network",
+      "original_article": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTzhwOFp5eUN5ajhuYWhlUlFGd1Vid2NZWExLS21iWWZ6ZGVxeEE5RjRWZlRXQ2VGcWNnM1JVT0RrNXMwMlZHenpIM3BjVkxTcE9KdUhDcUVTU3BrYnpvSGRlbW0zZlY0SXJVSFN3VEZGeEJlN2ctbGhhY0hYOFpJSFNBTG92SlRyMlBIZg?oc=5",
+      "looked_up_at": "2026-11-02T15:40:50.549592+00:00",
+      "search_queries": [
+        "\"Watch a Sneak Peek  '100 Cooks' Comes to Food Network\" entry",
+        "watch sneak peek cooks comes food network sweepstakes enter official",
+        "watch sneak peek cooks comes food network giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "053e5d4f742f66ad": {
+      "contest_title": "The Ultimate Baking Championship - Food Network",
+      "original_article": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4xcmlFRVpicVZZVzI1RGlZQWVMWUlqZmxiRjJmb0ZMREFlcEN1REoxMm9uSnIzSnJCS01MaFE5U2NQZWt3ajRwRDV0X2hLMlhJdVpCeGVWNDlSN2NPdFZSUGtuSlZpOFdfR3plNzlXRzE4NGJj?oc=5",
+      "looked_up_at": "2026-11-02T15:40:50.627875+00:00",
+      "search_queries": [
+        "\"The Ultimate Baking Championship\" entry",
+        "ultimate baking championship sweepstakes enter official",
+        "ultimate baking championship giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "4f6f9ae270cf9eda": {
+      "contest_title": "Kids Baking Championship - Food Network",
+      "original_article": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFbzFSZVI4TXVJd2xGcTJha2dRMEZFZ1ZIa2wzRW5aUUxIam1CYzM5Y3FQV1A3VGJMeDFwLTAxSkRuZGJiZUFiRDBqbTZzSHJMM3ZLVHg5Y0NKQmlsUEJUdEN0a1hDQ0VvdGc?oc=5",
+      "looked_up_at": "2026-11-02T15:40:50.539122+00:00",
+      "search_queries": [
+        "\"Kids Baking Championship\" entry",
+        "kids baking championship sweepstakes enter official",
+        "kids baking championship giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "4df2326cc19258a1": {
+      "contest_title": "Halloween Wars - Food Network",
+      "original_article": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5LbzFGSUNqSm13Y0hjUlE4dld6STVyZ3ppOENhc3N1Z1dScDZaY21xc2ZndTJITGNVaVpPRTZVSURIaTRmYTJfdS1iRjM3MzFQRExOT29IQl91bl9u?oc=5",
+      "looked_up_at": "2026-11-02T15:40:50.594768+00:00",
+      "search_queries": [
+        "\"Halloween Wars\" entry",
+        "halloween wars sweepstakes enter official",
+        "halloween wars giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "28d4506ce79a52ec": {
+      "contest_title": "Watch a Sneak Peek of 'Tournament of Champions: All-Star Christmas' Season 2 - Food Network",
+      "original_article": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVmlhcklOVVFsSDU3cXEyV1dHOHN4Qnl3eTVJVEFJaTZpZnlXcGc4MGtMWi1GcDdqc2owVW9YT29TbHBPV1p0THUwUDFjNVdVX216OHozdlBSZ2xLcmVDQUdqSDRJaGkyRjZLLUpMNlgtSlkzcm9hY1BKNW5zOVlLUGxmT0VIN2c0NjdpekFwWWNLVmRCaUVkM2pDUGtCd0ZsRkV3WXViZDRGcXQ1SEh6Z1RRcHphbjQ1U2dFYzJ3SzJEV19xaXVLUjdDSEhpV2otelV6ZEZB?oc=5",
+      "looked_up_at": "2026-11-02T15:40:50.648086+00:00",
+      "search_queries": [
+        "\"Watch a Sneak Peek of 'Tournament of Champions  All-Star Christmas' Season 2\" entry",
+        "watch sneak peek tournament champions star christmas sweepstakes enter official",
+        "watch sneak peek tournament champions star christmas giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "7212125b2a637c8e": {
+      "contest_title": "Watch a Sneak Peek: Top-Tier Pastry Chefs Battle It Out in 'The Ultimate Baking Championship' - Food Network",
+      "original_article": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZHVzM2I5aDlUeV9QRDE2NjVsVjhkZV9hNmJHNTZzR3Izb0V0azNDTkZZTEJSRzM2QUVlcGFZcXdSY2IxeUNSZGIzZUhzWENFUVNURDE3VnY0UHJfTC1HSUFoQWhnSGFCZVgzQkJiVTRTc1RCTkdWRXVWUFJ4UjlEaHRhYVFnVl9fYnIxSG5aWWRiaWNyZW1sSA?oc=5",
+      "looked_up_at": "2026-11-02T15:40:50.710361+00:00",
+      "search_queries": [
+        "\"Watch a Sneak Peek  Top-Tier Pastry Chefs Battle It Out in 'The Ultimate Baking Championship'\" entry",
+        "watch sneak peek tier pastry chefs battle sweepstakes enter official",
+        "watch sneak peek tier pastry chefs battle giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "6b5851804d4b023a": {
+      "contest_title": "Bob Trudnak Becomes the First Competition Pitmaster to Win ‘BBQ Brawl’ - Food Network",
+      "original_article": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQY2kyeGRybk5XQWVnVk9GQlRoMTA5RmlzT2tHUzYxWkFYaDNHajZMUUUtdkVRZnNTNnd3S0NUbGdzczdyaUV1dlQxLWg4d21uX280MTlsVDlrV3EzTW40d09CSDF6X3pwbHBmREw0WkpYWTlYbE9JdWNzWFBoRHZzekxIV1dFZllW?oc=5",
+      "looked_up_at": "2026-11-02T15:40:50.734782+00:00",
+      "search_queries": [
+        "\"Bob Trudnak Becomes the First Competition Pitmaster to Win  BBQ Brawl \" entry",
+        "trudnak becomes first competition pitmaster brawl sweepstakes enter official",
+        "trudnak becomes first competition pitmaster brawl giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "34a60a4e2182e7a9": {
+      "contest_title": "24 in 24: Last Chef Standing - Food Network",
+      "original_article": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBieXRqUFppV3ZpWGJnVU8ta25vaG8zZXl6dVJRV3ozZmVyeW5iX1VuWkdhdGhrN1VHM19UV2hVOE9wcHhfeDhibFV1Z0luX3dPWUltNGtkZFY1Z05fTlR6MXlobWNPX1JMMDRKanhR?oc=5",
+      "looked_up_at": "2026-11-02T15:40:50.801112+00:00",
+      "search_queries": [
+        "\"24 in 24  Last Chef Standing\" entry",
+        "last chef standing sweepstakes enter official",
+        "last chef standing giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "61b105f9172ba313": {
+      "contest_title": "'Bobby Flay's The Line' Features Real-Time Culinary Restaurant Battles - Food Network",
+      "original_article": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSklhVWxwaE9YUU95VkdyaGprRVVSUGIzbHVYVEVMZmo1MHd0ZWlGcDRmRU9pWjNobHZpNFdnTXNFeEE1UnZOQ2dmOEVqWjlSLU5LbFpma1lHWE12cWxSbk8tT21scmoySGZjTTdxdXpfTDBDdE9CbnR4MmlTMjJtbTRVYWl6VmVaYnVFbmp3?oc=5",
+      "looked_up_at": "2026-11-02T15:40:50.801601+00:00",
+      "search_queries": [
+        "\"'Bobby Flay's The Line' Features Real-Time Culinary Restaurant Battles\" entry",
+        "bobby flay line features real time culinary sweepstakes enter official",
+        "bobby flay line features real time culinary giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "f8dfb6c737958d90": {
+      "contest_title": "7 Best Slow Cookers of 2026, Tested and Reviewed - Food Network",
+      "original_article": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVDQwckRyYTJ3WnZ2YTRLWHZFU2YzaDI5QVROU3RDanFSb1NCYUZwYkliRUExc0tkVzRDYmw2LXlPTjc1cWdld0JiWFlYanRKZFlJSkdYRWF5RmhfZWFzTE9GZVc5U0FkRm80UU15X1JjNms5Si14eU8yNmlmRHlvQ1lWakNyWlktbDQzRkxDcw?oc=5",
+      "looked_up_at": "2026-11-02T15:40:50.834730+00:00",
+      "search_queries": [
+        "\"7 Best Slow Cookers of 2026  Tested and Reviewed\" entry",
+        "best slow cookers tested reviewed sweepstakes enter official",
+        "best slow cookers tested reviewed giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "630bf1144fe6dabc": {
+      "contest_title": "11 Places To Buy Premade Thanksgiving Sides - Food Network",
+      "original_article": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZ0RtQ3pXYUhxbmhKdmh1WHcwSzhFcU84ZmR6XzdfQS00eHVOVjhZYTU4RTcwR0lqei1OaVBEREQwNUl0UTlCTDZoenVYMkFDOXpwMUhSLUQxcm05RmZBU0xTaDdvX1hqVWplT29TbUozUlhMeEFVbHk5LWdBMUpWM2J6aTdwbENGLXc?oc=5",
+      "looked_up_at": "2026-11-02T15:40:50.927370+00:00",
+      "search_queries": [
+        "\"11 Places To Buy Premade Thanksgiving Sides\" entry",
+        "places premade thanksgiving sides sweepstakes enter official",
+        "places premade thanksgiving sides giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "530e4c6ef86a2e0e": {
+      "contest_title": "9 Best Air Fryers of 2026, Tested and Reviewed by Kitchen Experts - Food Network",
+      "original_article": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZ2ZqcFlSeHdDWEs2dS1OOV9PaGlXWllrX3Z5ZkhFM3B5d0dobi1aNnhWNFBNenIzV25KeGtFaTk2bjRoZ1N5Q0NSY2QyQzZsZTNrOU9SUll5eGpoMjdLN1YwYXdyZXA0eGI4UmRVUkJLQUJLbE8tazlBWlcyRm0wSldCMVdFcFBrQTlj?oc=5",
+      "looked_up_at": "2026-11-02T15:40:51.082961+00:00",
+      "search_queries": [
+        "\"9 Best Air Fryers of 2026  Tested and Reviewed by Kitchen Experts\" entry",
+        "best fryers tested reviewed kitchen experts sweepstakes enter official",
+        "best fryers tested reviewed kitchen experts giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "77f9234010c23a16": {
+      "contest_title": "'Halloween Baking Championship' Season 12: Meet the Competitors - Food Network",
+      "original_article": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObmxDUnAwTDR1RV96elFWMmc0R3k0LWd5QUlNME9MdUI3cGo2X3lrQjRaa18xUFFna3RpWXV6Y2tJRzg5UWs4Rk4yVkR2MTl4UFhoa18tX0xpMUpWMFJoeW9vcDdnaEtpak41dTlvQlhxUGo4VUo0aDdUUWMtYWJBSTdxbnAybHloSW11dW81d1JrNkZ4bllJUC1rN0FtYklkbTV1Q0JDOUFJRURTbTBxTzZ3WW5fa0NhTXU0WDBnVW1PNVhjVTBWZG1ZQi1pbU9LWUY4cA?oc=5",
+      "looked_up_at": "2026-11-02T15:40:50.870002+00:00",
+      "search_queries": [
+        "\"'Halloween Baking Championship' Season 12  Meet the Competitors\" entry",
+        "halloween baking championship season meet competitors sweepstakes enter official",
+        "halloween baking championship season meet competitors giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "2ab76490c8870812": {
+      "contest_title": "TV Schedule - Food Network",
+      "original_article": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ya2VRd2syeDdaOTFORVlhemdZLWZUSFYyMzFpSURxZEVjNDZFQ0huMzFtSnktdEdyM0ZJTHZaZ1hfcUFhamhPYmNCdHQ5WnZ4NWpieVpBZUw?oc=5",
+      "status": "insufficient_title"
+    },
+    "db156028cae7b781": {
+      "contest_title": "Shows & Schedule - Food Network",
+      "original_article": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA2bmMxLVRiRVBjZUMtZHpiRG5JZ19nUENzMWxmTzFtTlg3cllmWVc5MXNOdUVPSWpFb3ZfZVZsclVrOGF5dlI1ag?oc=5",
+      "looked_up_at": "2026-11-02T15:40:50.901762+00:00",
+      "search_queries": [
+        "\"Shows & Schedule\" entry",
+        "shows schedule sweepstakes enter official",
+        "shows schedule giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "249db40216183ced": {
+      "contest_title": "Watch a Sneak Peek: Guy Fieri's 'Tournament of Champions VII' - Food Network",
+      "original_article": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObFJwUUYzTXFPWlFMNUFPRlBQZkNmdFBreVk1QUFFeHFyMFRGelBNR0JsMHFtR2YtYVN5bGx3Vk84TUhqWk9INkJZOGFRQWxYcTh2T0tDNW5BRjJZb0JkQmdKOUVwWjltdXRJelhrSVJNdFFIOTJHQW1tZy16WlYzQ3hsVllac2d6Uy03X1lUYzYzUnJjcjA1eWdDbDc?oc=5",
+      "looked_up_at": "2026-11-02T15:40:51.013759+00:00",
+      "search_queries": [
+        "\"Watch a Sneak Peek  Guy Fieri's 'Tournament of Champions VII'\" entry",
+        "watch sneak peek fieri tournament champions sweepstakes enter official",
+        "watch sneak peek fieri tournament champions giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "0e4fd3c13058d9a1": {
+      "contest_title": "Holiday Baking Championship - Food Network",
+      "original_article": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBZakxXUjJQU1laU0IxQmd5TWl6cE5aZUthOVh0TnlEY0dwaHl2VUlnaTl6ZXZNdWUxUF9qOV8tRUdCNlV6OVJzcTk2cXJXUW5RY1BlWnZ5Q2xjMk5xc2t1bTd1WVFWRjdQRGxwQWtn?oc=5",
+      "looked_up_at": "2026-11-02T15:40:51.013026+00:00",
+      "search_queries": [
+        "\"Holiday Baking Championship\" entry",
+        "holiday baking championship sweepstakes enter official",
+        "holiday baking championship giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "c8143601857082e8": {
+      "contest_title": "Jesse Palmer - Food Network",
+      "original_article": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1GTUl1d3EybkRjcWxaTXNGeXM5RkRwdGl5RGUyUU03MHFLZEEzeHluU3IwaDZvSGpMbDFOQWFQeVNrMkJ3ajg0WWp3Y3Y3VDgwZUVuaURjQXdDXzdXRWwwa2VwbkRJVGs?oc=5",
+      "looked_up_at": "2026-11-02T15:40:50.994155+00:00",
+      "search_queries": [
+        "\"Jesse Palmer\" entry",
+        "jesse palmer sweepstakes enter official",
+        "jesse palmer giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "83afcb908407a25a": {
+      "contest_title": "Pitmasters - Food Network",
+      "original_article": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA4bjhMSkVVRnRYODhaRkFxV3hOWGFXV2dERlhrYjlUdzRqaUR4eUM0OGY4N1RxTVhmUHlfQVJVVlh1Z0ZpQl9uTkl4ZGZvUU5pbGxqZ1JNcw?oc=5",
+      "status": "insufficient_title"
+    },
+    "b4b109a9dfb72c5a": {
+      "contest_title": "I Tried Starbucks' Pumpkin Cream Matcha and Other New Fall Beverages - Food Network",
+      "original_article": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNLUhfRFV1dEZ6QkZhQ2RyeVRMYWpaWmtVM1dMUWowbTFqSmE0X3F0aUwzblpVNWlCY0ZOQ0VWZkFuSWVQaXJabW5kQlU2alBDbndON1g3WVRsV0JqSWRsTG9MdmNDakZka2tlaU1GNDJDOEgtSnJ4Y0RpM0tUX3hpcG10c1M?oc=5",
+      "looked_up_at": "2026-11-02T15:40:51.285047+00:00",
+      "search_queries": [
+        "\"I Tried Starbucks' Pumpkin Cream Matcha and Other New Fall Beverages\" entry",
+        "tried starbucks pumpkin cream matcha other fall sweepstakes enter official",
+        "tried starbucks pumpkin cream matcha other fall giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "19a1e342fa003d37": {
+      "contest_title": "Watch a Sneak Peek: '24 in 24' Season 3 Comes to Food Network With Major Twists - Food Network",
+      "original_article": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRHVMSWZiVVBFYm1vUnFFNVBFcDVMYU43clpkN2NyNEgxRHI2ZnpUVzFabGM2cXNnMlRhTUlGMlBDVzFRTGtHLWVzeC1pdnJ3YWg3RnJ4Z3ZXRWk2b1N4cnhUeU92YWZrNGhmdWw3RHh4Wlcwa1lsSXktQUU5REhWWFJUNEU5Q29jRlRJUHhyMjkxZ0E3YVdJN2xEbjdlQ1pCbWc?oc=5",
+      "looked_up_at": "2026-11-02T15:40:51.208503+00:00",
+      "search_queries": [
+        "\"Watch a Sneak Peek  '24 in 24' Season 3 Comes to Food Network With Major Twists\" entry",
+        "watch sneak peek season comes food network sweepstakes enter official",
+        "watch sneak peek season comes food network giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "1978173a11a8d473": {
+      "contest_title": "Yes, Chipotle Is Bringing Back Smoked Brisket - Food Network",
+      "original_article": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZ052RS1HVVpBOWtaeFlhamZ4U3ZzazdmcnM5UW5GUWFLbDJud0hZVHpjdWJpQ2FpWWFBVU5rNUYwcmhLWkxKZHV5dExGYlNXenA5UzBwLVFRal9fYWNwbkNfaHlaMVZERlRkZ0djV1ZxMVFBY1U3dl9Oc3U4RjdPaw?oc=5",
+      "looked_up_at": "2026-11-02T15:40:51.153234+00:00",
+      "search_queries": [
+        "\"Yes  Chipotle Is Bringing Back Smoked Brisket\" entry",
+        "chipotle bringing back smoked brisket sweepstakes enter official",
+        "chipotle bringing back smoked brisket giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "fde795ecb029fc83": {
+      "contest_title": "6 Best Mail-Order Turkeys for Thanksgiving 2026, Tested and Reviewed - Food Network",
+      "original_article": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWk54eDR3VWxZNDhUNFRoV2pRTWdZek5kRng4Tjk1SFhPa3ZPZUZFXzUtZHY5MlpENlhfZG41eHVHd2NXTmJYNDJwQlFlVkFjLUIwdlp4NEZvcUEzMmNNUVhLSWtYWmZkWDhhbWpubUJUQ2FyLUo3QXRndmo2TEJTck15NmRwdTJweTRyRkpHOFBkX2U5VENBeElKejBmeEE?oc=5",
+      "looked_up_at": "2026-11-02T15:40:51.194453+00:00",
+      "search_queries": [
+        "\"6 Best Mail-Order Turkeys for Thanksgiving 2026  Tested and Reviewed\" entry",
+        "best mail order turkeys thanksgiving tested reviewed sweepstakes enter official",
+        "best mail order turkeys thanksgiving tested reviewed giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "2d2af92e383a91e6": {
+      "contest_title": "Our 105 All-Time-Best Christmas Cookie Recipes - Food Network",
+      "original_article": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQ3dZRmlXcmtkeVVCdVB1UDYzbjJYM2tmTC1rYjJ1VndmaU9XNzdkVzVaUlZJeENKUEFHUzZuRDBrRzZXeDlfZ3ZqNm5UZWI1VFVnMEI4bzZLZkpLR1lTTjZUdHg2S1J5NGNJNGVnMWEwdTE2a19QcnVhWVBpdWtCbw?oc=5",
+      "looked_up_at": "2026-11-02T15:40:51.289982+00:00",
+      "search_queries": [
+        "\"Our 105 All-Time-Best Christmas Cookie Recipes\" entry",
+        "time best christmas cookie recipes sweepstakes enter official",
+        "time best christmas cookie recipes giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "4dc32618272fe5d1": {
+      "contest_title": "Watch a Sneak Peek of 'Tournament of Champions: All-Star Christmas' Season 2 - Food Network",
+      "original_article": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdlZ0ZkwwRTlsTnJxV3ZTWG1OcEJvMC14dGRiMkVKeEliMTU2V0txTUNPZzVwOW92bm9UeDZXMEF2a3ZPbzIxT012N3ZlX3ZYLVBNT2tjWU9Hams1cmR2Vi11dmhya3g2YWNnWEp2QnRpNV9EeGYtYUVHbkJ0X1dlekln?oc=5",
+      "looked_up_at": "2026-11-02T15:40:51.432140+00:00",
+      "search_queries": [
+        "\"Watch a Sneak Peek of 'Tournament of Champions  All-Star Christmas' Season 2\" entry",
+        "watch sneak peek tournament champions star christmas sweepstakes enter official",
+        "watch sneak peek tournament champions star christmas giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "ea69611188007be8": {
+      "contest_title": "VIP Texts - Filson",
+      "original_article": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9NclNpRDdSdWRpT2tuaWxQb2pOLUdENzJfdjktMWVXUFM4M19jUVJoNTROeXo1YXFpRVk1RXJES1NUWVhmclF4SmFPbjFzdUk?oc=5",
+      "status": "insufficient_title"
+    },
+    "d6574489a5b55bd8": {
+      "contest_title": "New Arrivals - Filson",
+      "original_article": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1mLVdGYmZzQjZiazJ1eVlsU1lyMjkxU0d5YUpmbkFUQ1B6VW14bl9fb2luZXZVb1g5MG5pN1dETTRXenVzZkNMUjZwLVdLUzZmX2h4NlZQZng2Tms?oc=5",
+      "status": "insufficient_title"
+    },
+    "cf8931709783fec2": {
+      "contest_title": "World of Filson Giveaway - Filson",
+      "original_article": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBwS3VQZS15SHo5LS1nV0lraXF2emZCdlhjZlBfSEdnWmsxbHNjWVp4Z0FEWFpJaVItWk9oQUNJQ2NoN0JkMmt1aVN5TkQ0ZEgyLU5tN2M2elpOWHhoVGFHSlU0TQ?oc=5",
+      "looked_up_at": "2026-11-02T15:40:51.395249+00:00",
+      "search_queries": [
+        "\"World of Filson Giveaway\" entry",
+        "world filson sweepstakes enter official",
+        "world filson giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "7372ffc1bf7d5ffe": {
+      "contest_title": "Field Knit Henley - Military Olive - Filson",
+      "original_article": "https://news.google.com/rss/articles/CBMickFVX3lxTFBFQ3pSZHczT1A0NUhTOVg2LWRLajRsZjl2VlFaQWZEZmd1aWpsV1d6bUpNZEZ1NHI3bEtpd1RhUk42bjdNUm15RlhRQUFPX3I2VENfRDZ2bklzU3BUZndkZVFHQWF6bXpUeUZJVHJ1VlVqUQ?oc=5",
+      "looked_up_at": "2026-11-02T15:40:51.333457+00:00",
+      "search_queries": [
+        "\"Field Knit Henley\" entry",
+        "field knit henley sweepstakes enter official",
+        "field knit henley giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "e3ededcfc354c645": {
+      "contest_title": "Filson - Better Outdoor Clothes, Bags, and Accessories - Filson",
+      "original_article": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9jMElJejJ1QWxPcmhZV0ZzWVliS0R6NlFKRjdZZ25NdGV3R3RKdEhpSC1HQmwyZTVnelZV?oc=5",
+      "status": "insufficient_title"
+    },
+    "562e4daf396205e7": {
+      "contest_title": "Ford Bronco x Filson - Filson",
+      "original_article": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwV2Z3elBXTlN2MUJ2OTdtT1VOM3JvQlV2TDhSZVdRTEM5czM1UmlxTnBJZk5NeDhhM1hEOU03RkphREozV1pXaEZtOFotZHpGZVB5OV9nUm1jQ2s?oc=5",
+      "looked_up_at": "2026-11-02T15:40:51.439537+00:00",
+      "search_queries": [
+        "\"Ford Bronco x Filson\" entry",
+        "ford bronco filson sweepstakes enter official",
+        "ford bronco filson giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "2aac305770643eb6": {
+      "contest_title": "Our Events - Filson",
+      "original_article": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAwRlNlRWU3SGVXTWRwNnR0WWdxbXczZFdZcEVMRTViNHl3bEdKV29hb1FvUG55eWd6OE8tOXFIbUxpRFU0eUNxNWJGcnRFaFZsZldv?oc=5",
+      "status": "insufficient_title"
+    },
+    "0d4e8db830aa963f": {
+      "contest_title": "Filson For The Holidays - Filson",
+      "original_article": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9JankzX08zYjAtOVp3aEliekRSay1PemRObHZYazRxRUdIR2hzVXA5clRzSE1xMVR5bjlCcnhUNmw2NjZabmRRMFFmU3F5aWVsMGgzT1d1NUJwUzBvY0h2UTBxb2lXYWxiTmc?oc=5",
+      "looked_up_at": "2026-11-02T15:40:51.467588+00:00",
+      "search_queries": [
+        "\"Filson For The Holidays\" entry",
+        "filson holidays sweepstakes enter official",
+        "filson holidays giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "66475820f08f0801": {
+      "contest_title": "Filson x Wild Kingdom - Filson",
+      "original_article": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9zdllEZ0ZCRENJTlRncmpmNk9mX0pQR2VodlhiU0IyS0ZaQmViZTdBOV84bVk3M2dObXpZdXNlOG02WlZpZWN4aU9JcEFHbDlwOGR3?oc=5",
+      "looked_up_at": "2026-11-02T15:40:51.326215+00:00",
+      "search_queries": [
+        "\"Filson x Wild Kingdom\" entry",
+        "filson wild kingdom sweepstakes enter official",
+        "filson wild kingdom giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "caebf269455141aa": {
+      "contest_title": "Newsletter - Filson",
+      "original_article": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1jVmJfd0k4Q21VZUZwQzltdzBxZTd5U1N2dGx0LVJ3TGMzdFJDTTJIUGhyV2hMbUkyMzVFS2hVN3g5bF9fNm1jWk54Q0c3NHhH?oc=5",
+      "status": "insufficient_title"
+    },
+    "094239b87159d525": {
+      "contest_title": "Winter New Arrivals Have Landed - Filson",
+      "original_article": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBTN3d2NENueFNYNC1MalZHU2ZTQ2k1akZnOFpDbXN3NERrLWdHeFFETnFSTzgxMlYzRHdZWDFkS1BoT05DXzVkVmNXREVwc2dJOVpoOVBKZm9FMTlReEJZZ2todmo5R2V6?oc=5",
+      "looked_up_at": "2026-11-02T15:40:51.446178+00:00",
+      "search_queries": [
+        "\"Winter New Arrivals Have Landed\" entry",
+        "winter arrivals have landed sweepstakes enter official",
+        "winter arrivals have landed giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "c78eb6f8bb1c3cd8": {
+      "contest_title": "Workshop - Filson",
+      "original_article": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5XZTN4YTQ2ckJxekp3dGJ5eTRveG8xaVBsMFcwQTFsckZnaGpDR0o2Vmw0VkFWVUVxYWUzMUFXT3c1SGtmbmd6blNUbDlWNWgwTy1remVDYktWYjFI?oc=5",
+      "status": "insufficient_title"
+    },
+    "61accbf8040efe19": {
+      "contest_title": "Behind the Book: Elliot Anderson Dreams of the Iditarod - Filson",
+      "original_article": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUEl6RjQ2d19wX2JRMU1tZ1pYSXlGcjRNNG9idEUyVVhUQUJyR3cwTERYRjIwS0tINDBKMkJzM1ZPLTZRczE2Sl85V2tYQ3R2S3ZFaU1GUTVjdXdxRFNQRjFtOHRlUTRBSnhQbVZKa0dpdnQwMUNxMWlBT1h3QzF0SW02Zw?oc=5",
+      "looked_up_at": "2026-11-02T15:40:51.594137+00:00",
+      "search_queries": [
+        "\"Behind the Book  Elliot Anderson Dreams of the Iditarod\" entry",
+        "behind book elliot anderson dreams iditarod sweepstakes enter official",
+        "behind book elliot anderson dreams iditarod giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "b0f3d3638abb9245": {
+      "contest_title": "Will To Live: The Gary Edinger Story - Filson",
+      "original_article": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWEZfa0xmV2JZZUlCWFFiVXZaeGcxVkVMX001U2lhcUgzcXZpenhVSnFLd05hWjhuUGFYM0MtRFk2ZFd5WEVaemhWdHpFOWxjc2U3U2xwcFBLRG5GQVNRYm1SRkxlX3RyVzVGOGFnaXMwRnZrdzBNN0NCSXNrZnhOVTNDRQ?oc=5",
+      "looked_up_at": "2026-11-02T15:40:51.561805+00:00",
+      "search_queries": [
+        "\"Will To Live  The Gary Edinger Story\" entry",
+        "will live gary edinger story sweepstakes enter official",
+        "will live gary edinger story giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "9e1794f6604f6549": {
+      "contest_title": "Portland Store - Filson",
+      "original_article": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Ca3o0cmZ5RnFHSmp3U3F6NTdYTmtmcjVMNlVNMGUtZk9UREIydTVEcnFZT2NiNWppRWdDMzZrNUdHU2FzMTBmWURIWW5SaGgtSzc2Z1B3?oc=5",
+      "looked_up_at": "2026-11-02T15:40:51.517850+00:00",
+      "search_queries": [
+        "\"Portland Store\" entry",
+        "portland store sweepstakes enter official",
+        "portland store giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "e49c6264310ff790": {
+      "contest_title": "Journeyman Backpack - Otter Green - Filson",
+      "original_article": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBpYlBYUVpvSTNNMkhVYUg0YTFTOHdvSkI4SGtWT2IzOGVWRm53ZU9sYXdpUTVhcVpoV0Y0NHl2OWZ4cGFEWWNSSWU3SE9MQm9BUWVabDhyaWJUTnZzaE9sQk1mUnBBdlFTUDQxM1d2aGlMWjA?oc=5",
+      "looked_up_at": "2026-11-02T15:40:51.622714+00:00",
+      "search_queries": [
+        "\"Journeyman Backpack\" entry",
+        "journeyman backpack sweepstakes enter official",
+        "journeyman backpack giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "d34876d181e2f9d8": {
+      "contest_title": "Better Women's Raincoats - Filson",
+      "original_article": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1QOHN0M2dfdWx5QWxGWEdrNnhoQ01tWUtwY1hvclYzNEstdGt1cDRLel91OW1oXzNwVkhaalBwWDZaMUFtMkFad3l6RTR3MmcxRExXb3NvTC1DNUkzVk1JRg?oc=5",
+      "looked_up_at": "2026-11-02T15:40:51.636823+00:00",
+      "search_queries": [
+        "\"Better Women's Raincoats\" entry",
+        "better women raincoats sweepstakes enter official",
+        "better women raincoats giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "4f4077f1c7d8ddac": {
+      "contest_title": "Our Stores - Filson",
+      "original_article": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA2emtsMzFNaGloUFBReWp4UlNUdW4wRFVXeW4tVi1XUWpIS3FWbXd6T0RRbE1uZzlzSjJOeWZIdkxtMm9hSHZjakNaWjE0OVJS?oc=5",
+      "status": "insufficient_title"
+    },
+    "e621500260c38d03": {
+      "contest_title": "Vancouver Store - Filson",
+      "original_article": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5JOTdQcWFZZVRFaW5BeU1uSU8tNE9SeTkwbzdqS1pPYmZUOXZ2T2t4M2dlTTNhT2JfUWdldHRrV244Uk8xTnZPbk9Ta2IxTTJLbDJseWxVNA?oc=5",
+      "looked_up_at": "2026-11-02T15:40:51.659053+00:00",
+      "search_queries": [
+        "\"Vancouver Store\" entry",
+        "vancouver store sweepstakes enter official",
+        "vancouver store giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "d721c5e700c63beb": {
+      "contest_title": "Toronto Store - Filson",
+      "original_article": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1vdnB6dTlGVzliQzlCRzU3YWRFTTVYSVQ1UGxNMlBnT0JZa3Z4MG13VG51Yld0aHZQRjllZzFjWmdPQ2hPRWwtNnAtUm9TYks5MUhwSw?oc=5",
+      "looked_up_at": "2026-11-02T15:40:51.806257+00:00",
+      "search_queries": [
+        "\"Toronto Store\" entry",
+        "toronto store sweepstakes enter official",
+        "toronto store giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "7425370eeb32acee": {
+      "contest_title": "Family At Sea - Filson",
+      "original_article": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9MZEJsZUV4RnV1RjRmYWU5SXZ1QTZtbkNCTDlRN3VxMU9SSVZYZ1p2amo0SlR1Vk82WlBxNkpJRlhlTFJrN3RDci1Fbmd2RFIzWmdxWjhOS3NkTDdwSW1oWHRIZ29UVmdIYVZBS0lEWFhkek91OTVwZA?oc=5",
+      "status": "insufficient_title"
+    },
+    "7055efebe875b480": {
+      "contest_title": "Washington DC Store - Filson",
+      "original_article": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1hUjRZc3hVVEpBekI5c1ctTnZ6OURRWGpyelpnQ0NhemlMOEEwdXF0dkVWaFZkMUk2V3R1RWxicGdoTlM3SUtxVnpwekQ4WUJLSXh5VjdLZWNpSG9f?oc=5",
+      "looked_up_at": "2026-11-02T15:40:51.743216+00:00",
+      "search_queries": [
+        "\"Washington DC Store\" entry",
+        "washington store sweepstakes enter official",
+        "washington store giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "7772e2a389b70241": {
+      "contest_title": "Men's Cotton Sweaters - Filson",
+      "original_article": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5iQkxNWjhvU0tzd0RsX29nTmtQTHpqVlp5Q2pPenE4bWlUZ0V5NzdZQ3VWcVZFc1BOM2l1eXpHc2xsb2lrdmF2bnhDS2JwbXVxSkdqQXl3c0xPX095VFg1Q09tNDN1Zw?oc=5",
+      "looked_up_at": "2026-11-02T15:40:51.775319+00:00",
+      "search_queries": [
+        "\"Men's Cotton Sweaters\" entry",
+        "cotton sweaters sweepstakes enter official",
+        "cotton sweaters giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "cf1c309f3fae3250": {
+      "contest_title": "Dryden Crossbody Bag - Black - Filson",
+      "original_article": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBrMjhBc0NFeGZzdlJDa0RsZ2Z0Sml5VV9hSnZoSng4UjQwbV9GV3N6UXdwSmRMMEJIU3NTQ1pkUWdwRVN4aEp1OUhtM0NidXRnMjd6TnAwNi1ub1hfeFhpVDlXOTZvTXhrbFE?oc=5",
+      "looked_up_at": "2026-11-02T15:40:51.815891+00:00",
+      "search_queries": [
+        "\"Dryden Crossbody Bag\" entry",
+        "dryden crossbody sweepstakes enter official",
+        "dryden crossbody giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "9e3ecb07f02693a1": {
+      "contest_title": "Los Angeles Store - Filson",
+      "original_article": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83MTdnUUNHQ3A5RWt4bjVma21oRVBza3V2NkI5aUZ0ZGxSU1g4d202dS0ydmJhSUVtSmlPc0pQM3lhcUxKV3hGTms2QVFOS3lvblFhYnVVOWZsUQ?oc=5",
+      "looked_up_at": "2026-11-02T15:40:51.756460+00:00",
+      "search_queries": [
+        "\"Los Angeles Store\" entry",
+        "angeles store sweepstakes enter official",
+        "angeles store giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "006fc73af575b421": {
+      "contest_title": "Dryden Briefcase - Whiskey - Filson",
+      "original_article": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1lNjhaT3FGbGh0cXptektlcUpPclFGb0pkckxtcV9JR3JGU3JwVmRveTBjenptSXpLUUFWUFdzdDlHREZyMTlIR0NOYm5pa3ZTS2NZaUR1dVplVEczTTNGYXV0MkRTRVU1UUE?oc=5",
+      "looked_up_at": "2026-11-02T15:40:51.939768+00:00",
+      "search_queries": [
+        "\"Dryden Briefcase\" entry",
+        "dryden briefcase sweepstakes enter official",
+        "dryden briefcase giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "2836b14a4bd3fbe5": {
+      "contest_title": "Small Tin Cloth Duffle Bag - Filson",
+      "original_article": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9Ba2FKa09nZG84bi1tSFpjX3kyUVRNNkFmN1UwSGZybUJvSmZOTWxmSkRGTm5LX0R1YW5BTVotRGcteVhwVEhnSWRBS0lhSU1jdDVVbUNhYmh6d3VWb2hzazhLNmdxV2E0ai1QNThYR1IyeEJSUHpiag?oc=5",
+      "looked_up_at": "2026-11-02T15:40:51.828848+00:00",
+      "search_queries": [
+        "\"Small Tin Cloth Duffle Bag\" entry",
+        "small cloth duffle sweepstakes enter official",
+        "small cloth duffle giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "c54442f465e35594": {
+      "contest_title": "New York City Store - Filson",
+      "original_article": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA3Y09IbGMxSG1HYm9oTl9Jc3F5RmNVTTlkTFV5ektzR29RUnVCU1BrVzIyQlZEN0hWTG1RSS10UkhrMEtTQ3JQWktRX3c0TzM3YUdQYkpEZlNldlJD?oc=5",
+      "looked_up_at": "2026-11-02T15:40:51.919375+00:00",
+      "search_queries": [
+        "\"New York City Store\" entry",
+        "york city store sweepstakes enter official",
+        "york city store giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "75cad4df506e954e": {
+      "contest_title": "Free All-Weather 50L Duffle With $350 Purchase - Filson",
+      "original_article": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBUNy1vZUpoVDdGWlN6MF8xMHZmQjNWb09ZclljS25RZENMU283SlNtYWJaWTdiQmpMMXYzQmVZTnAtZlRucm5jNmFpejlpQnFuWkVqOTVIMjhjV1BjTkdGOEdJcVZ3R1FIVXd5SmE3dEVVbjc1SERobXpB?oc=5",
+      "looked_up_at": "2026-11-02T15:40:51.960301+00:00",
+      "search_queries": [
+        "\"Free All-Weather 50L Duffle With  350 Purchase\" entry",
+        "free weather duffle purchase sweepstakes enter official",
+        "free weather duffle purchase giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "9b19dd93592cce98": {
+      "contest_title": "Original Alaska Outfitter Since 1897 | The Filson Story - Filson",
+      "original_article": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWTBNbDhXbnFjWjhsbGJxdl9rMWpHajBONHRDZnNzZjhhLTZMXzRxUm82NU5wSFlHLWR6bV9nNXl1X3dMRkpQNlBrZ3BhVV9YQlhmZmJSZ0xEdnphQnh6ZWtaNTF5Vk5IOUFkcFBrbmNWeFo3SVlPNTRqQ2pOb1BFU0psTndlWjNsYmVVbFk1eWZQejNVQmpJVUY5Q3VtbmtL?oc=5",
+      "looked_up_at": "2026-11-02T15:40:52.033940+00:00",
+      "search_queries": [
+        "\"Original Alaska Outfitter Since 1897\" entry",
+        "original alaska outfitter since 1897 sweepstakes enter official",
+        "original alaska outfitter since 1897 giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "f349cea1e880a11e": {
+      "contest_title": "History of America's Wild Horses - Filson",
+      "original_article": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQM2dMY0U3Rm92QkxtajZDOWtOUU1iVE9lLVhIUlFncG43SDAxWi1Bd2ttZkRpRGdrbDZ6M2hIdnNZN0JzOHVHbExTRlF3WGc3TnBwTEp6Yy1YdUJ4akdWUGwyMzF6VjRzd1Ryb0J3UF9YVDl0UHZvd1dQOUhnQUo2RUFJOA?oc=5",
+      "looked_up_at": "2026-11-02T15:40:52.016002+00:00",
+      "search_queries": [
+        "\"History of America's Wild Horses\" entry",
+        "history america wild horses sweepstakes enter official",
+        "history america wild horses giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "075137254d8c0da3": {
+      "contest_title": "Men's New Arrivals - Filson",
+      "original_article": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9sSG13Rl9qRTNwbGx0bThDRVZJWDJ0OFlBaU05eWliRDNtT0oxc0QtdzlOam9xOTZIblh4UExRd0wtV3pEUG13azR6RU1BNGxrakhwYnV0Wl9rWXZtYzNvclBn?oc=5",
+      "status": "insufficient_title"
+    },
+    "5a054ba66a2d8438": {
+      "contest_title": "The Filson Restoration Department & Workshop - Filson",
+      "original_article": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNR01KV2JUUC1heE43NlNvaUV3NTBZN2xXU0RZOXZhcllqdXc2SmZjSmlXZVREVVhsMnJiR21QNUtWV2w1M0Y4c2hBZjRndVdpSFJBYkx3Q2FJUzhfLURTT2d6dTdQTUltUzFud0tteGFWSkR5SXBnM1dOam5YdXRRNDF3MS12TlRlSkFmclQwdXlPUQ?oc=5",
+      "looked_up_at": "2026-11-02T15:40:52.071378+00:00",
+      "search_queries": [
+        "\"The Filson Restoration Department & Workshop\" entry",
+        "filson restoration department workshop sweepstakes enter official",
+        "filson restoration department workshop giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "1a25536583290db8": {
+      "contest_title": "Chicago Store - Filson",
+      "original_article": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBnQ2t1YWh3VWRnZF9jWDdaRnNxM0k4VVZQQnRvUElJT2Z1WjNETlp4eHh5Qm11TmtuMjlsNkEyblZ5bWJJZ2hDSTVqdjJqYUxXTlhUbg?oc=5",
+      "looked_up_at": "2026-11-02T15:40:52.117990+00:00",
+      "search_queries": [
+        "\"Chicago Store\" entry",
+        "chicago store sweepstakes enter official",
+        "chicago store giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "60aa51d362cabca2": {
+      "contest_title": "How to Rewax a Waxed Jacket | Filson Tin Cloth® Guide - Filson",
+      "original_article": "https://news.google.com/rss/articles/CBMickFVX3lxTFBldUM1eDRST2tBaFVBd0NSNVlubDRIek85azB4LVE3amxoME9neXBicFotaGNhRUNjVnU0cU03eEJtelpnV2F4SmdNUUh5OElHa3Vzd1dGek9LV3Zva3V2alNxaHVVVFA1RzgxQnA3dzdmUQ?oc=5",
+      "looked_up_at": "2026-11-02T15:40:52.111922+00:00",
+      "search_queries": [
+        "\"How to Rewax a Waxed Jacket\" entry",
+        "rewax waxed jacket sweepstakes enter official",
+        "rewax waxed jacket giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "4a9b43b6da37e8a6": {
+      "contest_title": "Mackinaw Wool Cruiser Jacket - Charcoal - Filson",
+      "original_article": "https://news.google.com/rss/articles/CBMieEFVX3lxTE11YXJCYzlKdDVHaHB6ZjlPWDQxVmlRMF9DWHRfelBodFYzRW9OQ3ZyS20xazJfV2RIWVRGX0lYTmJyNjJvWTlCSHlDNkhWdEE4Z3hRS3g5OWZvQ0tXUnRTTTFoUDAyYnliOHUwT0dhLXlVRnMtNFEzcA?oc=5",
+      "looked_up_at": "2026-11-02T15:40:52.135053+00:00",
+      "search_queries": [
+        "\"Mackinaw Wool Cruiser Jacket\" entry",
+        "mackinaw wool cruiser jacket sweepstakes enter official",
+        "mackinaw wool cruiser jacket giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "f101a72704df66f5": {
+      "contest_title": "Better Bags & Luggage - Filson",
+      "original_article": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9PSTFnZFVuaVlPZmhkVXB6R1ZyVWtoMGUwVXVRQThISGI2bURwVWY5VmltUWdWaDJSci1UcU9BTzhSeHRWNTctbld5dHRDUHhX?oc=5",
+      "looked_up_at": "2026-11-02T15:40:52.148314+00:00",
+      "search_queries": [
+        "\"Better Bags & Luggage\" entry",
+        "better bags luggage sweepstakes enter official",
+        "better bags luggage giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "07a64ff43553b6ab": {
+      "contest_title": "Lined Mackinaw Wool Packer Coat - Dark Navy - Filson",
+      "original_article": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBZSmswWTQ5RFN4T1B2VkdLOVlqZVdxR3NwSlJkT0JhRWwxNVp5QTdMdUdRWWNza1hDdk4yTzR5Z0lhSUF5Y1UzaXd4Y3BNYS1JaXRrelljakhFOGlVbGxwWnZIaXNEZF82LTVoSksxbHpiU2lBaXNRczBDaS1xdw?oc=5",
+      "looked_up_at": "2026-11-02T15:40:52.196160+00:00",
+      "search_queries": [
+        "\"Lined Mackinaw Wool Packer Coat\" entry",
+        "lined mackinaw wool packer coat sweepstakes enter official",
+        "lined mackinaw wool packer coat giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "500b7c4a8efdd743": {
+      "contest_title": "Tin Cloth Short Lined Cruiser Jacket - Filson",
+      "original_article": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWG1VdktZbEZfcmpwRkM1N0lsLVhJcWkwaC0wcnhfZlJRdWdFY2lWYkhxeVhMSzRObVVYT2VrVXAtWFc4emhDZ2FPaHpxOHU5cTRzbXhTZFp4ODBBRVBpUG9VQ1R4bGExZUYwbHFYSFRzdG4wOG9xMFhIMWVMeTBFTTUzMA?oc=5",
+      "looked_up_at": "2026-11-02T15:40:52.173775+00:00",
+      "search_queries": [
+        "\"Tin Cloth Short Lined Cruiser Jacket\" entry",
+        "cloth short lined cruiser jacket sweepstakes enter official",
+        "cloth short lined cruiser jacket giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "0e3da3c7301abab2": {
+      "contest_title": "Honoring Your Call: Durrell Smith - Filson",
+      "original_article": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVWhQeVN1REVreVZqcy1Eb0pxaE9jdElTTlhVZnp0ci1VVDRXZ1ZiTk5WTm5ORThYbmprRngtb1h5Unp3a2FoczVtN0VzS3R1YU5tT05iNHJhQTE2NUluQmRHczNlMFNyeW9tdGMwZWRxZ2RZRGNyLVpzSENqUnpjXzlnVDQ?oc=5",
+      "looked_up_at": "2026-11-02T15:40:52.265361+00:00",
+      "search_queries": [
+        "\"Honoring Your Call  Durrell Smith\" entry",
+        "honoring your call durrell smith sweepstakes enter official",
+        "honoring your call durrell smith giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "efc2b164d946b69b": {
+      "contest_title": "Ringing in the Pacific Northwest Summer with Jordan Butcher - Filson",
+      "original_article": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUHBhYlJNQUhwTHBBbmpqOGRmN0xEN2M0T0RuUVFPemladFdYdG9wYjgxWlFKejdCTlJJUnJqYmxLMUprMTdLWFBWVFYyNGJIZmZvcTdjMms1OUp3a0RuTjBUazRZei1lLUY0MUFKMF9XU1hLM2p2eG9JOXdTSkQ2OFc3cW8teUNxWWMxN3p6QVR3WG5INVJfd2ZseW52QlBEUFQzZnFvUHo?oc=5",
+      "looked_up_at": "2026-11-02T15:40:52.351649+00:00",
+      "search_queries": [
+        "\"Ringing in the Pacific Northwest Summer with Jordan Butcher\" entry",
+        "ringing pacific northwest summer jordan butcher sweepstakes enter official",
+        "ringing pacific northwest summer jordan butcher giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "b14b8c52e92623cb": {
+      "contest_title": "In Print: Making Art with Ed Anderson - Filson",
+      "original_article": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9wT2ZmNmgzUENad05qVm5wWXB6X1pkbmZtcngtR1RKUG1fSlowZE1xS0oxWmFDM2NMZ2hQRlFVRmFIQ3ZRM3F1aXR3SFlKNzZBQ0NzZmROQlJUZzh3MHhSSEZHVTNCS3lNdEh0OWpR?oc=5",
+      "looked_up_at": "2026-11-02T15:40:52.347730+00:00",
+      "search_queries": [
+        "\"In Print  Making Art with Ed Anderson\" entry",
+        "print making anderson sweepstakes enter official",
+        "print making anderson giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "d5620f26ae4f90b8": {
+      "contest_title": "Exploring St John USVI with Overland Empire - Filson",
+      "original_article": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVENaTUNha2ZieEJvRlZwYzVpczVnZDV3bDdmWVI0dzVIdG9yWklreDlRbEhzakFRYVV5UFlvUWRmQUxrRDZBR0ViTDNSLXl5dlEtX043OW0wSVRma2tpRmtDbW9TMjZGOFFJSHJxNm9GckFGN3V5bDRxWUxyVGIzREpGTUw2dw?oc=5",
+      "looked_up_at": "2026-11-02T15:40:52.313988+00:00",
+      "search_queries": [
+        "\"Exploring St John USVI with Overland Empire\" entry",
+        "exploring john usvi overland empire sweepstakes enter official",
+        "exploring john usvi overland empire giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "66b9e0e2f1b1de76": {
+      "contest_title": "Off the Grid with Brett Watts - Filson",
+      "original_article": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB0bTVNN1F1b3l2YXhuMzgzOUNnejBmU1hDYmV3SC1KZVREV2dXd215NlBPTmROelVtakcxTjlha1E2WE9lRGlaN2EwVGZWZXBMNGxITWp3Z2dmdWRXQ2oyblI2UUw3cHVF?oc=5",
+      "looked_up_at": "2026-11-02T15:40:52.473307+00:00",
+      "search_queries": [
+        "\"Off the Grid with Brett Watts\" entry",
+        "grid brett watts sweepstakes enter official",
+        "grid brett watts giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "6cbf2f6e42467d21": {
+      "contest_title": "Dispatches from the North: Kotzebue Sound Salmon - Filson",
+      "original_article": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVzgwX0JkRmd2LS1QZDRORE5qZE5qbHRvMlRvdjFJY2l2czVaN284eFlDOENfelpZTEcxZnRSM1BjYklZMEZCY0hsdkVpV2NJSHZ6LVFka1NscHdKNVNCZGFHc2ljcFVVd0ZxUnFDTEkzN0FvYkZnNGhQazNpLTExell2WDI1NkNUQ0U1eXBtX05pZUdac0ZYbFZXbUI?oc=5",
+      "looked_up_at": "2026-11-02T15:40:52.394550+00:00",
+      "search_queries": [
+        "\"Dispatches from the North  Kotzebue Sound Salmon\" entry",
+        "dispatches north kotzebue sound salmon sweepstakes enter official",
+        "dispatches north kotzebue sound salmon giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "ccfb76c9a4b516d2": {
+      "contest_title": "Live Connected: Hunting the Judith Basin in Montana with Hannah Dewey - Filson",
+      "original_article": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5iTHFhOHRkRVFaakFJSHI0THlOSzJueHU3UWRHS1UzSkoxck9aRy1kZ3lZX29rcUNvMWNJeDBuRXBvTHdGbC0xMHVUZy1sSnVnVlNMbV9RNkllTnJfY19iZUpiX18temlQT1JUY0UzNWRhOTFtbXdtSVo3UjY4Zw?oc=5",
+      "looked_up_at": "2026-11-02T15:40:52.485249+00:00",
+      "search_queries": [
+        "\"Live Connected  Hunting the Judith Basin in Montana with Hannah Dewey\" entry",
+        "live connected hunting judith basin montana hannah sweepstakes enter official",
+        "live connected hunting judith basin montana hannah giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "fef9e8566f4ff699": {
+      "contest_title": "In Print: Branson Wallace - Filson",
+      "original_article": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1CN3FsYlI4Q2VfMGx3YVZrLU1NTTkydno5bVZJNF85ZHprbVRHZFBabmdVakEwV25EOTVKd0EzSDNfa1duRXpYNlAxcE1YYml0Z3FtTFVxR2g4Tl9MeUY1dC1EUGtuOExZbG9uUmYxd283U084Yzdv?oc=5",
+      "looked_up_at": "2026-11-02T15:40:52.484467+00:00",
+      "search_queries": [
+        "\"In Print  Branson Wallace\" entry",
+        "print branson wallace sweepstakes enter official",
+        "print branson wallace giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "632ba0c84796b92b": {
+      "contest_title": "Wool Jac-Shirt - Blue / Heather Gray Plaid - Filson",
+      "original_article": "https://news.google.com/rss/articles/CBMiekFVX3lxTE04S3E0SnRrc2Vzc3FDakY4VWV1c3dKWTdhamVpN1VqajE2VWVzMHdWYU1mdGpNLVRwVEpHeXNQZGlVcjJsbFhuSTVyeTdRQklORHJhV19BcEtzYWp3Qm9IZm5KSF9sRDN3WEI3T1h2TDJrMjZkZzd3cTl3?oc=5",
+      "looked_up_at": "2026-11-02T15:40:52.595893+00:00",
+      "search_queries": [
+        "\"Wool Jac-Shirt\" entry",
+        "wool shirt sweepstakes enter official",
+        "wool shirt giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "342045db019e9b17": {
+      "contest_title": "Tonje Blomseth: From Norway to Alaska - Filson",
+      "original_article": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMWdpVnI4LVJEWkJ2blgzZlM0ZktlZTBrQmpPZUxUeEVZRi1TQVgzSDhscTd2QnR4NzRWaTJDbkp1SjRwX1hZVDZ1ck1mV0dsMjZrXzhXVVhtX29ELU9qa2NKMnl6TXVRM0Ixb1N1cU9sLXJhbTZmS2hwSGE5VndJN3MzWWN1a09w?oc=5",
+      "looked_up_at": "2026-11-02T15:40:52.495462+00:00",
+      "search_queries": [
+        "\"Tonje Blomseth  From Norway to Alaska\" entry",
+        "tonje blomseth norway alaska sweepstakes enter official",
+        "tonje blomseth norway alaska giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "671fb88445d6e1c9": {
+      "contest_title": "Tricks of the Trade: Make Your Own Archery Quiver with Matt Pierce of Wood&Faulk - Filson",
+      "original_article": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBzdWdHdnVRNnZtWUN4dUlabUEwcGYtb0szLVBqTjlEZjVnMlNaYlRuV284NFhKdFAtbGVlc3JEczh4d1l3SV8xZHJ3Rkg0LWRJSk11TTJQdldOVFJFTWFKYmxOOXNiQmRCUkExbWdkamM4T0V0UXdac2xkY3c?oc=5",
+      "looked_up_at": "2026-11-02T15:40:52.541488+00:00",
+      "search_queries": [
+        "\"Tricks of the Trade  Make Your Own Archery Quiver with Matt Pierce of Wood&Faulk\" entry",
+        "tricks trade make your archery quiver matt sweepstakes enter official",
+        "tricks trade make your archery quiver matt giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "a099ce5d6b61f44b": {
+      "contest_title": "Outlet - Filson",
+      "original_article": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5iZjN4UUxsQ2JYeVF6MFdwZXFqaGFwRXZyOWNwUjE3VW5aQkhhOHRXa2x1V1E4Zmo3MFJRUkY1U2tDczE1bEQ5Rk5rbXozcVdfazVB?oc=5",
+      "status": "insufficient_title"
+    },
+    "e3c2db8353e438fc": {
+      "contest_title": "Celebrating Filson Fathers with Jillian Lukiwski - Filson",
+      "original_article": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA5b085TzRGWFVEbUQ2cXRXOEFJLVJYNGQyVzk4MlkyV1VhNzBEN0xybzFHb3NsbUFQdnlXZVlDMWpnQXZsOUFwRFdpSVhkWjl3aTRsQzg1dDhvSkx6TXM1Rkt2OTR5d0FjdzRySUlSTjZ4cTRrM1RiNlZ3MC1OcEk?oc=5",
+      "looked_up_at": "2026-11-02T15:40:52.542060+00:00",
+      "search_queries": [
+        "\"Celebrating Filson Fathers with Jillian Lukiwski\" entry",
+        "celebrating filson fathers jillian lukiwski sweepstakes enter official",
+        "celebrating filson fathers jillian lukiwski giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     }
   }
 }
