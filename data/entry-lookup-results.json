@@ -1,11 +1,11 @@
 {
-  "generated_utc": "2026-11-03T14:06:01.153323+00:00",
+  "generated_utc": "2026-11-03T14:06:08.930286+00:00",
   "total_source_records": 2100,
-  "searched": 486,
-  "remaining": 1614,
+  "searched": 685,
+  "remaining": 1415,
   "results_by_status": {
-    "entry_page_not_found": 419,
-    "insufficient_title": 51,
+    "entry_page_not_found": 610,
+    "insufficient_title": 59,
     "rejected_nonentry": 15,
     "possible_entry_pages": 1
   },
@@ -5415,6 +5415,2338 @@
         "\"Better Bags & Luggage\" entry",
         "better bags luggage sweepstakes enter official",
         "better bags luggage giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "66838b6644d74778": {
+      "contest_title": "Sale - Bags - Filson",
+      "original_article": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8zaEJIVVNXdnZCM05vLVNPV212ajhVOVlhMlhZbnVMYXM5cmhvTjUzRUpTSDNNdExoUWFPRE1HTElYdXJ4MzI3RkV2bGZRakdRamg0bnJvaw?oc=5",
+      "status": "insufficient_title"
+    },
+    "1f6df497d6aac9d0": {
+      "contest_title": "Mexican Food - Restaurant & Catering - Chipotle Mexican Grill - Chipotle",
+      "original_article": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5pRmdhSUotdGVXN211dVlVY2ZCbmtEbUFDUVBzR0xHR3ZjWmxUczJzQlAtX293dFktYnp5aFIxLVhJRms?oc=5",
+      "looked_up_at": "2026-11-03T14:06:03.592694+00:00",
+      "search_queries": [
+        "\"Mexican Food\" entry",
+        "mexican food sweepstakes enter official",
+        "mexican food giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "d40b55290d7197f2": {
+      "contest_title": "BOORITO IS BACK ON 10/31. COME IN- RESTAURANT AFTER 3PM FOR A $6 ENTRÉE* - Chipotle",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBzTHVsaVF6RkxybUJ3X0tCVE85bHh3SXpEX3FCUGtXb0RUYndjaTRZaDdYeHBlTktBVm55QW16aXUyeVFNZC1Z?oc=5",
+      "looked_up_at": "2026-11-03T14:06:03.597770+00:00",
+      "search_queries": [
+        "\"BOORITO IS BACK ON 10 31  COME IN- RESTAURANT AFTER 3PM FOR A  6 ENTRÉE \" entry",
+        "boorito back come restaurant after entr sweepstakes enter official",
+        "boorito back come restaurant after entr giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "a1dd8cc343595c50": {
+      "contest_title": "REWARDS ON REPEAT - Chipotle",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1GM0hPZjNDcFBYa3JBbTBNeDRnQnFhUm9UZW5rTEVuVmNOb2VjUG1jbEZoVGdiUnAzT09tZnlMM1hXYnUwa0Yw?oc=5",
+      "looked_up_at": "2026-11-03T14:06:03.547865+00:00",
+      "search_queries": [
+        "\"REWARDS ON REPEAT\" entry",
+        "rewards repeat sweepstakes enter official",
+        "rewards repeat giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "d69bbaa576493217": {
+      "contest_title": "2026 CHIPOTLE HEALTHCARE PROFESSIONAL AND TEACHER SWEEPSTAKES - Chipotle",
+      "original_article": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE10ZUxZc0V0cE01dE93WWxTZEowVDI5M010NnhZYzdsOVhUcXNWbndYZ1M5YUtSazZtUW9OdVZwa0dkMHNsTm5EVVZiTkxKaFhoY3A2QWRiSU1JVDVmZDg0?oc=5",
+      "looked_up_at": "2026-11-03T14:06:03.526406+00:00",
+      "search_queries": [
+        "\"2026 CHIPOTLE HEALTHCARE PROFESSIONAL AND TEACHER SWEEPSTAKES\" entry",
+        "chipotle healthcare professional teacher sweepstakes enter official",
+        "chipotle healthcare professional teacher giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "0864f6953f5f3425": {
+      "contest_title": "Flash Tattoo Giveaway — Chipotle Mexican Grill - Chipotle",
+      "original_article": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBvb0NpMXJ1T1R6NmZhTUUtazIwakttejFGVEtNUHYyVzJ0ZzBPVmllQUFwV3FyLWxDT2tZSnFuVnlUeEFtcmZQX2JmYUJObXU0QjU5bXo4QXR2UQ?oc=5",
+      "looked_up_at": "2026-11-03T14:06:03.583178+00:00",
+      "search_queries": [
+        "\"Flash Tattoo Giveaway   Chipotle Mexican Grill\" entry",
+        "flash tattoo chipotle mexican grill sweepstakes enter official",
+        "flash tattoo chipotle mexican grill giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "adae9cf4ed516244": {
+      "contest_title": "CHIPOTLE IQ RETURNS WITH MORE THAN $1 MILLION IN FREE CHIPOTLE, PLUS NEW DAILY STREAKS, SILVER TICKETS AND A COLLECTIBLE CARD GAME - Chipotle",
+      "original_article": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOU1R6MU1NajNXQlBUa1pCaVJGeUtEVlBnNDN6RzRHc0VuSDI2b1dHVnEtazFRYWIwY3VvWUZyRklLN3hfeDBhTHhHeWJQeHFVWXROeGlWdTlqTTBxZ0UzelZ6RXdPdHJWcWxEQXVtUW5zWkFjNW5CT0dJYkFlajU3RC1GWHhoczdVaGRwSllNN2dldFo4WldOeWhfS0o1djI1RzVUeURaX25Gd3o5d1NIa3VxeDlwc185T3E0azYyeGZSQUZPSVZGZW15RXk3Nk82UHhpZW84STM1cmRsYkw3YlNiYVNDaExod25rYTdzbm93VEM5bVQwMmhxSEdPUmc?oc=5",
+      "looked_up_at": "2026-11-03T14:06:03.541035+00:00",
+      "search_queries": [
+        "\"CHIPOTLE IQ RETURNS WITH MORE THAN  1 MILLION IN FREE CHIPOTLE  PLUS NEW DAILY STREAKS  SILVER TICKETS AND A C\" entry",
+        "chipotle returns more than million free plus sweepstakes enter official",
+        "chipotle returns more than million free plus giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "b357cdde58c50241": {
+      "contest_title": "CHIPOTLE PUTS A NEW TWIST ON SOCCER'S HYDRATION BREAK WITH $1 MILLION IN FREE BURRITOS - Chipotle",
+      "original_article": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONE5xWUZfUnJSbzJWNDh6S3BBMU1mYTFpbUFHcHlFcko0SG9tbGgzV2NvUnBxQ2s1MEdmRUpyb3lGSDlEbW9UN21GSDZIUFkySmVKd0o1MUZSMTFCZVE4VDJuU3NQQklxb05vQnUzYi1HLVZ4N3kzdE5KVFp2YnNCNlY1X2VPTzNnTUFibGNUcURyeXFzLVlDOXNNaUEta0R4cVZOQXdKWnowM1lkMEZIbm1COGpnS2k0R29RWmMwNmlfeWc?oc=5",
+      "looked_up_at": "2026-11-03T14:06:03.570498+00:00",
+      "search_queries": [
+        "\"CHIPOTLE PUTS A NEW TWIST ON SOCCER'S HYDRATION BREAK WITH  1 MILLION IN FREE BURRITOS\" entry",
+        "chipotle puts twist soccer hydration break million sweepstakes enter official",
+        "chipotle puts twist soccer hydration break million giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "ae3a06597c4bf33d": {
+      "contest_title": "The \"Chipotle Realest :30\" Promotion - Chipotle",
+      "original_article": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5pWkFLZ3diVmYwOXVoY2g5WUlVaEJNYXMwNVpKYVFfTDJiLTB3bkt4alB6aXQydU5feEt1SmFqSUNYT3dHZ0dhYlVvbjl1U0tZ?oc=5",
+      "looked_up_at": "2026-11-03T14:06:03.585701+00:00",
+      "search_queries": [
+        "\"The  Chipotle Realest  30  Promotion\" entry",
+        "chipotle realest sweepstakes enter official",
+        "chipotle realest giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "d5d62f3e2ea22ee3": {
+      "contest_title": "CHIPOTLE TO GIVE AWAY UP TO $2 MILLION IN FREE BURRITOS TO TEACHERS AND HEALTHCARE WORKERS - Chipotle",
+      "original_article": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZmhDZFdsUE83MmxNRUJqNXlNRW9wLTVhVHdVYWUtSTFrU3pKQlVXOGNCUmxiM0FhM25ISGNYWm9VR25BQms1ZS1WUFVxcEhpNzFlVklRa05FRjNwWGtxX0VCdDY1TzFmQy05VjZrRzMya2prNmh0Tm9zSHdiMnZwVk1oZmlKQlVpdTJZX1hUdUJpeGgtU2ROUU1nX2p6WkYyeC1WdTVMNkFybjNwb1Q1YjNaQVVGdmVrY1hzeW5rODR0NXM2OU1uUjNR?oc=5",
+      "looked_up_at": "2026-11-03T14:06:03.611351+00:00",
+      "search_queries": [
+        "\"CHIPOTLE TO GIVE AWAY UP TO  2 MILLION IN FREE BURRITOS TO TEACHERS AND HEALTHCARE WORKERS\" entry",
+        "chipotle give away million free burritos teachers sweepstakes enter official",
+        "chipotle give away million free burritos teachers giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "a9056415a86ae2da": {
+      "contest_title": "The Chipotle 2026 Bowls for Goals Promotion - Chipotle",
+      "original_article": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE53dmo3aXdSMUpla2d0ek96M3V6R1otM2taTVA0QUMza0V2S1BPNDduRFU3d1NBZlpWaFcxV21WR00tN29ueFIxTmdqVkF3UHZJZFE?oc=5",
+      "looked_up_at": "2026-11-03T14:06:03.512951+00:00",
+      "search_queries": [
+        "\"The Chipotle 2026 Bowls for Goals Promotion\" entry",
+        "chipotle bowls goals sweepstakes enter official",
+        "chipotle bowls goals giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "5eebcd9f170ad259": {
+      "contest_title": "The “Chipotle Salish Meal” Contest - Chipotle",
+      "original_article": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9FLThtMnEwbmUtOUtPX0IzWDNwNGM3ajdwcnZxdE8zYUNqN2Q2dEV4VDNfX3B5NjJUdm9UUXBIWVRDRFNrRHd4N2txQTNvTHNyc1JubG5Gc25kNEJjaUhj?oc=5",
+      "looked_up_at": "2026-11-03T14:06:03.584594+00:00",
+      "search_queries": [
+        "\"The  Chipotle Salish Meal  Contest\" entry",
+        "chipotle salish meal sweepstakes enter official",
+        "chipotle salish meal giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "db9a56a7329c01dc": {
+      "contest_title": "Burrito Vault - Chipotle",
+      "original_article": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE54WEh5N0xpUzJPTlMtbVFKUnRKOW54ZjFQZGE0NmI0WTI2UlRsTmJWVVAxa3Y2MlRROHlqQXdUUWptT1BKdl9HTTRvanFRSkk?oc=5",
+      "looked_up_at": "2026-11-03T14:06:03.525010+00:00",
+      "search_queries": [
+        "\"Burrito Vault\" entry",
+        "burrito vault sweepstakes enter official",
+        "burrito vault giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "1f7c67f845711781": {
+      "contest_title": "CHIPOTLE BRINGS REAL-WORLD FOOD REWARDS TO PGA TOUR 2K25 IN FIRST-OF-ITS-KIND QUEST INTEGRATION - Chipotle",
+      "original_article": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcUt6cG0zVEp0S1ZjSjJBTlFCTVVwQVJZTkJraVZWUFpnMmQxSDRXT3lfSnpSSG4yTEpuT1dDVjdxdlVsMi14bENqOHdESlM0TkpZSm9penBLTDk1STQ1bUd1Zi1qMmhLNTZRTW1hbTJmQm5MSEs2OFNlLUdvTklIVExzR2ZIc0xxTmFFb2hyTkt3UTdMMm9BR3hydmhPQ1RvTVZlUWtEdXgxQXdxYmVFM3FlVDNwNmJsaHBBQXZwVUx5bFZBY1czMElrNGNqc0pGZmc?oc=5",
+      "looked_up_at": "2026-11-03T14:06:03.889055+00:00",
+      "search_queries": [
+        "\"CHIPOTLE BRINGS REAL-WORLD FOOD REWARDS TO PGA TOUR 2K25 IN FIRST-OF-ITS-KIND QUEST INTEGRATION\" entry",
+        "chipotle brings real world food rewards tour sweepstakes enter official",
+        "chipotle brings real world food rewards tour giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "eee6bc3e107abac7": {
+      "contest_title": "FREE CHIPS & GUAC - Chipotle",
+      "original_article": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9wZ0Vra3NudjdZVDVLdUpYcU43Tmh0aGk1TVVmd2YteWVwaEV5T00xdUxWb3dNWFdTcVZaS0VhUkgwOXM2WlJKaDFLdw?oc=5",
+      "looked_up_at": "2026-11-03T14:06:04.003789+00:00",
+      "search_queries": [
+        "\"FREE CHIPS & GUAC\" entry",
+        "free chips guac sweepstakes enter official",
+        "free chips guac giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "cd877fb17219eeba": {
+      "contest_title": "WHILE OTHERS AIR AI-GENERATED ADS, CHIPOTLE, WITH NO ARTIFICIAL INGREDIENTS, GIVES FANS $1 MILLION IN REAL FOOD ON GAME DAY - Chipotle",
+      "original_article": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQZUNlUnBRLW5TajI5cjVuZTdISEFTeENuTUdsaF8zWjFDdVl3T2Y5QWdLNUFqTVJyYURyUFJtcDNmcnVEMXVOZDVTNWMwd0RLZXZaMUZKbmZnMXZRNjdfenY5a1VYZFo0OVRseEQzblU4NGltb2FSbGtGZWJ0WXo3VXV6UTVPVUdwaUpLTnB3SlJZX3NMODh2TzNYSmVZdTJqbkx4clVuU21FTFR0eDVjbUJWSXlKR1Q0RmxPa3g2MUljbUNBTlFyaFZwYUhVcTZMUGhsdU41czNfZGdxSXFWaFNHOWtWVFRZdTljYlBoQ2lpV2xRRFE?oc=5",
+      "looked_up_at": "2026-11-03T14:06:03.981394+00:00",
+      "search_queries": [
+        "\"WHILE OTHERS AIR AI-GENERATED ADS  CHIPOTLE  WITH NO ARTIFICIAL INGREDIENTS  GIVES FANS  1 MILLION IN REAL FOO\" entry",
+        "while others generated chipotle artificial ingredients gives sweepstakes enter official",
+        "while others generated chipotle artificial ingredients gives giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "94eaee2ab977ee80": {
+      "contest_title": "CHIPOTLE LAUNCHES BURRITO VAULT: DOUBLE PROTEIN EDITION WITH OVER $2 MILLION IN CHIPOTLE PRIZES FOR NATIONAL BURRITO DAY - Chipotle",
+      "original_article": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPMUNQTkc5R19JNHppNG5qWFp6ZnN2bElvZ2lvZ3ZVNW9XX0VuTGI0T2ppNFB0Yk1RazlWYm9GNnhKczEzZkF0NnEzQXFpdUUyc3EtVENpYTc0Mnh0WXB4cnJTZGlXMEZaXzZ0bnNRZVA5bU5EM0k1R0UwRU1oUjFfeVBlbjVIRVhlN1VYQ01ERjlJOWJuTHZ1a3J3R21RSEwxLXM1aUFoRE1tSXBKWVI4YjdTNmQzUDkxMHJmQ0J1c3dEUDAwTFFvR21ZNEc3TXl4SGN6YWNlVENZTXZteTdQRGZMVWlHOWRSbUZkTFVZbG0?oc=5",
+      "looked_up_at": "2026-11-03T14:06:03.893756+00:00",
+      "search_queries": [
+        "\"CHIPOTLE LAUNCHES BURRITO VAULT  DOUBLE PROTEIN EDITION WITH OVER  2 MILLION IN CHIPOTLE PRIZES FOR NATIONAL B\" entry",
+        "chipotle launches burrito vault double protein edition sweepstakes enter official",
+        "chipotle launches burrito vault double protein edition giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "bb1ddaadeb19622c": {
+      "contest_title": "Freepotle Sweepstakes - Chipotle",
+      "original_article": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE01dXdLbmFHNTd4SzVQeFpqajBKV3dCRUhmby1PME9GWUV4ZW9LZ3g3ZUtGWjJqbE1lMHZ6c0ItX0Ezbkw2amY4T2p2cWEzYVVEWE1zTU9YQzlFQQ?oc=5",
+      "status": "insufficient_title"
+    },
+    "8bc9f2b9350975bb": {
+      "contest_title": "53 YEARS. 53 REAL INGREDIENTS: CHIPOTLE TO GIVE AWAY 53,000 FREE BURRITOS FOR THE MEN'S PROFESSIONAL BASKETBALL CHAMPIONSHIP SERIES - Chipotle",
+      "original_article": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQOTdtYk9maFZLd2JVM19OSHFXckh5Z0xMR3JsQ1JiZ0NnN1BDUkU3S1ptbmJDWTBvanM0V2J2MUg5LTNISmdVbE1HcHNuVVZiem1HQ01tcjlIRjhhb24yaS1iY1N4d241aG54V19aTGhoUV9icEVMQXJhcXN3M1Q2em1YVWc0RkhTV1hBalBpNm5iRnZBZmllSkFuc0x3M09zTDlqd0YxQ2xVZzFTVzRHN3FOU1JfUE5BbjgzRlVKYUVPbjBpc09BUHpzSmVwWlRkRTk4QVFxNEhTUVpydDR6b2tyaWZveG8zREQxSkNZNFUtUGlGdllwbjZFcllUZw?oc=5",
+      "looked_up_at": "2026-11-03T14:06:03.948785+00:00",
+      "search_queries": [
+        "\"53 YEARS  53 REAL INGREDIENTS  CHIPOTLE TO GIVE AWAY 53 000 FREE BURRITOS FOR THE MEN'S PROFESSIONAL BASKETBAL\" entry",
+        "years real ingredients chipotle give away free sweepstakes enter official",
+        "years real ingredients chipotle give away free giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "3b02f71f68b6350d": {
+      "contest_title": "CHIPOTLE KICKS OFF SUMMER'S BIGGEST TOURNAMENT WITH ITS FIRST-EVER MATCHDAY BOGO FOR FANS WEARING SOCCER JERSEYS - Jun 8, 2026 - Chipotle",
+      "original_article": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQaHZoX0ZQZmhnVmtnY01PRzkybFlHLS1TZkZwMlhfRnJ4WUhrQ2JJemNfTmlDa1FrM2owcU9icXdTc1paMGlZaUlGUy1EV3pVUW53VnVURmlEVkhmaDIwVTk4VWtIQzFuc1N6NzdZeC1taWYzTUl3eUw1NmNidXRySEYybnM4b3IyMGU5VFhkc0lfcVJ0OXA3a3NpUVlSd19XcWhycFY5amRGNnctSkxteko5NmdJcXFReS1rNDNLX3QxdzFvZTYtRl9pY3RIWHlJVnBNV0tGZ3VseWsyVm53MVRiVjJITUE?oc=5",
+      "looked_up_at": "2026-11-03T14:06:03.975872+00:00",
+      "search_queries": [
+        "\"CHIPOTLE KICKS OFF SUMMER'S BIGGEST TOURNAMENT WITH ITS FIRST-EVER MATCHDAY BOGO FOR FANS WEARING SOCCER JERSE\" entry",
+        "chipotle kicks summer biggest tournament first ever sweepstakes enter official",
+        "chipotle kicks summer biggest tournament first ever giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "44360b1a7300cf83": {
+      "contest_title": "SUIT UP AND SCORE: CHIPOTLE BRINGS BACK ITS HOCKEY JERSEY BOGO FOR THE 2026 STANLEY CUP® PLAYOFFS--AND DROPS FIRST-EVER LIMITED-EDITION JERSEY - Chipotle",
+      "original_article": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNVW84Mk5SLXNVQmZCdnVKSGE0SmdvLS1CcjNITTFiSTR5cTJqTG05My12aUlCRDQxemhDWERjaUQ3OTZHQzQ4RnNDN3FhdjdmVm9KRWtEMHROS3VKUnMyNU4xaTRfTVVYYjVZMlZMdldLbEJpbXVhQVNhbjc5RFV5SmJjYWNXMHptNFYycndVY1RxbFUwTG5yRjJRWFBvQ3IzRGRsOEdMQzRRMXNCalNCd2JaSTF6UW00eGVJb0ZyeXRsRWJKdzFpemlVeVZ6VGR1cS1uZ3UwYzNfTmtLcHNSUHR0MkdhYmhSWFkzaU12UkZ5a3BzbmZLX3NiSVZsNVFicEJYRnFUdFVIai1zTGJN?oc=5",
+      "looked_up_at": "2026-11-03T14:06:03.919452+00:00",
+      "search_queries": [
+        "\"SUIT UP AND SCORE  CHIPOTLE BRINGS BACK ITS HOCKEY JERSEY BOGO FOR THE 2026 STANLEY CUP  PLAYOFFS--AND DROPS F\" entry",
+        "suit score chipotle brings back hockey jersey sweepstakes enter official",
+        "suit score chipotle brings back hockey jersey giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "f0f7b9f530ef9536": {
+      "contest_title": "WIN A LIMITED EDITION CHIPOTLE SOCCER JERSEY** - Chipotle",
+      "original_article": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9mTEN3aUNNUWhabHI1T0ZHSGxON2YzcTlfSHNPb3hwRGJLcFM0Rk1TVDFmekpoZUk1SDBMb2JVeXUxOEthQTRFTw?oc=5",
+      "looked_up_at": "2026-11-03T14:06:03.960906+00:00",
+      "search_queries": [
+        "\"WIN A LIMITED EDITION CHIPOTLE SOCCER JERSEY  \" entry",
+        "limited edition chipotle soccer jersey sweepstakes enter official",
+        "limited edition chipotle soccer jersey giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "2388eb78efd58f39": {
+      "contest_title": "Chipotle - Summer of Extras Terms - Chipotle",
+      "original_article": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBicUJmQzRxdkN1R093aVY3VThaTEEweVczbkVlbjNsS2VFUFBqMEhNTFJfaW1Rbmt1b2p6ZVBySU9qNGlORk1hU2VxeTR4SE8zZ1kzaEN1ZmJOYnM?oc=5",
+      "status": "insufficient_title"
+    },
+    "ebb962b36fc9bb84": {
+      "contest_title": "Chipotle Tour Championship BOGO Offer - Chipotle",
+      "original_article": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9qOWkzd3dUaEx5R0NwVVFjVDlLaDh0VXBCbGVodllQckdodDdpUUk3SlpNZ0pBRzVJNUUtUk1wZGJJUU1zSVZBT1pn?oc=5",
+      "looked_up_at": "2026-11-03T14:06:03.860536+00:00",
+      "search_queries": [
+        "\"Chipotle Tour Championship BOGO Offer\" entry",
+        "chipotle tour championship bogo offer sweepstakes enter official",
+        "chipotle tour championship bogo offer giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "47e181923725af8e": {
+      "contest_title": "Hockey BOGO (Buy One, Get One) - Chipotle",
+      "original_article": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9pODlPMUR1ZEx2WGg3cEFiR2JPZEVGWmpidU8yZFZ3V19MUjhYWXVOVE5fNTlUTlBadzlvaHczWEpla2hHWkJ0cUNBOUo?oc=5",
+      "looked_up_at": "2026-11-03T14:06:04.067392+00:00",
+      "search_queries": [
+        "\"Hockey BOGO  Buy One  Get One \" entry",
+        "hockey bogo sweepstakes enter official",
+        "hockey bogo giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "68bbba33f6e77887": {
+      "contest_title": "CHIPOTLE CELEBRATES BACK-TO-SCHOOL SEASON WITH SCHOOL SPIRIT BOGO AND CHIPOTLE SUNDAYS DEAL - Aug 17, 2026 - Chipotle",
+      "original_article": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTjNnRlBhVTY3bjV2SVFKVUwzNW9RMkxjSzdwTmZSblhCWXhkLWhRRDZNRnY1YnFybnJLWlF5VFRhNWpNYUI4N0Z0UlhYZ0t6ZGFyc3VjVFN6TjJjdjVhN1FHV1ZqTUxzTmdiak9SZjVieG93WnhoVUVEdGpLcEdNMFJCVGxWU0E2LVRtOUMyYlY0ekMtVnJfWlhSaTJ0MzNRUWVIaWpFR0RETDYzaUVsTlRBalVZV21xbjJ3emRPbE5CcGlSRm1vV2RlVno?oc=5",
+      "looked_up_at": "2026-11-03T14:06:03.982531+00:00",
+      "search_queries": [
+        "\"CHIPOTLE CELEBRATES BACK-TO-SCHOOL SEASON WITH SCHOOL SPIRIT BOGO AND CHIPOTLE SUNDAYS DEAL\" entry",
+        "chipotle celebrates back school season spirit bogo sweepstakes enter official",
+        "chipotle celebrates back school season spirit bogo giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "719b764321e504b1": {
+      "contest_title": "FREE ENTREE TERMS - Chipotle",
+      "original_article": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9KMFFtc3M5UXBuZ0JnMnowTnU0NEs5UmttSWZjQ09NbjNSa0RybU1IN3lFMTUzaXZ4dTd1N3dRaXlvVUc1VVoyTERpOTE?oc=5",
+      "looked_up_at": "2026-11-03T14:06:03.921274+00:00",
+      "search_queries": [
+        "\"FREE ENTREE TERMS\" entry",
+        "free entree terms sweepstakes enter official",
+        "free entree terms giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "d8ed51fd4e4990a3": {
+      "contest_title": "CHIPOTLE CELEBRATES NATIONAL QUESADILLA DAY 2026 WITH TWO DAYS OF FREE QUESADILLAS - Chipotle",
+      "original_article": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOT0FjSjRpdVFKTzdiVkg3em9qX0Nad1JDQmo1UUpiLU56N3I2MlkzaUZndDU5eUJDMWRBdlNWZGdpUWdvOUVwRWZTWVRCeFZORjVTZFg5ejR4dG11Zm51dXdCUDBpX2xyQVJ3LVZocmw1a185R1o0aW9HdDhpV2NzdF95UHZidlktdXcxLVBGVWtPNER3emV5QnZrczNONkVCTGxoaDIwWDNxNHBIQi1oclVXaUJoUUx5eDNhdzRMUWY?oc=5",
+      "looked_up_at": "2026-11-03T14:06:04.293659+00:00",
+      "search_queries": [
+        "\"CHIPOTLE CELEBRATES NATIONAL QUESADILLA DAY 2026 WITH TWO DAYS OF FREE QUESADILLAS\" entry",
+        "chipotle celebrates national quesadilla days free quesadillas sweepstakes enter official",
+        "chipotle celebrates national quesadilla days free quesadillas giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "f7aca6bce7d153d9": {
+      "contest_title": "CHIPOTLE AND RIOT GAMES SERVE UP THEIR BIGGEST COLLABORATION YET WITH FIRST-EVER BRANDED LOBBY IN 2XKO - Chipotle",
+      "original_article": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQMVpHXzJzYkxKeWctR21ORzF3WUpZVmZmWV95TEx1b29uV2I0T2VERV9FUnRra0hCY0E5VzdhbDFRZDJtelJPdzBveWhLMTZ4eUN4VW42RG5IUWVzd0dwR0t4VnhPOXZQbzAwNldSbmpmZ2hzZXVwQTNOWWphaXVOdWoySTU0aHdPWHRCN2JlbE1rdUowV0ZZR2s5MmczQXRjb0N3SXVnZzlJMEFNdkd0UDJlWVNWQTlXbUxVeTQ1X1Fhd2xrN0tSOTNEVDJZRTVmaDNMNlVNdW1UTlE?oc=5",
+      "looked_up_at": "2026-11-03T14:06:04.319292+00:00",
+      "search_queries": [
+        "\"CHIPOTLE AND RIOT GAMES SERVE UP THEIR BIGGEST COLLABORATION YET WITH FIRST-EVER BRANDED LOBBY IN 2XKO\" entry",
+        "chipotle riot games serve their biggest collaboration sweepstakes enter official",
+        "chipotle riot games serve their biggest collaboration giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "407ee8a6cb09d560": {
+      "contest_title": "Tattoo BOGO | Chipotle Mexican Grill - Chipotle",
+      "original_article": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1FT3U1cXE4c0xpTTRDMU41bU1pb0tkcFlvbHp0R3kwWjNQbmtTSmRhZFVyVWZrRlJ5TGRoMURaTkZId0ZWaWc?oc=5",
+      "looked_up_at": "2026-11-03T14:06:04.261112+00:00",
+      "search_queries": [
+        "\"Tattoo BOGO\" entry",
+        "tattoo bogo sweepstakes enter official",
+        "tattoo bogo giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "ffcedcb135ff9b50": {
+      "contest_title": "Cash App - Chipotle",
+      "original_article": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB5YUZodThaU2k5ckY2R1dId3RNa01jTDhhYm9rWmhJTkd2TE9CR1ctWm5WUnRpVzA1QTRCNzFGcHRvMC1LeE5tNg?oc=5",
+      "status": "insufficient_title"
+    },
+    "99535d25acfaa39c": {
+      "contest_title": "Nutrition Calculator - Chipotle",
+      "original_article": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5hOHY1aFlaX25tYWZ6c1FSQkR1VTgxYm5QX1lqcUlWSTgtVTVXR05PN0hlc2RleUtWZWxxX3RwLWpYY3hxNS16cVVnQlU3bHBNWnJENGNIRlA?oc=5",
+      "looked_up_at": "2026-11-03T14:06:04.271387+00:00",
+      "search_queries": [
+        "\"Nutrition Calculator\" entry",
+        "nutrition calculator sweepstakes enter official",
+        "nutrition calculator giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "aa5817272dcca13d": {
+      "contest_title": "News Releases - Chipotle",
+      "original_article": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9BMWl1aTJIUXFBS1lGb2hoeGFrci1vNDFjdXdHS0o0VmhGTVdGVFlBc1hQQWM1ejVweXRzQVo4WEhQZHBTRjV2czlOM1VrdVktXzZYTTZmWDdhbHdYYlhZ?oc=5",
+      "looked_up_at": "2026-11-03T14:06:04.261729+00:00",
+      "search_queries": [
+        "\"News Releases\" entry",
+        "news releases sweepstakes enter official",
+        "news releases giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "61e92fcb15835ab2": {
+      "contest_title": "GET YOUR HANDS ON A BIG ASS BAG - Chipotle",
+      "original_article": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFAtZkN1WERGdFljT1lzYi0wYkpjNFg4b2xZaWRMWmdPZ29laHJ3XzJnUzJTTERPR2s3ZmYzZ1hkWjJuZw?oc=5",
+      "looked_up_at": "2026-11-03T14:06:04.255188+00:00",
+      "search_queries": [
+        "\"GET YOUR HANDS ON A BIG ASS BAG\" entry",
+        "your hands sweepstakes enter official",
+        "your hands giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "fd6369a769f692ba": {
+      "contest_title": "The Salish Matter Kid’s Meal - Chipotle",
+      "original_article": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBXTVgwQ0xMYWprVlRCRXhYTnpQWVIyVjBJekpMMGtCS09RLUpBX2tKUTFFLTA4MjNsMnZMNnMzamlGbldHQUE?oc=5",
+      "looked_up_at": "2026-11-03T14:06:04.311874+00:00",
+      "search_queries": [
+        "\"The Salish Matter Kid s Meal\" entry",
+        "salish matter meal sweepstakes enter official",
+        "salish matter meal giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "bb7734310db67a48": {
+      "contest_title": "CHIPOTLE TO HELP FANS BECOME \"TATTED LIKE A CHIPOTLE BAG\" WITH NEW TEMPORARY FLASH TATTOOS AND BOGO OFFER ON FRIDAY, JUNE 13 - Chipotle",
+      "original_article": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPMEFjYWNaNmJTUUU0T3h1WEc5VDgzU1pCNmc0ZWh4enpsbFp4aHRScWQyU3cwd3dnTFlkQTNVRlpZdHhvS3BjX1I2VE5OWmNUb2pwbEJDUGJDQzdvU0FJRGJySHVfZDdhQmh0bWQ0OHBuS2prTktCTHRpX2ljajBGOE1SWjNELVk2UGFXU3dwcWdJb1lrQ2Z3MkRlcjlqdmxURWtPN0JRY2FkN2RQNU9OTEM3UVV2SlROTzF4QnhZb1QtajVQY3p1ZzJNQlJHbnd3VVNfaGdMeWFWWk1fZ1d0VXhVUmJnSnhSR1dhdUpvaV92Tm1wTHc?oc=5",
+      "looked_up_at": "2026-11-03T14:06:04.380230+00:00",
+      "search_queries": [
+        "\"CHIPOTLE TO HELP FANS BECOME  TATTED LIKE A CHIPOTLE BAG  WITH NEW TEMPORARY FLASH TATTOOS AND BOGO OFFER ON F\" entry",
+        "chipotle help fans become tatted like temporary sweepstakes enter official",
+        "chipotle help fans become tatted like temporary giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "b37dd73daddff6d0": {
+      "contest_title": "BOORITO RETURNS: CHIPOTLE TO OFFER $6 ENTREES ON HALLOWEEN 2026 - Chipotle",
+      "original_article": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZ00xRVZlbXB4ZEZSTlZUazVhYW40YkFSdE9TcWkyQjBPUEZJNThsZ0hkWGM1dTVIZ2V5a3dvRGRPa1JyelJyYTBORXNSTmU3U0RSTzRiMDZyS0ZDZjNTZFk3MjVwbmVpejdxV3RQZG9IOWtDTS1teEhyTFU3SnpRQmtsRmtTNEY0Q0thRU0wRHozWGZoZ3BVeGQyanV4bkF4eHhyQg?oc=5",
+      "looked_up_at": "2026-11-03T14:06:04.389000+00:00",
+      "search_queries": [
+        "\"BOORITO RETURNS  CHIPOTLE TO OFFER  6 ENTREES ON HALLOWEEN 2026\" entry",
+        "boorito returns chipotle offer entrees halloween sweepstakes enter official",
+        "boorito returns chipotle offer entrees halloween giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "a45ab1c4863e200b": {
+      "contest_title": "CHIPOTLE CELEBRATES CHAMPIONSHIP WITH BUY-ONE-GET-ONE (BOGO) OFFER THROUGHOUT INDIANA ON JANUARY 22 - Chipotle",
+      "original_article": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVGc0V0p1X3MyZ0tPYkk2S1N3U0JYQm1VZWhzZVB6T3NGY3hKTlJoV1ZDX3RTcmt5eWVIME9GTnBjTktNWFMzQkJJNWppLXpwR0FwWEtqeDQxaHdXNmdZek5kSlVySEVlTWJmVzgtaDNPZEgxcGU1SVY0U3RleFJsMkJPek5fWS1OeXBIcy1JWkZ5dVlFMFpRZFRmZjFPTHUzOGNhVEdEUGlDOWZZN0xYemxLLUJpUUlZTktEUDZlNnBsVFdyMVZJUWpXaTFRNWd4RmFhRA?oc=5",
+      "looked_up_at": "2026-11-03T14:06:04.378270+00:00",
+      "search_queries": [
+        "\"CHIPOTLE CELEBRATES CHAMPIONSHIP WITH BUY-ONE-GET-ONE  BOGO  OFFER THROUGHOUT INDIANA ON JANUARY 22\" entry",
+        "chipotle celebrates championship bogo offer throughout indiana sweepstakes enter official",
+        "chipotle celebrates championship bogo offer throughout indiana giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "0b91fe74d0055dbf": {
+      "contest_title": "53 REAL INGREDIENTS - Chipotle",
+      "original_article": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBJYzJUNXV4bkpCa0tzZ1I1Q0dJTmJ0dFlTUUlxU1k1TVVQTV9OZ1pxbDNQRWYta0JDcTlLbzhpdmdLYllJaGg2cTFlRGs?oc=5",
+      "looked_up_at": "2026-11-03T14:06:04.335440+00:00",
+      "search_queries": [
+        "\"53 REAL INGREDIENTS\" entry",
+        "real ingredients sweepstakes enter official",
+        "real ingredients giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "70aa3f3ff0d452bf": {
+      "contest_title": "National Quesadilla Day 2026 Offer Terms - Chipotle",
+      "original_article": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9UQzhHV1FqdklDSU4tRzg4U1lMNTRwMTVTeV9aZDFTdlo4ckJVMnhsQnlYM0dZUU0ycGhHeTZEb1RZV1R2azR2cGV6b1g1RTZvTDBzOWVYb3FfNVN1R1BGOWtEbUpWSXN2ZDM4?oc=5",
+      "looked_up_at": "2026-11-03T14:06:04.373034+00:00",
+      "search_queries": [
+        "\"National Quesadilla Day 2026 Offer Terms\" entry",
+        "national quesadilla offer terms sweepstakes enter official",
+        "national quesadilla offer terms giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "1ddfc0db1c76ef8e": {
+      "contest_title": "Nutrition Information - Chipotle",
+      "original_article": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB4OHJueW1TcXpGalNubHJzRGJteUR3TTZlWWJSNWNlZjZKMXJ6OHZzZURVTEtfZl9KR1FGLXVOOS1kamJNMGE1ZnV1TmNDMk5rMmhseEI5QWJmQVdPZWxZX3pBejVjVkZpSGc?oc=5",
+      "looked_up_at": "2026-11-03T14:06:04.659191+00:00",
+      "search_queries": [
+        "\"Nutrition Information\" entry",
+        "nutrition information sweepstakes enter official",
+        "nutrition information giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "4859bd5272764254": {
+      "contest_title": "Chipotle Celebrates Fans' Chipotle IQ With Cinco Days Of Giveaways - Chipotle",
+      "original_article": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOG9pdmxRTHIyRzZmdEZ2a1h5enBGNW9rdjR1NEJISTNlczRrSTRDVFptV1RXQmtFdDc0ZmFvNnEtOWhEcG5NWDdITDN0WUpFRlZVZmMtRUFWS0xNSWtJeDB5MXQ3eFBaWG5MT3dndXV0eHFnay1ZNWFETW9rUTk5Z0kwRlFOUTZ6cGxSZkNYeDhsb3d6bDNNbXQxbzR3WWhjQllqLVZ3NjJPQQ?oc=5",
+      "looked_up_at": "2026-11-03T14:06:04.662037+00:00",
+      "search_queries": [
+        "\"Chipotle Celebrates Fans' Chipotle IQ With Cinco Days Of Giveaways\" entry",
+        "chipotle celebrates fans cinco days giveaways sweepstakes enter official",
+        "chipotle celebrates fans cinco days giveaways giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "bddee02c778a55b4": {
+      "contest_title": "Chipotle Launches Rewards Exchange With New Video Game And Tesla Model 3 Giveaway - Chipotle",
+      "original_article": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdmFhUkliVXp6M05jQV9UUTMtaHRjZDBpTVFFRER6RlpsaG5fRjk4NVJsS1JDR3N6MlNRaHkyUFNNV3lUQkJXc3l1NTEzUjdjbnpfdlQ5SzZrdUtIREtxM2ZoTXBfWUpDUjhsMDZXaUJTTUh5WlVjQWlCaWRBUXR0c0Z3Uk9JTFJFQW0ycVBHSjdlWlFhb3lKREQzYkhkVDBVRXRxOU9MUEpDZ1ctY0hXU0J6eFFhdGNxMGhxYlRVdw?oc=5",
+      "looked_up_at": "2026-11-03T14:06:04.606945+00:00",
+      "search_queries": [
+        "\"Chipotle Launches Rewards Exchange With New Video Game And Tesla Model 3 Giveaway\" entry",
+        "chipotle launches rewards exchange video game tesla sweepstakes enter official",
+        "chipotle launches rewards exchange video game tesla giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "6b63b50f9ad2d348": {
+      "contest_title": "QUESADILLA DAY - Chipotle",
+      "original_article": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0xenJLVm8yeWxLa0Joa1BZT2VqdG5tM1BlOUZ3UzVEZFRSX0htLUswZVR3MHBZUzZvdmZGMkE4ME1KNFBjeS1jME9lVUNHdzd3TG80dzhreUswa0hT?oc=5",
+      "status": "insufficient_title"
+    },
+    "d85913f0d2d1877d": {
+      "contest_title": "News Releases - Chipotle",
+      "original_article": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE91ck9GRDk5U3NfRzB4SmFGekhTVmNpczdLeTNrdGZnUXFZcF80aWNRbVlhQTF0LVVLQTVnVVVEVUlfQVhXQkczV3B3THpDbF8tc3pEUXdR?oc=5",
+      "looked_up_at": "2026-11-03T14:06:04.540147+00:00",
+      "search_queries": [
+        "\"News Releases\" entry",
+        "news releases sweepstakes enter official",
+        "news releases giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "a6575e6b4f4f4e1a": {
+      "contest_title": "CHIPOTLE CELEBRATES NATIONAL TORTILLA CHIP DAY WITH A THREE-DAY FREE CHIPS AND QUESO BLANCO OFFER - Chipotle",
+      "original_article": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPeDZNMnVvX2dTMy1UX3o1eUU5V3VydDNnMDRLUEdvZXBLYTZEY0RSLV8zajNTWHp5X3BwcnV3RktLbG5ncjBxbEFSN3VFekVRdDdtNEJ2akR2cXljWjczOE5STEVZN1gtWk1KaEFqMVYyUmR2MWNFZ2R3Z3dVM1Zhcko4QUsya2lKeXp1VE5QTmozVExFUWxJLWExOW13aHdEdEhzbnprc2FMN0RmSkJ2Ti16ejlRVkh3dF81NThEc3U5TXdlY3FPdk9xY3RINDE3VzQwMw?oc=5",
+      "looked_up_at": "2026-11-03T14:06:04.743203+00:00",
+      "search_queries": [
+        "\"CHIPOTLE CELEBRATES NATIONAL TORTILLA CHIP DAY WITH A THREE-DAY FREE CHIPS AND QUESO BLANCO OFFER\" entry",
+        "chipotle celebrates national tortilla chip three free sweepstakes enter official",
+        "chipotle celebrates national tortilla chip three free giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "a901562c88332fbc": {
+      "contest_title": "Build Your Own Chipotle Terms & Conditions - Chipotle",
+      "original_article": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8xNi0waXotbVVQenlKMFlIdVdjcm1sN1dRS0xfZ3AzNXZCWUZyZFc4cG15TnRsVEthUkZrM1JfdWlrTTRzRlAtXzJwTQ?oc=5",
+      "looked_up_at": "2026-11-03T14:06:04.600748+00:00",
+      "search_queries": [
+        "\"Build Your Own Chipotle Terms & Conditions\" entry",
+        "build your chipotle terms conditions sweepstakes enter official",
+        "build your chipotle terms conditions giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "bde661d70b743e95": {
+      "contest_title": "School Spirit BOGO — Chipotle Mexican Gril - Chipotle",
+      "original_article": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5oRkRGVm1GeThSNmZOSzhybndpd2NIcUZSbEQ0aDZoV2RiQ1R0MTdTV1RQSHMxTzE1dVhBbVo5TGZEVnRSQjJKTGROb0xEU0E?oc=5",
+      "looked_up_at": "2026-11-03T14:06:04.604368+00:00",
+      "search_queries": [
+        "\"School Spirit BOGO   Chipotle Mexican Gril\" entry",
+        "school spirit bogo chipotle mexican gril sweepstakes enter official",
+        "school spirit bogo chipotle mexican gril giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "04efa432dbf00930": {
+      "contest_title": "School Spirit BOGO Terms & Conditions - Chipotle",
+      "original_article": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA3SUU4a0haZW5JbThoMGNIdkc1SGRsNFJIdGVVR2NBaHY2TFBsYkR2N1JOeEl3MWxzcUJkdTRPejZzMXdXcEJDeHFVUm9SNkNsSHRobndKZw?oc=5",
+      "looked_up_at": "2026-11-03T14:06:04.624038+00:00",
+      "search_queries": [
+        "\"School Spirit BOGO Terms & Conditions\" entry",
+        "school spirit bogo terms conditions sweepstakes enter official",
+        "school spirit bogo terms conditions giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "3385399e99571722": {
+      "contest_title": "Chipotle Smoked Brisket Sweepstakes (Official Rules) - Chipotle Mexican Grill - Chipotle",
+      "original_article": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1rLTUxa0dONWI2clI4bk1lZFcwc1RqdzFkbXNpVS1ZcXQ0b0MyYWNPS05KME5IcTRCMkRULXRzZktuR1ZEM1NmUQ?oc=5",
+      "looked_up_at": "2026-11-03T14:06:04.707888+00:00",
+      "search_queries": [
+        "\"Chipotle Smoked Brisket Sweepstakes  Official Rules \" entry",
+        "chipotle smoked brisket sweepstakes enter official",
+        "chipotle smoked brisket giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "c5f683c649368df8": {
+      "contest_title": "Tacos - Chipotle",
+      "original_article": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yU1RCTFJreTNBV0RYN2twTjFJZEI2NGIwRzhhektORkp6bEJncnVFQ2VCdjVIczdpVWtYOTl2TkNQRUNmLWR6b00wUVJQcnRsYms0N1VCM2N5TkhsNFJsRw?oc=5",
+      "status": "insufficient_title"
+    },
+    "28d7ab7be0f49a47": {
+      "contest_title": "Build Your Order - Chipotle",
+      "original_article": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5BZkU0bFAtTXM1UmptUzV2cWhNVkh0T1djOW5udmhKbXppa1Vybks3TE5IR2NtaVpqbUxyWVZwdGpJeFNjOTEwM0RrZXZhQ2tFdFZ4cXRaN2RWbFNxSTJSVEJETnE?oc=5",
+      "looked_up_at": "2026-11-03T14:06:04.663096+00:00",
+      "search_queries": [
+        "\"Build Your Order\" entry",
+        "build your order sweepstakes enter official",
+        "build your order giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "52610dc01feaa912": {
+      "contest_title": "Summer of Extras — Chipotle Mexican Grill - Chipotle",
+      "original_article": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAtUlVUSDZ4Y1dDUEdQUG55anRVZEZpNHlydm81TWhOQlV2Q2lqQTVxbkRnd05PZ3Z0bXV3ZHpBc0RIVnQzNGljVDFIUlg5NUVnM2JF?oc=5",
+      "looked_up_at": "2026-11-03T14:06:04.667546+00:00",
+      "search_queries": [
+        "\"Summer of Extras   Chipotle Mexican Grill\" entry",
+        "summer extras chipotle mexican grill sweepstakes enter official",
+        "summer extras chipotle mexican grill giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "3f4568da15aca8cf": {
+      "contest_title": "The “PGA TOUR Hot Streak, Presented by Chipotle” Promotion - Chipotle",
+      "original_article": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBpeWdwQVhmOUhpN0dEUGFYN2ZvUnpqR1dQUmtmZnU2NEUxdW00ckhyY0tYVkl6QkNZT295WFlXc2lSUTJ0U2FhSTN3?oc=5",
+      "looked_up_at": "2026-11-03T14:06:04.803907+00:00",
+      "search_queries": [
+        "\"The  PGA TOUR Hot Streak  Presented by Chipotle  Promotion\" entry",
+        "tour streak presented chipotle sweepstakes enter official",
+        "tour streak presented chipotle giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "36aede065515855a": {
+      "contest_title": "The $100,000 Dream Home Makeover is BACK!! - 1019por.com",
+      "original_article": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBoWS01LTFCeTA1ZWVCYzh4OGpLUUNrM3JWdTZnaU52bktxZUlsdExoOTlJck9EQ3REdV95eVE0SWNmbTlBbVQySEZuUDBvNHAzZWNxN3ZlSV9sYk0xcjh4YU9JeWJtcjhBMHpocVM5QVZxaUtXSkFHOEhR?oc=5",
+      "looked_up_at": "2026-11-03T14:06:04.968604+00:00",
+      "search_queries": [
+        "\"The  100 000 Dream Home Makeover is BACK  \" entry",
+        "dream home makeover back sweepstakes enter official",
+        "dream home makeover back giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "1ab16a6712e2af02": {
+      "contest_title": "Florida Homeowners Are Paying Record Insurance Costs: Reece Windows & Doors Responds With a $25,000 Free Home Makeover and More Than 50 Years of Community Commitment - markets.businessinsider.com",
+      "original_article": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPbENUWk83TjVGdTQ3TTYycVViTjBWOHRucVJjeXBwd3BDc256V3ZfZ2VkT1BndE1LSk9qWjdjN1NkX2h6TFdOcDFvLVBTVnJXWmIyTGU1ZE1TYXhORHFVOWhtTzI3N1BIRjA2ZDhISmdnQ3NQZVZxVDVYY2NnNDJ5b1lWRU9lU3g1ZnYtMi1UU2RGWkY5RmU2ZVlqVFg2OUxDQ0o2RVA3ZFVzZnlpMURZckNlNExvU2hFcS1SclNhNlNsMDF3bnQ1dFJ5b0w2eTcxZm8yRkVISURIVkFmMGFLVlpoX2JjWmRZMmw5R2trWTRMT0NEZko0cXlBY1hwdTlCTUQ1dlBYUnZTNmJDbGx5bzgzdEhmLVVvNGVBY2hWQ3BEc0dPZ0tXcVhOZC1HNE9MLUNXSFlQbzlrSkh2TndFaFVR?oc=5",
+      "looked_up_at": "2026-11-03T14:06:04.974609+00:00",
+      "search_queries": [
+        "\"Florida Homeowners Are Paying Record Insurance Costs  Reece Windows & Doors Responds With a  25 000 Free Home \" entry",
+        "florida homeowners paying record insurance costs reece sweepstakes enter official",
+        "florida homeowners paying record insurance costs reece giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "6836608b763716eb": {
+      "contest_title": "Bed Bath & Beyond launches hunt for oldest coupon, $100,000 home makeover giveaway - WRNJ Radio",
+      "original_article": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPakhCbWtkNDNVWW9oNEJjT0g4RDRHMjlGMTd4VVI5V3NWXzF1bUx2TURhR2VhTGxvaDdHeWIyQkIxRG9mdi1pbnQ3RVlVLXNuMjlLMFlaaVdENWhPeFYtOXRhemR3YXp6ZXdrSnEyZ3pVWGVKUUxTdGZ2Vmo3d2gyN2NrX1JsOEU4S3BiekJoMjlodGVqaThQckhYTEtiOVdkbmc?oc=5",
+      "looked_up_at": "2026-11-03T14:06:04.987383+00:00",
+      "search_queries": [
+        "\"Bed Bath & Beyond launches hunt for oldest coupon   100 000 home makeover giveaway\" entry",
+        "bath beyond launches hunt oldest coupon home sweepstakes enter official",
+        "bath beyond launches hunt oldest coupon home giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "37286de1b3266f5f": {
+      "contest_title": "Reece Windows Expands Florida Community Impact Through Free Home Makeover Sweepstakes - FinancialContent",
+      "original_article": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQV0RrdG93eVQwRjJuQ3RCT0R1ekVVMHY4blQ0Ymo4amxpVGZiZ3dTWG5XNTZDemlhSXNuSllOckhxUHRvejlxMmtqdFRXSF9zSV9KMkJYVTFyRk8tYnBrclB0b3FINjBqcXBWNXlVLWdSa3UycUV2MlN2WkFaRVN4N2xCOHFHTFZGa2VGOGluT1ZKSkV4OHF4dzktRTBQVUZJOXJuVGhJMHRpZ0Q4OURYQk9EaXBDQnRYRDR0M29GQy1wb2hxYWVBcXdjZGk5cVh5aXh5WHItekZ0ZThERlJqc0ZGSnI?oc=5",
+      "looked_up_at": "2026-11-03T14:06:04.982571+00:00",
+      "search_queries": [
+        "\"Reece Windows Expands Florida Community Impact Through Free Home Makeover Sweepstakes\" entry",
+        "reece windows expands florida community impact through sweepstakes enter official",
+        "reece windows expands florida community impact through giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "fbbd88c486be6182": {
+      "contest_title": "Start searching: Bed Bath & Beyond’s oldest coupon hunt could win you a $100K home makeover - News12 | Brooklyn",
+      "original_article": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZXI2NVZ5U1ZZT2VKc2lHSzB4dzZUU3JGYVMxQUppTG9tOVd3bjg5Zzg4YUlKRnVfMU5jeEpaMWVBc3d0dnlWTFhwdTItLVNUUk9CNzNabDV5S0REMXZwNmVQZEdUQVZib2NNbmFKN1FQRVVtWEFndXQwWW1fb2V0bzFMVU9GN2ZPZlgyVFl5QXpURF8yRkM2bU5lanEtME12RFVoSFBKVEs2bGdFM2N6SXltMTQ0NjJmN1BPWFhHV0RVS3d0a1o3dDFsM2NiNl9vWnVVSE1FdzNNbHZCckdzUVVn?oc=5",
+      "looked_up_at": "2026-11-03T14:06:04.976056+00:00",
+      "search_queries": [
+        "\"Start searching  Bed Bath & Beyond s oldest coupon hunt could win you a  100K home makeover\" entry",
+        "start searching bath beyond oldest coupon hunt sweepstakes enter official",
+        "start searching bath beyond oldest coupon hunt giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "6cf842849092e286": {
+      "contest_title": "Will you be the Grand Prize Winner? Watch on Monday, November 23 at 4:50 pm to find out! - WTTW",
+      "original_article": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE41YVp4XzRZbU92bDQwOHFtTTdBTlI1QloyS1p4SlZuei1pOGkyYkEySUQwTUI4bm5TeUVMYklTaXZHTEJkX3I0X24xZXBIdw?oc=5",
+      "looked_up_at": "2026-11-03T14:06:05.022521+00:00",
+      "search_queries": [
+        "\"Will you be the Grand Prize Winner  Watch on Monday  November 23 at 4 50 pm to find out \" entry",
+        "will grand prize winner watch monday november sweepstakes enter official",
+        "will grand prize winner watch monday november giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "d60c516af5f3d916": {
+      "contest_title": "Got an old Bed Bath & Beyond coupon? You could win $100,000 - The Columbus Dispatch",
+      "original_article": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOS3BTd1k3THcyRVJ2NlR0Y3B5UGFwNE5IbThxdThyRGktQ2Z4ZlhEOGRXWG0yR3JobWFRUlNDTndYYzhqTmh3ZDFjdExqTFA4dGE2X1ZMNDNtQXlkemtidWlSTHVKNTduRHV4NEdHSHA2Y0dpRWJQbmNOSDloM1lFekhQV1U5N2JBUlo2NlBQWUN4cFBhWUdYUENWaHoyaFZnTVk1OXptTVNIcF95VWhuZ3ZsMThRVkJMNEphb214YWdSSHM2MXRmWUtqcERtRFI5enNDZVZR?oc=5",
+      "looked_up_at": "2026-11-03T14:06:05.033572+00:00",
+      "search_queries": [
+        "\"Got an old Bed Bath & Beyond coupon  You could win  100 000\" entry",
+        "bath beyond coupon could sweepstakes enter official",
+        "bath beyond coupon could giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "65e2a726f63dc91b": {
+      "contest_title": "$100,000 Home Makeover - WZID",
+      "original_article": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE93MFBDbDRRbU5QRTBLQmxPcHRPbHcyOGhZN2E5MW1tbW81MF9JU0tlQkRZckRZTWE4UmJOa0o1YjB3aWw1Y01qbTRIQllLaFJvODJfX3hkdTZ6R3FOM0E?oc=5",
+      "looked_up_at": "2026-11-03T14:06:04.970772+00:00",
+      "search_queries": [
+        "\" 100 000 Home Makeover\" entry",
+        "home makeover sweepstakes enter official",
+        "home makeover giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "b8d0512d0b2e94d0": {
+      "contest_title": "Bed Bath & Beyond Is Accepting Expired Coupons This Summer—and Yours Could Win You a $100,000 Home Makeover - Yahoo",
+      "original_article": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeDdaVlVsc0xrOWlOSHZSZzljNXRDdmpBazRIUENpUnBGTG5yUnJ4SjlJd3hEWklndkhnZEhERWR3aW5XNWl1NUFyZnl4bXh0OXVKanBNMXBzWlFJZmtoZzI5ZUpwQnp3eWVid1pyaHp1aG1jUjFTOWhZbUhzZ2lFSV9Yd0xjT1VVRkVmWHNqb3JYYUtaalozMVdxMWZqQ2ZXcTE4ZnRLRGNKZ1RSZFB0ODU2cw?oc=5",
+      "looked_up_at": "2026-11-03T14:06:04.976592+00:00",
+      "search_queries": [
+        "\"Bed Bath & Beyond Is Accepting Expired Coupons This Summer and Yours Could Win You a  100 000 Home Makeover\" entry",
+        "bath beyond accepting expired coupons this summer sweepstakes enter official",
+        "bath beyond accepting expired coupons this summer giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "77c1475232225189": {
+      "contest_title": "Ultimate Home Makeover - KARK",
+      "original_article": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8yUkxONXRhbElnQS1sSWZTY2JJVWdKUzdVVWkyMlVuZ0VuZ2tJbDVjeUVKeWY0aDZQX05jZVVQYkNmWFZYbkdldUx1Tm4zSnB3Y2pYZjZjaw?oc=5",
+      "looked_up_at": "2026-11-03T14:06:05.115376+00:00",
+      "search_queries": [
+        "\"Ultimate Home Makeover\" entry",
+        "ultimate home makeover sweepstakes enter official",
+        "ultimate home makeover giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "8b309f97b9cb7a50": {
+      "contest_title": "Bed Bath & Beyond launches hunt for America’s oldest coupon with $100K prize up for grabs - Fox Business",
+      "original_article": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOc0dSOFlqMjBZemZQTWFwVEhZZ2JLRm5GQTJkUnB5dndYQk9vNHRaaHBZUUZKbUxLckgxWjUwT3BqVHpsTndITnZubVNsTnZCcVEzYkRWSThBT0xMZkw5aE8ta05KaV80Q3F2SExZT2N5dVJWYVRPNll6SVQ3dUpuWnp5d2ZjQmhiaHBHQXVoWE5vbndfVUV6cElkdDVVUnktazdKTlBjSjNnOTDSAbABQVVfeXFMT0RzYUE5MEpMdFhmQU1UbjJJZUZzdDdDTy1NOHJIaDJ1TVQ3OU04SGRvVFRoaTdVMG9zUExsak1MQjBNdHJhYzZyZk0xeU9FaVJZbFFaSUF5bjk2QlF0dnhoSUZJSDg0LVdQenBqdWlvQ1lsWlNobkxKdGdQak56dXVoamQ5TDloRWtqQ2hVMGV4VDNpUmZPdVRVVFVGWVJ5NW5temNoZnhYd0MwRHh4U3o?oc=5",
+      "looked_up_at": "2026-11-03T14:06:05.167331+00:00",
+      "search_queries": [
+        "\"Bed Bath & Beyond launches hunt for America s oldest coupon with  100K prize up for grabs\" entry",
+        "bath beyond launches hunt america oldest coupon sweepstakes enter official",
+        "bath beyond launches hunt america oldest coupon giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "19ad2a2265a878d7": {
+      "contest_title": "Home makeover guru Ty Pennington shares top tips - USA Today",
+      "original_article": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTmtwdnJ5RWY4VVlQVW1pb1hMeEh4WUJQdFZ1R0RNOXJPalhlb0FiOGJHdHpzMnFGS0JMTFBqLUZRRjZJbU1INXBxNG1HcUtQX29NUmhOektHRXByN2dmRjZVcmhOcjhrZHA4cklaMVhaaEl1dGVFRG9vZnJrMEtOd2Z0cTY2NUt2cTNmUjRyQVJncERXaWRILV9xWkN6dE9JWjdaTTd0SVhoNm1tNldKS2F2eU9YRS1UTTM5V3JaMjBSQV8xQmRr?oc=5",
+      "looked_up_at": "2026-11-03T14:06:05.118347+00:00",
+      "search_queries": [
+        "\"Home makeover guru Ty Pennington shares top tips\" entry",
+        "home makeover guru pennington shares tips sweepstakes enter official",
+        "home makeover guru pennington shares tips giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "8872e8ca5244989e": {
+      "contest_title": "WTTW’s 2026 Be a Winner Sweepstakes Prizes - WTTW",
+      "original_article": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1TUkxER1JIQk54QXdXWDBiMUpsSFhkYmItVHJEWURCVV90R0dmVmk5TjFVQm0zR25VZ0VYUHBKc3RYQ0ZhSXNoM2liYTM3WHpYdWxYZFVhZw?oc=5",
+      "looked_up_at": "2026-11-03T14:06:05.281639+00:00",
+      "search_queries": [
+        "\"WTTW s 2026 Be a Winner Sweepstakes Prizes\" entry",
+        "wttw winner prizes sweepstakes enter official",
+        "wttw winner prizes giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "70ff8e189637bb9b": {
+      "contest_title": "LMCU’s Home Makeover Sweepstakes winner announced - WOODTV.com",
+      "original_article": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSy1BWFJ0dWU5VzdiRGxUalJzTTU1OXVodmRnbHhuLU9JajcxUjFOQ1BfZW5fNU0zMUNlMnJkZVdIT2dhVUs2OE5WUXdfdm5NQWp4MVFRSlJtSE5tR0NocVRkTjJkWmpaVVhEY0paUkpVS1pISjItT3BSczNXMGRFMzFXd3FtcXhpNnoteGhibFJRN3FFUmpDSzJRVQ?oc=5",
+      "looked_up_at": "2026-11-03T14:06:05.278237+00:00",
+      "search_queries": [
+        "\"LMCU s Home Makeover Sweepstakes winner announced\" entry",
+        "lmcu home makeover winner announced sweepstakes enter official",
+        "lmcu home makeover winner announced giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "8bd67b263689bb90": {
+      "contest_title": "Lake Michigan Credit Union announces winner of $50,000 Home Makeover Giveaway! - CUInsight",
+      "original_article": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOc3R5Q3N5eENCMlp2SUZQM3JsbzJXQ3owWG5aTWtCWVVyX2Exa0FZS2RUbTkzTkxrSlJMdUFZMzRjcU5RVnJQQnFQNjB5RWFPYk9EcGk0bVNCUVFNM1hfZi1ISExiNzFlYlB1RnE4Mjh1WVVlYWhkUTc3Z28yaTVVVE5uUnZRcjhtVE4yX1hpZzNCTjVKbi1XRnJrT09aOThPNS0zcjdYNzdpdTFEZFVsNzB6N2FwUDg?oc=5",
+      "looked_up_at": "2026-11-03T14:06:05.304832+00:00",
+      "search_queries": [
+        "\"Lake Michigan Credit Union announces winner of  50 000 Home Makeover Giveaway \" entry",
+        "lake michigan credit union announces winner home sweepstakes enter official",
+        "lake michigan credit union announces winner home giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "d2cf96c40cfa0587": {
+      "contest_title": "Freeport woman wins $15K in Gannett Fall Home Makeover Sweepstakes - Rockford Register Star",
+      "original_article": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOFVPcFJON3VrZUkwakF1VVR1Njd2UUhPZ2ZWcS1wNzVGVzI2RXo4NEpaRUZvTENjcFdlaWlyamVFbjhVZFFrdDFVSy1FZ1JXclU2eXZmR1dvclJOY0lOemNzb3d3aU9aUXdwQWlXZzhGMVVaQVltMmJLZW9La3JFY0N4YzJudk5jS0ZCSHBraGd3cW9DZEgzZEhOV0FyX3RjYkxadVdDZmx1Njc1Ny1teGZhNDh6aUw1UDN3bTBxbnZkU0lPWXkw?oc=5",
+      "looked_up_at": "2026-11-03T14:06:05.318583+00:00",
+      "search_queries": [
+        "\"Freeport woman wins  15K in Gannett Fall Home Makeover Sweepstakes\" entry",
+        "freeport woman wins gannett fall home makeover sweepstakes enter official",
+        "freeport woman wins gannett fall home makeover giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "088d41591043a941": {
+      "contest_title": "LMCU’s Home Makeover Sweepstakes winner announced - WOODTV.com",
+      "original_article": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSjJSTE1RWHJQMVhxcjJFTWRIc1RPZjJ2Z1V4aXJTWVVJLThIWm5fcEt1eUZ5cVI0QlJ5M0ZUbG13ajZvcGF0eUFPU0Vib0EwZW14ZTVjWGJOdWwtajRXc05pSTJPUzA3aWVfNkVNcGdYczJYTHBrV2lPWkxtTFpCdXl5RktrT0gzQmfSAY8BQVVfeXFMTWFUaE1BUy1tSTBXTmtXcHpaV0U0b000WjIzOW9FaWo4XzgyS0NDc0VRbm0xNEVyQlBBYkZaUWJ6dE5tWU4yV1NkU2IwSW9PeVpXSDFKMk5VNGFlSzVmZnRQbGZkeUk2OTBFb2RXenlzOVNSYnNXTnBHX1J4b2lxeGFkeEttTmxvX0FFcFhnVzQ?oc=5",
+      "looked_up_at": "2026-11-03T14:06:05.271645+00:00",
+      "search_queries": [
+        "\"LMCU s Home Makeover Sweepstakes winner announced\" entry",
+        "lmcu home makeover winner announced sweepstakes enter official",
+        "lmcu home makeover winner announced giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "73afb5e4c28ca5f4": {
+      "contest_title": "Have a home renovation dream? You can turn it into reality with $50,000 from USA TODAY - USA Today",
+      "original_article": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZGNQaFRrLThRZmo1LXBwOUhhazBhSWJ5NDBTaTNDM2FqNm9zRHpxN3Z3d0xzdUNxR3ByQXFLd25zZzNINGswQndQdmtEbHdpTmdKeVhiV0pDNkxqS3BQNG5GeV92U0dMTFd0c0p0TldmNHZ3SDJER0dCb1R1X2RqdEIteWZaaldkOThNVUJ0V0sySElLbENUZmlDVmZhcHZ2ZHZ6SjZJZw?oc=5",
+      "looked_up_at": "2026-11-03T14:06:05.374217+00:00",
+      "search_queries": [
+        "\"Have a home renovation dream  You can turn it into reality with  50 000 from USA TODAY\" entry",
+        "have home renovation dream turn into reality sweepstakes enter official",
+        "have home renovation dream turn into reality giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "0218602aab1ea553": {
+      "contest_title": "HGTV’s ‘Totally 90s House’ Competition to Star Brian Austin Green, Jodie Sweetin, Melissa Joan Hart, More - People.com",
+      "original_article": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPX1hkWlBrLUhMZjJmS3VTU3lZekVBU1VWOGN3NG9DY3FMZy1ldnZQaVFPWjMwN1EwQnVnaEVWZTROeVN1anJXa0o0WkFJU3gwZG1aenJ6d1lMS0tlcnNMZjRJWE40X3ZtcHZ6bFFXZ3I1emxXWGE5S0tCSXp0VGlOSDQ5dU9SbllwQm1xYTdoR2hVZG53eHNZZ0V2MnYtT3pGaHhJZTl6VnhrcUNra2s4SHRFU1JhQVBKclN2S2VVQjctMjN0?oc=5",
+      "looked_up_at": "2026-11-03T14:06:05.377840+00:00",
+      "search_queries": [
+        "\"HGTV s  Totally 90s House  Competition to Star Brian Austin Green  Jodie Sweetin  Melissa Joan Hart  More\" entry",
+        "hgtv totally house competition star brian austin sweepstakes enter official",
+        "hgtv totally house competition star brian austin giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "ab50a16b0fb64c98": {
+      "contest_title": "How to Spot a Shady Contractor - WREG.com",
+      "original_article": "https://news.google.com/rss/articles/CBMid0FVX3lxTE55T2p2UlRCRnFPYW43MUh4eGh1UHl2dHQ2X1hiU2FPWjloT0RhYVNjRWVIX0RWaG5SWFFxMTQzUVhwMWd6NDE1VHR3TzFQdkd5MUlTcEZTTGE2dW5Qc1pLUzN0ZEhCeDR3SXgwcVhiUXczbnE5SDZN0gF8QVVfeXFMUDc2Q1VZemtuU3Z2QkdRZ3V2bmRUTENsZjRUZWxaR3I0WGZsNXZnTWpxYk1nTGgxSnU1ZC1aVVI0N0lkRjRvaU9XQnotZEphVExsZWtfLVU0d24welhvQjUxZnd0b3BXN1FuZWZWWUlDT1J2T1phbUtvbnRMZw?oc=5",
+      "looked_up_at": "2026-11-03T14:06:05.341446+00:00",
+      "search_queries": [
+        "\"How to Spot a Shady Contractor\" entry",
+        "spot shady contractor sweepstakes enter official",
+        "spot shady contractor giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "16fe41fe15ec97f6": {
+      "contest_title": "Bed Bath & Beyond's Oldest Coupon Hunt: $100K Prize - Briefs Finance",
+      "original_article": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWVVodVMtNUJ2Z19NSnlCNDhIUFF2MU1UdjNCQlZweWVyUXA0ODRuYmdVT1ZZandITlByYXdzb3RjQ3FWbTZhYm9MTnRQZVNETGttT2FIYXZRT29ZbFM3ZEVjWFNtTlJFZk4tczRSbC1GVllYb3pBVnphTHpfbjlHR25VUk9KNFJmUkRKZWZfSlEwNFkycGJRSTdZYXczOE9oR2Q3Sm15ejQxZUU?oc=5",
+      "looked_up_at": "2026-11-03T14:06:05.340065+00:00",
+      "search_queries": [
+        "\"Bed Bath & Beyond's Oldest Coupon Hunt   100K Prize\" entry",
+        "bath beyond oldest coupon hunt 100k prize sweepstakes enter official",
+        "bath beyond oldest coupon hunt 100k prize giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "388ef78f1e9da05f": {
+      "contest_title": "Morning Business Report: Holiday travel expected to reach record levels as Independence Day approaches - 41NBC News",
+      "original_article": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTFZ2TDlNTkhqNEpEVjBrSUtZUEI3bXlKbi15VVh6dk1xclhRZDJKbnlsUkxUQW1ud3hVV2dmdDZXUnZSbzgtREdYbC1rcXB3c2xTNVBNaWo5dWptVExWWUE0WXhkTVBVM2hsSlBQQS1oU1o0aG41SXNiS3M5QUNOSzVnbjdpNFpNYmVBc25iX3c2S1dBb2tjTmpQRjN6NmdEY1Q3M0xvZnhSWkdiUVc5MjhIYzRWYW1hWUlOWk5keXhmQQ?oc=5",
+      "looked_up_at": "2026-11-03T14:06:05.463805+00:00",
+      "search_queries": [
+        "\"Morning Business Report  Holiday travel expected to reach record levels as Independence Day approaches\" entry",
+        "morning business report holiday travel expected reach sweepstakes enter official",
+        "morning business report holiday travel expected reach giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "4fc93c6330c6e78e": {
+      "contest_title": "People and Property: Real Estate and Construction News From Around NH - NH Business Review",
+      "original_article": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOM2dGWXVBRjloVmNIZHkyQ3piaW14Q1d3ck9IaXoycElieWIxd1I5RzVOQjl5VWFyUHhhMy02VHB4R3l1aVE5MGQ1YjVmMG9KNm5VbFR3ZWtEc09KX1dFbDZYWHpoenFIS3ZtZ09lZWhyZWNXYjh3Um16RFZac0d6UlpsU3BILVliNVV3Tk5DR1QzVzJ3UXZmQg?oc=5",
+      "looked_up_at": "2026-11-03T14:06:05.471640+00:00",
+      "search_queries": [
+        "\"People and Property  Real Estate and Construction News From Around NH\" entry",
+        "people property real estate construction news around sweepstakes enter official",
+        "people property real estate construction news around giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "13a97d7fc58b567a": {
+      "contest_title": "HGTV’s 2026 Dream Home Is Furnished with Tons of Wayfair Finds — Shop the Exact Pieces from $17 - People.com",
+      "original_article": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9kVlptZnhpRGhwWU8xbUdrWmZwYkZaOU9OUVJycW5TMUsxTVpINVdkcExDUW9oOXd6YWlqanJ2SDd1MnpVM2h6WEZ6c1NIbVdrRHRvYnNyR1F2VDBFWWhzMHE3UXRBX3UwRmVjQ3hVM0xuYi1C?oc=5",
+      "looked_up_at": "2026-11-03T14:06:05.513905+00:00",
+      "search_queries": [
+        "\"HGTV s 2026 Dream Home Is Furnished with Tons of Wayfair Finds   Shop the Exact Pieces from  17\" entry",
+        "hgtv dream home furnished tons wayfair finds sweepstakes enter official",
+        "hgtv dream home furnished tons wayfair finds giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "4e09dfa5cce674c7": {
+      "contest_title": "You Could Win a $250,000 Home Makeover From the Property Brothers - Business Insider",
+      "original_article": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYXVhY05GbG5IRE9vWHBrOEZNLXpRZG10anJ5eDRyd0g1LVJOODVTUTdBbHQ4UlphX01KeFJtT2NnYzYxcU1VLWtNbU9DUEFuX1dGdjNBMDMyRHpTNDB4VlFudmM5LU1tcEJQdmZBQ21aTF9nbU0zRGY5aUN1d3JXNXV1ODQwWE9h?oc=5",
+      "looked_up_at": "2026-11-03T14:06:05.620623+00:00",
+      "search_queries": [
+        "\"You Could Win a  250 000 Home Makeover From the Property Brothers\" entry",
+        "could home makeover property brothers sweepstakes enter official",
+        "could home makeover property brothers giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "c8ee1bcd4e27b309": {
+      "contest_title": "SUNS LEGACY PARTNERS LLC. TEAM UP WITH REAL ESTATE TECH LEADER OPENDOOR - NBA.com",
+      "original_article": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSThidU1nRF9xMUFqaFMxUWtQMEVRaDZaMVRaRTQ3dVVlM1RVa0tETDh0Rmhhb2VwZVZMb1RxalJ1UDRTQlpUUUczQnFvSlhiZHU0d2J0ZWk1WTRscTh5c0JHb0tuUWxHQ2c4ZnotbGVmcURObTZNNTVUOHk4YWtIN2ZmcS1kVnRTckFzV0ZneWE?oc=5",
+      "looked_up_at": "2026-11-03T14:06:05.863534+00:00",
+      "search_queries": [
+        "\"SUNS LEGACY PARTNERS LLC  TEAM UP WITH REAL ESTATE TECH LEADER OPENDOOR\" entry",
+        "suns legacy partners team real estate tech sweepstakes enter official",
+        "suns legacy partners team real estate tech giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "0679eb74e3e9fc5d": {
+      "contest_title": "Dublin woman wins $10,000 second-place prize in Gannett Ultimate Home Makeover Sweepstakes - The Columbus Dispatch",
+      "original_article": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZGNFV0dfM3JSc1IyNWxlODMzc1hHc1l1R19YVTNad3B3RE1ERkZ5SlA5UlctS1RJY0p3ZEZVcU5zamJWS194SXREVnFNQmRUcHNPZFpFUUt3NEF5TVNMRVJGM2RBWEhjbEFUeDJEangtTEZSZHkwd1VnaDFUem1SSjNJQkhsaFVDejI3dFFzU1RqUjJXb2NWSU9vSzE2Z1lfLWxSSTZkY3lYWWtwb1BGUXF6cXgyTTBJX0w1eUx0Qk0wZzA?oc=5",
+      "looked_up_at": "2026-11-03T14:06:05.610250+00:00",
+      "search_queries": [
+        "\"Dublin woman wins  10 000 second-place prize in Gannett Ultimate Home Makeover Sweepstakes\" entry",
+        "dublin woman wins second place prize gannett sweepstakes enter official",
+        "dublin woman wins second place prize gannett giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "0e6a78972d58683d": {
+      "contest_title": "COSI After Dark, Winter Ice Festival, symphony among 10 things to do - The Columbus Dispatch",
+      "original_article": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQR3JhV0dxQ0hDYWNSSkpNYmxETk91REczZGRCMmFFN2ZKWjU2WHJVbnhZVkpLNy04SDJ1YjEtY29qMWlQTUI1ZElyVGVjaXh2ZDdISFFCbE55blQydnlqMThua2lWa0RoWE5JOE1xNnZUM3dRazFFYnZYM0N6bEpCM0Z4QUVCNTdLUFl6UGp3NXBQRXRlTTlpb2JFZlVEeVpxbDRuWnlpa0VjNlZpSExUSnNsaFZyZ2NyZzIwZFoxb2JJOTZIV2RTbHQ4djJnVHFwbTlFMQ?oc=5",
+      "looked_up_at": "2026-11-03T14:06:05.651739+00:00",
+      "search_queries": [
+        "\"COSI After Dark  Winter Ice Festival  symphony among 10 things to do\" entry",
+        "cosi after dark winter festival symphony among sweepstakes enter official",
+        "cosi after dark winter festival symphony among giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "21eece8e05fc2f44": {
+      "contest_title": "Ugliest House in America - HGTV",
+      "original_article": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBrdFdIdnFjNWtNaUN4R00xLXZFRXlLUmdaUDVvVzFyakdYNTVQclUzQVVEUl9KZFdmWlpwa3lfSE5fOG5TM0hoUlI0NGJLS2I5TU5KdG55VDhRTDRWUkczQg?oc=5",
+      "looked_up_at": "2026-11-03T14:06:05.686334+00:00",
+      "search_queries": [
+        "\"Ugliest House in America\" entry",
+        "ugliest house america sweepstakes enter official",
+        "ugliest house america giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "e3c275287b936b43": {
+      "contest_title": "Ty Pennington brings Merry Makeover joy to Lorain family: Full House - Cleveland.com",
+      "original_article": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSlk5MnNhYUstSXppQVVPNDVJTlZMcHRDc2FEZTNTaXpDb0NFMlhsRWZOa1JiRGFIMl9fSE9wbTdqY1c1c3RRU0JHVE5PTmMyM1I4X2w5MDhhbGhpaWRCNDNROXJKX3ZKZjRWS2U3ZGNYY1drVHhwM1daMTJuVko3NkdvczF5QQ?oc=5",
+      "looked_up_at": "2026-11-03T14:06:05.631067+00:00",
+      "search_queries": [
+        "\"Ty Pennington brings Merry Makeover joy to Lorain family  Full House\" entry",
+        "pennington brings merry makeover lorain family full sweepstakes enter official",
+        "pennington brings merry makeover lorain family full giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "a5d4ee35f92a14b2": {
+      "contest_title": "Whitecaps Launch Florida Vacation Giveaway as Part of Michigan Snowbirds Night - MLB.com",
+      "original_article": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSzNNbGtSU0d5OE9ZU1dwZ1AxSEYwWVgzSERkLXRQRHZEZjlyXzNqeTQ4ODVFZFJsQ250UGNnMjJsbjNkU1d6R0NlR3dONE5VRmxyYzk2SEdMOExaQV9Qd1pLRzllT0pkQkt2NkZnLVJualBrQ2s3U3I1MVJKdEpmb280aEU5b1paS2RMZU1wN055cVFMTE53d2EzRFhlUFZSM1RZQV9ZU0hYMzE0VjNwZk1rd2hJY0RSVnJlNEdlWQ?oc=5",
+      "looked_up_at": "2026-11-03T14:06:05.636861+00:00",
+      "search_queries": [
+        "\"Whitecaps Launch Florida Vacation Giveaway as Part of Michigan Snowbirds Night\" entry",
+        "whitecaps launch florida vacation part michigan snowbirds sweepstakes enter official",
+        "whitecaps launch florida vacation part michigan snowbirds giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "2cc44f2ecfd59031": {
+      "contest_title": "Enter to win a family four-pack of Moody Gardens tickets - 12newsnow.com",
+      "original_article": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdDQ5dEJZd0pVakg5TnlJdWFoTFF6RmlwLXpRX1B4RFEtVlBaT0JYSGlmNUJrcnN1UUxtRGpJUnpZUm9PTHE5QUszYkFuYXBBTWd3cG1yRUZQY1pZd1A5b241TFh3cmhod3RIMkdGWkwxUGk5WVVXRkZXV19xcmxxTkxCcUZDcThRemRYRzRjNHVSNFRGMnl3eXVzT3hsZlIwaVFQWVc2d0dkbmVzNEI2aXVJeGI1dEJoZVY5WkxWeExEaUhtTGhwWnk2RjcxMGNidHhZ?oc=5",
+      "looked_up_at": "2026-11-03T14:06:05.735070+00:00",
+      "search_queries": [
+        "\"Enter to win a family four-pack of Moody Gardens tickets\" entry",
+        "family four pack moody gardens tickets sweepstakes enter official",
+        "family four pack moody gardens tickets giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "8e89e46b96e5488e": {
+      "contest_title": "Whitecaps launch Florida vacation giveaway ahead of Snowbirds game - MLive.com",
+      "original_article": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaDZMMVZYZ2Z6bGRrX3ZxTUt1QjlWSHJLaFRPdXZSWU1XV3lXc1B5cUNhTVhXWVdMS3ZiUFBLYnVHc3lBZ0o0RU0xMUEzRmh3Um9ROHBsRmUxLUd0dkRZMDFBcHNERTFjZDhacjBRSzJZcDhtQmJzVE5aLWlXelowczRPQVM4eW1NTEZ1VDFpcWFqYmlFYVlpby04NW4xUjlNaG5KNC1hMW5zaHMzdXpPd0dadmhxLU9ScjA0?oc=5",
+      "looked_up_at": "2026-11-03T14:06:05.668691+00:00",
+      "search_queries": [
+        "\"Whitecaps launch Florida vacation giveaway ahead of Snowbirds game\" entry",
+        "whitecaps launch florida vacation ahead snowbirds game sweepstakes enter official",
+        "whitecaps launch florida vacation ahead snowbirds game giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "8693498da14959a9": {
+      "contest_title": "One Family Will Win a Walt Disney World Vacation — Why Not Yours? - Macaroni KID Erie",
+      "original_article": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOS3hlcklKRmZoak1IWjlGV2pPc1lqM19FY0E1QUFqT0lIaGh5UkRITV85UjhyTWx2YVpKOEpoVlpQQ2JoamhxMVNCNGY5Z19jUlFSOElNajlqMGVHUXh0N2FHOVJwMmMzeGNzOEdJNE5uRS14Qi00aUlnNDZKN0c4c05oRVNfNEVLRWpXb2VEODU2cW1vQUU4d0NnRTBvV0JuOVMtZHd1dHk4bWMyMFhwRGJ4amw2NWZRUUhDZmtQQTZkQTA?oc=5",
+      "looked_up_at": "2026-11-03T14:06:05.876137+00:00",
+      "search_queries": [
+        "\"One Family Will Win a Walt Disney World Vacation   Why Not Yours \" entry",
+        "family will walt disney world vacation yours sweepstakes enter official",
+        "family will walt disney world vacation yours giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "5abfcdfbaa4f3b05": {
+      "contest_title": "Krystalpalooza Is Here: Daily Deals, Instant-Win Scratch-Offs and an All-Expenses-Paid Vacation Are on the Menu This Summer - Franchising.com",
+      "original_article": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUmp3Y0pwYVl4UDJVVEdnM05RM1J6X2ZMemZrdFlwRFVHeVk2TTM4TTdSYUVpbjhvS2lVdWg0bDA5Wm1Ea1hueFlqcGtrWHA0NUtEVTR2Q0FWcXFpc3dBZWZFQXRtR2VjYXJzbGluaEoyaV9ERFU2a3dIdjNyQVNpc2lpdmNRM2NRWmFoVFRIdVhhbDVhOEliR1dHeXhoQUtqbF9lODZVOWFCOU04Qk9CblJ4c0ZMdjlVZXVaWmdoRdIBxAFBVV95cUxPam9UYk4yQ3BUWkRnX3A0d096dERlLUxkQzlYbkVwc3lQNVktSGZUeTNrMjZZN1BNU1pHaUtaam9id2RQSzdQMlhPUERzVVZPUXhPVFVzTXF6Sk5aN1k2ZXF5ZlVHcEl0dUNKRllQQ3JvT2ZBalQ5UzVjZ2lwREo0bVhSQzFxTWdYX2E1V2pldkN0dDJBWDYtNzkxb21JaVJiM3dadHI2VVR6OE5Dd2lOU3hBVGl0aEZsQXNfR2thVHVxc2h5?oc=5",
+      "looked_up_at": "2026-11-03T14:06:05.742371+00:00",
+      "search_queries": [
+        "\"Krystalpalooza Is Here  Daily Deals  Instant-Win Scratch-Offs and an All-Expenses-Paid Vacation Are on the Men\" entry",
+        "krystalpalooza here daily deals instant scratch offs sweepstakes enter official",
+        "krystalpalooza here daily deals instant scratch offs giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "8c32c51a8edfee4d": {
+      "contest_title": "Our Blood Institute and Dream Vacations team up for blood drive with vacation giveaway - KSWO 7News",
+      "original_article": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbklFUGxSdGY3dzhFUlhKRkRnQk5RTzgyNnNsSXZDZDJRNldvZk4xcW9lMWEyX1IwcE1yTzdXaXpNelJjaW5FWmlPVTBNNHBjYlZ4eFJpejlLQ0wybEx3RjVmV2dQcU5KNXpNcXB6Nks5dnpnNnNFSzM2THpKWE14S2xRUThjc2M1ajJuQkZvV19QeUh3N0FMeUI2OEVXMnJFQWJyWUlQck9YQjFnQXB1ONIBxAFBVV95cUxNY1poUVViZzlJcTJONnMxSTR1X2tMUHNvSjF6ZzYzYk5XY1puVHRGcUdEMTFlb2tNQmhOMGxhTWFNdGFESlNtVGNpRm5FazBXOFc5YjFsY3BKcDdUTUdkN1VlbkY4SWUyemdsemZ4NEEwZk1MMEpTb3dRSWhRQTEwYWdDV05vUmRRSkY3V3pPVVRjS2VxR0JzSldTMDdGMDVJMVpQeTBiaEJWSUZaNXpOV0hUeXJjS1FUM25NT04wUU90MkVy?oc=5",
+      "looked_up_at": "2026-11-03T14:06:05.875046+00:00",
+      "search_queries": [
+        "\"Our Blood Institute and Dream Vacations team up for blood drive with vacation giveaway\" entry",
+        "blood institute dream vacations team drive vacation sweepstakes enter official",
+        "blood institute dream vacations team drive vacation giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "dd08522af30885e5": {
+      "contest_title": "Finalists announced for 2025-26 ECHL Team Awards presented by SponsorCX - ECHL",
+      "original_article": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORTRaejY2NXhnNDg0Z2NwM2FyY3p0eVlfck55S3pHMVlSM0QwZEMybE1XeHg5eXpQU1VvRU5QY1RZQ09LUzFuVV9IdlUzTFlQWmFWTnNrYnZkcVpjUEpHbDU0VjEzalN5cHNtVGhKV0kzd2hPTmE2aDh2cHdyeGJrMzJBa3U3ZXpJRTVBV2dWRUdsMUU2ejlzaFBXVkxGX2ZpcFk0?oc=5",
+      "looked_up_at": "2026-11-03T14:06:05.934530+00:00",
+      "search_queries": [
+        "\"Finalists announced for 2025-26 ECHL Team Awards presented by SponsorCX\" entry",
+        "finalists announced 2025 echl team awards presented sweepstakes enter official",
+        "finalists announced 2025 echl team awards presented giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "f27a8bd3a03ab3a9": {
+      "contest_title": "Enter the 2024 Gaylord Palms Ultimate Summer Vacation Giveaway - Savannah Magazine",
+      "original_article": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8zQ1R1M3dlLVl4MkE4Z2xYRXZ5YVlmNUplRlNLS04wNV9VQXlqaDFBTVN1dDZrSG8tdjdxTVBobGNjTWhvRVRHbHFQd1dLZ0sycS0tZmUtT2VMazZ6ZnZ6THNEUQ?oc=5",
+      "looked_up_at": "2026-11-03T14:06:06.045099+00:00",
+      "search_queries": [
+        "\"Enter the 2024 Gaylord Palms Ultimate Summer Vacation Giveaway\" entry",
+        "2024 gaylord palms ultimate summer vacation sweepstakes enter official",
+        "2024 gaylord palms ultimate summer vacation giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "ddf84d2a68984a34": {
+      "contest_title": "How to win the ultimate VIP Dollywood vacation. Hint: Look for the hidden butterflies - Knoxville News Sentinel",
+      "original_article": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPWkJnb1hjZGpTUEN4bGk5WjBlUC1lYmVZbHQ1ajI1aC1HV1d6UjR3V1R5U2szYy1UUTdvVUcxOUdMN2JKRzRGWVp3UEVRZ29SbktXSmJCSVJHdHZpUUlzbWhoT3NIMjBSU2YxRWx4M0sxX0xWS1dqYnVMN2JhNUhHMU5RQ0xLd3p3Q05YT1FaNzRsTzMtdzMxQTNvVHBaOVowR01yZ2pIMWk2MU5VLTBzc3AtcDYxQUk0eVA3MEdibWVqZmVGbG9nVWNLSDZGU3Z0cnpsNXZraGRLVGxs?oc=5",
+      "looked_up_at": "2026-11-03T14:06:05.989831+00:00",
+      "search_queries": [
+        "\"How to win the ultimate VIP Dollywood vacation  Hint  Look for the hidden butterflies\" entry",
+        "ultimate dollywood vacation hint look hidden butterflies sweepstakes enter official",
+        "ultimate dollywood vacation hint look hidden butterflies giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "e494253449bae684": {
+      "contest_title": "Composite schedule of 200+ ballpark promotions in Greater Cleveland for 2026 season - Cleveland.com",
+      "original_article": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVTNmQ1lyWEMwM0VIQmJ2N2laTHJtLVVIaW9kbW5uYUNjSjRoRmk0ZEZQMS1RWVpmWFJ1ckpRTUx1QzRDZmJNbWdWcXdybWFKMmdYeXBucm5ra2w2TU1aQnFXZnJaZEQydFhFRllDRlVUd3B6bVpOOFVwdmpiMGtKclBmMDh5OUJPOUhwb2ZOVFFwMWVQRHpfelJBb25NWGd4TTNQQ19tTDZVUU53WDRFZXJDU3h4dUVLRUNJb2dXQ21KVDhpLWFDWkllTjNpcV9f?oc=5",
+      "looked_up_at": "2026-11-03T14:06:05.940085+00:00",
+      "search_queries": [
+        "\"Composite schedule of 200  ballpark promotions in Greater Cleveland for 2026 season\" entry",
+        "composite schedule ballpark promotions greater cleveland season sweepstakes enter official",
+        "composite schedule ballpark promotions greater cleveland season giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "5632f6f5352892a7": {
+      "contest_title": "You Earned a Vacation! Grand Prize Hawaii Escape Awaits Winners of Scooter’s Coffee® Giveaway - Scooter's Coffee",
+      "original_article": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9HaXhVLTExdUlJclgtekZhRFIzSVFiZGoyOXJzRXVVei1pdkd1MTlwY2hMUmt3d2NfZ2x2YmZ6cVJuQlN0UUZBVGNwZDVJZWw3WUk0dWVsbjg1MmxPTTlLQVJ1Rks2Q3VqWVhrVWVhMkJlbXl3d1lxZF9tYw?oc=5",
+      "looked_up_at": "2026-11-03T14:06:05.965791+00:00",
+      "search_queries": [
+        "\"You Earned a Vacation  Grand Prize Hawaii Escape Awaits Winners of Scooter s Coffee  Giveaway\" entry",
+        "earned vacation grand prize hawaii escape awaits sweepstakes enter official",
+        "earned vacation grand prize hawaii escape awaits giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "e8336a68d5eb2528": {
+      "contest_title": "Opal Grand Oceanfront Delray Beach Giveaway - Orlando Magazine",
+      "original_article": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVWhsblJDVGxjZktsUnRPOGN6NUpoYUJxbnVscHp5R0JBTnVOS3E4WjZ3Yk1NN2x3a2xrZU1TMXNXUW5QNmV3M0NEcl9ZOXBZbmVlRGw2V3V3a3dZNDZwdURPVDA2WmliQnRQWlBXVi0zQWM5Y1VBN2hrUk5wcWNwRXZn?oc=5",
+      "looked_up_at": "2026-11-03T14:06:05.999569+00:00",
+      "search_queries": [
+        "\"Opal Grand Oceanfront Delray Beach Giveaway\" entry",
+        "opal grand oceanfront delray beach sweepstakes enter official",
+        "opal grand oceanfront delray beach giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "a83bfd0ad750c744": {
+      "contest_title": "The Planetary Society launches 2026 Sweepstakes - The Planetary Society",
+      "original_article": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZ2NIajdibmZ1dE5odzgwclN2QnlPMTM0RmtxZmFwdUJTUUw2dWRjX1B4eHJuOGFSbnlSbENvdk1NLVgwVmU2VEEzc3NOck1GZHZpUXJtR21HYndvTE54RktKeWtwOTlKUnFUQ2k1VHBrUTBrZmpIQ2pSRDdXTk5ONmQ1U3pjY3pnc3VFTWJpc2E4QQ?oc=5",
+      "looked_up_at": "2026-11-03T14:06:06.008688+00:00",
+      "search_queries": [
+        "\"The Planetary Society launches 2026 Sweepstakes\" entry",
+        "planetary society launches sweepstakes enter official",
+        "planetary society launches giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "11859fc74b54dc20": {
+      "contest_title": "FOX5’s Athletics Dream Ticket Sweepstakes 2026 - FOX5 Vegas",
+      "original_article": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUHZQUlE3Ym9FOG5BNzNYQlhHZlprdmVZTFk1SFJhMXRpY2FRUEVKYlFOY0NURVNneUhuT0pocGJDSWYwcWRkdDNqRzl5Nms3MU5MbUFKOW5JR0JLY2drTlhyUDVSZW1vRlFsaGJzdFVRZnpFS09MaGtGNkI4Ykc0aDA3aw?oc=5",
+      "looked_up_at": "2026-11-03T14:06:06.044616+00:00",
+      "search_queries": [
+        "\"FOX5 s Athletics Dream Ticket Sweepstakes 2026\" entry",
+        "fox5 athletics dream ticket sweepstakes enter official",
+        "fox5 athletics dream ticket giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "43fb0cc44d3c412e": {
+      "contest_title": "Enter to Win A Trip For Two To Country Splash Cabo 2026 - Country Now",
+      "original_article": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcDRZNWczWlZsUnN0Y3hNZ293YlFsWG1jTkxDMW9IdDhNZDNURnVBSmZIeXVaYzdXRlJuTXdEenkxV2FBbnR2akxwb2o5Y0FoYV9qMy1rbUQxeDZrbEsyUHp6dzFHeGUybk1fSXdoLUVQb1BIZ2RqaTBxV2Z0YmNpZjM0LTdRZw?oc=5",
+      "looked_up_at": "2026-11-03T14:06:06.175148+00:00",
+      "search_queries": [
+        "\"Enter to Win A Trip For Two To Country Splash Cabo 2026\" entry",
+        "trip country splash cabo sweepstakes enter official",
+        "trip country splash cabo giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "f1e75811098584a5": {
+      "contest_title": "Disney Celebrates the Power of Fandom with the Return of D23 FANtastic Prizes: The Ultimate Disney Sweepstakes - The Walt Disney Company",
+      "original_article": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRnhPYWRNUmFjZno5MWlZcVEwS3ZmeUtlWVl6dWFybWpuMG1QT2ItRmhxMkx6Q1ZONFpXNmtCZlRJeE5peHhyb2hLR2JSVmlhVmMyR1YwR0FDdGFuSTZaZmZYczhTNlBuMzN6SXllakVCcHFnRS1ReTc0XzFUY1JRQWh3?oc=5",
+      "looked_up_at": "2026-11-03T14:06:06.244025+00:00",
+      "search_queries": [
+        "\"Disney Celebrates the Power of Fandom with the Return of D23 FANtastic Prizes  The Ultimate Disney Sweepstakes\" entry",
+        "disney celebrates power fandom return fantastic prizes sweepstakes enter official",
+        "disney celebrates power fandom return fantastic prizes giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "e08626daa4bff968": {
+      "contest_title": "Rules: New Smyrna Beach May Contest - WFSB",
+      "original_article": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBVbjFvQXVDQ1pjdjZCOU00cU1LWFhaSC1CSElnSllJT0ZMTEZteHZrWjVtMjBsMFRHZF9GbkN1XzVTVU0wbC1zYnBJUFVXTFhMN2FZcGdiTUVsOWx5RDRnWDM4S0c1R0ZXUUlhOTlXeWpXdm5ZdUHSAYoBQVVfeXFMUDdsNFpCVGZIWVhzUmlMQWJRZVptOHNlV1g2ZndBcFFFVXdwbkNaVEdlbDVUMzlGVm85SUFqeDNpMWFrRWNNd2RMNUozTUdUbkRXVVNfVU9ORXg3MW9HbnE3ZXlrMVlNMWdXUVRvVWUyOEs3V0FuUnZzQ3dyZkZTTjU1dzYzWkE1QVFB?oc=5",
+      "looked_up_at": "2026-11-03T14:06:06.160553+00:00",
+      "search_queries": [
+        "\"Rules  New Smyrna Beach May Contest\" entry",
+        "smyrna beach sweepstakes enter official",
+        "smyrna beach giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "237c61879261013a": {
+      "contest_title": "Auto Value launches Hawaii trip sweepstakes for repair shops - autosphere.ca",
+      "original_article": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcmNNaGk0cndOTlVjazlwN2JXdTI0OTloWUJmMlZnanFuZk5LeS01OGhFQktpSVdadHB4N1FPMkRucWl5dUxjZE9acGRSUmswZ1FhbUxOVXZEUGxUQk9UOXRVblhLSURMNHIyTjBjblVyejJhbVplUHFDc1hNcTdRdm5Fb3MxYlp5NnIyMU9oVVJNNlZ4UEFLb2hpN1NTM2MyTzROZTlFUUE?oc=5",
+      "looked_up_at": "2026-11-03T14:06:06.364220+00:00",
+      "search_queries": [
+        "\"Auto Value launches Hawaii trip sweepstakes for repair shops\" entry",
+        "auto value launches hawaii trip repair shops sweepstakes enter official",
+        "auto value launches hawaii trip repair shops giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "84cb9078af7ef17e": {
+      "contest_title": "Meguiar’s 125th anniversary contest awards 2026 SEMA Show trip - Professional Carwashing & Detailing",
+      "original_article": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9rcGlaaG56NUZWQzdQMjVyVFBZd0UwRDBiUWlUZk44WWVJLTFlSWE5X2QwX2dfdFVMUnd2bU0zdG1tUkRlTFg0R1dCRDJyTUgtTEpSclp1VUl3ejRfUVkycw?oc=5",
+      "looked_up_at": "2026-11-03T14:06:06.225092+00:00",
+      "search_queries": [
+        "\"Meguiar s 125th anniversary contest awards 2026 SEMA Show trip\" entry",
+        "meguiar 125th anniversary awards sema show trip sweepstakes enter official",
+        "meguiar 125th anniversary awards sema show trip giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "af534e51fe1a0cf9": {
+      "contest_title": "Disney brings back D23 FANtastic Prizes: The Ultimate Disney Sweepstakes - ABC7 Los Angeles",
+      "original_article": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQM3pEM3ZDN2xIbWlvOGQ2cjdBeEVDd0tCZmVmdFRJYnBydXdmNE9teUg3cTJFZ2VVVVMyN0hRTE9PLVY1TDctQUg5aWJ0czd3MU9Pa2NrZkpMdmx1ckNYczJRRXY2ZXJpWkxQSkdBQk93Qi01b0ZadnFVZEpfOTF5TmRON1lnbm0zcG16M0Z1RkZLYnItYmlj0gGcAUFVX3lxTE5OVTNsa1hHWjdOTG5leVJXTzNjN2RyUmZ0RlBvSGpjb2JaSXhVd1dOT1VyWlBTOUtHUmNxc0dDOW5TVkxDbnFlM0tvX2tXM2VBekxfcXhwNm5ybG9fNTZRQUVIWm9rTHg3dktZNEFvUTcwQzFIblVVX1MyNXh2cmNzZ3BlMEktYXNOMEt6VHJ0RDh0cnV2MkpiZnhKUQ?oc=5",
+      "looked_up_at": "2026-11-03T14:06:06.382869+00:00",
+      "search_queries": [
+        "\"Disney brings back D23 FANtastic Prizes  The Ultimate Disney Sweepstakes\" entry",
+        "disney brings back fantastic prizes ultimate sweepstakes enter official",
+        "disney brings back fantastic prizes ultimate giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "f0fc9ccd92f1f58b": {
+      "contest_title": "D23’s FANtastic Prizes Sweepstakes Is Back With Incredible Disney Experiences - The DIS",
+      "original_article": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZElSTWE2NWFHNGo5eFJhclZXMVBVRlBiUjFUTHc5bC1YcGZJOVM1SlJQZnd6OFlkVWQ5MTNJa2VuRVBERlFMNFFQRVpidEs1STlFWnd2QmlmSk5GdnpRQ2laRVlMdmRmeHZtWE10QXJEcm00QkUyUDVuOV9OVnNCZXUwYlpqcmJRWXd1MkdnLUN6VGFkb25namNlVXVGSzdHS2szYjNHbWw4R2FRbWw2RVJiYUo?oc=5",
+      "looked_up_at": "2026-11-03T14:06:06.310851+00:00",
+      "search_queries": [
+        "\"D23 s FANtastic Prizes Sweepstakes Is Back With Incredible Disney Experiences\" entry",
+        "fantastic prizes back incredible disney experiences sweepstakes enter official",
+        "fantastic prizes back incredible disney experiences giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "1cd17cdf0b991f9c": {
+      "contest_title": "Meguiar's 125th Anniversary Contest Offers Trip to 2026 SEMA Show | THE SHOP - THE SHOP",
+      "original_article": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQU3A1ZlVLY3FlNEdiRk4xVzU0cGs5cUJGblJBa09iQTVjQjVXd3lxajNvTDloU1NsVllHaWZMWE5lcDUwWTlTalhIMk1CZzJRS1VUaWFDcy04ZnZwbExTaU9JdkRBa1FRVFY5RHVVcWVKSHh3SUhpSmkxU2ZfWV9sQ3E4TTPSAYwBQVVfeXFMUDJIRGtlb1lEMTk4aFhfX3lyNktJODZWcTR3ZXNURmZXSnFPaUFybWNVWHJHdFlHMTE2WURaV09DY1hvTTBxZ2hhMENCN0p3RllVTTdNdmx0MjdtaEpGYTRzejdrZmo2Q2VJQjBrWFZDNVRiQ0FBSzVJTkpXT0RfVFg4eENxOTJoWmJjeG8?oc=5",
+      "looked_up_at": "2026-11-03T14:06:06.337768+00:00",
+      "search_queries": [
+        "\"Meguiar's 125th Anniversary Contest Offers Trip to 2026 SEMA Show\" entry",
+        "meguiar 125th anniversary offers trip sema show sweepstakes enter official",
+        "meguiar 125th anniversary offers trip sema show giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "0924dfdf8812c217": {
+      "contest_title": "Enter the FOX13 iHeartRadio Music Awards: 'I Love LA Sweepstakes' - FOX13 Memphis",
+      "original_article": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMl9RQ1J6bmhVWjZ4RjZZUmFjM1pDZ041Qi1pai1seWVmUk1JR1MwbWNrbVY0OENkV3NFV3dSb3hQNnNJeTVDNWw5akhib2Z0TWF0RTQyQmdTQ1FvbUx3d2NZTXVfTDZ3UzRnYnEyd0pud19tQ0FCUE5KZkxodUIzcDlCc2txLXdHVHJwSTBrZ092UXpXOEFSeXA0RzM1TUhWOHZ1VDR3TDIwRjBUYk1POG5tRTdKeUF0bUZrTVgwZnN0UTZTcXhMT1RyZks5UFZJMVZLU3piV3IzRDhOWVpXWWRVaWE?oc=5",
+      "looked_up_at": "2026-11-03T14:06:06.509669+00:00",
+      "search_queries": [
+        "\"Enter the FOX13 iHeartRadio Music Awards  'I Love LA Sweepstakes'\" entry",
+        "fox13 iheartradio music awards love sweepstakes enter official",
+        "fox13 iheartradio music awards love giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "b2dda334a99e982f": {
+      "contest_title": "Aloha Around the World Sweepstakes with Hawaiian Airlines - Alaska Airlines",
+      "original_article": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbU9tTjZqZVdWdWhpM2UzbEdESllYLXhTWW55cmNpY2FCazkzcjJFX0hNTFFGaVhsVTdiN0RuU2IwVmZJc1cyazY3RDB1X2VQYWVkWS03OFBDRkx4SnhUTkJZbXJlUFBiTmd5M1lMT2tpT0RXdHdKWmh0UG5pOUJFUVdhYnU5UUJv?oc=5",
+      "looked_up_at": "2026-11-03T14:06:06.311815+00:00",
+      "search_queries": [
+        "\"Aloha Around the World Sweepstakes with Hawaiian Airlines\" entry",
+        "aloha around world hawaiian airlines sweepstakes enter official",
+        "aloha around world hawaiian airlines giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "10e0f6556434ff7c": {
+      "contest_title": "Contest: Win a trip for two to the iHeartRadio Music Awards in LA! - Action News Jax",
+      "original_article": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdzhwUjRSVXAzSG1QaVZQdEU0bWNIZW1UVmN3dktQMXUtWk8wQ0g3NnBPWmdkM0FyX1EtUV8xOTlUVWs1Z2FkRUZpOWZRY1g3RzFJdnJkenprbXJMUXB6VFJ5eVdlTzdCWW1MdU93R0s1RElLWU50YUY0eHFoS0xKTG1KVF9SUnZTaElXU1kwZEdQWDlwbUZBR1NoQUR0bl9JWkpSMzdEVFg1ZzlIR2s2WjdjakZXQdIBygFBVV95cUxOQUZ4aXdhck1CcXI0bnB3YnJHV1ROZEN1X2VKWmNlS2N2b19KSGFhNmJTbmEyRW9ySHlKRmhQNmZzME5MOEdPUGV3Y3VVT29USE1rNUs0dVl5XzFmUm5jbVVkYUQtVUl2UzdIa2JGUlhrNi1iYWIxTzhycm5BTldfZUt6ejUzYUpOU3YtczRCU0Q1cTVVUk5YSEtlTVJkQ0FoV0EtU0UwYXFjenZVWkRvRmhKUFNULTk5cGhVVldQV3pNNC1XREx5V013?oc=5",
+      "looked_up_at": "2026-11-03T14:06:06.334871+00:00",
+      "search_queries": [
+        "\"Contest  Win a trip for two to the iHeartRadio Music Awards in LA \" entry",
+        "trip iheartradio music awards sweepstakes enter official",
+        "trip iheartradio music awards giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "fdcae1fa19f62d9d": {
+      "contest_title": "Avengers: Doomsday Premiere Tickets Up For Grabs In Marvel Contest Of Champions - Cosmic Book News",
+      "original_article": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1VSHRXMXFvTVdkNDIwWHNISldMbkFhZ1doZ1FSQjUybDJCTDg4U2VhbkJLTjB1cWQ2VG9nNjJWMXgtQWo5clZQd1c3bWFtcGZveW9nUDUxUjNnVVpLQWRoZ2U2QQ?oc=5",
+      "looked_up_at": "2026-11-03T14:06:06.350558+00:00",
+      "search_queries": [
+        "\"Avengers  Doomsday Premiere Tickets Up For Grabs In Marvel Contest Of Champions\" entry",
+        "avengers doomsday premiere tickets grabs marvel champions sweepstakes enter official",
+        "avengers doomsday premiere tickets grabs marvel champions giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "8320f9b08b10ab60": {
+      "contest_title": "Barilla Canada Celebrates Italian Heritage Month and F1 Partnership with 'Pastaport' Contest Return — LBB - LBB - Little Black Book",
+      "original_article": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMkRLaXZ1N3lXVnQzcXc2UWpNd29ZVDkxcmpYVzFTcWdBb0k0OEc0NGpYSFRiNDhvSHVZUFpJeEgtd21CbFdVbTI2ZkhUbWV2VmYzbHVVQkRuRmh3Rk9BQUZrLUdZOWlTOXRmMUw3LUhUWUh4Z3ZKT042QzhnNkZQUEZobFNhZWhDVUNfei1B?oc=5",
+      "looked_up_at": "2026-11-03T14:06:06.526173+00:00",
+      "search_queries": [
+        "\"Barilla Canada Celebrates Italian Heritage Month and F1 Partnership with 'Pastaport' Contest Return   LBB\" entry",
+        "barilla canada celebrates italian heritage month partnership sweepstakes enter official",
+        "barilla canada celebrates italian heritage month partnership giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "f45794cd00589462": {
+      "contest_title": "Win a Running or Cycling Trip to Australia, Argentina, or Japan With CLIF Bar - TravelPirates",
+      "original_article": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPckpySmp4Q1djbVNDclFaWGJORi1uRUU1V3NaaUlDSkEyTnNBTm91S2pXZ1lCaFJUdFJyVFVSOVlLRHRHWjVUQUozb3BubEI4MF9ZT0JfX3hBQldwNU83UG42Tk5mNnhJZUlLS2MtQnd6SHdiU3cwNkgxNTdERDVWc0QweTF1MXR5Zmc?oc=5",
+      "looked_up_at": "2026-11-03T14:06:06.685200+00:00",
+      "search_queries": [
+        "\"Win a Running or Cycling Trip to Australia  Argentina  or Japan With CLIF Bar\" entry",
+        "running cycling trip australia argentina japan clif sweepstakes enter official",
+        "running cycling trip australia argentina japan clif giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "5da542ff036b07a4": {
+      "contest_title": "You Could Win a Trip to WrestleMania 42 By Entering a New Disney+ Perks Sweepstakes - LaughingPlace.com",
+      "original_article": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQOHBEdmNWckZ4LWlwd2FSVlRpZlg1SnpMUEpTSXpzOHVreTV5S2tMbXdTcXA1VTMtczVJbmsydmRHVC11d2oxMTJPTTJiTUJReU5sR0Z2MmI3MlFZQkZqNks2UjhzcW51c2xJRjNBT0xlbDNUMTkxXzRyZ2pwbElCNkZkNkx2RlpSV3ptNG9RSEpsdDJ5?oc=5",
+      "looked_up_at": "2026-11-03T14:06:06.597586+00:00",
+      "search_queries": [
+        "\"You Could Win a Trip to WrestleMania 42 By Entering a New Disney  Perks Sweepstakes\" entry",
+        "could trip wrestlemania entering disney perks sweepstakes enter official",
+        "could trip wrestlemania entering disney perks giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "8dc50dd5b81a3948": {
+      "contest_title": "New contest from VisitBritain, WestJet and RIT offers up prize trip for two to Scotland - Travelweek",
+      "original_article": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeUZhVFZ3bC1BTFozdjVDR25LOFNfVVpJdExPaHRYbFBXckpoamEyZl9od0EySFpzTG9jM0RRdnRYVGhMTjVRMHBUdE1JcDQtbHFwZG5FYVZCZzNZRE5qN1RBMmRhcTVkNzVFeFAxc2hLVWlzaDJnZlRTNHpka1FMWEQ2ZWRyUm9nWkVHUFBoc0VYMFpheUI0UU90eXd4dVVTalR3NWRhbUxScWpCc3hzMHMxd3NnakdzTTVCQjJ0YmVVdw?oc=5",
+      "looked_up_at": "2026-11-03T14:06:06.545141+00:00",
+      "search_queries": [
+        "\"New contest from VisitBritain  WestJet and RIT offers up prize trip for two to Scotland\" entry",
+        "visitbritain westjet offers prize trip scotland sweepstakes enter official",
+        "visitbritain westjet offers prize trip scotland giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "48c563c5d3b871c9": {
+      "contest_title": "Rep Your Side Sweepstakes: Enter to Win 2026 WC Soccer Final Tickets - PrizePicks",
+      "original_article": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTW1mb3RMU2ZBSW5ZWm82dElCZjNjMkxUX3phOXBLX2dlRnk4WlEwQWI1dDZpQ1BUMkVFdjlWbzNxTFhweVJwSDRvbmkzQ01EdEd6MTJTNGZTdXBTS2h3bk82RjBPa1ctZGtHMGhvMWJUSVljQnI5R0lybDFBZ21kZmFoTDNTWmtwSkc5Z2lsbFlqNUlJWmJXTC1uallvUnBweHNpag?oc=5",
+      "looked_up_at": "2026-11-03T14:06:06.647254+00:00",
+      "search_queries": [
+        "\"Rep Your Side Sweepstakes  Enter to Win 2026 WC Soccer Final Tickets\" entry",
+        "your side soccer final tickets sweepstakes enter official",
+        "your side soccer final tickets giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "06b1527104c9d542": {
+      "contest_title": "PrizePicks NBA Playoffs Sweepstakes: Do It Live, Win a Trip to the Finals - PrizePicks",
+      "original_article": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcnVuV3JsRWdMSkRUNjBNWi01WmlrWnppZ0hwaXRwZUxVY2NEdUh2SGtrY01LRGk4QnVic2NpVzByNWdVOVVOaUk4SG05d3hZcFVfV1VHQWlabmhvTTBBTjAzblZyOXlrRGV5OFlZMnF5VWxiVHM4VEFGOE1yZklRNW9ZVEkyVjhTNG5mLXBOMk81OUw1YzhDY2dIMmRvMURlUU84UTIxdi1wajY1dFZxTE9Sc2g?oc=5",
+      "looked_up_at": "2026-11-03T14:06:06.615569+00:00",
+      "search_queries": [
+        "\"PrizePicks NBA Playoffs Sweepstakes  Do It Live  Win a Trip to the Finals\" entry",
+        "prizepicks playoffs live trip finals sweepstakes enter official",
+        "prizepicks playoffs live trip finals giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "d5d3f5bd6c4f9923": {
+      "contest_title": "KUER's \"Win A Trip To Tiny Desk\" Official Rules - NPR Utah | KUER",
+      "original_article": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQU1ROd05RNXBqaF8wRWd6UlVQeE5XUXlvN205eWF1dFRSdFQ2M3FKVmpXMXZfcVItRVN4TEYtREVUZ3BlYmgyWEdOR3JnMnlYdjl0WTI0Y1R3UTY5N3lsaEc2Vjc0bXdqWk42eURNNVBHX1BTUE9iNmRXakQ3bVc0cl82QTBtQnFVMTEtUnZ3Yw?oc=5",
+      "looked_up_at": "2026-11-03T14:06:06.617885+00:00",
+      "search_queries": [
+        "\"KUER's  Win A Trip To Tiny Desk  Official Rules\" entry",
+        "kuer trip tiny desk sweepstakes enter official",
+        "kuer trip tiny desk giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "f99be75206b0804e": {
+      "contest_title": "WNBA All-Star Voting 2026 Presented by Ally Tips Off Thursday, June 11 - WNBA",
+      "original_article": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1obU5uRXVicE1mal9yeXYxbVU0Wll4clp0bTE1TFBnTFZmbTR6UEluNWZJUVJ3WVU2V3c1UDVLNWJkeHBseElqVWZwYXlVUUhMdWdXWnYwSF9ySk1jQXRDRA?oc=5",
+      "looked_up_at": "2026-11-03T14:06:06.667524+00:00",
+      "search_queries": [
+        "\"WNBA All-Star Voting 2026 Presented by Ally Tips Off Thursday  June 11\" entry",
+        "wnba star voting presented ally tips thursday sweepstakes enter official",
+        "wnba star voting presented ally tips thursday giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "e574ffcbcfcad3c5": {
+      "contest_title": "Chase Elliott’s 2026 Desi9n to Drive scheme for EchoPark Speedway unveiled - NASCAR.com",
+      "original_article": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZEw1TmZQLXpyTHpGdmkydEVSWnVacHltVlBhQWJvWGVQUVRrWDB6OC1mdEtlX3QzdzREQVlxWUlaajlWVEhHTWtpbktyQjJubkhGMGhjbWlnRVRWczloek82cVQ2eFZjM1dlc1puZU5WbzZJeFdrUTAwZ1ZXU1lXR04wN0hnQWxZbmhLMlhRMWRtV3Y3eFNHVVgteHZ5SjZZb1FVMTNTTEtLTUx3NnozNjJQU3hVV21PR0Z30gHAAUFVX3lxTE5aR2cxYmpUX3h2UGwteTRCSk1hRjB1emFTcE5rVXJwSlFhYkl3Rlp4RlVmZ296cHc4S2FoRUVVbmZ0V3F0bHRjc05hbklVSGcxaGwwaVNQaW5UcjZlNGgyNlVaSjAtRTRnLTFHR3RaTHl2TzU0MXlJSENNb2VwUHdXSlgtSjJmVWxZZmNGZV8xM1lMR05DYmt6R1ZrYXdQbTR4WmUzWWh5UzEycEc2YmZ4eEQxQjB3LUZ4QVNWcWJVOQ?oc=5",
+      "looked_up_at": "2026-11-03T14:06:06.685639+00:00",
+      "search_queries": [
+        "\"Chase Elliott s 2026 Desi9n to Drive scheme for EchoPark Speedway unveiled\" entry",
+        "chase elliott desi9n drive scheme echopark speedway sweepstakes enter official",
+        "chase elliott desi9n drive scheme echopark speedway giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "fe73bfc9a74a2c2e": {
+      "contest_title": "NBA ID 2K Challenge 2026 - NBA.com",
+      "original_article": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBtVHJoTkVUS0oyTmtMWWhrRUNKZzN4UUZHbXJZa1k4OFFDOF9laDNCa2lJalhpczFBSHJvaGUzUXQwUE1aZU5hM3lucmdXcUFhQnlQQmFuRGlUUFdGd2o4ZnNFMjFVN1E?oc=5",
+      "status": "insufficient_title"
+    },
+    "77db55df3123a9b8": {
+      "contest_title": "We Want to Send You to the Final Four® - Uber",
+      "original_article": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNY1poYVV3dkJJSzlDUnoxbE5NNkN2R1FYdFpHZnN1eXRDSGdkLXlIS3FuclE2TFA2ZGthNDZNS0l3bDk0WHNRRTdGVjAyVHVzNFpBT1hQbkRfNmtXYjF4VDJ6d2VDNk5nanJYb0pydnR2TGhRdVE4TGozWEdnUGc?oc=5",
+      "looked_up_at": "2026-11-03T14:06:06.684058+00:00",
+      "search_queries": [
+        "\"We Want to Send You to the Final Four \" entry",
+        "want send final four sweepstakes enter official",
+        "want send final four giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "15948b910208e155": {
+      "contest_title": "Want to See Avengers: Doomsday Before Anyone Else? Disney+ Is Giving Away a Premiere Trip - The Main Street Mouse",
+      "original_article": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUXBYeGM1Rmt3RjNTRTJiUkFxTHNrR19PTHJMYkRPaTF6NU53MDN4LUdJZWFua3BpQ1N0MFMyc2E2TUdKVlZtdlVNWTZpSmlFeUxzQTFzeUZvMmRYZzBZcHVIQ0g0RTF5cXVnZlRCYXFuckFxRjJ0Qldwb3Q0dXJmNXRWY2w4cWRFTHN5TWZIWFY4eHZURkVfVnN5bVNkWEMybW5pN1VHRjU?oc=5",
+      "looked_up_at": "2026-11-03T14:06:06.788814+00:00",
+      "search_queries": [
+        "\"Want to See Avengers  Doomsday Before Anyone Else  Disney  Is Giving Away a Premiere Trip\" entry",
+        "want avengers doomsday before anyone else disney sweepstakes enter official",
+        "want avengers doomsday before anyone else disney giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "2dc57942c12e6045": {
+      "contest_title": "Verizon is giving away FIFA World Cup tickets. Here's how to enter the giveaway - NBC 5 Dallas-Fort Worth",
+      "original_article": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNTRXd1l1d2JwYUpPbXdqTm5HbXdhMW1WczBOTEN0eFlpY3VuSHdhakpNUEUzWUt4R19VT2pHYjZyeXhWS1luaUNzQTFZd21ObkZLLTk2emR6VDRXUXRwMDVsVHZxTE5ZX2RiTVVxSFA4azFiZzh5VE14dlh4YTFMM190OXYtZ2ZSSEMtRVpoRkk3UU52UXp1UVdWVTZTWGhHS19Cd0hteHjSAbABQVVfeXFMTWIxM0txczlSQXVza29KRDRXeXNTd3pjbzZIeHpPTzJ5SE9FY0w1V2pDTFlnc3dpalZBN29ySG03SFU3aHNYOXJQYi1RRnFMWnRkbDcwZjBDdmF3S1JMREs2dTR0VDRjWXM1UDRRUnNTeERiRGxzd3V4R2lfSk5iM0dJZEhXQUJZbm41SlJwNkoydHRTOHhVQVlLSm0tdTlwVF82SlhDLXYwZHZrS3lKWEk?oc=5",
+      "looked_up_at": "2026-11-03T14:06:06.884500+00:00",
+      "search_queries": [
+        "\"Verizon is giving away FIFA World Cup tickets  Here's how to enter the giveaway\" entry",
+        "verizon giving away fifa world tickets here sweepstakes enter official",
+        "verizon giving away fifa world tickets here giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "d86907a29d7beea0": {
+      "contest_title": "Win a trip to SVG & VIP NASCAR experience - St Vincent Times",
+      "original_article": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNV9PZWRXMThfNjBnWV8yTGs5UXBMakRYUXZZME9idllmaXJWdUwxSHo3ZEZmV01lUTdIMVpRVmt2NW5OeW9GT1kwclNCeEluTnI3WnFDQVgtX1MyVWp2cXJNb0ctVkx6eTlVcjZKZ0g0NHlzVjRyaU4tMnFqeVE1Z2VfZ3ViU2tBZzNqdG5jcG9UVlRFMGFNUjJJX0kwUHdHLWhIRXl0RzRTWGUtbjBFWUU1ZFBMVk9QbHFHU0ItcVUxLWRCYkJtUE5PUQ?oc=5",
+      "looked_up_at": "2026-11-03T14:06:06.962034+00:00",
+      "search_queries": [
+        "\"Win a trip to SVG & VIP NASCAR experience\" entry",
+        "trip nascar experience sweepstakes enter official",
+        "trip nascar experience giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "480f046f03d57870": {
+      "contest_title": "Focus Features and AMC Theatres Launch ‘The Ultimate Focus Features Experience’ - Focus Features",
+      "original_article": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOFhSRmJoSnl4TlZpWFczWTFSVG00NTNJdE50U2VDWjhTVWRkTHJteFNuOUdQWUNyMHgwYnlYRXZqd1BxVXlSSDh4WGxtNnBIZm44NGpiU3FrV0E4ZFNOQ2hLQkpyV0JvQ0hGTHIycVhMZk5VZE5kelFPeG5uMW50Sm5RZDk4WFJwcFNocVJrVmMzVXdRczFpNUJoX3M0Y0dLbFIzODJKZzRiYk02UGp3NkI3dkhEczA?oc=5",
+      "looked_up_at": "2026-11-03T14:06:06.887157+00:00",
+      "search_queries": [
+        "\"Focus Features and AMC Theatres Launch  The Ultimate Focus Features Experience \" entry",
+        "focus features theatres launch ultimate experience sweepstakes enter official",
+        "focus features theatres launch ultimate experience giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "1326de19cdfbdd99": {
+      "contest_title": "Beat The Geek’s 2026 Contest is Now Live! - The Sports Geek",
+      "original_article": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcTZDN1lFZkwzeThrNjE2QVNFWjVmYzZTLUxld29iU3BZQko1Q05ER0hyUk16cXJSZDN3SHJHeEJka3plTnlzQmxHdGdDaGRpZTk1bzBoZVZ4bkNPS1JKeXFsam9MT0NieFhLQTFuYkJWaGxYMUpzZl9oWTZHcnMwN2RIeDBlNmIzSFRTeU41VQ?oc=5",
+      "looked_up_at": "2026-11-03T14:06:06.961495+00:00",
+      "search_queries": [
+        "\"Beat The Geek s 2026 Contest is Now Live \" entry",
+        "beat geek live sweepstakes enter official",
+        "beat geek live giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "d060760dbb33e687": {
+      "contest_title": "Avengers: Doomsday Regular Tickets Hit Fandango With World Premiere Contest - Cosmic Book News",
+      "original_article": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ma1YyNzBwQXh5V0FHdGtTYURGcnVva2NHZVA3eUNSUk9MSHZUUkRGWmVpTGJkUW00cklXUlNDVVpSZ3NuTTN3TGxBdjVOcGQ4NFAxZUI5aVBzdkVpVHRMVGJDZnJvQ0I3Q3ZpTllKckdVdE9i?oc=5",
+      "looked_up_at": "2026-11-03T14:06:07.019007+00:00",
+      "search_queries": [
+        "\"Avengers  Doomsday Regular Tickets Hit Fandango With World Premiere Contest\" entry",
+        "avengers doomsday regular tickets fandango world premiere sweepstakes enter official",
+        "avengers doomsday regular tickets fandango world premiere giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "ff3b72234381395c": {
+      "contest_title": "Win tickets to the 2026 Tim Hortons NHL Heritage Classic with AutoTrader - blogTO",
+      "original_article": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQ003bFc4ckRMQzRRY3NqNzZLR3dXNjZxZ0xWMnNvS2lkaV9OVW04eXpwQnpmR043YXNVb09Db3RKdlIxLXpaTEVqdWxfY1QyemNCUjFPQ0RaSi1PSFdvMFdhYWdzSEtmRmZmYVZXTnJIcVEwc2d3QUNoTGlLWmZXc2dnUmI?oc=5",
+      "looked_up_at": "2026-11-03T14:06:06.910993+00:00",
+      "search_queries": [
+        "\"Win tickets to the 2026 Tim Hortons NHL Heritage Classic with AutoTrader\" entry",
+        "tickets hortons heritage classic autotrader sweepstakes enter official",
+        "tickets hortons heritage classic autotrader giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "c50c687c674ce017": {
+      "contest_title": "Solve these Winnipeg public art clues to win a trip to Flin Flon - CBC",
+      "original_article": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRE43bmhQX1JfMmNybkNFWDZsZmRXWS1CcHpBV19NSFItTXc5SmhFTXdnREhFeFVidG9pR3JIRDVzVkprTk05cUdtMDNuS2JETEt1bVlDWV9QOHRvb3NyNmUyM0ZrOFZGSnJFaW9qUGN2NXFlNzVSOWtobFdGU3BDWEZUVV9BcldzeXpFRQ?oc=5",
+      "looked_up_at": "2026-11-03T14:06:06.975280+00:00",
+      "search_queries": [
+        "\"Solve these Winnipeg public art clues to win a trip to Flin Flon\" entry",
+        "solve these winnipeg public clues trip flin sweepstakes enter official",
+        "solve these winnipeg public clues trip flin giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "c34bcd1e9c0c729d": {
+      "contest_title": "Zach & Julie Ertz Team Up With Russell Stover For A Sweet Valentine’s Day Giveaway - Yahoo",
+      "original_article": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZXhfS3NUMlVTRWdraEJ3dWV6X0lhblR1dldDQkpwTk9pdXFuZnBBQjVhTGJmbW83NFFKa2VjbDBpMW9aa0Rqd1VoYVFpVmU3VGswUDhVdXAtc0ZwMEdUaEctZDZxWnB6dF9uTnJRMmJFVFpxYVp0WXo2QmhNb1VKaw?oc=5",
+      "looked_up_at": "2026-11-03T14:06:07.028404+00:00",
+      "search_queries": [
+        "\"Zach & Julie Ertz Team Up With Russell Stover For A Sweet Valentine s Day Giveaway\" entry",
+        "zach julie ertz team russell stover sweet sweepstakes enter official",
+        "zach julie ertz team russell stover sweet giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "02958916abb91944": {
+      "contest_title": "Barilla launches 2026 F1 'Pastaport Contest' - Canadian Grocer",
+      "original_article": "https://news.google.com/rss/articles/CBMieEFVX3lxTE12bWJ2MWJzYjhQZlZ3akJ1UUhSN2xXdjN2QWlHYWVkd3A2Sjg5WGNjNy1FWUNfYTNYcldRUEdYWmp4WHVndUpmT2dmaVh4aFJRd3FjU083eWhrZF9sTUlOV0NuOVRrRGNQUFgwbmV3VkhEaDZUYnFnMw?oc=5",
+      "looked_up_at": "2026-11-03T14:06:06.957976+00:00",
+      "search_queries": [
+        "\"Barilla launches 2026 F1 'Pastaport Contest'\" entry",
+        "barilla launches pastaport sweepstakes enter official",
+        "barilla launches pastaport giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "3390ad04e93fa181": {
+      "contest_title": "Tofino makes for the perfect winter getaway and here's how you can win a trip for two (CONTEST) - Daily Hive",
+      "original_article": "https://news.google.com/rss/articles/CBMickFVX3lxTE1lOWVFQVIwQnZrUnVCajdlRE1HTmtVMUxTdkVfXzFHRWtJZE0tcXFtdnloY1RxMEgzM2l3OEhBNm54Q1R4aUpvbHBQVGNvMU5GaTFQcFhST1NTYUdQYmduenNfOWZTZ2h2ZUpUek1JRlNydw?oc=5",
+      "looked_up_at": "2026-11-03T14:06:07.042341+00:00",
+      "search_queries": [
+        "\"Tofino makes for the perfect winter getaway and here's how you can win a trip for two  CONTEST \" entry",
+        "tofino makes perfect winter getaway here trip sweepstakes enter official",
+        "tofino makes perfect winter getaway here trip giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "f214753eb0e8b39a": {
+      "contest_title": "The 10 best performances at the 2026 Eurovision Song Contest - Stuff",
+      "original_article": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVnFySkk1a0t4cDU1eWg1QUR6MEJIaWpwaFR6b05la0dCaVZlMC1BRzdxTHQxcWFRQ1VsODdiWkhTTUlLQjdJejU0dTlHWmJ4bEJuRmJoNngyUkNZYXVSem9DSnVpdDV3X1VReDVPZkZZWGJvczJJVk51SWRlaFlfOWlRQlVWUmhzc1lmYUFxRFJMUmpZcGc?oc=5",
+      "looked_up_at": "2026-11-03T14:06:07.008468+00:00",
+      "search_queries": [
+        "\"The 10 best performances at the 2026 Eurovision Song Contest\" entry",
+        "best performances eurovision song sweepstakes enter official",
+        "best performances eurovision song giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "d5be43d2d1029d39": {
+      "contest_title": "Saints VIP Draft Sweepstakes presented by COX - New Orleans Saints | NewOrleansSaints.com",
+      "original_article": "https://news.google.com/rss/articles/CBMicEFVX3lxTE14R0FWNkRWeEZoZ0JFek9fdG9OaURyb2VXejlCaVkxdV9GTFJhZDFvT0prWEt3cmpUbHhodmozcG9rclpXRWhWTFRpMldOVkRBc213ODFVcG9paGwzYldjM242eWg3ZzZ2a01STDRPQWo?oc=5",
+      "looked_up_at": "2026-11-03T14:06:07.141679+00:00",
+      "search_queries": [
+        "\"Saints VIP Draft Sweepstakes presented by COX\" entry",
+        "saints draft presented sweepstakes enter official",
+        "saints draft presented giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "2212afdda62ef05a": {
+      "contest_title": "Spirit Halloween Offers Sweepstakes for Trip to Halloween Horror Nights at Universal Studios Florida or Hollywood - WDW News Today",
+      "original_article": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbGQ1UTFseERheUxJUlRfU3ZZVDIxMTFaSjFFVmFCdjAtVjRpeFYweDFza0tnWkJtUEtoYnNVdUNVdUxPZTFFQVBkMGVxV2lUOVdmdElyME5TWGlIYjQ2aFU1d0tCb05KYUZEbjIyTjdKNXpUcENOaVNVV0NYRmhGbUxtTEYzdVJsY2JBUE9GamdqTmJxeDVTSjRGamxmaUxoNUZjR0pNVzFFa2Flbzd5SVh4amh5dGtQbzBsVkNGeFFpTnBYTzdWRjhBd2R6dW9kczYzWXg4TQ?oc=5",
+      "looked_up_at": "2026-11-03T14:06:07.259848+00:00",
+      "search_queries": [
+        "\"Spirit Halloween Offers Sweepstakes for Trip to Halloween Horror Nights at Universal Studios Florida or Hollyw\" entry",
+        "spirit halloween offers trip horror nights universal sweepstakes enter official",
+        "spirit halloween offers trip horror nights universal giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "3978a9ad8cffc27f": {
+      "contest_title": "'Survivor 50' Launched Major Fiji Vacation Giveaway — Winners Fly to Paradise in Style - Distractify",
+      "original_article": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5BSTlWLXBzYm5pSXVfTXFHTldwZ3duRDBiMVRvb0ZXRmxQb1BuSHZaaEctdTZQeTdPb2ZzS1NnLWtIdEVFUktnUnRReW0wUnJBZTNDSTlzMUp4TmtmRmdjZ2Vn?oc=5",
+      "looked_up_at": "2026-11-03T14:06:07.247641+00:00",
+      "search_queries": [
+        "\"'Survivor 50' Launched Major Fiji Vacation Giveaway   Winners Fly to Paradise in Style\" entry",
+        "survivor launched major fiji vacation winners paradise sweepstakes enter official",
+        "survivor launched major fiji vacation winners paradise giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "6be58c8064054743": {
+      "contest_title": "Rob Mac Explains Teaming Up With Enterprise for a Massive World Cup Car Giveaway (Exclusive) - Men's Journal",
+      "original_article": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUENQaUF6RktmY2tfVkdDNUozRGZyNlZjSE5JU3lvOWNVZmphNmc3NXhyNUVHb3lxeVJmOVVrZURoRGdLU0xCWS1CQkVxOWZheUgxeDdwTWhuMS0ySThNNUpYemNwOFhkanFUclZkeFdOZ3ltb0pJUWpFM1dLb0h2THFlUW1sWUwwNGZpeXJGQUllbTVHVno3RUdqVFhnTnJTVG1NQXhyTzMzSWFieFFteUQyNVl2RnRYeXFXMzBsQ0o?oc=5",
+      "looked_up_at": "2026-11-03T14:06:07.280233+00:00",
+      "search_queries": [
+        "\"Rob Mac Explains Teaming Up With Enterprise for a Massive World Cup Car Giveaway  Exclusive \" entry",
+        "explains teaming enterprise massive world exclusive sweepstakes enter official",
+        "explains teaming enterprise massive world exclusive giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "a479bcbae4e4547f": {
+      "contest_title": "How to Win a Car in Australia: Every Way to Enter in 2026 - tech-insider.org",
+      "original_article": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9pUHM3b1l0M0lBdFdOWVF5eGNUYXBMRmFKOG9IM01vZzE2aTFURTdZLVcwcm51N3hqb2ZTQkFVZ25qYlJfcWdqdFZ4VUx6NmtNUDJYQm9rRm9rTmlpbTQ4TjBUNjQ3UHNkT2llOFp3?oc=5",
+      "looked_up_at": "2026-11-03T14:06:07.341563+00:00",
+      "search_queries": [
+        "\"How to Win a Car in Australia  Every Way to Enter in 2026\" entry",
+        "australia every sweepstakes enter official",
+        "australia every giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "4ab0f37b180616a4": {
+      "contest_title": "Enterprise's #OnEveryCorner Program Turns Football Corner Kicks into Chances to Win a Car - PR Newswire",
+      "original_article": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPTDlXRWJFcTBJV3U1c3JBbC1VbUhKa2tUSlp5ZWwzblpoaGE5T1Q4dVpEdFJlZnJtd0NtajV4ZF8wUzd3V0x3am1UWWhRSnkxTEU1S2xhM09MdWpKRThoeUQzUFJPWm1QRVhGVmRCSE9XaDdIV2ctal9jNkx2MU1FbDFnc0ZydUpRNW1UWTIzNXNuSVh4Q0t3VmpRN2kxazZwUkcweFNxN2RHSUtlY2Y3U1g5V0pkLV9mTXVqdkNUaEJ2OV82ZmRwYkFXLWtjVzV3a2F1SkNXcjVnX2s?oc=5",
+      "looked_up_at": "2026-11-03T14:06:07.344076+00:00",
+      "search_queries": [
+        "\"Enterprise's  OnEveryCorner Program Turns Football Corner Kicks into Chances to Win a Car\" entry",
+        "enterprise oneverycorner program turns football corner kicks sweepstakes enter official",
+        "enterprise oneverycorner program turns football corner kicks giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "596e553384a48e1c": {
+      "contest_title": "Canadians converting corner kicks to cars this summer - autosphere.ca",
+      "original_article": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOc3NqMW5tcHp2b0sxVmpmeHBRdHhSUktZRi13WXQ4a3hBbHBvVkZHMjVnbWZWNVFrMW5NcDk4NERCN0VuWWRiMzYzREdlT1hIZ18xRkRYZy1xbk9wNzQ0NmYxSnNDY3EyTGpkaUJJd2NoTmN3bFVHeUVsOUsyRnRKUG5mU2FuS1JtM3hMNTRFQkU1NW9sZVMtUE0tWTAydmtm?oc=5",
+      "looked_up_at": "2026-11-03T14:06:07.350310+00:00",
+      "search_queries": [
+        "\"Canadians converting corner kicks to cars this summer\" entry",
+        "canadians converting corner kicks cars this summer sweepstakes enter official",
+        "canadians converting corner kicks cars this summer giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "710f0b308af208d3": {
+      "contest_title": "You could win a car for every qualifying corner kick goal throughout soccer's biggest tournament this summer - Narcity",
+      "original_article": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5fa1FlYVVWcWJTZFpRenhuT2p6VkxHMm5HdTQxVHVYRFRLRGN6RmQtLTZScXU4QzR0MWZHSVJsZzUwdUp2d3EtZVJBN1BnRExRdG9CX29KWXdGZVotb2JoMHZ4RVU5NmM?oc=5",
+      "looked_up_at": "2026-11-03T14:06:07.356422+00:00",
+      "search_queries": [
+        "\"You could win a car for every qualifying corner kick goal throughout soccer's biggest tournament this summer\" entry",
+        "could every qualifying corner kick goal throughout sweepstakes enter official",
+        "could every qualifying corner kick goal throughout giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "9cc5d696671befba": {
+      "contest_title": "What Really Happens When You Win A Car On The Price Is Right, According To Past Winners - Yahoo",
+      "original_article": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVVlObjlHaXotdWc1Q1FQSVp4WVRRWUxqZC1rNXV6M3lRazVfQnQ4eTVOZE1ULThwTE1fUEJtVFo5N0lFdDJEYlQ3T01TbmZwVS0tRnlFcXV4dm1yNktHNmNCVWhIRm9Uelc4djFNanpYWmZfaXU3aFF6RWk1Y1dLb0RfS0JDYXpnVVRPdUNfUEdSS3BNZmc?oc=5",
+      "looked_up_at": "2026-11-03T14:06:07.342756+00:00",
+      "search_queries": [
+        "\"What Really Happens When You Win A Car On The Price Is Right  According To Past Winners\" entry",
+        "what really happens when price right according sweepstakes enter official",
+        "what really happens when price right according giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "3cdedd800198f884": {
+      "contest_title": "You could win a car, cash or a trip at this beloved game show coming to Upstate NY - NewYorkUpstate.com",
+      "original_article": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcG5qSHprbC1TTzhTOVFfcWdXbXd2LTNDalZkdE9zRS1PWkRmQm0xejVuZkJxaG1LRDVlMlRGWmdYQVhyMFd4WFNZaUZjclFJdHk5U1ByMnhpUldaTHdPYkVibEpRNzZzVU04SGtKX1czRXZodmdDaEdkNFlRV2F0UmxPMFVSeW5oY3o3OEVERl9UX3d4NklmZXJGS0sxZVNuZ1NYVmJ0SnJTZ3FhMURGbW9Id1Z1cm9SME9PQjA2TXFMcXM0amFIZ2prcndVUG1WaHBrb0pR?oc=5",
+      "looked_up_at": "2026-11-03T14:06:07.480338+00:00",
+      "search_queries": [
+        "\"You could win a car  cash or a trip at this beloved game show coming to Upstate NY\" entry",
+        "could cash trip this beloved game show sweepstakes enter official",
+        "could cash trip this beloved game show giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "b7c5c1580fabbd20": {
+      "contest_title": "Jeep launches MONOPOLY Bonus Cash Allowance Program - CarProUSA.com.",
+      "original_article": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWENLdEF4WXNydXhENmc4ZnowSUlGTEl2S2NnSUhqeU1CYjlrNGxNWnRZTTJaVURDdE40OGV3M0MyXzU2VkFfa3lsWnN5U1d3ZWdCV2ZENC1QVjhmcTcwYUtHZjV4dkJxTENsWVZuaFNaYVFKOEIwNkplczR4c3ZveVpHelF3QdIBlgFBVV95cUxQd3JmMHZ5S3hPZmdIMWx1VWlpRzZ0dnRsZFRjMGR2WG9GRUN2RlJFLWhWUjdDWndQanF5RmRGZUtacmNGd0ZSLW92elhVUnZKa0R0WlRTSHhDaTY0QTM5blAzckZ1bHAyVkJLX3d5N1VpWk9wOG93MnZ5SHl0Rm5QS2tvek4wSU01VEpvZFFKb0U2QThqaHc?oc=5",
+      "looked_up_at": "2026-11-03T14:06:07.377992+00:00",
+      "search_queries": [
+        "\"Jeep launches MONOPOLY Bonus Cash Allowance Program\" entry",
+        "jeep launches monopoly bonus cash allowance program sweepstakes enter official",
+        "jeep launches monopoly bonus cash allowance program giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "9e74463ff10c5a9f": {
+      "contest_title": "\"Come on Down\" for the Surprising Rules 'Price Is Right' Contestants Have to Follow - Good Housekeeping",
+      "original_article": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRmtWNEViemdzLWdqVnFVU0NjZE9hODczaHVrZmk5SGFPUFVZWjhYTHBwRHByb2piWHdPUWpGRDF6bWs2QVc0MjVTNDBWNkpJMVBBemRSUWplcExYb2VmWFlrLXo4X09paDdXY2Mwc2taZUhBdUZ2M2d4UklzbVk2WEVFVVY?oc=5",
+      "looked_up_at": "2026-11-03T14:06:07.351587+00:00",
+      "search_queries": [
+        "\" Come on Down  for the Surprising Rules 'Price Is Right' Contestants Have to Follow\" entry",
+        "come down surprising price right contestants have sweepstakes enter official",
+        "come down surprising price right contestants have giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "827fcede332e0252": {
+      "contest_title": "How to Win a Holiday in Australia: Every Way to Enter in 2026 - tech-insider.org",
+      "original_article": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Eb0pmUjJiRGFZdkI5QXhvTk9RVEV6THRJclg3Y241cG9nZ2t1R1Z6aEdGUHhTd3o5ZUoxSzZ5WGY0ZW5yZnRPRHN5NFJPMng2ekhTUlI0ME9mM2Nab000Qm9wcDczYmpmTkVPQ19admd6U3c?oc=5",
+      "looked_up_at": "2026-11-03T14:06:07.404562+00:00",
+      "search_queries": [
+        "\"How to Win a Holiday in Australia  Every Way to Enter in 2026\" entry",
+        "holiday australia every sweepstakes enter official",
+        "holiday australia every giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "dc91573452aac359": {
+      "contest_title": "Un-Sick United Airlines Employees Could Win a New Car - AirlineReporter",
+      "original_article": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTFZsdVJfTVhrVC1xRDZXZU1TTFc0M0U2Q0FBaDIzdjhHYTFLVl9BbXFNMjd5ak96ZHhKV1c3dl9YMWFfQzBqdzRweUtVTUVZbkg5WU5KLTZhU196a21rMF9UMUdDQ0Q1cUNfZ2xyOVV1RlJPYVZ6WndnV0NoS3F6TE5vN1kyZUJ2VTh0ZFlLNnRDWXJETFJJZ25R?oc=5",
+      "looked_up_at": "2026-11-03T14:06:07.535533+00:00",
+      "search_queries": [
+        "\"Un-Sick United Airlines Employees Could Win a New Car\" entry",
+        "sick united airlines employees could sweepstakes enter official",
+        "sick united airlines employees could giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "c20facf445d4148f": {
+      "contest_title": "How to Win a Caravan in Australia 2026: Comps & Draws - tech-insider.org",
+      "original_article": "https://news.google.com/rss/articles/CBMic0FVX3lxTE42SjdOR1Y3MTlmclRIcGZiVmpUcmx1b1NWTENiUWFRTFdlZXJhZ00xNnBNMVpFTVJnMTE3NFU2YjFOR09VTXJwVXFqMHY1UldZNnNnVUJ0T2RIOThfcWJSeHduTzVxT085OGMwVDNIeC13T2c?oc=5",
+      "looked_up_at": "2026-11-03T14:06:07.593206+00:00",
+      "search_queries": [
+        "\"How to Win a Caravan in Australia 2026  Comps & Draws\" entry",
+        "caravan australia comps draws sweepstakes enter official",
+        "caravan australia comps draws giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "1f40b3e4d8184b80": {
+      "contest_title": "Your chance to win a brand new pickup truck - VA News (.gov)",
+      "original_article": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1SSXdFMzVaR0lPQ2FUZzVEZTlZTGVkM2Fpd29wMTdOV2J1cE44R2ctcjU5TkJlY2NuVXJVSzJqY2pCX2hncU53ZHBRMmlIUGZGdE1JdzNiQXFzSUZRMk9fQnNfUUVnZ3dON2dYLTBQZnJLb1pfWXJPTkFPdw?oc=5",
+      "looked_up_at": "2026-11-03T14:06:07.651908+00:00",
+      "search_queries": [
+        "\"Your chance to win a brand new pickup truck\" entry",
+        "your chance brand pickup truck sweepstakes enter official",
+        "your chance brand pickup truck giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "d2720aef8f82dae5": {
+      "contest_title": "FOX Bet Super 6: Chance to win a truck and $25,000 on Giants-Cowboys - FOX Sports",
+      "original_article": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMHlTZ3RrUVVKNHpSdElNN092UVFrYWZRamVQbGFyT0xRUkJabWdMY29udnZEY0JWcWpLZlloeHExRWJjRnZNVzNtOWpRY2hHTlNUek1FaUdTcV8zRXowaWVOUGVIMHlxNzV2UndHSGhXOG42Y01ORU9nc0hRS2tjMUlEM3lGZnZMLWQ2VnA2dzMyUmt1alRINFAyT2w1VkpWTGtFNzZB0gGmAUFVX3lxTE5neGVQNXJlLUY5eGdQbG9HcF9nT3NYUncyYVlmVUhyOC03SEZURmo5ZTNLYlozX1NjWEFjNFVibUdEcG5mV1ozNTREa1hGSWl4NzFhT3BVeXpJdmlmTi1jNUJDT1A2M0paX19TNHQyRXdobmtlckRYa2pPZkE3bkl2bzc2UEpOeFlFRDNoaEUyTk82Mk5Sak05VDNWOUFncTBPdG92c2c?oc=5",
+      "looked_up_at": "2026-11-03T14:06:07.623968+00:00",
+      "search_queries": [
+        "\"FOX Bet Super 6  Chance to win a truck and  25 000 on Giants-Cowboys\" entry",
+        "super chance truck giants cowboys sweepstakes enter official",
+        "super chance truck giants cowboys giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "f86e202bcd2c8941": {
+      "contest_title": "‘Firestone Drives America Tour’ Kicks Off In Akron - Brake & Front End",
+      "original_article": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTFVKVHdCdm9VODB5ekdONHVzdGxjS2hJUzZiN0tLX0s5Zlc1U1BxMzdzTWdJY1NWVF9hdkw3NHNGc20zSWRtMklKU2VybjMtVXpYREJ0T01CTWRyeDV6Q1ZUR3QxcF9PbHd4Z3lrWGpwT0tLbmtqZzZCT2o4V2FrcG1hZk5HNHVfY1E?oc=5",
+      "looked_up_at": "2026-11-03T14:06:07.637965+00:00",
+      "search_queries": [
+        "\" Firestone Drives America Tour  Kicks Off In Akron\" entry",
+        "firestone drives america tour kicks akron sweepstakes enter official",
+        "firestone drives america tour kicks akron giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "d31ee54d2994821b": {
+      "contest_title": "Hooters Returns to Track as Chase Elliott’s Primary Sponsor for November Races - Hooters",
+      "original_article": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTVBhcDJhYnlXN0RaZ2FkUkxBUFdEOW05MFk5OVUyUXpLV2FhMzZFR0JXMS1SSmpkeTlCSko3YkMtVFgxSkpmZXgtZllreXViZWlnQWhyOEdSRDY2MXJTUUpzQ0pQcE1WbVM1RnYyc05rSjRMSHhjVzlvQ2kzbmN0enF4T3VJYXpJUHZnamk1TUM5RW9NeEYxSHlTbldTNFpZS1BHbDNXakxQT2Q2V0JfV0tR?oc=5",
+      "looked_up_at": "2026-11-03T14:06:07.696256+00:00",
+      "search_queries": [
+        "\"Hooters Returns to Track as Chase Elliott s Primary Sponsor for November Races\" entry",
+        "hooters returns track chase elliott primary sponsor sweepstakes enter official",
+        "hooters returns track chase elliott primary sponsor giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "1f0fd0b3cb6cb62d": {
+      "contest_title": "Win a brand new Toyota from Hiring Our Heroes - VA News (.gov)",
+      "original_article": "https://news.google.com/rss/articles/CBMifkFVX3lxTE54OUxfY2Mya2ZHMTNpcThJWWswUTVwZUc4enF3QmVaOWQ1T1V4ZXBXNnpWWEhLbkJjZnVPd3RMbThmRUhfaC1sZE5vcGFTa3VaZC12bTQxRzBQc3VLZmh6VUJHMXo3YzNBV2h3R2pseDAtcTI5UEhJSzd6N2VxQQ?oc=5",
+      "looked_up_at": "2026-11-03T14:06:07.642973+00:00",
+      "search_queries": [
+        "\"Win a brand new Toyota from Hiring Our Heroes\" entry",
+        "brand toyota hiring heroes sweepstakes enter official",
+        "brand toyota hiring heroes giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "e5016f477365589a": {
+      "contest_title": "Hiring Our Heroes “Committed to America’s Heroes Sweepstakes” giving away a Toyota - VA News (.gov)",
+      "original_article": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNlhWc3RiUVZkTTAxTjEtOEhoVTZsVkxUcVYtZlR5NFBFMDg5QXlWR0xoUlBpS3JRTTJyNnloNE9xamR3aUtyQmRYN3c0bUlQU0NFODY5eDI4b1lhdzNZVWxOOVRIbmR0X2UtOWlGQy15bk9TM1E2U2dFVGlWOGx0UFFhOXJDcWxnMG9WVVpwVFF3TWE4SFJQSnMtWnpLaHlCS1pVVTB1UjlYUQ?oc=5",
+      "looked_up_at": "2026-11-03T14:06:07.687739+00:00",
+      "search_queries": [
+        "\"Hiring Our Heroes  Committed to America s Heroes Sweepstakes  giving away a Toyota\" entry",
+        "hiring heroes committed america giving away toyota sweepstakes enter official",
+        "hiring heroes committed america giving away toyota giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "f18da68454584f5f": {
+      "contest_title": "Win a Camper at Holiday World & Splashin' Safari - WBKR 92.5",
+      "original_article": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5xbVJYRWtsR0RQU0dvb0lxa0hTdXdlaDF2VXdpcEFTcDZFRUtnYUh0QmlRTGp6Rk1EWVhaSFBoRFY5Ym9hWlRSUlBWcDhmVGtQWFB4NkNoSy1GZXBlOHU4?oc=5",
+      "looked_up_at": "2026-11-03T14:06:07.750980+00:00",
+      "search_queries": [
+        "\"Win a Camper at Holiday World & Splashin' Safari\" entry",
+        "camper holiday world splashin safari sweepstakes enter official",
+        "camper holiday world splashin safari giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "edee9b8ac448ed3b": {
+      "contest_title": "Winnebago Industries is giving Twins fans a chance to win a new RV or boat - KIMT",
+      "original_article": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPU0ZZNk9CT3dmTFpTYWxCUnJwR1U4VVRHdEcwVXN0S1pXYjlzOXR5NXk5cXBnS2UwVUhuRjdFb1dfcU90MkRmNVItTWktcTg3cGlzVFRYckJXRlU5N1FnTF92Mk9aLWNEcF9HYndGYW05WVRhSzhOMUgzdk9TME5aT01xbW1HTTRGTThoTXNRMFlHQnZRVS1QalJxVWtGTlVRQmxscXBQSnFZdGk1OFptZDFXVkdDRmdQc3p2X0ZJOGpsRlNwNGJna2Nyb09TcEdLcXNLbWRsT3VIbjJ1VGtJVUczekg?oc=5",
+      "looked_up_at": "2026-11-03T14:06:07.697269+00:00",
+      "search_queries": [
+        "\"Winnebago Industries is giving Twins fans a chance to win a new RV or boat\" entry",
+        "winnebago industries giving twins fans chance boat sweepstakes enter official",
+        "winnebago industries giving twins fans chance boat giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "2fdb8e198307335b": {
+      "contest_title": "Steve Doocy reports live from Carolina Country Music Festival in Myrtle Beach - Fox News",
+      "original_article": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1IUzk4Z2dLb2VsbXlWRk9CR1Q4aEdrcjJhSXd2cVpxblZNeUNLWms4ZGhBdm1PLWRwZjNKUVZobGctMjYxdlQyR2xqaDExbE9hNVhvM2Nn?oc=5",
+      "looked_up_at": "2026-11-03T14:06:07.700203+00:00",
+      "search_queries": [
+        "\"Steve Doocy reports live from Carolina Country Music Festival in Myrtle Beach\" entry",
+        "steve doocy reports live carolina country music sweepstakes enter official",
+        "steve doocy reports live carolina country music giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "f94c126be69278eb": {
+      "contest_title": "Winnebago, Minnesota Twins Partner for ‘Hit It To Win It’ - RVBusiness",
+      "original_article": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZmRrcjNIdHQzMFpkZjE4bWZLcUVQYUZRdm9lVkVwbXFKN0JPbnlKaFpvcWZoQmhFeUdqMlpaM1pnYVJhTW9zenljcURycWlic2dZVFJYVENHUXRMdkdvUE5mTWJfR1RWSWZvMnYzbi1uQktnc1FVQlZsMC02Xy1JZmtjNEY?oc=5",
+      "looked_up_at": "2026-11-03T14:06:07.832537+00:00",
+      "search_queries": [
+        "\"Winnebago  Minnesota Twins Partner for  Hit It To Win It \" entry",
+        "winnebago minnesota twins partner sweepstakes enter official",
+        "winnebago minnesota twins partner giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "39e76a823e1628c2": {
+      "contest_title": "You're not winning an RV on Facebook - and here's why trying is probably a bad idea - wthr.com",
+      "original_article": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOT01UbVlVR2lQckUtWHNtSVJmZjVBWkFiYzljX3dEWHB0VldPdUZiT0JqQkltbjhpVDRIRFZGSkQ0RUZiZHdmRUlXMXZUZy1MVHVscXB5V0xMaGJ2NnI4VDJWeEU1RGIycWZvTjU4ZVRJREVsb0NBNjIxY2VKY0ttMzhkV0VMSWUwZUNWVjhKMm51Wk8xcnFpbDZGcEZpbDlTRDRTbE8yU2ZlZTdvVkotUHhTX3JBdVZVUU5CZTVIb3NFeTYwWXB2RVdvSHJyN2FydHJJLTlWNHdDQQ?oc=5",
+      "looked_up_at": "2026-11-03T14:06:07.860998+00:00",
+      "search_queries": [
+        "\"You're not winning an RV on Facebook\" entry",
+        "winning facebook sweepstakes enter official",
+        "winning facebook giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "3113f36bdba8847f": {
+      "contest_title": "How one NASCAR fan won an RV from Clint Bowyer by playing FOX Super 6 - FOX Sports",
+      "original_article": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOUpaYmZYamg2amdCakEtajhiaDJrUDBxejVLSlpvVmwwOV9aUUhQbUEtcXNqWUxSWGJGWUUyVFFXWWFUdFJYR1VLckRTTTI4dEFvQ2xiSVhPYTlGMHgwRldlZzZzVmhnTjZ6b0lwYlQxRkY4RGhKci1IdnIwUk5ORDNmOWlndmfSAYcBQVVfeXFMTzAzQ3JVZXpPSWVUTURJVllUNmVEYktiTDVFeDdtLVZkOE5XX0p0ekxTMF9IaVVLT2hJT3dDVlZVU2c5MGg1emJ1cy1FTmRfOVU5Mnh5bjhjU3I2N2NqRXgxYnlWTWp3eHNGZjRNUjNSaFhrUzdNX2Y1cXNmcktPTWNTWlBxTmE0?oc=5",
+      "looked_up_at": "2026-11-03T14:06:07.931903+00:00",
+      "search_queries": [
+        "\"How one NASCAR fan won an RV from Clint Bowyer by playing FOX Super 6\" entry",
+        "nascar clint bowyer playing super sweepstakes enter official",
+        "nascar clint bowyer playing super giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "18917a67c984e224": {
+      "contest_title": "7 Exciting, Free Travel Contests Worth Entering This Month - Forbes",
+      "original_article": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQLWViN3Qyc25YcllpNjQ0SjY5WHFTTDhhemhiVU4xUmxtZjNqczZJQm1qVzMzaW5nUERVNHZBSW5iYnk5NEhKUVBzZkNwbC1TMW9NUm9rWlNxQnVMSFQ2U250c1JTQURjbEFhX1FFbEhDUTgyTDlVZ3VGMDdhTC1HQ3hZU0t0M0Z2ZHRPNjF6R0UxNVQ4b1VnZnZyT0hmd0N2T2hMdERGNGJjeWNYSS1Fag?oc=5",
+      "looked_up_at": "2026-11-03T14:06:07.945484+00:00",
+      "search_queries": [
+        "\"7 Exciting  Free Travel Contests Worth Entering This Month\" entry",
+        "exciting free travel contests worth entering this sweepstakes enter official",
+        "exciting free travel contests worth entering this giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "aca78d941c63ab01": {
+      "contest_title": "7 Contests For Free Summer Trips To Orlando, Hawaii And The Caribbean - Forbes",
+      "original_article": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZ29haFpaQThxbEhHdHVqbDZiR2U3U2NGQUs4Z2RJWHlkWmVZZ3ZtWDQ4QnBLNXJHSE5MWm1rY25sWEZvWmVoZmZBS3k5ekRmVF9UeFY1M1liZ2hsSjRGT05tQ3VDc182amlBSUxlaVZmaE1BVlZDM1dEcGw4cGxoZ2g3ZzVDSDBTbVVxYW95QzhmU1RwTHc5aw?oc=5",
+      "looked_up_at": "2026-11-03T14:06:07.922364+00:00",
+      "search_queries": [
+        "\"7 Contests For Free Summer Trips To Orlando  Hawaii And The Caribbean\" entry",
+        "contests free summer trips orlando hawaii caribbean sweepstakes enter official",
+        "contests free summer trips orlando hawaii caribbean giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "e1091d4ca08c39bd": {
+      "contest_title": "2026 Beta AMA National Dual Sport Schedule Released - Motorcycle.com",
+      "original_article": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbklYWGh1aW5tXzFXLVBpcmx5UHNqUkQ2bVRnZUZsVG9zLWxJSThtXzFTR2FDRkRZV2QzeENJSEdrZUJPNlpzLWZvNnc5Zm56WHhqMWVxendWd21zdE1UTjZVMDlDTWsyOXlTY1dqNzFGWV9yaTc3VjBhVGhaczZLM3laNUVXOGhPYkkxaGpQLTh2Tzk3bDZnU1Z2a3ZXcTg?oc=5",
+      "looked_up_at": "2026-11-03T14:06:08.025500+00:00",
+      "search_queries": [
+        "\"2026 Beta AMA National Dual Sport Schedule Released\" entry",
+        "beta national dual sport schedule released sweepstakes enter official",
+        "beta national dual sport schedule released giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "dad591a5c6c59bf7": {
+      "contest_title": "The Harley-Davidson Museum announces “The Ride Home” entertainment and Labor Day weekend experiences - Milwaukee Record",
+      "original_article": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPTlg2enB3aGdfSmNFb0J2NzVPWHdBckVlOTFYTWV4Q21DS1VtYW9ZcVZQTm5OTkdCRjlwZjFPbmRxS3NnSHdXWW5pdmNnVWc0MVFycWJ0YWtnZ3o0QlVJZlZ3U2lQUkJXTmNtMDBTRUtWVnkzYy1ncEg2RFYxWjNaUS1faEV1eU5RY19EWnhlMWtORW1JbG16UTk4bXdiSEhjc3ZXU2VhRGFMNU1VbWE2TXc5QVc5WS02Tm4xUGN6Vjd1YmhBUk9SLUxiRDN0VTdsNUZ6V2RlXzg?oc=5",
+      "looked_up_at": "2026-11-03T14:06:07.979506+00:00",
+      "search_queries": [
+        "\"The Harley-Davidson Museum announces  The Ride Home  entertainment and Labor Day weekend experiences\" entry",
+        "harley davidson museum announces ride home entertainment sweepstakes enter official",
+        "harley davidson museum announces ride home entertainment giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "a8ad688ac5f3f8ba": {
+      "contest_title": "Harley-Davidson Let’s Ride Challenge Ride for Heroes Returns for 2026 with $1 Million Donation Goal - Hot Bike Magazine",
+      "original_article": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdk5KMlo2LVlHT3g3WXVKTUZyZ1o2clRvbWp6Y1NvYjNocW4yd2tYMEEzeFBDR0YwOWpMNHctWldhMWFPSzJ3UXU3d0tGMEdvbTNzZ0pTbFF5NTJZSFpIaFhFeFJEcGljbTVMbG9PT3RtVExBLXZQM01VRS1xNVBva0l0NGZJTW1aR0hjSUVNM18taEpzYk9iYXdWdXdWRUNSWHJuUWMycE1vd1duTXVPREZSVmpXNnFWZ1E?oc=5",
+      "looked_up_at": "2026-11-03T14:06:08.016279+00:00",
+      "search_queries": [
+        "\"Harley-Davidson Let s Ride Challenge Ride for Heroes Returns for 2026 with  1 Million Donation Goal\" entry",
+        "harley davidson ride challenge heroes returns million sweepstakes enter official",
+        "harley davidson ride challenge heroes returns million giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "74f2eca2c7f7febd": {
+      "contest_title": "Win A Motorcycle Lift In Kendon's Crowded Garage Contest - Motorcyclist",
+      "original_article": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZzYzQ05HUk9SRHYxS2Y2dUpCRVNMQzFGWFRROVpRUG5DUEFVdEladzIwMnhZZlE2ZEtYdmZvNVpyRTNGMnpNNjYxZHZZUVZWazhfRkJQZEZxQkNXODVieERqVmJtWHNBQ2NTSzFFaUdqSnpkV21OZUZrOXMtRjBBbXRhVUNFXzRxQ0FEUUloVmZkaWc?oc=5",
+      "looked_up_at": "2026-11-03T14:06:08.046180+00:00",
+      "search_queries": [
+        "\"Win A Motorcycle Lift In Kendon's Crowded Garage Contest\" entry",
+        "motorcycle lift kendon crowded garage sweepstakes enter official",
+        "motorcycle lift kendon crowded garage giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "2c3cdd73a67ac590": {
+      "contest_title": "Sailor Jerry Teams With Harley-Davidson - RideApart.com",
+      "original_article": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObHQ5TE1ZOHZhamhGNktjMEFWQkZjQkZ5Y0d5YmhNYVc0a1RHMnh5N216VVY2clEyUHktdTlNRjh2UEQ1eDU3RkV5N3Q0Z3hWU05PUXJZeEJIYTFhMGFKbmMwNXVYXzB1RVZzREtuNEo2UVhfbC03T1Z4Wl9zUGVnQlFtVGw?oc=5",
+      "looked_up_at": "2026-11-03T14:06:08.047289+00:00",
+      "search_queries": [
+        "\"Sailor Jerry Teams With Harley-Davidson\" entry",
+        "sailor jerry teams harley davidson sweepstakes enter official",
+        "sailor jerry teams harley davidson giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "d23ccadc72aa6861": {
+      "contest_title": "Big-hearted biker bumped from contest - Penticton Herald",
+      "original_article": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVXMwSGl6Zzlvd08xU182S3MxZlltX000OFJFOUx6eEx2ZXVPN01xZVdaZ2NsVzExNGJONUlkOGZYcWVCSHlpRlU1TTQ1SXplX3lXOU1wbmtpaFFpZVdUTW9OVUlnSmIwalp4R1k0ODVNTTlabjc4Ul9RNk9ibHh0WXpCN09Tak55UnJKdFBjOFc?oc=5",
+      "looked_up_at": "2026-11-03T14:06:07.976144+00:00",
+      "search_queries": [
+        "\"Big-hearted biker bumped from contest\" entry",
+        "hearted biker bumped sweepstakes enter official",
+        "hearted biker bumped giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "626d06c5a94178fb": {
+      "contest_title": "Vismotor Corporation’s Motorcycle Giveaway: Winners Ride Away with Prizes! - Cebu Daily News",
+      "original_article": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNWh1X3F4dWxaVFd1RkJLRERBNTdmZFpfUHl4bjBBYzViaXNHSk5odEtrcTNFcVU0b1JJS2VtMTBPcUp0bXBVSjdJT2dIMzk1Yml4T2VUd3NLWUtPZm05WS1rZFJ0c3h2bVQ5OFJiRUszRFVyTjM5X3FYTkNTd3NLT21PRTE3ZFNyME1QVnIybkJhWGVHS1BYMUlhMzF2UXFVdWdGTHhxbVpPblEwaEtpZFNxONIBuAFBVV95cUxONTk5amFsQVdJZE0zdWxsM3k4UVNucW8xXy1NbFZzWjQ3Z3EzLWJCeTFBSzdER0NNcUlYQ2Fla0VJbjZlb0sxaVZiMEpkZl8wWlItQjZOclpfZE1ZeVp1ZHBLbk44Wi0tQkRHQklpUWlVMmZOdGRham12Y3VKRzBxLU9yY09TQWFWYUZvTWY3ZG90cVhTdkRZTXE0aU5qZzFRNEF3Q1hRRDhDUXRpUnVfR1BtMkZkVFkw?oc=5",
+      "looked_up_at": "2026-11-03T14:06:08.036617+00:00",
+      "search_queries": [
+        "\"Vismotor Corporation s Motorcycle Giveaway  Winners Ride Away with Prizes \" entry",
+        "vismotor corporation motorcycle winners ride away prizes sweepstakes enter official",
+        "vismotor corporation motorcycle winners ride away prizes giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "b60ef54c7bfcff20": {
+      "contest_title": "Win A Motorcycle, iPhone 17 Pro Max & More When You Use Self Collection On TikTok Shop - SAYS",
+      "original_article": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQalR6clBFdzIzdEF1OHF6Tl9zMEdPN2tKYUp4VnhCQWVOVHFWU2N4YUI3WTlBOFFNNDZxOUxydGtqS243dkZ3bHExZUJ4UUNObHRYNUVxWjhNTFVVUnRTMkozSTVtMEpaZVFWYUhuNldjdEEtdkhvLUxSWnpVZ2thOWE2WFRSMG1VQmVtYU1STW1QOUxaaEZIbmFGcGJXXzRBMlNtM21FTXdfT1paQmhFM0JQUQ?oc=5",
+      "looked_up_at": "2026-11-03T14:06:08.141730+00:00",
+      "search_queries": [
+        "\"Win A Motorcycle  iPhone 17 Pro Max & More When You Use Self Collection On TikTok Shop\" entry",
+        "motorcycle iphone more when self collection tiktok sweepstakes enter official",
+        "motorcycle iphone more when self collection tiktok giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "c9e77be6f01c2c5b": {
+      "contest_title": "Change oil with Shell Advance, win a brand new motorcycle - MotoPinas.com",
+      "original_article": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeE54NEhEZV9ZZnZnNlZnLUJjUlBBa3hYU01Gd25JdXdaWnpKN1JQaG1vTGFOS1BoZlFwTFgtRThWa2FSbDlKQ2VnWE4taS10QlFVVGdFMGpVbWNySWZiNjhDNWFfSmtxTzZUNGtLR2pZZDcxcmJ3UjBKQmZNdG4yTkZXekpObXJHZkNmY3JrMHpzX0MybFR1dnJoODNwSWo2U2pxYUdR?oc=5",
+      "looked_up_at": "2026-11-03T14:06:08.232084+00:00",
+      "search_queries": [
+        "\"Change oil with Shell Advance  win a brand new motorcycle\" entry",
+        "change shell advance brand motorcycle sweepstakes enter official",
+        "change shell advance brand motorcycle giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "8d94443c2cea625d": {
+      "contest_title": "Swazi Rally winner Phoku receives E270 000 bike - Times of Eswatini",
+      "original_article": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQlF0Qm5WSzF1MkV4UWhtbEdIcEEzU3I0UzZyMi1zWHZMc2thTWdfYVRIME5GUnZIQmluXzVuVzRzWHg2Ul9aeWFNSXBieXI5MGltN1pWV3Q0UkZwbS12VmQzQzRrdzl0bzBNcjZvWEh5VU5HUjRxektzR29fYTdpNGZWblByaFNTVGRFVA?oc=5",
+      "looked_up_at": "2026-11-03T14:06:08.227049+00:00",
+      "search_queries": [
+        "\"Swazi Rally winner Phoku receives E270 000 bike\" entry",
+        "swazi rally winner phoku receives e270 bike sweepstakes enter official",
+        "swazi rally winner phoku receives e270 bike giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "72477cd8d0e49872": {
+      "contest_title": "CCA Texas STAR fishing tournament going strong with still plenty to win - ABC13 Houston",
+      "original_article": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZUpoM3FCLUhIX0ltLTIzTC1SWEpEY3RTQlVuTXM5VWprLVo2dDEzYlVxQWhnd3k0dlA3cUdJTGhMNVNTcTFnbFVVSVhEUTJZNGlIUEtuV0ZTS19vQ3AyanprR3JSV1puZGZONUhSQUZlVndxTExId1U1WmZJN3FKamJNTDF4VHlqQ1VTR2lWWWFJN2Yz?oc=5",
+      "looked_up_at": "2026-11-03T14:06:08.297871+00:00",
+      "search_queries": [
+        "\"CCA Texas STAR fishing tournament going strong with still plenty to win\" entry",
+        "texas star fishing tournament going strong still sweepstakes enter official",
+        "texas star fishing tournament going strong still giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "3039fbba54a6780e": {
+      "contest_title": "Top RS Aero Events to Look Forward to in 2026 - Sail-World.com",
+      "original_article": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRWliN0RULWNvSWRPUnE4Ykwyb3Z5SDQ1dm1CNlRRQzQ2cEVVNk9tbFlWUFlZVDc1MFM4V3hPWW1SZVdKdjdjRjFGb05sLWQ5eDZoM1BEcS1jTl96bEZUVXBhVDd5cFltRFo2dUxkalRpWDZsNm53UWdSQW13dXhGRkxnbkFxRF9zMlJaUQ?oc=5",
+      "looked_up_at": "2026-11-03T14:06:08.268321+00:00",
+      "search_queries": [
+        "\"Top RS Aero Events to Look Forward to in 2026\" entry",
+        "aero events look forward sweepstakes enter official",
+        "aero events look forward giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "468e9990c2e98d1f": {
+      "contest_title": "RS Sailing Launches RS Games 2026 Competition to Win a RS Zest - Yachts and Yachting Online",
+      "original_article": "https://news.google.com/rss/articles/CBMif0FVX3lxTFByS3EzYllyQnBFdlprVnZEbzJKTWtEYmlYdWo4WnNNcmtBTmN1Z1hjUHRkQ2d6VnJYaWdpNlJOb3haQ2FTWjlNeEN6elowVWgwR3pJQ1B5Rm5RNTJuX2lLNE5RUU0zSTFmVENhaTBLci10WlY4T1JnbjFOWmRSOXc?oc=5",
+      "looked_up_at": "2026-11-03T14:06:08.320902+00:00",
+      "search_queries": [
+        "\"RS Sailing Launches RS Games 2026 Competition to Win a RS Zest\" entry",
+        "sailing launches games competition zest sweepstakes enter official",
+        "sailing launches games competition zest giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "fb6ae3652ca4e60b": {
+      "contest_title": "It’s Fall Brawl time! More than 9,000 anglers aim to win a boat in annual Lake Erie walleye derby - Cleveland.com",
+      "original_article": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUUg1Zm9LdlFNUzBLYVpqTVc4R1NIaWlYRzl4cGdNcVBiLXdWSi1kdXp0NFdScnFSbjFsdmFkRHJYUmlmZ0Z3Mk9mb2ZuZHVjc3N4Nk5FWmhQYXBVREJYTG9mYkItd0RFYlVISUlRV0wzcTJFd1JFM3R6UnN4RUFKcmd3N1dTM0JnQjluQW5YX3VXUE1peXB3bVNFelJpRU5IWExzVUszRE1YcXRRWTlOZ3lHR3FHRzh2QnlWTUUtUFNxVHdDS19YS2U4VE0xUFZmQ2ZFatIB6AFBVV95cUxQNFN0SWYtTUtUX0dNQ2NkX0w1WFI4REJmeWNFYWNIb1FWamQ5SV80SDdDU0ZVQTVDWFhvQUN6RUw3Y01VM3BDQUhjSFV6MEw5bkJEdWozZjl0d3pFUnN5WUF3ZkpWdnktdER2SWE3NXpkczJXRlZ2TGZCRWVFOE1hVWZwUmFWT1R4bFM1LVJBb2ZJNkhUVXpneHVfcklLdHl0Y1VpclFGZ1FNUWFlWWNzZG1TTXNzUkpmX1h3M3diUzJmWFpNS1ByTFVUVkJRUDhRcnZCUWNoZV90ZFBBdXpreE9rNF9JSFZR?oc=5",
+      "looked_up_at": "2026-11-03T14:06:08.327225+00:00",
+      "search_queries": [
+        "\"It s Fall Brawl time  More than 9 000 anglers aim to win a boat in annual Lake Erie walleye derby\" entry",
+        "fall brawl time more than anglers boat sweepstakes enter official",
+        "fall brawl time more than anglers boat giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "454ab102f4193d24": {
+      "contest_title": "Roll Up To Win? Tim Hortons says $55K boat win email was ‘human error’ - Global News",
+      "original_article": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOTI2NDdTeXd1Z0lJVHlmdGJIYUhwVjNtc3BZX3Mxa2lYNG9vUndYRlN5UUI4dWtJdkNRcTNfaW5mcFBqcEdxYi13NEt2Vmt3TzA3VW1vVkdQaUZnRHRLdDBKdEZRZXJlZnllX2pjcXpBUFhUWHdTOGF1VHhjcUNPalR1M1o1N2M?oc=5",
+      "looked_up_at": "2026-11-03T14:06:08.311380+00:00",
+      "search_queries": [
+        "\"Roll Up To Win  Tim Hortons says  55K boat win email was  human error \" entry",
+        "roll hortons says boat email human error sweepstakes enter official",
+        "roll hortons says boat email human error giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "a8a7e93e45ccefd9": {
+      "contest_title": "‘I couldn’t stop laughing and crying’: Tiny ‘goldfish’ lands Invercargill woman a $115,000 boat - ODT",
+      "original_article": "https://news.google.com/rss/articles/CBMie0FVX3lxTE83VC1fMFJxN0RtRWFuZjZIaDZ6X0p3MmxZUG1pRXpna2JFMkNsVW92WFk2elh2a1JId2Z5WGlnazJLYmYxOUYzZmZHbmlwUVAwaGRMUDIxd0NGT2NpeFdiM1dsSktWbDNobklIYXNqNXI1RTMxa3gxNGZpRQ?oc=5",
+      "looked_up_at": "2026-11-03T14:06:08.366676+00:00",
+      "search_queries": [
+        "\" I couldn t stop laughing and crying   Tiny  goldfish  lands Invercargill woman a  115 000 boat\" entry",
+        "couldn stop laughing crying tiny goldfish lands sweepstakes enter official",
+        "couldn stop laughing crying tiny goldfish lands giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "a4572cc780e75651": {
+      "contest_title": "Enter for a chance to win a cruise for 4 on the Disney Magic from Galveston - ABC13 Houston",
+      "original_article": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTWNORWZhT0YyUDRYWjBZOGp4RE5MOTc5Ni1oSTA5VHRPU1pPYV91NWxublVwN2NTSm52T1JyYVFLMmZEUHN2RUZRaEx2NjNNRjEwdmtoaFExWmc4R0E2S3FFb1pOdm14Y1pQN3UyUUk1U0lMd1VKZm5CeFM3S0FqRmJialI1d01F0gGOAUFVX3lxTE1BT3h3ZFZBMU9ybDZseWZlNjBrcG9ZSEd2bDVXeldKZVp6NDVlSEZTbGdsWEpPRVJ3UzV2eDFZUW5tTzRuYWJXZDRSZUxaS1N6eGNzcEk3M25qTFUzLTBLYmc4cHRWVVpxaDN5b0dmM1duS2pTRVdqeTQ0QlpwRXJUOUJrclZCSnpmejV4VUE?oc=5",
+      "looked_up_at": "2026-11-03T14:06:08.317266+00:00",
+      "search_queries": [
+        "\"Enter for a chance to win a cruise for 4 on the Disney Magic from Galveston\" entry",
+        "chance cruise disney magic galveston sweepstakes enter official",
+        "chance cruise disney magic galveston giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "804c6edc23d0900d": {
+      "contest_title": "NCL Cruise Night presented by Norwegian Cruise Line | Miami Marlins - MLB.com",
+      "original_article": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1qS0toMjZ5SkxIYWI1eEhpYzVNRmV3cUJ0RTduMmJkbEFYV3Z5UWM0SGEySko4MGU2SVRfTHZwd1JpaFZCOXZXdXRSU25OazYyNzlCbFhraVNuZkNVVWtUTnM0eEFBdVZlUktUODVmNA?oc=5",
+      "looked_up_at": "2026-11-03T14:06:08.334603+00:00",
+      "search_queries": [
+        "\"NCL Cruise Night presented by Norwegian Cruise Line\" entry",
+        "cruise night presented norwegian line sweepstakes enter official",
+        "cruise night presented norwegian line giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "06417c209951ffd3": {
+      "contest_title": "Eglin FCU launches cruise giveaway for America’s 250th celebration - Get The Coast",
+      "original_article": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQ25TUm16ZERBQ2VkYnBRUV9zQjBPUUpIUUJpVk1YUGZRYk0ycEtrZUo4M0wyTFZSSUJZZDVhVkQ1N2dtZ3ljb1NlQ0hCRmd2YktSNWNQWWlaZnNrbFczTU0wem5CaU9KT29USF9LTURiVGtDaThpWkZ5Q3A5WXdiR3Z1YjNMU0hiZGU3NEZVbk9vZ0R3?oc=5",
+      "looked_up_at": "2026-11-03T14:06:08.352900+00:00",
+      "search_queries": [
+        "\"Eglin FCU launches cruise giveaway for America s 250th celebration\" entry",
+        "eglin launches cruise america 250th celebration sweepstakes enter official",
+        "eglin launches cruise america 250th celebration giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "9721ad9849d37640": {
+      "contest_title": "Zac Brown Band gives away free cruise ship vacations to Fenway crowd - NBC Boston",
+      "original_article": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSENtWjlpUVlMZHlRMXRUdzZWZ2I5ZzVCdTRvbzg2Q05IWUxGZXRkY1pTMGE3SGFPWDlHQ3ZmU2ZVcUxrd2JUbnd3YXpLU3hSb2lISFlhWVN4bzRmRkxUay1ONlU5cUxmZ2JmTm9zbTRnMTY4UmZ0V3N5Vlgzam5XVUV4eThqWHdKcDF6dktYVGxOczdpZDN3Z01KUTFISHViR3ZFeDd2MGFoYkdaSDM5dUp4V1TSAbwBQVVfeXFMUGVDRkIzNGlfSzlFNU9TN0JuSkFnV2wwNjlRVjIweXRROTFfQzN2RExkWnNURUFkR0ZzcWc0LVhrQXU2ZjZTbTNnbVhwVGlEY0F4SzF2aFpTaGlXTDVrMVI1RTJocGVuVDhEbnRiQzhkMHNKb3o3R1RKQmRRQ2x5dkR5RG9NcEYtZWZ6Um44QWF6UmlvaUlrNTJSbzNCMnVnTklQVndEZGxIbDIwRDhfQVo5RXVfNFp1Tm9WMng?oc=5",
+      "looked_up_at": "2026-11-03T14:06:08.482198+00:00",
+      "search_queries": [
+        "\"Zac Brown Band gives away free cruise ship vacations to Fenway crowd\" entry",
+        "brown band gives away free cruise ship sweepstakes enter official",
+        "brown band gives away free cruise ship giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "e73ea4dc9487d787": {
+      "contest_title": "Out-of-State Group Tests Oklahoma Law With Cruise for Political Donation Sweepstakes - Oklahoma Watch",
+      "original_article": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcjMxYnlhS09mSm5fVG9KUTIwZWg0X2JkNU9CVDE1d0pFQU9fXzd6SFRTaUtkOGoxTjFQZkV6ejNpVk9CbDN6Q0FLRGEtVWFiaW9IQndZd0VOUlhIUHpGN3BibEZnMThNS3Vpak55WG9MZ09QNW8yYTRnYjh0WW13ZURVQ0l6YkxNX3JaR19zTUQ5eUFoVjV5M1lwRWFyUEE2bGRRYWM1U09uUFFvb214bnhrTFFRZEd6eGJLMy1Wbw?oc=5",
+      "looked_up_at": "2026-11-03T14:06:08.670467+00:00",
+      "search_queries": [
+        "\"Out-of-State Group Tests Oklahoma Law With Cruise for Political Donation Sweepstakes\" entry",
+        "state group tests oklahoma cruise political donation sweepstakes enter official",
+        "state group tests oklahoma cruise political donation giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "76b90d63c89443f1": {
+      "contest_title": "TODAY fans play for a chance to win a cruise: See if they win! - TODAY.com",
+      "original_article": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbTROd25Bejh6cTNNRF9JUi1XVDRYeWpxLWxFZFRqajZsZGJKVFU1SU81TlhDOXpRZFJ1S2hjMXJpZXJVZDh0VDVpYTVGd002ZVVUU2xlNGROOWcxUWpBS2VWOHl2RHdUS0Rxa0wzNlg1SmJJRWpRempld01PNnlaY3k5alZmQVNTQjRtaWJ1bDRFLXdxRGlOZnExRlNsRktxeW1n?oc=5",
+      "looked_up_at": "2026-11-03T14:06:08.559831+00:00",
+      "search_queries": [
+        "\"TODAY fans play for a chance to win a cruise  See if they win \" entry",
+        "today fans play chance cruise they sweepstakes enter official",
+        "today fans play chance cruise they giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "83b2b7db21f17b41": {
+      "contest_title": "MARGARITAVILLE AT SEA AND ZAC BROWN BAND LAUNCH ONCE-IN-A-LIFETIME CRUISE GIVEAWAYS ON THE LOVE & FEAR TOUR - PR Newswire",
+      "original_article": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNOGFBWWFxY2xjaFRnSnVEQXVJM2t5T0U0OEJrSnp4NXhNNnVES0J3SzdMR3pTWGlWb0JXU2VrT1RZUXNMZnhmSW9zQ2ZWS051ZzM4OGlEdmpGU01RVmptTlY4WmNDMUMtcEtSSmc3aWdOR3Jac2phel9iWGFMYlFZaFp4Q055bE56ekJxUkdHUy1PWmNHdE5QaGZlZlRUQVRkbWpnQzFUQ3pnU1FqTjNVQU55QTJESW5nRGhtMnB1SGNyTE5kTU52NDhIX2oybVNYcG1BbnJxWFJQTEFnSl9FVEoxdnVfcTBQeC12VmdGcVRPZkxT?oc=5",
+      "looked_up_at": "2026-11-03T14:06:08.640159+00:00",
+      "search_queries": [
+        "\"MARGARITAVILLE AT SEA AND ZAC BROWN BAND LAUNCH ONCE-IN-A-LIFETIME CRUISE GIVEAWAYS ON THE LOVE & FEAR TOUR\" entry",
+        "margaritaville brown band launch once lifetime cruise sweepstakes enter official",
+        "margaritaville brown band launch once lifetime cruise giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "62ab72d43d933614": {
+      "contest_title": "Fantastic Voyage Sail Away Song of the Day Contest Official Rules - The Rickey Smiley Morning Show",
+      "original_article": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNFdfdjZ4cFExdjNEYTJGTS1rRHIwaGJGUkx4dmlBMi11ZjdicmxvMjZmTUI1UkltV1NGN3FRNm9ZazZweWdYU1B3U0Q0aUF0Tk0wQzRjNVp6MVRxRmdzcUFDRzlrbXdnUUxHMHM3bFVZXzF1cDU4aG9jdWRxQmVfY2FHdXdZai1ZYkxGT0k0SHVuWGdtNmZEVnRya2ZFOGxBdW4yRQ?oc=5",
+      "looked_up_at": "2026-11-03T14:06:08.580726+00:00",
+      "search_queries": [
+        "\"Fantastic Voyage Sail Away Song of the Day Contest Official Rules\" entry",
+        "fantastic voyage sail away song sweepstakes enter official",
+        "fantastic voyage sail away song giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "123f79881bd4558a": {
+      "contest_title": "Cruise Ship Smoking Rules: Cigarettes, Limits & Tips (2026) - Cruise Mummy",
+      "original_article": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9KYTRweFk0U2RvWVVNX0pJamNDY0hKWnQ5eFdxajdqOHBGV3h6QmJHTWU1OGdOWENOMmVvSENnMnRlWEV3Rm0wRzZlbGRBQ09pdnVfd2lsVG9VMW1ybFdqR2k3WnRudGl4WVE?oc=5",
+      "looked_up_at": "2026-11-03T14:06:08.624570+00:00",
+      "search_queries": [
+        "\"Cruise Ship Smoking Rules  Cigarettes  Limits & Tips  2026 \" entry",
+        "cruise ship smoking cigarettes limits tips sweepstakes enter official",
+        "cruise ship smoking cigarettes limits tips giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "babe44c3d95db3df": {
+      "contest_title": "NCCC News : WIN WITH AMBASSADOR CRUISE LINE AT FOXES FIXTURE - Trent Bridge",
+      "original_article": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWlNPUl9TclA0RzV1ci1LYnE3a2VQMTRlak1nWUdqSUIzTUZGZXdSd1pDUXFnVDA1LVZhY3RLNVdfREg1ZnF4Ty1sMlZYN01lRnVXekZZWldOSzZSeUpFdWVQT2xRQUxoeTc3ODA0dTlwUm9EVnNDdzhDY3pNNW0zeVUycXh0VzFRUUtWNnJ2UG00X1lZZkI4azlwTWZ1eF9qN1E?oc=5",
+      "looked_up_at": "2026-11-03T14:06:08.583980+00:00",
+      "search_queries": [
+        "\"NCCC News   WIN WITH AMBASSADOR CRUISE LINE AT FOXES FIXTURE\" entry",
+        "nccc news ambassador cruise line foxes fixture sweepstakes enter official",
+        "nccc news ambassador cruise line foxes fixture giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "8e1c4db5e4a89120": {
+      "contest_title": "Students could win a laptop from Attorney Gordon McKernan - KALB | News Channel 5",
+      "original_article": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZzR5TDhZZmhyaDBCUkl5VGFaMEZzVExfN0gzbW1sc2JxYVlVZFZOeWswS0l2M1JYc1d3cmJsWTdRQ2JWVGdLZ3RBZ0pjRlZSTHJ2QkRKOHdaZ21GYW0tQXN5Zkp1VC1VQ1p6ejFCSXBTaXNvbkVhV0NKQVFQdmxjaFAybnFvN0hjYWg00gGfAUFVX3lxTE9LVzloV2hiRnFqWmN5ckptTEFFa0poOUVtSzl5RHY0ZXp5VS1zRlhsRFJ4UzN3RmpKWVJyNTF5bzBCT0tJeEtMTnBZTTVLMFBwem9VcjczUG0wZTdXUUYtNzk5ZEJhNnFhWE5zQjJXcjgzWWtkZVEyUlpvMEN1TnlZbEY5eDAwM2RZYV9SYmZXMXF4QkVpaUFHaVIyMTMxZw?oc=5",
+      "looked_up_at": "2026-11-03T14:06:08.642607+00:00",
+      "search_queries": [
+        "\"Students could win a laptop from Attorney Gordon McKernan\" entry",
+        "students could laptop attorney gordon mckernan sweepstakes enter official",
+        "students could laptop attorney gordon mckernan giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "f1e44ffb2fa0939a": {
+      "contest_title": "Holiday luncheon and toy giveaway held for families in need at Philadelphia Elks Center - 6abc Philadelphia",
+      "original_article": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdE9YUEdJMklULVA3cWhUQzJJS2d4UjZISkxrdUxEeWxBbFVyRTJmdGQ2anhWR1FDOW9oOE9lLWpncktDamtkenpBYzFjYklBeC1Ic3h5S2ZTTktJd19qdU9WMm9hTHVqQmdIRzQtVkpURXRuTE80NnIwWGhoZjg4Q1QtS0d2RDIycnJieWhLeWtsVUlpLWVJVHNBdVFyRVltZ2FYWU1PbVTSAa4BQVVfeXFMTTZlYjRKakxnbXdMU1k3bW5uRERXOTY3dFV5clBGUWZ1eFEyODIxYXBwd196d2JUUDFNbDZnNHJTd2l4X1FaTV83NFl3c0xqVVNGUGhWSk5YQmxmQVZCTC1PRk1mSkxnWG9uSWkweEpYV1BnOVctMjRBUlhhcHdYd1VYd3pFNVREMEhnWkZHZEVwMmozTk5uS0pZdEh6ejVTU0N2X3VXY2tJb2FwOUd3?oc=5",
+      "looked_up_at": "2026-11-03T14:06:08.614275+00:00",
+      "search_queries": [
+        "\"Holiday luncheon and toy giveaway held for families in need at Philadelphia Elks Center\" entry",
+        "holiday luncheon held families need philadelphia elks sweepstakes enter official",
+        "holiday luncheon held families need philadelphia elks giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "2caabe0f0fbedc3b": {
+      "contest_title": "Don’t miss out: Warwickshire youth event still open for bookings - Warwickshire County Council",
+      "original_article": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNd2pMb0xSbmY3MThrSDRabWVMb2JpTHNNbjkyOUhjaUhmdVRybnVOT0wwbExtY3ZjY0dtSzZxNVJtSTc0Z2Z6d1VOQTJ0ZkUwaU1qR1lPRzZtVnFxakVEcFJHUldlV2lkcEZndEFZTTJONldLM1B1RVVWdC1ad3BMQnBkVEIxYkh5OU1TUVAzRjFwTlNkbTd1dGhmZnZtTjJRUEdMQXpwb1hwTHg1YnQtS0Itbw?oc=5",
+      "looked_up_at": "2026-11-03T14:06:08.653413+00:00",
+      "search_queries": [
+        "\"Don t miss out  Warwickshire youth event still open for bookings\" entry",
+        "miss warwickshire youth event still open bookings sweepstakes enter official",
+        "miss warwickshire youth event still open bookings giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "848ffbfc08672e83": {
+      "contest_title": "No laptop giveaway – ‘Tecno Mobile Uganda’ Facebook page a scam - Africa Check",
+      "original_article": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVnVnOHh2YVJVZnRBMkJpLXJPR2xWWms3Z3piZG9CRnRGTG9qSXM5aXR1OXJTSmMxZ3l4MS1qVUZ4ZTR6T2x0Vno4elE0d3JVcVl2N2RCQ3pCWlZ0dlpNUVBXN21lQ3dHTk1IMFZYSXN5NmEtbHo4WmhDVmRLd1NrdGZXWmV5X2VaanlCUWZuYmEwT3M3a3NnV0lobl9DZTZkME9sU3dpbE5QZ053RGlNbk5iOFpRbzNQVTd5bw?oc=5",
+      "status": "insufficient_title"
+    },
+    "4423bd1b51bd0978": {
+      "contest_title": "Jumpstart your new career at the Vernon Hiring and Education Expo! - Vernon Morning Star",
+      "original_article": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYlJmRF9nNWNMQ1ZpQVdjYTJGU1huTmE2Rmx3U3E2b1JxOXhVTFlHbmJnMWl0N2VleUtrTEZ1UEdzaDk0dHlaNUpxeUVYUl9jdVBQaEpDTmVJWHNxeHpIQ3NyVjI0WWJzQ0ZZalNkRW1VYlVQM0FiMTYtQnRqbm5RMWQ5d2E2ZHNac0ozVHBLbTB0RDN5UkVZQUxPVldzTFc3QjdEdGZ5U185MFVtV1Q5djZXbUxJOS1ySHhKSGVieHZsU2M?oc=5",
+      "looked_up_at": "2026-11-03T14:06:08.653886+00:00",
+      "search_queries": [
+        "\"Jumpstart your new career at the Vernon Hiring and Education Expo \" entry",
+        "jumpstart your career vernon hiring education expo sweepstakes enter official",
+        "jumpstart your career vernon hiring education expo giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "f4b85fb92afaf04c": {
+      "contest_title": "Greater Victoria Hiring and Education Expo returns for 2026 - Victoria News",
+      "original_article": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOVJ2RlNCYk9EeXhmQ1Q4cElwVEYwczdIMTMxc0pkNU0tMUVySVZnVlhDX29lZXdfU093TXZzUDh5MjhLczRad3NsWGdxSk9RcDB1d1BfRWxqR24tMTByQ0dGbVdFQzBXVGNHQ2Nxc2JPcy1lWFgxeE9MU2EydDc0VFZmbXktX0pRSFZhSlgxblpJOFJGemFSV0YtUnNzdw?oc=5",
+      "looked_up_at": "2026-11-03T14:06:08.753335+00:00",
+      "search_queries": [
+        "\"Greater Victoria Hiring and Education Expo returns for 2026\" entry",
+        "greater victoria hiring education expo returns sweepstakes enter official",
+        "greater victoria hiring education expo returns giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "6ed7f9838c845de4": {
+      "contest_title": "Get your child 'Back-to-School' ready with these retail offers - Gulf Business",
+      "original_article": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTGRQeDlxMjNJMklUcHdMOGZLX05rOWZaYXZwbmItMS1PQk1PaHlobkgxZG1vR0Jib3dRQXBxSTQwaXVoS0hFbGFtc2lFZUhLRzV2R1hsRHY5OVdMOXFJZzBQLVBuTGZRdnNJUDMxLUg4WkpjX05RbWplWURZbHhaTm40U3VvU0VEU0dhUmpoeFdfaVE?oc=5",
+      "looked_up_at": "2026-11-03T14:06:08.819020+00:00",
+      "search_queries": [
+        "\"Get your child 'Back-to-School' ready with these retail offers\" entry",
+        "your child back school ready these retail sweepstakes enter official",
+        "your child back school ready these retail giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "53d4d40e8cbd9804": {
+      "contest_title": "51 Best Ways to Get a Free Laptop (Even from Apple, Amazon & Dell!) - MoneyPantry.com",
+      "original_article": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5GU3hjZ2hLWC1YV2dhUDlraHd1bWNQZnhOUlp3NHBfWVJIaDJlemc4cFlnUG41Z21ncWdkRy12WGZyazBJZE1EajZ4QnQtajlsQndqNVZ6LTlSRW1WaEE?oc=5",
+      "looked_up_at": "2026-11-03T14:06:08.927550+00:00",
+      "search_queries": [
+        "\"51 Best Ways to Get a Free Laptop  Even from Apple  Amazon & Dell  \" entry",
+        "best ways free laptop even apple amazon sweepstakes enter official",
+        "best ways free laptop even apple amazon giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "600adab51d2a6813": {
+      "contest_title": "FG Announces Digital Skills Challenge With Laptop, Tablet and Smartphone Rewards - Nigeria Startup News",
+      "original_article": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONnpyRmw5VnBZSG5iMlNoV2NyWGdTQmhPSDNkRHRueXZhNTVHdExLckV0cXh5c19reFNyWGc1MHREUDhfT2N3MHBKdi1FRjZTRElmTkVSaFRCdTNYY085WE1ON0w1anY4eV9qOURNNVZFckxZWmREaGRIbk1KUmV3eGZvNzAtVFJkb2F3am1xMUN4d2lUNVdkdDBIYktzeGsycTBjdzJHaWRRY1NXMzRtUTZ4RQ?oc=5",
+      "looked_up_at": "2026-11-03T14:06:08.902527+00:00",
+      "search_queries": [
+        "\"FG Announces Digital Skills Challenge With Laptop  Tablet and Smartphone Rewards\" entry",
+        "announces digital skills challenge laptop tablet smartphone sweepstakes enter official",
+        "announces digital skills challenge laptop tablet smartphone giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "1f535a25458ebbd0": {
+      "contest_title": "Win a Phone Call With Jana Kramer by Showing Her ‘Love’ - Taste of Country",
+      "original_article": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVVhWZkE1R0dwelVSQVJBNTlMcHJzRElRTG41bTRKS3hvWjdsSmljWTF4RTF3UWNGWW5WMjVEZHFiMUVtckYzTlRlNjM1cEFtWWpjT1lJZHRuMTZDcElmdXRQWnlUcUdFUXF6Rm81cXVTRndlTzctLTdjS3NUQzRIblUyeWxDZjd3?oc=5",
+      "looked_up_at": "2026-11-03T14:06:08.929292+00:00",
+      "search_queries": [
+        "\"Win a Phone Call With Jana Kramer by Showing Her  Love \" entry",
+        "phone call jana kramer showing love sweepstakes enter official",
+        "phone call jana kramer showing love giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "e0262b9d427eec38": {
+      "contest_title": "Play Liverpool QUIZ for chance to win a prize - Premier League",
+      "original_article": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9CSVloZ1I3NjJIVWc5b202c0hmNER2MjZvc1JYSXlmUlBTbFRYOGEtM2ktazRTaG5iWXFpUXc0Y0R3eTFjWW95bXRibDctdDNrR21PdkNweUtYcnFDUzBTaC1qeURaNE1ZWkRVcw?oc=5",
+      "looked_up_at": "2026-11-03T14:06:08.928252+00:00",
+      "search_queries": [
+        "\"Play Liverpool QUIZ for chance to win a prize\" entry",
+        "play liverpool quiz chance prize sweepstakes enter official",
+        "play liverpool quiz chance prize giveaway entry rules"
       ],
       "search_version": 4,
       "status": "entry_page_not_found"
