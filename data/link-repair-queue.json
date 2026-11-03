@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-03T08:17:46.950247+00:00",
-  "auditGeneratedAt": "2026-11-03T08:17:26.708402+00:00",
-  "count": 271,
+  "generatedAt": "2026-11-03T20:13:44.210699+00:00",
+  "auditGeneratedAt": "2026-11-03T20:13:20.175917+00:00",
+  "count": 272,
   "notice": "Research queue only; do not infer a 403 means dead link or automatically promote guessed URLs. Expired records should remain accessible in the expired archive.",
   "queue": [
     {
@@ -315,21 +315,6 @@
       "reviewStatus": "needs_manual_review"
     },
     {
-      "id": "sourced-d23a4efd9f48175e",
-      "name": "RipSkirt Hawaii Live Like You're On Vacation Sweepstakes",
-      "priority": 85,
-      "issues": [
-        "likely_rules_page_not_entry",
-        "no_form_detected_manual_check",
-        "redirected_to_rules_page"
-      ],
-      "httpStatus": 200,
-      "currentEntryUrl": "https://ripskirthawaii.com/pages/the-live-like-youre-on-vacation-sweepstakes-official-rules",
-      "officialRulesUrl": "https://giveowl.com/e/sierra-brands-group-ripskirt-hawaii--ripskirt-hawaii-live-like-you-re-on-vacation-sweepstakes--2026/",
-      "endDate": "2026-11-15",
-      "reviewStatus": "needs_manual_review"
-    },
-    {
       "id": "sourced-aeafb2521600846d",
       "name": "Sparkle Home Essentials Sweepstakes",
       "priority": 85,
@@ -357,21 +342,6 @@
       "currentEntryUrl": "https://www.vanityfairnapkins.com/win-a-year-supply-sweeps/rules",
       "officialRulesUrl": "https://giveowl.com/e/georgia-pacific-consumer-products-vanity-fair--vanity-fair-home-essentials-sweepstakes--2026/",
       "endDate": "2026-11-15",
-      "reviewStatus": "needs_manual_review"
-    },
-    {
-      "id": "sourced-f31377b3301f6ca1",
-      "name": "BURST x MAGNA-TILES Giveaway",
-      "priority": 85,
-      "issues": [
-        "likely_rules_page_not_entry",
-        "no_form_detected_manual_check",
-        "redirected_to_rules_page"
-      ],
-      "httpStatus": 200,
-      "currentEntryUrl": "https://burstoralcare.com/pages/magna-tiles-x-burstkids-sweepstakes-rules",
-      "officialRulesUrl": "https://giveowl.com/e/burst-oral-care--burst-x-magna-tiles-giveaway--2026/",
-      "endDate": "2026-11-16",
       "reviewStatus": "needs_manual_review"
     },
     {
@@ -463,21 +433,6 @@
       "reviewStatus": "needs_manual_review"
     },
     {
-      "id": "sourced-b669d933dccff79f",
-      "name": "The Forward Bar BFCM Sweepstakes",
-      "priority": 85,
-      "issues": [
-        "likely_rules_page_not_entry",
-        "no_form_detected_manual_check",
-        "redirected_to_rules_page"
-      ],
-      "httpStatus": 200,
-      "currentEntryUrl": "https://theforwardbar.com/pages/bfcm-sweepstakes-official-rules",
-      "officialRulesUrl": "https://giveowl.com/e/the-forward-company-inc--the-forward-bar-bfcm-sweepstakes--2026/",
-      "endDate": "2026-11-24",
-      "reviewStatus": "needs_manual_review"
-    },
-    {
       "id": "sourced-473ace576a87748e",
       "name": "WinCo Foods 'Fresh Turkey, Full Table' Butterball Sweepstakes",
       "priority": 85,
@@ -490,35 +445,6 @@
       "currentEntryUrl": "https://promotions.wincofoods.com/fresh-turkey-full-table-butterball-sweepstakes-official-rules-copy/",
       "officialRulesUrl": "https://giveowl.com/e/winco-foods--winco-foods-fresh-turkey-full-table-butterball-sweepstakes--2026/",
       "endDate": "2026-11-26",
-      "reviewStatus": "needs_manual_review"
-    },
-    {
-      "id": "sourced-fd5e5608be989a09",
-      "name": "Surron Ultra Bee Giveaway",
-      "priority": 85,
-      "issues": [
-        "likely_rules_page_not_entry",
-        "no_form_detected_manual_check",
-        "redirected_to_rules_page"
-      ],
-      "httpStatus": 200,
-      "currentEntryUrl": "https://txcdesigns.com/pages/giveaway-official-rules",
-      "officialRulesUrl": "https://giveowl.com/e/txc-designs-the-galligan-company--surron-ultra-bee-giveaway--2026/",
-      "endDate": "2026-11-27",
-      "reviewStatus": "needs_manual_review"
-    },
-    {
-      "id": "sourced-12e59c4a02842fe6",
-      "name": "DYLD DIG 009 1993 Mazda RX-7 Sweepstakes",
-      "priority": 85,
-      "issues": [
-        "likely_rules_page_not_entry",
-        "redirected_to_rules_page"
-      ],
-      "httpStatus": 200,
-      "currentEntryUrl": "https://dyldindustries.com/pages/dig-009-official-rules",
-      "officialRulesUrl": "https://giveowl.com/e/dialed-industries-llc-dyld--dyld-dig-009-1993-mazda-rx-7-sweepstakes--2026/",
-      "endDate": "2026-11-29",
       "reviewStatus": "needs_manual_review"
     },
     {
@@ -1033,6 +959,76 @@
       "currentEntryUrl": "https://www.kitchenaidxcorkciclesweeps.com/rules",
       "officialRulesUrl": "https://giveowl.com/e/whirlpool-corporation-kitchenaid--kitchenaid-x-corkcicle-mindfullness-fridge-sweepstakes--2026/",
       "endDate": "2026-11-15",
+      "reviewStatus": "needs_manual_review"
+    },
+    {
+      "id": "sourced-d23a4efd9f48175e",
+      "name": "RipSkirt Hawaii Live Like You're On Vacation Sweepstakes",
+      "priority": 80,
+      "issues": [
+        "likely_rules_page_not_entry",
+        "access_restricted_unconfirmed"
+      ],
+      "httpStatus": 429,
+      "currentEntryUrl": "https://ripskirthawaii.com/pages/the-live-like-youre-on-vacation-sweepstakes-official-rules",
+      "officialRulesUrl": "https://giveowl.com/e/sierra-brands-group-ripskirt-hawaii--ripskirt-hawaii-live-like-you-re-on-vacation-sweepstakes--2026/",
+      "endDate": "2026-11-15",
+      "reviewStatus": "needs_manual_review"
+    },
+    {
+      "id": "sourced-f31377b3301f6ca1",
+      "name": "BURST x MAGNA-TILES Giveaway",
+      "priority": 80,
+      "issues": [
+        "likely_rules_page_not_entry",
+        "access_restricted_unconfirmed"
+      ],
+      "httpStatus": 429,
+      "currentEntryUrl": "https://burstoralcare.com/pages/magna-tiles-x-burstkids-sweepstakes-rules",
+      "officialRulesUrl": "https://giveowl.com/e/burst-oral-care--burst-x-magna-tiles-giveaway--2026/",
+      "endDate": "2026-11-16",
+      "reviewStatus": "needs_manual_review"
+    },
+    {
+      "id": "sourced-b669d933dccff79f",
+      "name": "The Forward Bar BFCM Sweepstakes",
+      "priority": 80,
+      "issues": [
+        "likely_rules_page_not_entry",
+        "access_restricted_unconfirmed"
+      ],
+      "httpStatus": 429,
+      "currentEntryUrl": "https://theforwardbar.com/pages/bfcm-sweepstakes-official-rules",
+      "officialRulesUrl": "https://giveowl.com/e/the-forward-company-inc--the-forward-bar-bfcm-sweepstakes--2026/",
+      "endDate": "2026-11-24",
+      "reviewStatus": "needs_manual_review"
+    },
+    {
+      "id": "sourced-fd5e5608be989a09",
+      "name": "Surron Ultra Bee Giveaway",
+      "priority": 80,
+      "issues": [
+        "likely_rules_page_not_entry",
+        "access_restricted_unconfirmed"
+      ],
+      "httpStatus": 429,
+      "currentEntryUrl": "https://txcdesigns.com/pages/giveaway-official-rules",
+      "officialRulesUrl": "https://giveowl.com/e/txc-designs-the-galligan-company--surron-ultra-bee-giveaway--2026/",
+      "endDate": "2026-11-27",
+      "reviewStatus": "needs_manual_review"
+    },
+    {
+      "id": "sourced-12e59c4a02842fe6",
+      "name": "DYLD DIG 009 1993 Mazda RX-7 Sweepstakes",
+      "priority": 80,
+      "issues": [
+        "likely_rules_page_not_entry",
+        "access_restricted_unconfirmed"
+      ],
+      "httpStatus": 429,
+      "currentEntryUrl": "https://dyldindustries.com/pages/dig-009-official-rules",
+      "officialRulesUrl": "https://giveowl.com/e/dialed-industries-llc-dyld--dyld-dig-009-1993-mazda-rx-7-sweepstakes--2026/",
+      "endDate": "2026-11-29",
       "reviewStatus": "needs_manual_review"
     },
     {
@@ -1636,9 +1632,10 @@
       "name": "Highside Lab Ducati Monster 821 Giveaway",
       "priority": 70,
       "issues": [
-        "entry_matches_rules_link"
+        "entry_matches_rules_link",
+        "access_restricted_unconfirmed"
       ],
-      "httpStatus": 200,
+      "httpStatus": 429,
       "currentEntryUrl": "https://highsidelab.com/pages/how-to-enter-003",
       "officialRulesUrl": "https://highsidelab.com/pages/how-to-enter-003",
       "endDate": "2026-11-15",
@@ -2123,9 +2120,9 @@
       "priority": 70,
       "issues": [
         "entry_matches_rules_link",
-        "no_form_detected_manual_check"
+        "access_restricted_unconfirmed"
       ],
-      "httpStatus": 200,
+      "httpStatus": 429,
       "currentEntryUrl": "https://www.shoepalace.com/pages/giveaway-rules",
       "officialRulesUrl": "https://www.shoepalace.com/pages/giveaway-rules",
       "endDate": "2026-12-13",
@@ -2220,9 +2217,10 @@
       "name": "Wild Fly Argentina Fishing Trip",
       "priority": 70,
       "issues": [
-        "entry_matches_rules_link"
+        "entry_matches_rules_link",
+        "access_restricted_unconfirmed"
       ],
-      "httpStatus": 200,
+      "httpStatus": 429,
       "currentEntryUrl": "https://wild-fly.com/pages/argentina-sweepstakes",
       "officialRulesUrl": "https://wild-fly.com/pages/argentina-sweepstakes",
       "endDate": "2026-12-31",
@@ -2349,6 +2347,19 @@
       "reviewStatus": "needs_manual_review"
     },
     {
+      "id": "common-uniform-october-2026",
+      "name": "Common Uniform Daily Drawings",
+      "priority": 30,
+      "issues": [
+        "access_restricted_unconfirmed"
+      ],
+      "httpStatus": 429,
+      "currentEntryUrl": "https://commonuniform.com/pages/sign-up",
+      "officialRulesUrl": "https://commonuniform.com/pages/official-rules",
+      "endDate": "2026-11-04",
+      "reviewStatus": "needs_manual_review"
+    },
+    {
       "id": "cold-stone-cat-hat-2026",
       "name": "The Cat in the Hat Sweepstakes",
       "priority": 30,
@@ -2414,6 +2425,32 @@
       "reviewStatus": "needs_manual_review"
     },
     {
+      "id": "sourced-69bc4a432486272b",
+      "name": "Molekule Ultimate Longevity Stack Sweepstakes",
+      "priority": 30,
+      "issues": [
+        "access_restricted_unconfirmed"
+      ],
+      "httpStatus": 429,
+      "currentEntryUrl": "https://molekule.com/pages/longevity",
+      "officialRulesUrl": "https://giveowl.com/e/molekule-group-inc--molekule-ultimate-longevity-stack-sweepstakes--2026/",
+      "endDate": "2026-11-16",
+      "reviewStatus": "needs_manual_review"
+    },
+    {
+      "id": "sourced-6590f6678bf1a591",
+      "name": "Monos Mercedes-Benz G320 Giveaway",
+      "priority": 30,
+      "issues": [
+        "access_restricted_unconfirmed"
+      ],
+      "httpStatus": 429,
+      "currentEntryUrl": "https://monos.com/pages/giveaway-rules",
+      "officialRulesUrl": "https://giveowl.com/e/monos-travel-usa-operations-ltd--monos-mercedes-benz-g320-giveaway--2026/",
+      "endDate": "2026-11-26",
+      "reviewStatus": "needs_manual_review"
+    },
+    {
       "id": "sourced-d8fc1dcb60eeb8e0",
       "name": "ElectroGum Early Black Friday Apple Watch Giveaway",
       "priority": 30,
@@ -2437,6 +2474,32 @@
       "currentEntryUrl": "https://www.ordolife.com/en-us/pages/giveaway-terms-conditions",
       "officialRulesUrl": "https://giveowl.com/e/ordo-ordoclub-ltd--ordo-black-friday-airbnb-giveaway-2026-us--2026/",
       "endDate": "2026-11-29",
+      "reviewStatus": "needs_manual_review"
+    },
+    {
+      "id": "sourced-98d1aa1c689d2217",
+      "name": "ACON Black Friday 2026 \"Ultimate Backyard Setup\" Giveaway",
+      "priority": 30,
+      "issues": [
+        "access_restricted_unconfirmed"
+      ],
+      "httpStatus": 429,
+      "currentEntryUrl": "https://us.acon24.com/pages/black-friday",
+      "officialRulesUrl": "https://giveowl.com/e/acon-distributacon-inc--acon-black-friday-2026-ultimate-backyard-setup-giveaway--2026/",
+      "endDate": "2026-11-30",
+      "reviewStatus": "needs_manual_review"
+    },
+    {
+      "id": "sourced-0ccdf8fe14341af8",
+      "name": "Apollo Scooters Black Friday Weekly Draw (US)",
+      "priority": 30,
+      "issues": [
+        "access_restricted_unconfirmed"
+      ],
+      "httpStatus": 429,
+      "currentEntryUrl": "https://apolloscooters.co/pages/black-friday-early-access-apollo-scooters",
+      "officialRulesUrl": "https://giveowl.com/e/apollo-imports-inc-apollo-scooters--apollo-scooters-black-friday-weekly-draw-us--2026/",
+      "endDate": "2026-11-30",
       "reviewStatus": "needs_manual_review"
     },
     {
@@ -2947,19 +3010,6 @@
       "reviewStatus": "needs_manual_review"
     },
     {
-      "id": "common-uniform-october-2026",
-      "name": "Common Uniform Daily Drawings",
-      "priority": 20,
-      "issues": [
-        "no_form_detected_manual_check"
-      ],
-      "httpStatus": 200,
-      "currentEntryUrl": "https://commonuniform.com/pages/sign-up",
-      "officialRulesUrl": "https://commonuniform.com/pages/official-rules",
-      "endDate": "2026-11-04",
-      "reviewStatus": "needs_manual_review"
-    },
-    {
       "id": "sourced-fbbd23ff450fd429",
       "name": "Hayabusa UFC BJJ Las Vegas Sweepstakes",
       "priority": 20,
@@ -3157,19 +3207,6 @@
       "reviewStatus": "needs_manual_review"
     },
     {
-      "id": "sourced-69bc4a432486272b",
-      "name": "Molekule Ultimate Longevity Stack Sweepstakes",
-      "priority": 20,
-      "issues": [
-        "no_form_detected_manual_check"
-      ],
-      "httpStatus": 200,
-      "currentEntryUrl": "https://molekule.com/pages/longevity",
-      "officialRulesUrl": "https://giveowl.com/e/molekule-group-inc--molekule-ultimate-longevity-stack-sweepstakes--2026/",
-      "endDate": "2026-11-16",
-      "reviewStatus": "needs_manual_review"
-    },
-    {
       "id": "sourced-6a68d71245deedee",
       "name": "KILLSTAR Black Friday Gift Card Giveaway: win a $1,000 gift card",
       "priority": 20,
@@ -3236,19 +3273,6 @@
       "reviewStatus": "needs_manual_review"
     },
     {
-      "id": "sourced-6590f6678bf1a591",
-      "name": "Monos Mercedes-Benz G320 Giveaway",
-      "priority": 20,
-      "issues": [
-        "no_form_detected_manual_check"
-      ],
-      "httpStatus": 200,
-      "currentEntryUrl": "https://monos.com/pages/giveaway-rules",
-      "officialRulesUrl": "https://giveowl.com/e/monos-travel-usa-operations-ltd--monos-mercedes-benz-g320-giveaway--2026/",
-      "endDate": "2026-11-26",
-      "reviewStatus": "needs_manual_review"
-    },
-    {
       "id": "verified-source-coca-cola-friday-football-2026",
       "name": "Coca-Cola Friday for the Win Football Sweepstakes",
       "priority": 20,
@@ -3284,32 +3308,6 @@
       "httpStatus": 200,
       "currentEntryUrl": "https://fordeventreg.com/assets/pdfs/en/BWF26_Sweepstakes_Rules.pdf",
       "officialRulesUrl": "https://giveowl.com/e/ford-motor-company--2026-ford-bronco-wild-fund-sweepstakes--2026/",
-      "endDate": "2026-11-30",
-      "reviewStatus": "needs_manual_review"
-    },
-    {
-      "id": "sourced-98d1aa1c689d2217",
-      "name": "ACON Black Friday 2026 \"Ultimate Backyard Setup\" Giveaway",
-      "priority": 20,
-      "issues": [
-        "no_form_detected_manual_check"
-      ],
-      "httpStatus": 200,
-      "currentEntryUrl": "https://us.acon24.com/pages/black-friday",
-      "officialRulesUrl": "https://giveowl.com/e/acon-distributacon-inc--acon-black-friday-2026-ultimate-backyard-setup-giveaway--2026/",
-      "endDate": "2026-11-30",
-      "reviewStatus": "needs_manual_review"
-    },
-    {
-      "id": "sourced-0ccdf8fe14341af8",
-      "name": "Apollo Scooters Black Friday Weekly Draw (US)",
-      "priority": 20,
-      "issues": [
-        "no_form_detected_manual_check"
-      ],
-      "httpStatus": 200,
-      "currentEntryUrl": "https://apolloscooters.co/pages/black-friday-early-access-apollo-scooters",
-      "officialRulesUrl": "https://giveowl.com/e/apollo-imports-inc-apollo-scooters--apollo-scooters-black-friday-weekly-draw-us--2026/",
       "endDate": "2026-11-30",
       "reviewStatus": "needs_manual_review"
     },
@@ -3428,6 +3426,19 @@
       "httpStatus": 200,
       "currentEntryUrl": "https://www.mms.com/en-us/marvel-rules",
       "officialRulesUrl": "https://giveowl.com/e/mars-wrigley-confectionery-us-m-m-s--m-m-s-2026-heroic-sweepstakes--2026/",
+      "endDate": "2026-12-15",
+      "reviewStatus": "needs_manual_review"
+    },
+    {
+      "id": "sourced-fd8f7fe83dad5f38",
+      "name": "Rabbit Hole Hosting Kit Sweepstakes",
+      "priority": 20,
+      "issues": [
+        "no_form_detected_manual_check"
+      ],
+      "httpStatus": 202,
+      "currentEntryUrl": "https://motivemktg.com/rabbit-hole-hostingkit-rules/",
+      "officialRulesUrl": "https://giveowl.com/e/rabbit-hole-pernod-ricard-usa--rabbit-hole-hosting-kit-sweepstakes--2026/",
       "endDate": "2026-12-15",
       "reviewStatus": "needs_manual_review"
     },
