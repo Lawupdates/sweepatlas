@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-03T14:07:26.998562+00:00",
+  "checked_at": "2026-11-03T23:18:41.772259+00:00",
   "records": 338,
   "unique_urls": 582,
   "active_records": 303,
@@ -4571,7 +4571,7 @@
           "http_status": 200,
           "reachable": true,
           "final_url": "https://elf.watch/draw-terms",
-          "title": "Prize draw terms | Elf Watch"
+          "title": "No prize draw | Elf Watch"
         },
         {
           "type": "rulesUrl",
@@ -5086,9 +5086,10 @@
         },
         {
           "type": "rulesUrl",
-          "http_status": 503,
-          "reachable": false,
-          "error": "http_error"
+          "http_status": 200,
+          "reachable": true,
+          "final_url": "https://giveowl.com/e/sony-electronics--sony-new-england-patriots-wh-1000xm6-headphones-sweepstakes--2026/",
+          "title": "Sony \u00d7 New England Patriots WH-1000XM6 Headphones\u2026"
         }
       ],
       "flags": [],
@@ -6402,9 +6403,10 @@
       "checks": [
         {
           "type": "entryUrl",
-          "http_status": null,
-          "reachable": false,
-          "error": "TimeoutError"
+          "http_status": 200,
+          "reachable": true,
+          "final_url": "https://www.kraftheinz.com/kraft-singles/thesinglegreatestcall/rules",
+          "title": "The Single Greatest Cheeseburger Call Sweepstakes Official Rules | Kraft Singles x NFL | United States | Kraft Heinz"
         },
         {
           "type": "rulesUrl",
@@ -6415,7 +6417,8 @@
         }
       ],
       "flags": [
-        "entryUrl_unconfirmed_or_blocked",
+        "entry_redirects_to_rules",
+        "entry_title_looks_like_rules",
         "entry_url_looks_like_rules"
       ],
       "verified_entry_form": false
