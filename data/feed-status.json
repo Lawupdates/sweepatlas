@@ -1,9 +1,9 @@
 {
-  "checked_at": "2026-11-02T15:43:32.927863+00:00",
-  "records": 332,
-  "unique_urls": 570,
-  "active_records": 305,
-  "flagged_records": 179,
+  "checked_at": "2026-11-03T00:56:01.120796+00:00",
+  "records": 338,
+  "unique_urls": 582,
+  "active_records": 303,
+  "flagged_records": 182,
   "results": [
     {
       "id": "motion-urus-2026",
@@ -1055,7 +1055,7 @@
     {
       "id": "cubot-halloween-2026",
       "expires": "2026-11-02",
-      "expired": false,
+      "expired": true,
       "checks": [
         {
           "type": "entryUrl",
@@ -1280,7 +1280,7 @@
     {
       "id": "vermax-rtx5060-pc-2026",
       "expires": "2026-11-02",
-      "expired": false,
+      "expired": true,
       "checks": [
         {
           "type": "entryUrl",
@@ -2116,7 +2116,7 @@
     {
       "id": "hexclad-gordons-italy-2026",
       "expires": "2026-11-02",
-      "expired": false,
+      "expired": true,
       "checks": [
         {
           "type": "entryUrl",
@@ -2748,10 +2748,9 @@
       "checks": [
         {
           "type": "entryUrl",
-          "http_status": 200,
-          "reachable": true,
-          "final_url": "https://sites.prh.com/bantam-halloween-sweepstakes-2026/rules",
-          "title": "Official Rules - Bantam Books Halloween Sweepstakes - Penguin Random House"
+          "http_status": 404,
+          "reachable": false,
+          "error": "http_error"
         },
         {
           "type": "rulesUrl",
@@ -2762,8 +2761,7 @@
         }
       ],
       "flags": [
-        "entry_redirects_to_rules",
-        "entry_title_looks_like_rules",
+        "entryUrl_not_found",
         "entry_url_looks_like_rules"
       ],
       "verified_entry_form": false
@@ -2840,13 +2838,14 @@
     {
       "id": "sourced-20e9e6142604c38d",
       "expires": "2026-11-02",
-      "expired": false,
+      "expired": true,
       "checks": [
         {
           "type": "entryUrl",
-          "http_status": null,
-          "reachable": false,
-          "error": "TimeoutError"
+          "http_status": 200,
+          "reachable": true,
+          "final_url": "https://pepsipromos.com/freegroceries/freegroceries_rules/",
+          "title": "2026 PEPSI\u00ae GROCERY GIFT CARD SWEEPSTAKES - Pepsi Promos"
         },
         {
           "type": "rulesUrl",
@@ -2856,15 +2855,13 @@
           "title": "2026 Pepsi Grocery Gift Card Sweepstakes | GiveOwl"
         }
       ],
-      "flags": [
-        "entryUrl_unconfirmed_or_blocked"
-      ],
+      "flags": [],
       "verified_entry_form": false
     },
     {
       "id": "sourced-953091ea1905f5d6",
       "expires": "2026-11-02",
-      "expired": false,
+      "expired": true,
       "checks": [
         {
           "type": "entryUrl",
@@ -2887,7 +2884,7 @@
     {
       "id": "sourced-b19780cd2110d49e",
       "expires": "2026-11-02",
-      "expired": false,
+      "expired": true,
       "checks": [
         {
           "type": "entryUrl",
@@ -2910,7 +2907,7 @@
     {
       "id": "sourced-73c5dae42fcbc3ec",
       "expires": "2026-11-02",
-      "expired": false,
+      "expired": true,
       "checks": [
         {
           "type": "entryUrl",
@@ -3528,9 +3525,10 @@
       "checks": [
         {
           "type": "entryUrl",
-          "http_status": 403,
-          "reachable": false,
-          "error": "http_error"
+          "http_status": 200,
+          "reachable": true,
+          "final_url": "https://www.thenorthface.com/en-us/xplr-pass/xplr-pass-sweepstakes",
+          "title": "XPLR Pass Sweepstakes | The North Face"
         },
         {
           "type": "rulesUrl",
@@ -3540,9 +3538,7 @@
           "title": "The North Face Holiday Wish List Sweepstakes | GiveOwl"
         }
       ],
-      "flags": [
-        "entryUrl_unconfirmed_or_blocked"
-      ],
+      "flags": [],
       "verified_entry_form": false
     },
     {
@@ -4240,7 +4236,7 @@
           "http_status": 200,
           "reachable": true,
           "final_url": "https://www.pbs.org/wgbh/masterpiece/sweepstakes-official-rules/",
-          "title": ""
+          "title": "2026 MASTERPIECE European River Cruise Sweepstakes Official Rules | Masterpiece | Official Site | PBS"
         },
         {
           "type": "rulesUrl",
@@ -4250,7 +4246,9 @@
           "title": "2026 MASTERPIECE European River Cruise Sweepstakes | GiveOwl"
         }
       ],
-      "flags": [],
+      "flags": [
+        "entry_title_looks_like_rules"
+      ],
       "verified_entry_form": false
     },
     {
@@ -5622,10 +5620,10 @@
       "checks": [
         {
           "type": "entryUrl",
-          "http_status": 200,
+          "http_status": 202,
           "reachable": true,
           "final_url": "https://motivemktg.com/rabbit-hole-hostingkit-rules/",
-          "title": "Rabbit Hole Hostingkit Rules - Motive Marketing Group"
+          "title": ""
         },
         {
           "type": "rulesUrl",
@@ -7996,7 +7994,7 @@
     {
       "id": "squirt-day-of-the-dead-2026",
       "expires": "2026-11-02",
-      "expired": false,
+      "expired": true,
       "checks": [
         {
           "type": "entryUrl",
@@ -8068,6 +8066,153 @@
         "entryUrl_unconfirmed_or_blocked",
         "entry_and_rules_same_url_review",
         "rulesUrl_unconfirmed_or_blocked"
+      ],
+      "verified_entry_form": false
+    },
+    {
+      "id": "sourced-1604516ace313499",
+      "expires": "2026-11-12",
+      "expired": false,
+      "checks": [
+        {
+          "type": "entryUrl",
+          "http_status": 200,
+          "reachable": true,
+          "final_url": "https://www.devosoutdoor.com/pages/hunting-sweepstakes",
+          "title": "Hunting Sweepstakes | Devos - Marsupial - Mossy Oak &ndash; Devos Outdoor"
+        },
+        {
+          "type": "rulesUrl",
+          "http_status": 200,
+          "reachable": true,
+          "final_url": "https://giveowl.com/e/devos-brands-llc-devos-outdoor--devos-x-marsupial-before-first-light-giveaway--2026/",
+          "title": "Devos x Marsupial Before First Light Giveaway | GiveOwl"
+        }
+      ],
+      "flags": [],
+      "verified_entry_form": false
+    },
+    {
+      "id": "sourced-519a372acfb63d71",
+      "expires": "2026-11-15",
+      "expired": false,
+      "checks": [
+        {
+          "type": "entryUrl",
+          "http_status": 200,
+          "reachable": true,
+          "final_url": "https://shiftpod.com/pages/giveaway-rules",
+          "title": "Giveaway Official Rules &ndash; SHIFTPOD"
+        },
+        {
+          "type": "rulesUrl",
+          "http_status": 200,
+          "reachable": true,
+          "final_url": "https://giveowl.com/e/advanced-shelter-systems-inc-dba-shiftpod--shiftpod-make-it-golden-holiday-giveaway--2026/",
+          "title": "SHIFTPOD \u201cMake It Golden\u201d Holiday Giveaway | GiveOwl"
+        }
+      ],
+      "flags": [
+        "entry_title_looks_like_rules"
+      ],
+      "verified_entry_form": false
+    },
+    {
+      "id": "sourced-85f16c2eb8f7fdf7",
+      "expires": "2026-12-24",
+      "expired": false,
+      "checks": [
+        {
+          "type": "entryUrl",
+          "http_status": 200,
+          "reachable": true,
+          "final_url": "https://www.macerich.com/sweepstakes",
+          "title": "Macerich Shopping Center Holiday Sweepstakes | Macerich"
+        },
+        {
+          "type": "rulesUrl",
+          "http_status": 200,
+          "reachable": true,
+          "final_url": "https://giveowl.com/e/macerich--macerich-shopping-center-holiday-sweepstakes--2026/",
+          "title": "Macerich Shopping Center Holiday Sweepstakes | GiveOwl"
+        }
+      ],
+      "flags": [],
+      "verified_entry_form": false
+    },
+    {
+      "id": "sourced-58bedbc2762dff89",
+      "expires": "2026-12-24",
+      "expired": false,
+      "checks": [
+        {
+          "type": "entryUrl",
+          "http_status": 200,
+          "reachable": true,
+          "final_url": "https://relivex.com/pages/christmas-on-us-official-rules",
+          "title": "Christmas On Us \u2013 Official Rules &ndash; ReliveX International"
+        },
+        {
+          "type": "rulesUrl",
+          "http_status": 200,
+          "reachable": true,
+          "final_url": "https://giveowl.com/e/js-commerce-group-llc-dba-relivex--relivex-christmas-on-us-sweepstakes--2026/",
+          "title": "ReliveX \u201cChristmas On Us\u201d Sweepstakes | GiveOwl"
+        }
+      ],
+      "flags": [
+        "entry_title_looks_like_rules"
+      ],
+      "verified_entry_form": false
+    },
+    {
+      "id": "sourced-d65e33b31d911079",
+      "expires": "2026-12-31",
+      "expired": false,
+      "checks": [
+        {
+          "type": "entryUrl",
+          "http_status": 200,
+          "reachable": true,
+          "final_url": "https://www.coronausa.com/pages/h-or-2026",
+          "title": "Corona Holiday 2026 Sweepstakes Official Rules"
+        },
+        {
+          "type": "rulesUrl",
+          "http_status": 200,
+          "reachable": true,
+          "final_url": "https://giveowl.com/e/crown-imports-llc-corona--corona-holiday-2026-sweepstakes--2026/",
+          "title": "Corona Holiday 2026 Sweepstakes | GiveOwl"
+        }
+      ],
+      "flags": [
+        "entry_title_looks_like_rules"
+      ],
+      "verified_entry_form": false
+    },
+    {
+      "id": "sourced-a082b57ef81236c6",
+      "expires": "2027-01-03",
+      "expired": false,
+      "checks": [
+        {
+          "type": "entryUrl",
+          "http_status": 200,
+          "reachable": true,
+          "final_url": "https://hydrateandwin2026.com/",
+          "title": "Electrolit Holiday Hydration Sweepstakes"
+        },
+        {
+          "type": "rulesUrl",
+          "http_status": 200,
+          "reachable": true,
+          "final_url": "https://giveowl.com/e/electrolit-cab-enterprise-inc--electrolit-holiday-hydration-sweepstakes--2026/",
+          "title": "Electrolit Holiday Hydration Sweepstakes | GiveOwl"
+        }
+      ],
+      "flags": [
+        "entry_is_homepage_review",
+        "entry_redirects_to_homepage"
       ],
       "verified_entry_form": false
     }
