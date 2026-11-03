@@ -1,11 +1,11 @@
 {
-  "generated_utc": "2026-11-03T23:16:57.168470+00:00",
+  "generated_utc": "2026-11-03T23:17:04.144515+00:00",
   "total_source_records": 2010,
-  "searched": 1267,
-  "remaining": 743,
+  "searched": 1435,
+  "remaining": 575,
   "results_by_status": {
-    "entry_page_not_found": 1174,
-    "insufficient_title": 82,
+    "entry_page_not_found": 1314,
+    "insufficient_title": 110,
     "rejected_nonentry": 10,
     "possible_entry_pages": 1
   },
@@ -14595,6 +14595,1826 @@
         "\"Sharks recall defenseman Eric Pohlkamp from San Jose Barracuda\" entry",
         "sharks recall defenseman eric pohlkamp jose barracuda sweepstakes enter official",
         "sharks recall defenseman eric pohlkamp jose barracuda giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "acac1ba5813262ad": {
+      "contest_title": "Hellebuyck Home Debut vs. Oilers | PREVIEW - NHL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1BaEJpSjltal80OVE4Unh5MEUydW1xRHlPS0JodzJGc0dqTFdpODkxZG9pR0lTRmxiMnVUd1Z1MElFOGlZNFZtbVY3Y2ZNQWg4VEJaUFZ2NjZHMmpXR2tJ?oc=5",
+      "looked_up_at": "2026-11-03T23:16:59.692548+00:00",
+      "search_queries": [
+        "\"Hellebuyck Home Debut vs  Oilers\" entry",
+        "hellebuyck home debut oilers sweepstakes enter official",
+        "hellebuyck home debut oilers giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "eec20e96833d8b94": {
+      "contest_title": "Devils Hometown Remix: The Black Parade - NHL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNelYtaUJVLS11Y0d3QldnZmo2LU9hZk5XSXhUcWF5UjRITWdMcGZCVGxmWll5ZlJhcGF1YTFBVXVJSjE3Y3BFV3h2aFQ4bmZGREFjQkxmVy1hcFBBR0NmVm9IMlJ0SDA0emdFaVZRQ3JzM0p1ZXU2UEo3bmxCajNYQy0takRqTmxKQmtJUm53?oc=5",
+      "looked_up_at": "2026-11-03T23:16:59.728717+00:00",
+      "search_queries": [
+        "\"Devils Hometown Remix  The Black Parade\" entry",
+        "devils hometown remix black parade sweepstakes enter official",
+        "devils hometown remix black parade giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "74a531321200c7ca": {
+      "contest_title": "Flyers Unveil Independence Edition Campaign Including Exclusive Retail Capsule - NHL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVXV4YUZ4dWFlNE9lOFY1Yko0YUdnUUwwVGdhSDZOQWREUjQzVmVQSUFfMHBMeHNrWkhmLVViYVdzS2NxQTVsMmJrMVVNMzBsbTFiYWp0OGVqRHZqUFpnQldLU3ZCd1h2ejlSaVFfODZWbUZGT1I0Sm1WRWwtMW5VYzZOQnMwR3c1YnVXN1pjY0tsRmNYd2xUTVlqWnl0Vng5OFV6WXpBWnlUS094UVA2T1hJWkFJNldoY3ppMG5WUWc?oc=5",
+      "looked_up_at": "2026-11-03T23:16:59.874277+00:00",
+      "search_queries": [
+        "\"Flyers Unveil Independence Edition Campaign Including Exclusive Retail Capsule\" entry",
+        "flyers unveil independence edition campaign including exclusive sweepstakes enter official",
+        "flyers unveil independence edition campaign including exclusive giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "49f5d50c478dee48": {
+      "contest_title": "Game Preview: Islanders at Wild - NHL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRmpvcE5EQVRtZk01OWR2YkEzYmdrbVdpNlRvcm5YOVo0dENpWG41WS1uLTZDSGg0d1EtZ1pxM1dvMmNvbTB3WFYtNnFJSFNjM24zNnpBUW5OQVlQcnRIUVlvSFQ2blVBOGUtR1JmZjNrb1ExU3ctby1VQldGYUs1QmVQaw?oc=5",
+      "looked_up_at": "2026-11-03T23:16:59.760198+00:00",
+      "search_queries": [
+        "\"Game Preview  Islanders at Wild\" entry",
+        "game preview islanders wild sweepstakes enter official",
+        "game preview islanders wild giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "de0b3c9e0107de94": {
+      "contest_title": "Schaefer and Pelech Receive Oar, Helmet in Win Over Minnesota - NHL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVDI0a09HVXFnOUhFR1l1VUJjUjNZQlNUTy1BWmRfQmg0NHRvSllYam5aMWs5UWtDMnVSai1FOE5idkxobjBvV3hDR3Z0U2llakZVZVI2b1paUm9vN3NaN2FYMHVkU0dKbVNHcDNFelFzZDFOTy1mYVl3SF84MnAwMmFScFhseFFhUGVEUklVNll0ZUotWnYwOE9aUQ?oc=5",
+      "looked_up_at": "2026-11-03T23:16:59.821434+00:00",
+      "search_queries": [
+        "\"Schaefer and Pelech Receive Oar  Helmet in Win Over Minnesota\" entry",
+        "schaefer pelech receive helmet over minnesota sweepstakes enter official",
+        "schaefer pelech receive helmet over minnesota giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "478c6298be56d6bb": {
+      "contest_title": "Preview: Blues vs. Bruins | St. Louis Blues - NHL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5JNkdHdGpSMmVYMnp4aFpwZmNQMUhWTDBVczkwZG83a056ak9MVWZvTlI0bm1PZGY2SHlJTm1YNVJXR0hiS0VaVEhCcFBJMk5wUzdmU296aTlPV2g1NXJyZUlGclE1Q1JEa3JReF9ZcE0?oc=5",
+      "looked_up_at": "2026-11-03T23:16:59.750942+00:00",
+      "search_queries": [
+        "\"Preview  Blues vs  Bruins\" entry",
+        "preview blues bruins sweepstakes enter official",
+        "preview blues bruins giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "a3a36e9e80e6bf8c": {
+      "contest_title": "Postgame RAV4: Flyers Fall Short Against Caps - NHL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWk1WS0VkeFhjaGtQNzJ2Vm51Q3R0RzU3M2xMYjIyQXNlZVRLZzkzQ0xGT1p1aVhWR0dzSzB2V1BHVWhZTFdBZTNXUHlOcjNKU0UyVnRIbW8wdUxQblJBUEs4SFh4elpfcmhnVGUwRzViTFhRLUgybTJlUWp3VS11QmVn?oc=5",
+      "looked_up_at": "2026-11-03T23:16:59.768558+00:00",
+      "search_queries": [
+        "\"Postgame RAV4  Flyers Fall Short Against Caps\" entry",
+        "postgame rav4 flyers fall short against caps sweepstakes enter official",
+        "postgame rav4 flyers fall short against caps giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "54200b4351929667": {
+      "contest_title": "NHL, DHL announce multiyear international partnership - NHL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9TNHA3VGRPMjhyLVQ5dGQ0NTRwZHI1THhYcEktQUtQdm9EMk8zN3NFcEVYRzNaTGJfNzVLX1M2S0dfejNkVHFRNTd3dUtXRGpidVVQYUc4UURrT3BaVFM0UG5DNXZ1V0QxSjhScXNpcEoxcnVOMmtBcjBn?oc=5",
+      "looked_up_at": "2026-11-03T23:16:59.808271+00:00",
+      "search_queries": [
+        "\"NHL  DHL announce multiyear international partnership\" entry",
+        "announce multiyear international partnership sweepstakes enter official",
+        "announce multiyear international partnership giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "36bebbf0be638cde": {
+      "contest_title": "Fans | Philadelphia Flyers | Philadelphia Flyers - NHL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1MWWdISWl5SThtSGU5M1pnZGItcEk1M29BWllrQVJtS3lRVVRpS2tDUjBxanFldFZhcFNsblhzd3dQVHJwVzZyWWh0LVFWTE5MR21kSjRWdE1nZw?oc=5",
+      "status": "insufficient_title"
+    },
+    "cfbf856f316ebd88": {
+      "contest_title": "NJ Devils Theme Nights & Promotions 2026-27 | New Jersey Devils - NHL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8yZlZqRFo2RUp4b3hmekFTbWNBS0RueXB2TXc1UnZwb3E3NnppaEpUUU1waWhRUW16UUhOWFJSQ0dmX1JsNDNsempjSHRhRVQ0X3VLTFJLNFotYTA?oc=5",
+      "looked_up_at": "2026-11-03T23:16:59.766825+00:00",
+      "search_queries": [
+        "\"NJ Devils Theme Nights & Promotions 2026-27\" entry",
+        "devils theme nights promotions sweepstakes enter official",
+        "devils theme nights promotions giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "24013d8a9c80917d": {
+      "contest_title": "QUICK RECAP: Avalanche 5, Devils 2 - NHL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1uZ19rQ2VaM3hHY2hWUTM2a0dObXVvN28yRzA3eUlqRDd1WTU2Z09sRGRSRWxtT0ZIQ3V5ZWpTSDBRQXVQdVBEemlGN2J6dk1vVmVzb0RySjdKbkQ0Q0RCWjZoQWFNUQ?oc=5",
+      "looked_up_at": "2026-11-03T23:16:59.791590+00:00",
+      "search_queries": [
+        "\"QUICK RECAP  Avalanche 5  Devils 2\" entry",
+        "quick recap avalanche devils sweepstakes enter official",
+        "quick recap avalanche devils giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "591f46312da840f6": {
+      "contest_title": "Thomas, Broberg get 3 points each in Blues victory against Bruins - NHL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZEJjZktqdk1TN183T002OUFVQVU2ZmNBRmNiVzladi1wSFRRRzVFbmVLYzhoWUdSSVV2dWd2WVd3aXMxQU9HY1cwdFpzWFlWYnZjVkFNSVd2SHBDNU5tOXFHRVpjMG5ZYk5sRmJtYlJmN1Zxa2JTU2dHY1hRN18xV2Mtd1dMZ1B3SHNlQXVORV9KM3B2LW9F?oc=5",
+      "looked_up_at": "2026-11-03T23:16:59.863431+00:00",
+      "search_queries": [
+        "\"Thomas  Broberg get 3 points each in Blues victory against Bruins\" entry",
+        "thomas broberg points each blues victory against sweepstakes enter official",
+        "thomas broberg points each blues victory against giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "85137a87eefadefb": {
+      "contest_title": "Mason Marchment Stats - NHL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81ZmRxOTU3Z0hKNUdjcVg5NXEzV3JyT3RCQ09SeEF5U2hIc3psZ3BhTWlobmtlWFhCaWdXelRna1pMUF9hQ3R5eW1JWE5rS2UyM3lpblRfMDlZNUpVcVhHTTg2OWxJWk1ET2FjZ05WUHQ?oc=5",
+      "looked_up_at": "2026-11-03T23:16:59.715128+00:00",
+      "search_queries": [
+        "\"Mason Marchment Stats\" entry",
+        "mason marchment stats sweepstakes enter official",
+        "mason marchment stats giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "b48667e68edfad23": {
+      "contest_title": "Stillman releases statement on protest at recent Blues game | St. Louis Blues - NHL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSzVaVkstd2lTQVJtVzFKcUF4bHllTHNZcldUZE40UDhmeWFTV1JLV1JZcTdmeDFTSHRFcHNfMlFlV2V4OFZ2Qnc3YlA0YUVVekp1SEtVazI1MU8wSVRYT202U3d3RHAxZzI5ZXMyREEtRmNzek14VF9fZ0tRb0JBUHN6MDBIUHNEVlAyMkZzWDhRQUtI?oc=5",
+      "looked_up_at": "2026-11-03T23:17:00.100232+00:00",
+      "search_queries": [
+        "\"Stillman releases statement on protest at recent Blues game\" entry",
+        "stillman releases statement protest recent blues game sweepstakes enter official",
+        "stillman releases statement protest recent blues game giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "8302d8bbde2b331e": {
+      "contest_title": "Brodie’s Breakdown vs VAN (10/29) - NHL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPa2NqdVlQTUdaRmwyTzB3N1p3LU5tV0VXdncyRHVxcjBBcnladHo4MTZYZTYzdGsxUlFmemRZcWRiNEZSV0lOSm1oWVNxWXAyTkUxZFpGU2JBUzdPbmlCX2tVRld3SDZMX0FJMXZSWUJVYmIzMHRmNU96YmEyX0VmMGpYOXk?oc=5",
+      "looked_up_at": "2026-11-03T23:17:00.074204+00:00",
+      "search_queries": [
+        "\"Brodie s Breakdown vs VAN  10 29 \" entry",
+        "brodie breakdown sweepstakes enter official",
+        "brodie breakdown giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "01bcbb6867e3e51a": {
+      "contest_title": "RAV4 Things: Flyers @ Capitals - NHL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBMSmkxdWVNV0xpTTFuVmV1YmJzMmhyMUlkX1JLREkyci13dFJNeVpmZHBacnVnQnRiMEppblJqSmJ0Zl93UHJrS3BTMHJfWUtRbnNIRzIzcGFWRVI5UDFLMnd2MmUxNmZWSGN3SVlSXzVjTWs?oc=5",
+      "looked_up_at": "2026-11-03T23:17:00.050193+00:00",
+      "search_queries": [
+        "\"RAV4 Things  Flyers   Capitals\" entry",
+        "rav4 things flyers capitals sweepstakes enter official",
+        "rav4 things flyers capitals giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "9116093d118cb36a": {
+      "contest_title": "Postgame RAV4: Flyers Fall in OT to Blue Jackets - NHL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPc211cjBnM1pwZDluZ0pTTTI4dkVHaW0xNDJSMDdkcE1WbUFMLUhnNUl4VFJnRWxWQ0pPZ1NVajJZOHZ3LXowSHdOcGJQZDBtcVdVbzBoZ0VZV2pHLVByS05FUlk1Mjl3LUFXOVlldVgxdElTdVl0UEl6bUx1NzducjVnUW9VZw?oc=5",
+      "looked_up_at": "2026-11-03T23:17:00.143635+00:00",
+      "search_queries": [
+        "\"Postgame RAV4  Flyers Fall in OT to Blue Jackets\" entry",
+        "postgame rav4 flyers fall blue jackets sweepstakes enter official",
+        "postgame rav4 flyers fall blue jackets giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "4af42ccac48c8234": {
+      "contest_title": "Takeaways: Varlamov Leads Isles to 4-3 Shootout Win in Nashville | New York Islanders - NHL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcFZOTFZ6OE9fYUNTTU9JU3lacUliMHpULVUyS3JsM2pndlhobUN5dTVwbU9hbHVjREpwM09peG9KVF9SUFZqMnZFTTVzalpNX2dHdFBXNjhhLXVncDNaQkpnMG03MzVLaDVpOXZLRS1tWExPZXRRNVN3ZDVDbnJ2Y1FaUmZhTDh3R2ppUWg3T0hlSVo2dnp1cWk5Z2JsWHc?oc=5",
+      "looked_up_at": "2026-11-03T23:17:00.160142+00:00",
+      "search_queries": [
+        "\"Takeaways  Varlamov Leads Isles to 4-3 Shootout Win in Nashville\" entry",
+        "takeaways varlamov leads isles shootout nashville sweepstakes enter official",
+        "takeaways varlamov leads isles shootout nashville giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "6e242330eb22c274": {
+      "contest_title": "Hellebuyck | POST-RAW 10.27.26 - NHL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZ3FjQk9JemplUk0xUnhLTG9vQ3UtcXhhX2RrNmVuU0lyUUs5Ty1vcmZXMnFrai1sOG9ER0FUcm04R2daOVFMNjYteXRNcDNOaUxtRUJ5NWZkX0cwVFV4ZGV6cU5iandCMWxIMW1rSUZ6NXQ3clBuaVhHRkpRVGhncQ?oc=5",
+      "status": "insufficient_title"
+    },
+    "08f9e14ad20dbc4f": {
+      "contest_title": "Postgame vs. BUF (10/27): Celebrini - NHL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdXU0MC1sMURzbWFKU0RRd1hFMkJXdVlqU3Z5M2xRSlhfZm4wVEpVLVI1Y3BfdXVsZnJNWmVjTi1yNkZsUUxhcnpGNTh2LVE1NEhTaEJIWk5iX1pweVBuYk9UV1dGbmdnUUlkdmRXcFNtQVhVU1phZWI2S0Fabnlqa0txOVRiZw?oc=5",
+      "looked_up_at": "2026-11-03T23:17:00.081090+00:00",
+      "search_queries": [
+        "\"Postgame vs  BUF  10 27   Celebrini\" entry",
+        "postgame celebrini sweepstakes enter official",
+        "postgame celebrini giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "e3cbb7daed2f9e02": {
+      "contest_title": "Game Preview: Islanders at Predators - NHL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaGVKM1ZmQ1VrdWZBOFpYOFNkSEticUFxSTVYN3A4NWFLcWFKWDh0TEZiZmdMaUtjSWZRMFRiUVlNZjdxRkxXbVZ5dGh4MkdZS0RBSW9ZRm5XREQxUzNCWkJfenk2VHBNUVRGZWs2S2VPYU02WFd3WVF5NHpRaC1rSm9RMmc1c2pDZ0E?oc=5",
+      "looked_up_at": "2026-11-03T23:17:00.134566+00:00",
+      "search_queries": [
+        "\"Game Preview  Islanders at Predators\" entry",
+        "game preview islanders predators sweepstakes enter official",
+        "game preview islanders predators giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "5a6a2a75b6b972c6": {
+      "contest_title": "NYI 4 vs NSH 3 (SO): Pete DeBoer - NHL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQX3AwNjdvLXoyQTBhN3Zub3pfR3FjVk8yTDYyaVN4UU5VRE1McmNULXNyRzdQXzMyTFRwSlplQVAtc0s4RzVtX25MZkd1U1FPVWlHaWpRUGJZTEN0SFpXOEdVb2pkMUUxc2FJMVplUGRvNzhNQjNWaW9qTVg4NmkxaWFPd3FEZw?oc=5",
+      "looked_up_at": "2026-11-03T23:17:00.205573+00:00",
+      "search_queries": [
+        "\"NYI 4 vs NSH 3  SO   Pete DeBoer\" entry",
+        "pete deboer sweepstakes enter official",
+        "pete deboer giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "87a5eb7b7d86d555": {
+      "contest_title": "NYI at NSH | Recap - NHL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMidEFVX3lxTE04WkExSFNuR2NVRWt5ejM4LVBpTm9jMGoxenl1TFloNUNqZnBiaUdhQ05vVS1oZ1ZGV2hrZDQzTXZ6X3RVbGpiUzhEd2s0SGI3RlZ1Wk1XOUU0cnNxSmFDOV82c20wUDdRb3F4X21RRmZUcDBC?oc=5",
+      "status": "insufficient_title"
+    },
+    "9cc2c2e8c0ddf750": {
+      "contest_title": "Enter the Tkachuk Hall of Fame sweepstakes - NHL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQM0gyRms5bUNtWVRpb25yTUJXVmg0X084SmdYQVlrVGlEYnpJdmtPWkdXQ1hlRnA3OTRsNFVwQ1Q3T1ZIM3NiLUI5aTA3eXNFRXR5dV9yalNWMUV0dHM0YmQ0S2U3dnA1cUlxZzhHODRUWWViS2VzNlY3cnpOdXFVb2FkTzNqWGxoUzV3dnln?oc=5",
+      "looked_up_at": "2026-11-03T23:17:00.214904+00:00",
+      "search_queries": [
+        "\"Enter the Tkachuk Hall of Fame sweepstakes\" entry",
+        "tkachuk hall fame sweepstakes enter official",
+        "tkachuk hall fame giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "0ea4ac4ea87cceb1": {
+      "contest_title": "2027 NHL STADIUM SERIES™ SWEEPSTAKES - NHL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBkd3g1dVh5bHg2T2JpYXRJcmhURXpnYnpCeUVNa05uU0FDRUJhVmNrdFZ5TnJWazhqaTBiU29YRjltOFhGUlpiV0tQa3VxaElsR1Y1UjlnOVhVN09VUzRNZlExUnBsV3FfU2psYkJneExNRG5GeW9CU3JuZw?oc=5",
+      "looked_up_at": "2026-11-03T23:17:00.232646+00:00",
+      "search_queries": [
+        "\"2027 NHL STADIUM SERIES  SWEEPSTAKES\" entry",
+        "stadium series sweepstakes enter official",
+        "stadium series giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "69feccf033da0f2b": {
+      "contest_title": "Group Deposit Sweepstakes | Columbus Blue Jackets - NHL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMic0FVX3lxTE55YXdoOGNjNjBsdFh1VC0zX1MzVkt6Y3k5ejFhLWJ2S1hGQjZacEVDcGFsWnNZMlEtWXJKZnQ5TzhFSVNpZ185S0JKMzlLVG9fellydjNVTk5GbVBMRWJrQi1ZZ01ERUZfaE5iNWVMdnNCVFk?oc=5",
+      "looked_up_at": "2026-11-03T23:17:00.194157+00:00",
+      "search_queries": [
+        "\"Group Deposit Sweepstakes\" entry",
+        "group deposit sweepstakes enter official",
+        "group deposit giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "63916d68c270cc36": {
+      "contest_title": "2027 NHL® ALL-STAR WEEKEND SWEEPSTAKES - NHL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Qd1NqUnZqSGs0LXAyempCazRpYU1YSFA1cWYxbFRIbFk0NGxNdFlnNlZVaHNoZkVZYy1sWmZFZ25Jc2d5Zi0yTVN2OXJWVzBndUdpcHFHY0J4WkdwWFVNMFZ5ekRibkpOdE1OOW1B?oc=5",
+      "looked_up_at": "2026-11-03T23:17:00.275379+00:00",
+      "search_queries": [
+        "\"2027 NHL  ALL-STAR WEEKEND SWEEPSTAKES\" entry",
+        "star weekend sweepstakes enter official",
+        "star weekend giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "d8048192fb532ad1": {
+      "contest_title": "2027 NHL WINTER CLASSIC® SWEEPSTAKES - NHL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5TZlktSlMtNURCZ1lyOVpHUE5PV0lpRDNqcWF2cElwcnhZLVY1YV9FNWlXWTE1clh5UzA4VEhabzdJOVBwTThOOWNIdkNNV2lqZVhfZkFqaml1SEVyZ2xYTkYxbjQtb0UxZVE0ektua19XWVBzUnFTX3lsdw?oc=5",
+      "looked_up_at": "2026-11-03T23:17:00.383249+00:00",
+      "search_queries": [
+        "\"2027 NHL WINTER CLASSIC  SWEEPSTAKES\" entry",
+        "winter classic sweepstakes enter official",
+        "winter classic giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "0b747b1a5eee0b6e": {
+      "contest_title": "2026 NHL HERITAGE CLASSIC™ SWEEPSTAKES - NHL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8tem1yVWE3M2U4aWp0amZZOUs3cHFJSXBkNUVleWFEVS12UmxoZ1o4ellxdklKVmtkei1zSW9ERm05V2F1VFdDSTFzY0lqSTMySUVWOEJremhzVjZ4NXBIYjVuQVFZcWlFMGFRZEN4VXpzbFRDVnN4Vk9VWjg?oc=5",
+      "looked_up_at": "2026-11-03T23:17:00.576556+00:00",
+      "search_queries": [
+        "\"2026 NHL HERITAGE CLASSIC  SWEEPSTAKES\" entry",
+        "heritage classic sweepstakes enter official",
+        "heritage classic giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "726161e2e3438ccf": {
+      "contest_title": "Coors Light® x Seattle Kraken Silver Seats ‘26 - NHL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeEs1eGZUOGhoOEdHSHVlR1ZlU3pNQ3puWXFKOGdLU3lEZzQ3NmZHbEc0N2xtbGRwSElFX2JvLWJ0b0dzS09uWlprYTY4T2wzTnhuekdYT2JLenYzNlctbW9qT2FSZllpTVJRZ1o0eElXY19vdHRzeFlIb2plRmhUQUhXTWVfRWFXRHIycW9R?oc=5",
+      "looked_up_at": "2026-11-03T23:17:00.408883+00:00",
+      "search_queries": [
+        "\"Coors Light  x Seattle Kraken Silver Seats  26\" entry",
+        "coors light seattle kraken silver seats sweepstakes enter official",
+        "coors light seattle kraken silver seats giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "44a8ba88ec5465d6": {
+      "contest_title": "Contests and Sweepstakes | Dallas Stars - NHL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9TejBWcVBOdzNaZFViLTY5UVlmTkpveTdlR0lma1cyR3pVSmRoLWJYNGZYTVM3ci1NYmVXa29mRkhLdFVVSVB3R1kteHFqWkFU?oc=5",
+      "status": "insufficient_title"
+    },
+    "2e8306cf863f15af": {
+      "contest_title": "2026 NHL HERITAGE CLASSIC™ SWEEPSTAKES - NHL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB6WlllSnViZ3VtbFoxQlhKaGJpSkc2bG9zNVNtY3pTbFkySWVBOXJIeEd4azJIQXQzTno1bGw3T2FVclNYZURfdXhwdmljNGlTRDFybU5PNk1WeUdzRGtsQUFYUF8xRTFuMS1YcEgtenBKRjV2ZGx3c0paMkZZdw?oc=5",
+      "looked_up_at": "2026-11-03T23:17:00.408392+00:00",
+      "search_queries": [
+        "\"2026 NHL HERITAGE CLASSIC  SWEEPSTAKES\" entry",
+        "heritage classic sweepstakes enter official",
+        "heritage classic giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "5934d50684297ef5": {
+      "contest_title": "Contests and Promotions | Seattle Kraken | Seattle Kraken - NHL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1vQlpnUXdsMUVoZ2t4YkFEaGotVTFCdXNvZWVsZkVQMnNoTXBYTGwzem8ya01vSDljTVNJc19lUjlsNE9xdUkzVTdsWS1zWjVNR2FoZWJKd2xELXUtaFNOVzJ3TW1fZw?oc=5",
+      "looked_up_at": "2026-11-03T23:17:00.546418+00:00",
+      "search_queries": [
+        "\"Contests and Promotions\" entry",
+        "contests promotions sweepstakes enter official",
+        "contests promotions giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "84d5caabed3935ce": {
+      "contest_title": "OFFICIAL RULES - NHL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNW0yZDRPUml1X2gzc3RBRndkQmVXUU1pRGQ1ZUpwZW5OZExxYVlsMWhkRDZrVExTdEt0eHdkMWxkcWVyZU8xYWhrTGtlU1VFMnRtVkxFVm1nVm8xdGFtbS15Uks4QzJ6M1ZqTUVOc1F5ajJ4SnpET3N5Ulk1aTZjN0h5ejRRUQ?oc=5",
+      "status": "insufficient_title"
+    },
+    "6eea841fbd05790a": {
+      "contest_title": "OFFICIAL RULES - NHL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOajNiamNKVFVkcWxldUlkUFJKMEJ4ZkRCWF9lcEE5dWowZXQ0dnIxUUZrNHhsQTJ4Ry1TUHhQcHU3Ukh2T25SQ3FTNXJYNTJKUk56UnpDbzNYdThWOXdmQ0E1V0g4MWhQaG1WSFEyTC0wUVUtRHU0SkNpOUtWTHNpUXBSRlloZVdsSXc?oc=5",
+      "status": "insufficient_title"
+    },
+    "32c1e2c390a028a9": {
+      "contest_title": "2026 Tim Hortons NHL Heritage Classic - NHL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOVZ0LVZwSjN0TkpBMHJ6ODR1RDhzVlNySWY4bUt4MVVkeGpRNzRJaXdNQUItaG9OZTF2SThtUVBDNUtTQmdkWS1GNW9hQS1hMThyN0FjNEpaTUpPX0NZQnBLUTNJZGs2YzYyT0RKZXN0MkF2allWTVpheXB1aXQzTQ?oc=5",
+      "looked_up_at": "2026-11-03T23:17:00.575845+00:00",
+      "search_queries": [
+        "\"2026 Tim Hortons NHL Heritage Classic\" entry",
+        "hortons heritage classic sweepstakes enter official",
+        "hortons heritage classic giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "beb8ca2933b1c6ba": {
+      "contest_title": "CBJ MYP Renewal FAQ | Columbus Blue Jackets - NHL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBsVHBRTHZ1YkhvQjF2ZFBCb0pqOVg0QkJndUUxX1NDVGw0VnFtWTY2TzRpV2w2ekljR0JIa2FSQlFrLXY5OTljaHR0ZG85M0p4VHUzSUlocXZQRHE4dzROVnN0VkJ2ODQ?oc=5",
+      "status": "insufficient_title"
+    },
+    "9eeed5c2084e0326": {
+      "contest_title": "Fans | Anaheim Ducks | Anaheim Ducks - NHL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAtcjJxQlVPUk5hTUdMS29XRmRSeGVEb2MxeV9HLUF5RTJTM1YxY2FON2lmaloxM05nNlU4eEVKOGczczZXRmZvVTRlSlE2RWZzY0trTW8wMFNWZ2xreFltbC1GVmJuNExVbXFv?oc=5",
+      "status": "insufficient_title"
+    },
+    "1f40d414345f44e3": {
+      "contest_title": "Contests & Promotions | Chicago Blackhawks - NHL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9kVVJLdDVfYkt4MEtZS3RQbTRNR1pBRWlPQnBRLTFVT1Rac1JnRGZuZUNBX3NrOFBPendxTnJrcDVYbHcyVDZKcEpCSFZvM3lCdW9Ha3NfaWgxUWRac1VFTEhJQlpOejQ?oc=5",
+      "looked_up_at": "2026-11-03T23:17:00.507804+00:00",
+      "search_queries": [
+        "\"Contests & Promotions\" entry",
+        "contests promotions sweepstakes enter official",
+        "contests promotions giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "241b99654e9a66f5": {
+      "contest_title": "OFFICIAL RULES - NHL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1YTDhMaEEzZWNHdkRsNUtDVEMxTFkwVk9jZDFqSUVfdmlXRXJMWVVsWlpuRkFpUUpjUnljZmdVdlRsWEN2QVVhU3hUYXpCOGhBRkxGSVhqdXJjc1AzMjEwZGNYQ0hrRVZEMGI3TkI3QndPMHdJQWpoOEZ3?oc=5",
+      "status": "insufficient_title"
+    },
+    "820a5d8e01d66939": {
+      "contest_title": "PALM GOLF X ANAHEIM DUCKS GIVEAWAY SWEEPSTAKES - NHL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUU1Db2w2WEV2TTdOYWNjS250cDhZMjl2WVJEM2I2RWJ3eXZZdXhVTDJ4U3M3QS1IZTB4TVU5enM2VXdlWk1oMXRoSWY0Mzh0V0g0T2NjS01xU2g2anRfNk9NYmRIY2hqd3dsRmw4YTQtdENzektWT0UwQ2YxTjJLeW1RMEc0Zw?oc=5",
+      "looked_up_at": "2026-11-03T23:17:00.555495+00:00",
+      "search_queries": [
+        "\"PALM GOLF X ANAHEIM DUCKS GIVEAWAY SWEEPSTAKES\" entry",
+        "palm golf anaheim ducks sweepstakes enter official",
+        "palm golf anaheim ducks giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "3eb691149e6986f5": {
+      "contest_title": "OFFICIAL RULES - NHL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNbHVwMzBhbkRtQlBPbmJZQWNqOVkzNjh0TEhhQnlNZmRfTkFmMGx1Mkg1dHBuVGxRZnhTNTdCSEdjZ21wNEc5Tkt1Si1vRXBfeFFFLW9RcEZ0V0lmTVFZRlVPdXVhdDRqc2VOMzcydzJ0V25CUFYyVkU1VUdzU00?oc=5",
+      "status": "insufficient_title"
+    },
+    "b36563c38de26534": {
+      "contest_title": "OFFICIAL RULES - NHL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdDlGeGJvcTJSaVU2RnZuMzY3b0hHc3ltdnBoRU03V090YlpZNkEyYzhibUl1LVZzZGhLV1UtUmgzaUN0Uks5cGhyalBJUVJLNUxfSkNrYUJPS0JBNWpEcHN0OHctVzFYUWdHeE95N1RNbGJDVFdwS3JlQXdNRzJWYmV2RzY?oc=5",
+      "status": "insufficient_title"
+    },
+    "5b0b3e6eddb13865": {
+      "contest_title": "Contests & Promotions | Minnesota Wild - NHL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5RYTg0eGpTYXNONkttRW44ZG01WER6TUNweGdvVlpvY3Rrb01aQ01nY3F3eWxfUzE2VkhMVExjWFB2T3E3VmlKOGZZWWltMk0?oc=5",
+      "looked_up_at": "2026-11-03T23:17:00.530647+00:00",
+      "search_queries": [
+        "\"Contests & Promotions\" entry",
+        "contests promotions sweepstakes enter official",
+        "contests promotions giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "fb8862e0fb98ee32": {
+      "contest_title": "Contests and Sweepstakes | New York Islanders - NHL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBuWmFqRzgyd1YxZkFiblhmaXlRbDlUaVF4WDZ0b3FzTVpWRzRyU2l4TzhCNk84RUdmMFBDV0ZHUDA2ejVSbC1paXIwMkZYcWFCOFVPdkhNQU9femlJalhVMWhQRk9VeThXS3lZ?oc=5",
+      "status": "insufficient_title"
+    },
+    "07b38b47fda60ba8": {
+      "contest_title": "Enter the 'Key to the Arena Sweepstakes' for your chance to win Sabres, Bandits Season Memberships and tickets to live events - NHL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNckJ6UXBJQ1dDOFdreVZDU1RHOVl0YmlRVC1rOFJLTUlENHFYeHpHcklucWstcnRHOUxTRnU4STdxNnhaS3N4SENiTXBkTjNaWVVDZjJUMEE0ZXBSenlfZE5mQWNEX3lVbFlpaUhDWjZVbXZrREJKaWdvaGZhYVdFZWJSbWNtSndjRmZZ?oc=5",
+      "looked_up_at": "2026-11-03T23:17:00.636861+00:00",
+      "search_queries": [
+        "\"Enter the 'Key to the Arena Sweepstakes' for your chance to win Sabres  Bandits Season Memberships and tickets\" entry",
+        "arena your chance sabres bandits season memberships sweepstakes enter official",
+        "arena your chance sabres bandits season memberships giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "4072e685d2fbe8ee": {
+      "contest_title": "EASTON & EASTON ENTER-TO-WIN CAMPAIGN SWEEPSTAKES OFFICIAL RULES - NHL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVktZSTl2bW1zcGlPRk5WaHJEWVVyLWpuWmtpTU5qV01VREtueUtGbTQyNnRHajM4ajhFTEl2Qk14WHpPN3VYbnh6ZGFSQlN0Z0ZvcmFNNjZmQlN3VDE4eHVvZjN1SExBaHpEQ3NTcXdkbEtFeDhpVzNFZHhqMlNWMGF5UQ?oc=5",
+      "looked_up_at": "2026-11-03T23:17:00.539141+00:00",
+      "search_queries": [
+        "\"EASTON & EASTON ENTER-TO-WIN CAMPAIGN SWEEPSTAKES OFFICIAL RULES\" entry",
+        "easton campaign sweepstakes enter official",
+        "easton campaign giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "33f9b3848de71b3e": {
+      "contest_title": "Contest Rules | Florida Panthers | Florida Panthers - NHL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jOHFjeDEzcVlEenBiVFZUTWF6QWdZZUVmTjFfRURGZkxVZHAxRUUwcDFUd3VySHF5eTFTS1M1YThJdno1NThRZWF4RG5CN3I2V2JuZnppeTNsUQ?oc=5",
+      "status": "insufficient_title"
+    },
+    "c7830f9fd0a87a1b": {
+      "contest_title": "Sweepstakes & Contests | San Jose Sharks | San Jose Sharks - NHL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA1VFdXOHhrR29yZE9MdkVNRXNNWDliczBjeHdSMkRydklGdktFRGV3ZGx3SzJVQzRlS0Vmd2V5bDBHMW83LVM5Vl9LRWw5Y1k2eG80WHhB?oc=5",
+      "status": "insufficient_title"
+    },
+    "8a35ab9b56ccc4f3": {
+      "contest_title": "Fans | Florida Panthers | Florida Panthers - NHL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBGU211Y3pYRVhmRE4wenhWVXNCcGlnR3V2U2NtZFFQMy1PYkZXdS1sSVJFUGlDT0lfZ19OYzhlNXkxMlhfdGd2R1V6Sl8zREpYc3lnQg?oc=5",
+      "status": "insufficient_title"
+    },
+    "3e2875557884b282": {
+      "contest_title": "Devils 2026-27 Schedule Release | New Jersey Devils - NHL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1GTWhZSUc0aGdIbk9BVFM1MVRmVTlrSGpLVkF1V21GWHdkeGNiMzBHZk1SamlKRXphQldMWkZzSjFrLWJpeW1GWkU3Z0N6cnlDQnFqemJVNzdaZmJp?oc=5",
+      "looked_up_at": "2026-11-03T23:17:00.658400+00:00",
+      "search_queries": [
+        "\"Devils 2026-27 Schedule Release\" entry",
+        "devils schedule release sweepstakes enter official",
+        "devils schedule release giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "ed1a54507b1a2ef7": {
+      "contest_title": "2026 NHL FAN ACCESS™ NHL HERITAGE CLASSIC PROMOTION - NHL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMie0FVX3lxTE51Y3JtaVpzVG8wZGZ3aW1CQm9SSEtNMjJFSERXb2xBeXZjdk5DRktOUEFrelpyVkVsaTZEdFZvSlRlWUZsd3RrNVRZdHpqZHVOWDZRcHVBeDBldnE3elVWVkgyOV9oLXNIN0lkS2RWek5ZTWM2NEFtZDVtQQ?oc=5",
+      "looked_up_at": "2026-11-03T23:17:00.688254+00:00",
+      "search_queries": [
+        "\"2026 NHL FAN ACCESS  NHL HERITAGE CLASSIC PROMOTION\" entry",
+        "access heritage classic sweepstakes enter official",
+        "access heritage classic giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "0e68b92a6d761858": {
+      "contest_title": "OFFICIAL RULES - NHL.com",
+      "original_article": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUXZkdTdlZFF5WXA3TlhqS3RrWmVibGFSQVp3SXFEQm9QdEg1Y3FMNTAwcmVCUW5hSmV4VVZCNFdXSldJM0pITVp4NU50TFRwR2d6T01QWnBRLVBfbTJZM1NBNXo1cXUtTnhydFUxSTUtWnJkN2E3dTJYYnNYWE5oaDluSnB2OFNvVUE2ZkxORQ?oc=5",
+      "status": "insufficient_title"
+    },
+    "5d6dc1f9479eec52": {
+      "contest_title": "What's next for Tarik Skubal, MLB's top free agent of 2026-27 offseason - ESPN",
+      "original_article": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdUJjQmpfVXhkMkJleTRFaWVPUnprUDM3T2ZEUUwyTzVZbE1GTGROeF9OSy1ZNU91TkhBOVNhWjZ3TW53N2x6d0luS0V4S1g2OGVpQjU3ZEU4TlBGRWQ1NmlNUElTeG42S1dhM2hOUFY1RU1yU1pHekVGU2lqN19GUVA0U3o5WTBBeU5jSlNLSEVscFF0N0E?oc=5",
+      "looked_up_at": "2026-11-03T23:17:00.764037+00:00",
+      "search_queries": [
+        "\"What's next for Tarik Skubal  MLB's top free agent of 2026-27 offseason\" entry",
+        "what next tarik skubal free agent offseason sweepstakes enter official",
+        "what next tarik skubal free agent offseason giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "feb0f3a666750efa": {
+      "contest_title": "2026 Allstate Men's Tournament Challenge Sweepstakes Official Rules - ESPN",
+      "original_article": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQV3ZlcWpZUXdwSmpoYnlSaGt2dHk0M2FXWmpVUnZCQ0lrNFhaQ0hhZ2ZVeXhManZfX29rQmJIcEVqRTFHTjNBRkZqV2NQbXpYb0xKTzBrZzNIVHcxcWxZUEFkZmhlaThXOTRnXzhsbEQ3YXZzZTFKMi1hemRVNzI3Z2dIN2xSc042OG4tTEM3UGdrWTlJRHhCck5vYU04cG52NXFkWVVkVU9EaGFkLVJTUUNxcEJ2ZU8tOUtGbzRaTndTb3VMbWVXY3F3?oc=5",
+      "looked_up_at": "2026-11-03T23:17:00.780721+00:00",
+      "search_queries": [
+        "\"2026 Allstate Men's Tournament Challenge Sweepstakes Official Rules\" entry",
+        "allstate tournament challenge sweepstakes enter official",
+        "allstate tournament challenge giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "3fd11e1fcfe9fe38": {
+      "contest_title": "2026 Coors Light March Hoops: Bracket Challenge Official Rules - ESPN",
+      "original_article": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUXJmU3M4V25tVkdrc3FjU1BhWm5Helk2ZUJuaS1NOEFGM0d1T21CZXo5aS10MTRWTGtFYTZwbEpuYkR1STJUa1JoSWRlSjlQeEF2eXhKeHBFd2FhTHViZFUtX21HZ0dLdzJ1TWVSREwtNmt3VFp1SFROcWZJMGFCY2RCMDVtNnN5cDViWFd4OW1hRUNMSFVqNHo0cDRPUQ?oc=5",
+      "looked_up_at": "2026-11-03T23:17:00.871544+00:00",
+      "search_queries": [
+        "\"2026 Coors Light March Hoops  Bracket Challenge Official Rules\" entry",
+        "coors light march hoops bracket challenge sweepstakes enter official",
+        "coors light march hoops bracket challenge giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "f9aa15a0764de4b5": {
+      "contest_title": "Jorge Masvidal (Welterweight) MMA Profile - ESPN",
+      "original_article": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9kUUZ4UlIwdEJyYmVESUl1VW1HUGdwN25EcldWNEJvS0NPdDBjNVU5RzFzMExyRlpGZ09HQzNna0tneXoyaDlwNVR1ejdLN21jLXVvRnBUZUIwRmRUaXRESTMyLU9YYTlWLXlHaA?oc=5",
+      "looked_up_at": "2026-11-03T23:17:00.873259+00:00",
+      "search_queries": [
+        "\"Jorge Masvidal  Welterweight  MMA Profile\" entry",
+        "jorge masvidal welterweight profile sweepstakes enter official",
+        "jorge masvidal welterweight profile giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "094d89335f7f425d": {
+      "contest_title": "2026 MLB trade deadline preview: Passan's intel on every team - ESPN",
+      "original_article": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVnBFZHl1cElkMmx2ZVQ1RHQya1l1SXllRHdSN0l3Z2ZDdkxsWlJfUlpXenQ0OUo5eEt0QUZBbGFJVVRGN2NTSDNQVVU1cE1iaTBVZU1ZY0hQUGZrZkFpdjYzbVBmSFdSLUtSYWVta2txZ0c3YTNac3NkdUx1RUZqZkZWVWE5dDZmSnR3U0pBNWVSRHVkZXZqbXpiay0zRS1WdDF3bGRudkloTllvbDZrS3JkRFlmTmZYSjc3QWlnMURQOGFjWEt5WEU4aXoxREk?oc=5",
+      "looked_up_at": "2026-11-03T23:17:00.948292+00:00",
+      "search_queries": [
+        "\"2026 MLB trade deadline preview  Passan's intel on every team\" entry",
+        "trade deadline preview passan intel every team sweepstakes enter official",
+        "trade deadline preview passan intel every team giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "fe2d715384b03fee": {
+      "contest_title": "Miller Lite Fantasy Football Sweepstakes: Official Rules - ESPN",
+      "original_article": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaE00bHc4dV82emswb3BzTC14Szd3MlhFdFBfNF9XdldNbnlwelBaLVhNaGZHWGlKVWNPVEZOa1lGZFMwTTZsVEFnWV9DT216Y1ZYWUtfdU12M1hsM1o1WkVwQW5TNG4yV1lwM2ZiUGFuTk84akplcWZ4N3dleWxYaXkzZ0pucUFoaE5aU0pHdE5rQ3hNeUxPcXR2aXk2UG83WGJMb0xiQQ?oc=5",
+      "looked_up_at": "2026-11-03T23:17:00.902650+00:00",
+      "search_queries": [
+        "\"Miller Lite Fantasy Football Sweepstakes  Official Rules\" entry",
+        "miller lite fantasy football sweepstakes enter official",
+        "miller lite fantasy football giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "e03987690262ee7c": {
+      "contest_title": "2026 Stanley Cup playoffs: Preview, X factors, predictions - ESPN",
+      "original_article": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTjZ4NExlelFOd056RF8yZ2tpelBjdVlURFl1NmJpWkhONWNNa2FIODFXaWJDb0xEZkVrZlFRR2IwMWVDNnlCRUNLZ18waThiQWZQV25WVGlEYjFSd3M1Z0htcUV6R0FUZk1ROTdjSUpubGJVU2xEQVhVaDdsTmxkWGtHTlpDdXpXM091RWZ6RXh6elFxRTBWcXpwN0xIcDFhaUhfMFVjNDVJbmprMlhrY3NvYjdBTzdnSDA0cA?oc=5",
+      "looked_up_at": "2026-11-03T23:17:00.955477+00:00",
+      "search_queries": [
+        "\"2026 Stanley Cup playoffs  Preview  X factors  predictions\" entry",
+        "stanley playoffs preview factors predictions sweepstakes enter official",
+        "stanley playoffs preview factors predictions giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "bceef2522bebb2de": {
+      "contest_title": "Inside Skubal trade negotiations: Why Tigers chose Dodgers - ESPN",
+      "original_article": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQV2NyUV9GUEJ0UERIQWxXM1hNV09fN0hRZmdqQm9fV295ejNsdE5IZkd3U0lBLTVtNFc3ck91SjFlSE80bUpKM0gzRGFHbnJkY2RWNUxfeTZ1QlVJLTFpS3NCV0M4YzVPdzNVc2RhQ21XWEtEcXo5QmlWV0d6cEpQQWl4QnByUWdfMk8zRmhfTlhjQ3NsaVFIc251T0JMTzFHTzk1WmN4WlNqUVhzWFRidlpBd2IzQ1FzaHdMLUpzWkI?oc=5",
+      "looked_up_at": "2026-11-03T23:17:00.950181+00:00",
+      "search_queries": [
+        "\"Inside Skubal trade negotiations  Why Tigers chose Dodgers\" entry",
+        "inside skubal trade negotiations tigers chose dodgers sweepstakes enter official",
+        "inside skubal trade negotiations tigers chose dodgers giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "5ec9f71c3eeaf6ac": {
+      "contest_title": "Houston Rockets offseason recap, early 2026-27 season preview - ESPN",
+      "original_article": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcXBWMjhQak1HYVVOaDJ6VGJ2OHI2eUJwYk1ncEUwVERXV1pmVEh6dkFoTWVSSzlFcHhhRldBYTl0aXZ3Wk4xME53WW9XYjRmTEtsTDA4eV84MDNZcFl0SmVfNVNldkpmcEE2RzFSeEhaVHlWZm03NXRJbzAtNDJZVjY2bjgtdVpUeXUwR2o3MzFIWWF4dUZOZTM5QWQtT3pkLTRQZ1lMb2t2dHlNRVVZZWxoOXc5MXhVOHRBaWZ3LVJRR2dncGc?oc=5",
+      "looked_up_at": "2026-11-03T23:17:00.905752+00:00",
+      "search_queries": [
+        "\"Houston Rockets offseason recap  early 2026-27 season preview\" entry",
+        "houston rockets offseason recap early season preview sweepstakes enter official",
+        "houston rockets offseason recap early season preview giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "d1ee689002eb42f5": {
+      "contest_title": "NFL free agency: Trey Hendrickson to Ravens; no Maxx Crosby trade - ESPN",
+      "original_article": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNS0J0TC04bXduNmpxMHlSVnotdmRjWDI5WVcwQ2NYaTh6MEJ2SHdEVnU5UEpScXl0VENZMW1GYkR5SERoV0gweWVTX0psRENmVmdxM01POVRUZEZKZFVlSzYyWkFueWRQbDJJbndDMVBlRFB0VHJrM3FacmVjQ2k5NHNlc2g3NVVRVExmVW5VZEdURGJtb1huYkN2cVhQWnpPdUJqYk9Sc0IzYkFWNG9xNUp5SlhMYWo4YkhvaHhGdjB5Nl9RUEE?oc=5",
+      "looked_up_at": "2026-11-03T23:17:01.038639+00:00",
+      "search_queries": [
+        "\"NFL free agency  Trey Hendrickson to Ravens  no Maxx Crosby trade\" entry",
+        "free agency trey hendrickson ravens maxx crosby sweepstakes enter official",
+        "free agency trey hendrickson ravens maxx crosby giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "73463fdc07a39338": {
+      "contest_title": "How to Play College Pick'em - ESPN",
+      "original_article": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5nSnhLN0IzOTcyOGhETnV6SVBBZUtGRC1QSkhxOWxhTzBDdUdfcWtpNWtKV1VWM2ZqNzAyMExqNGZ2dVM5ZVBTUGJCQWJISnBZUWY4OGY1WjE5TlNkX3c4M2pHTEFWNDJWRTRiN0dUS1hZUlZxRHNKbA?oc=5",
+      "looked_up_at": "2026-11-03T23:17:00.993216+00:00",
+      "search_queries": [
+        "\"How to Play College Pick'em\" entry",
+        "play college pick sweepstakes enter official",
+        "play college pick giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "527e17ff7ae0a7c4": {
+      "contest_title": "2026 Chicago Bears training camp preview - ESPN",
+      "original_article": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaExidmVRaGxqYUQ4MU5kZ1l2MTA0akF1SWxZRmJRM2FKNVh3eFg5bV9WaVJLQUxQX3NiTkNNYlRHM0hyMS1VNUc3TDBiWjVuZ3JNSjJEbEttQjBUTGZJLVhRWEtZUXg3QUt1dEZMWENoVnlyQ0Zwanh6QUkyZUdIc2d4VFo3ODd3WS1sTjlUNTUtakE?oc=5",
+      "looked_up_at": "2026-11-03T23:17:01.052663+00:00",
+      "search_queries": [
+        "\"2026 Chicago Bears training camp preview\" entry",
+        "chicago bears training camp preview sweepstakes enter official",
+        "chicago bears training camp preview giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "3c893a1a531fb62b": {
+      "contest_title": "NBA offseason recap, early 2026-27 season previews: 30 teams - ESPN",
+      "original_article": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRzU2MldiZVpzdXhjSUVIMVhFWFBtYmJTQkItZlduNjFHLVU5YjA0aHhFcDQ0bkdrNFptaTNGbFhfZDJsX25nOThmbHE3TTZyMjlwNHI3bU9VRm9qS2tHSnhuOFlIckpHbnZTZUJCMFQ5ZnZackRRZk93Uk9DalhGSlVmc3kwaEREcXZua0htQkVFX2xrU0RPdFRjVFRwUzFlcnppTFVObjNmLU91cVhMYTh2d0pTbGdFTGRpVVhha0tyN01hYzl2Ykoya1g?oc=5",
+      "looked_up_at": "2026-11-03T23:17:01.125159+00:00",
+      "search_queries": [
+        "\"NBA offseason recap  early 2026-27 season previews  30 teams\" entry",
+        "offseason recap early season previews teams sweepstakes enter official",
+        "offseason recap early season previews teams giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "a471f1717c8ec892": {
+      "contest_title": "NBA playoffs 2026: Team-building tips from Thunder, Spurs, Knicks, Cavs - ESPN",
+      "original_article": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOLXk5SkZUYTQydF9EVFRRcUx1d2Z0ZFRfWlh6cXZVaHB6VjdDelZ5cC1lZmFpWng3MzRWMjAxSVdQbGhlY3pMTmxtTnNFNVNyb01jb29uQkVfdFM3alptWnZnTzk5TzEwZ2ZqUnJOZmd3UmQ0akpaY0hObHJUQjd0dVdSWVZUYjhkZ205R2R3VHlFSG5rQUJhbkM3RkVPN05xWlFSYm1WZ3FWaFRPeXZvNUU1dlE3ZU40bFRncXVabEdvTWxL?oc=5",
+      "looked_up_at": "2026-11-03T23:17:01.174687+00:00",
+      "search_queries": [
+        "\"NBA playoffs 2026  Team-building tips from Thunder  Spurs  Knicks  Cavs\" entry",
+        "playoffs team building tips thunder spurs knicks sweepstakes enter official",
+        "playoffs team building tips thunder spurs knicks giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "c0b308509800cb27": {
+      "contest_title": "Sources: Bucks seeking trade offers for Giannis Antetokounmpo - ESPN",
+      "original_article": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMFY5Y2VCcTgxaUh4MUM0aTdfYUdUZ3FsMUdGYTVHcU82UFdEdzRZOG9OendFMlljajlkMEJ5Smw5M0UtYXBPVE12YTBZT3RvcDZkc08xQmpBUnJfYjVuay1TOWItYmdRenJtanc3blB3OS1feXNjNDhKTkpBTEVkdVVnRzl0ejFDcTJESDlZSHZ6U2w1bXBxRHBITkVGNzRYQzAw?oc=5",
+      "looked_up_at": "2026-11-03T23:17:01.245275+00:00",
+      "search_queries": [
+        "\"Sources  Bucks seeking trade offers for Giannis Antetokounmpo\" entry",
+        "sources bucks seeking trade offers giannis antetokounmpo sweepstakes enter official",
+        "sources bucks seeking trade offers giannis antetokounmpo giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "c7bd27ffb10ef113": {
+      "contest_title": "Everything you need to know about the 2026 Indianapolis 500 - ESPN",
+      "original_article": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQY3AwdXFtTnQ3Ti1tY2JYc2QwazBvb1ozTjEwQU9tSFRpUzNrOU43RVZMLUl5S09pVWdXUXRreFlLM1RRV3RvMUY5RmRTX1R4MmJOZThaQzZuM3VCYmRqSGRnN081dlVpZnZFSkxYaEluU2F6b29uT1J2aGZUdHl5Q0U3RHNKTlp3Q0RVaDRDS3p2bTVqNlZlNTJrS21CZ1k?oc=5",
+      "looked_up_at": "2026-11-03T23:17:01.253635+00:00",
+      "search_queries": [
+        "\"Everything you need to know about the 2026 Indianapolis 500\" entry",
+        "everything need know about indianapolis sweepstakes enter official",
+        "everything need know about indianapolis giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "a7edb20b46ac88ad": {
+      "contest_title": "MLB playoffs 2026: Why Dodgers-Brewers NLCS will be epic - ESPN",
+      "original_article": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYl9RX1FGYTd1SUhTcnlSR214SVNIbmFEUHJpdWRmY2JrR0RmblpjaElOc1E2and5M1VnYXdVMUY4U1F1S2RxRmRSeUs1Szc3RllhdXR1NGlwR044ZXEwRDZ3a1FXNmowanVHRkJRQUhjWVZXY2pMdlRKb200aDVMcVBfME5yVkUzSHZaT00yWjROdjVmaTV1MG0zQjk1bXEwNDAwdDF1X3FNdGx4dWFQeWZ0TnZVNFhIb2c?oc=5",
+      "looked_up_at": "2026-11-03T23:17:01.416777+00:00",
+      "search_queries": [
+        "\"MLB playoffs 2026  Why Dodgers-Brewers NLCS will be epic\" entry",
+        "playoffs dodgers brewers nlcs will epic sweepstakes enter official",
+        "playoffs dodgers brewers nlcs will epic giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "298ef9bc5a2b8b05": {
+      "contest_title": "NBA Summer Forecast 2026-27: Which teams will surprise or disappoint, plus biggest questions - ESPN",
+      "original_article": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNelMwejVVWnl6eDNZNWtrR19taU5JZ0ZuRHd2SmVrOGlRMnBvdVFrNFVoLU1oUVNFNElHVGhfSUV5Vm16eFJueEE1UkhUMGdzMUdwNW80MlpVUEJ1dkVnbWNXOFJXVmhWRkd6TlVKQ1N3R3cwTUlOUkRYX2RTMGVMc296VDBSMndiVmhuRmxYR0cwMUE3LTdOaUVPWWtZMGxFZmVLUFNEUXJiVE5fVVRDc0RNNnZzczlJamJpcGtCSUJNQQ?oc=5",
+      "looked_up_at": "2026-11-03T23:17:01.259106+00:00",
+      "search_queries": [
+        "\"NBA Summer Forecast 2026-27  Which teams will surprise or disappoint  plus biggest questions\" entry",
+        "summer forecast which teams will surprise disappoint sweepstakes enter official",
+        "summer forecast which teams will surprise disappoint giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "cd9d6ec7872a1d15": {
+      "contest_title": "Updates on the biggest remaining NBA free agents - ESPN",
+      "original_article": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQl96aWxkSlhZY2FrRjZGYWt0MEMtcGxtTHpVYmJIVjFMWlRXNVdBdkdaZ0JUdTJncXZ5VTJPWG9KdDJRalZxeThjTnhBdUZiSGI0dXpKdW5KODZoX2hvVWlaQjRRNWoyUUxHZXRjX0JPdVlsSFQzTzU3TTJQMjN6Mmk1alY0TnhUM2pUdUdGdw?oc=5",
+      "looked_up_at": "2026-11-03T23:17:01.305569+00:00",
+      "search_queries": [
+        "\"Updates on the biggest remaining NBA free agents\" entry",
+        "updates biggest remaining free agents sweepstakes enter official",
+        "updates biggest remaining free agents giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "67a2ac47717b80ed": {
+      "contest_title": "Predicting all 32 NFL starting quarterbacks for 2026 season - ESPN",
+      "original_article": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMmtZOVdJMDB4MlhOUXVHbjFvZ1g0UkUxU1FWenNRVGZpV01nbWs0V3VVOHdYZEtDUmNYb3AyZjBVV29Pam45VkpKNko3RE5DV29KbEdRMG82OEhIRUZtOE1HY1lqSTVpQ2JtdHkyUkdKRUFoajBDcGdqM05NYjFOWldXamVPb3ZHM0lOYUo3T2FSZlJudS0tTTYxd19nZw?oc=5",
+      "looked_up_at": "2026-11-03T23:17:01.297726+00:00",
+      "search_queries": [
+        "\"Predicting all 32 NFL starting quarterbacks for 2026 season\" entry",
+        "predicting starting quarterbacks season sweepstakes enter official",
+        "predicting starting quarterbacks season giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "f40d61f946ac198a": {
+      "contest_title": "Blackhawks win NHL draft lottery, Connor Bedard sweepstakes - ESPN",
+      "original_article": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTnBlVUdMMVNWRGZCZlJMYnFKOXl4WW9FbXdhTDc2dGFsYVJsZFZXY3JvMGhta2NYdWhEcFhRbWwwczlCaUZXRGZNTmFfcV9IbHlqVFRYM0tDM1NFRXNMRENzZUZLZGRiQVdlcEMwWkZub094Mk1FWVBXODdDVEJfRFBYV214V0Rhdi1RVVBXdUF4TEpjcnhZT1dBS2huOEpuejd2VHpB?oc=5",
+      "looked_up_at": "2026-11-03T23:17:01.310051+00:00",
+      "search_queries": [
+        "\"Blackhawks win NHL draft lottery  Connor Bedard sweepstakes\" entry",
+        "blackhawks draft lottery connor bedard sweepstakes enter official",
+        "blackhawks draft lottery connor bedard giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "67fee74487d88987": {
+      "contest_title": "@ESPNF1 Social Media Sweepstakes OFFICIAL RULES - ESPN",
+      "original_article": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ta09ZaEZRQ2FQQ3JqazEzd3FicEs3UWktanF6NTJ0cnYxMDZtbDdtTWtjcmYwY040OEF3aG0wTTM2OHZnaUJpUzdaN18wLURCQ1hVRTRFcw?oc=5",
+      "looked_up_at": "2026-11-03T23:17:01.270519+00:00",
+      "search_queries": [
+        "\" ESPNF1 Social Media Sweepstakes OFFICIAL RULES\" entry",
+        "espnf1 social media sweepstakes enter official",
+        "espnf1 social media giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "b049413f1dd34c5c": {
+      "contest_title": "2026-27 NBA season: Under-the-radar concerns for title contenders - ESPN",
+      "original_article": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNR0dkeTlyZWJRd2hfdGpoanc5c1lrN2tVSnE0T283a0pQYm5FRlJ2YXJldUtWUjFKdU94YlM5dWp3SkpOX1NtTVBOMTdGX3l1cmxjMWN4YVI3VE1zeUk1TnhCaFFCbUdtLTh0Q0pHOGhqQ2ljTGVRVHBicW1MXzN2RHVhUnNucTMyQzkwdnFXS3d1Q0lIaVJNOVVyYzVtenM?oc=5",
+      "looked_up_at": "2026-11-03T23:17:01.397782+00:00",
+      "search_queries": [
+        "\"2026-27 NBA season  Under-the-radar concerns for title contenders\" entry",
+        "season under radar concerns title contenders sweepstakes enter official",
+        "season under radar concerns title contenders giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "a215cac92d456950": {
+      "contest_title": "Is Zion enough to completely change the Anthony Davis trade sweepstakes? - ESPN",
+      "original_article": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNi1PY1BBMUxHQXVyTnc5MjlsUEdrVkJfM3lfUmVwbXY4NEFuQ0Vud1BpTndMOVc3dDVYenhtZWZNeXZJVHlZTUhHNEREY2pqbnZ4SEMzWk1qTGFudll6Z25fNW11aWlvVzJZTjJJSVpYZ1BUTkRPenVfdDR0bzFoLTBaRXh2TlFiNWRrUmNtM0FKV1h4cDdQM3ZteTNqbFBlYUx2ZGxtejJtUjg2NGc?oc=5",
+      "looked_up_at": "2026-11-03T23:17:01.483940+00:00",
+      "search_queries": [
+        "\"Is Zion enough to completely change the Anthony Davis trade sweepstakes \" entry",
+        "zion enough completely change anthony davis trade sweepstakes enter official",
+        "zion enough completely change anthony davis trade giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "e1e8cbf6ffa9fbf7": {
+      "contest_title": "2026 NFL free agency: Roster moves, questions for 32 teams - ESPN",
+      "original_article": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQb2xseS1iQUZzRjJST0dOZU9sT0JZRllEcmJQai1aVHBNb29USXVRRU5sQkdqZEkwMUNkb21oMnpEOVpiQ1hkdmhiTzVHa1dHLWoxaWRqTUtzTDFNMUpMYWZpaXhybzh2OTVVRk1yWnhOQlhxU1VydTA3MFlyZFpNdmZvbXZOSlMxcWduYV8yLUtBSHgtOWk3bzU5T1NqRF9YaG5UNDc2dzc1ZUZTSFdaYl9wTnR3WXhCOHpHbA?oc=5",
+      "looked_up_at": "2026-11-03T23:17:01.514328+00:00",
+      "search_queries": [
+        "\"2026 NFL free agency  Roster moves  questions for 32 teams\" entry",
+        "free agency roster moves questions teams sweepstakes enter official",
+        "free agency roster moves questions teams giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "50b1fc5cdcfc153a": {
+      "contest_title": "2026 NFL training camp previews, projections for all 32 teams - ESPN",
+      "original_article": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQY1ZPUElfcldXNDZOdVFGMGVNNU1Sd1JGU1BobXlITF8tU0x5SzYxeURWX1VkXzd4VjgxMW1NUkNfU19XZnFOTGhSejBNMXFwRlJ0TXpVZ2hFdjk1LUxQUHhwV0F3SEpTMkY5eDhHTENUMWFDcDVQNUh5bmJQcV9KZEJGRkcycE5qVlgyNTlJdUNjY2NuaGYxRktrbTJXS1cwTS1vMnlKSTRTWlJwWmRiMnhn?oc=5",
+      "looked_up_at": "2026-11-03T23:17:01.580690+00:00",
+      "search_queries": [
+        "\"2026 NFL training camp previews  projections for all 32 teams\" entry",
+        "training camp previews projections teams sweepstakes enter official",
+        "training camp previews projections teams giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "40827f62156c85fe": {
+      "contest_title": "NHL trade grades: Report cards for biggest deals of 2026 offseason - ESPN",
+      "original_article": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVElzcmlBa2J0ZzJBS0FWMGdTel92VGJIX0JJVFNDX2IyUzRBNTV4UlNybUZEdU9leWtWeTJqNUZmUVdkLVlIUE9sWDFjXy1vRERZQ3I2YmlrRnlRMTJCdzRycXpaandEUjdzbW5INEtoQVpHTy04cU9IMWlLSnVwaW1fZ2ZqazUzb2xyR09aVWU0SnNQM25BT2ZFYkdPVjJxWE1hTXV4VkVvUURPdThvYml1bzk2MmJYWnFaMjNDUnh6ZlNqcVppUjFaWQ?oc=5",
+      "looked_up_at": "2026-11-03T23:17:01.705003+00:00",
+      "search_queries": [
+        "\"NHL trade grades  Report cards for biggest deals of 2026 offseason\" entry",
+        "trade grades report cards biggest deals offseason sweepstakes enter official",
+        "trade grades report cards biggest deals offseason giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "6d0d05506a060ff4": {
+      "contest_title": "2026 MLB trade deadline grades: Report cards for every deal - ESPN",
+      "original_article": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNT3pydmVuQkRJbXMxT01fTTd3eTJzSGI4QmhnQWZ0alRya0NLakoyc0Q0czNSRUhFNHU1Y3hRdzhrZUV6S3JxUm5fR1VfLTY0WUptRnhJUzlRUXprZ1RWdUtYMlhFQlVmSXY2UGFTQWpycm5ZcEl6TDZTOVRaU0ROT2lpeTZyeHV4LVd3OXJDLXJPRDZ6S1htajViXzJ0dE5JU0kxOF9POEJOMmhR?oc=5",
+      "looked_up_at": "2026-11-03T23:17:01.908032+00:00",
+      "search_queries": [
+        "\"2026 MLB trade deadline grades  Report cards for every deal\" entry",
+        "trade deadline grades report cards every deal sweepstakes enter official",
+        "trade deadline grades report cards every deal giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "313c712213e2fe0c": {
+      "contest_title": "NHL free agency 2026: How all 32 teams can earn an A+ - ESPN",
+      "original_article": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYUtvdE9VcXNGZTRZWG1iN0dua3ZHSC1fM21wd2xwWHYzQzU1UnZoaGtlTkNvMVJ4OGVudVRaQ0ZMNGR5ZFpOdTJaN2F6Z2RvS1lRSkRucmtlZXpVTmU2Q0Zmc2UyRXdLcnROcUhXRTFNdndNVVRPLWhXamN6TUc5RFlUOVJQZU9DZ1g1bEdWSmRTbWtodU1ubWszNDVWUlMxbmM4czNZdldMWTE4WURNN0hR?oc=5",
+      "looked_up_at": "2026-11-03T23:17:01.615504+00:00",
+      "search_queries": [
+        "\"NHL free agency 2026  How all 32 teams can earn an A \" entry",
+        "free agency teams earn sweepstakes enter official",
+        "free agency teams earn giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "728e97b6d0741118": {
+      "contest_title": "2026 NFL free agency grades: Aaron Rodgers, Dexter Lawrence - ESPN",
+      "original_article": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVzdBZG9HT29WckZKbjdBN1IteWJaMDJFQVlQdUk1ZkFCR0N2N1NPOGpQR1VoYTlhMzlSM3pIQ0FPRE43SVJnUEh1dURnMHBtVllKU3BXOWdxeWhoM05zU3kzQUN3SnIzbHc4c3YyMXVTWnpMMWtpTWN0QjBRd25HNl9jMWNfV3laWXJ3TU5UWkYwbzAxOVFKWFI5N25RMFVKNnltNnpFc0VjOUY3WnVSM0ZkVVlEOUx3cnh5dnRoYlRGTWNq?oc=5",
+      "looked_up_at": "2026-11-03T23:17:01.610236+00:00",
+      "search_queries": [
+        "\"2026 NFL free agency grades  Aaron Rodgers  Dexter Lawrence\" entry",
+        "free agency grades aaron rodgers dexter lawrence sweepstakes enter official",
+        "free agency grades aaron rodgers dexter lawrence giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "337a173755433a60": {
+      "contest_title": "Luke Schenn News - ESPN",
+      "original_article": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Wck5pTENUckExdDNOeVJsZXJ0aWtQTGJjVk55c0x2V2RwdDlRSkFQb3ZtRjFzaUMxWlpPaHIyZWtJcGdVYzRBYTViVV9uN0lTRjVNd2IzOGllbjJoOU5DejJtbkdCd1Y2OGc?oc=5",
+      "looked_up_at": "2026-11-03T23:17:01.766924+00:00",
+      "search_queries": [
+        "\"Luke Schenn News\" entry",
+        "luke schenn news sweepstakes enter official",
+        "luke schenn news giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "1acfe98be3ccaf63": {
+      "contest_title": "2026 NFL mock draft: Yates' pick predictions in Rounds 1-2 - ESPN",
+      "original_article": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbEdXLTJZQWJJbG5DOWNJdHkzLUUtdG1FeEQtVVRsWFBKLW5kNUtXdS1kZmVHY190c1JTX3laN2tra0NPaUFNazlhVnBrelRlTVhlNHJlcmk1cTQzLXhaWkRlQm80RGE0NUVFUlhWMFlGVFhNYVZyQUM3bFZjUlQ5NTM2SWg0c0doRnJla2JSNnhCd2x6bEFJdnZLT0o4QzRoQWVnWVNBZ0tsUQ?oc=5",
+      "looked_up_at": "2026-11-03T23:17:01.807719+00:00",
+      "search_queries": [
+        "\"2026 NFL mock draft  Yates' pick predictions in Rounds 1-2\" entry",
+        "mock draft yates pick predictions rounds sweepstakes enter official",
+        "mock draft yates pick predictions rounds giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "7a47210bdbe6dedb": {
+      "contest_title": "2026 NFL mock draft with all trades: Deals for Round 1 picks - ESPN",
+      "original_article": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNUFrQmN0VWQwTUoyRVQ1Tk1YYjhkU2lmM3VreVdtbWRLbGxmTTY1NkhMTng2ODdYVlUyOURRTXlWaldsSlZtNTJ2azBUWE9zWjNuUFBIMkN1UkRmcnczYzNSUWlDcGVNSV8yemIwbERSZktzTmZYMFVzZG5fQmN3OXNQcmZTOG0zc2g5d2NvVGtBbVg5Y3dDTm8tQzZrZV96eWZsYUJZWTROOERYZUZZN3RaZERfc1lJSk8tVHZNUUsxUzFvVER3RVh0ZUVIMy1FMkJvVzZvQjE?oc=5",
+      "looked_up_at": "2026-11-03T23:17:01.675526+00:00",
+      "search_queries": [
+        "\"2026 NFL mock draft with all trades  Deals for Round 1 picks\" entry",
+        "mock draft trades deals round picks sweepstakes enter official",
+        "mock draft trades deals round picks giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "4df66b2d2d8ff945": {
+      "contest_title": "ESPN's big NBL team-by-team 2026-27 season preview - ESPN",
+      "original_article": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUnh2a0MyV0g1ME80U0ExbVlvZ3VtWTBzNkN5UVJfODJXeE5DS2tEMG0tdlNlUlpqNXVfX0lRckNHbE16SU1ha2JsNjlfdDBlNE9xNThoZEFwYTZGdkQ2QmJSZkxnV3hvLUR3YnBqNEJUSW1NNlkwWnNjTkVDaEJZQmhwWmRUQWJCMHBiVkliZDhKcmxvR1I4?oc=5",
+      "looked_up_at": "2026-11-03T23:17:01.736457+00:00",
+      "search_queries": [
+        "\"ESPN's big NBL team-by-team 2026-27 season preview\" entry",
+        "espn team season preview sweepstakes enter official",
+        "espn team season preview giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "c7148f444c934f2e": {
+      "contest_title": "Alexis Lafreniere NHL draft sweepstakes: Best fits, biggest eye-roll landing spots of 16 potential teams - ESPN",
+      "original_article": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSE1CVTl5S1VmNHFTckNvZ1RodUVMQjRqQjVKTWNiTGFzOV9teXdiRkczcXUtbjlPZEgtcGF6eTdSOHRWUWlWVE83QWwyYjUtc2gxeEdZcVcwaGhjMENEVnhHUlF3VzdaUS1MMlprZjh1VzRWdXJaYk1veVJva0pTSzRjSkE0LURBZmRLWXJpMUR3U0pqNzFZZFUxZE9nTE93LUtodmMwOE5NaTFXazBNOUpkVjBjcmFXal9MQ2xzcmZqMFN1RkhVMjZraGVSMlZ5dGVBM181UWM5UzRT?oc=5",
+      "looked_up_at": "2026-11-03T23:17:01.798947+00:00",
+      "search_queries": [
+        "\"Alexis Lafreniere NHL draft sweepstakes  Best fits  biggest eye-roll landing spots of 16 potential teams\" entry",
+        "alexis lafreniere draft best fits biggest roll sweepstakes enter official",
+        "alexis lafreniere draft best fits biggest roll giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "19b78b7948386f30": {
+      "contest_title": "NHL teams' offseason keys, including free agency, draft needs - ESPN",
+      "original_article": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQzRoZ1NQbHR1bG5UcGp5bEdsVF9JUXlwaUdYZzFSeVRZRkViUzFJV3dGUEU0Q1o3YzZINmNPOE1TcjJvWmFzYy1vcjhBcHE2RjZrQW8tYXh4dklkbkVCdlRFX1hIQ09SMG9iTWswZmNKUDdzR01MbmIwSXNZMUZnRmpBT0xFRExYWkhNNFlzQnNzTGVBcU9pUUtSUVBLbU1DN2tHUUw1QWh6M2VfX0RFbkVvWmRIcFMzWnc?oc=5",
+      "looked_up_at": "2026-11-03T23:17:01.900241+00:00",
+      "search_queries": [
+        "\"NHL teams' offseason keys  including free agency  draft needs\" entry",
+        "teams offseason keys including free agency draft sweepstakes enter official",
+        "teams offseason keys including free agency draft giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "e01db003333c38f6": {
+      "contest_title": "Peyton Manning sweepstakes takes the form of a bracket - Page 2 - ESPN",
+      "original_article": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XT1F0X2pQVlRBekxSWlFyTldqOWZWWFI0WUZjb2ZEQi1LVDZIdDk3LWJKc09NdXFZWG5vNFdEV2o3QWdQWTllY3M5a0w2cmN4YzdaV2V1ME5Bdkg2SXc?oc=5",
+      "looked_up_at": "2026-11-03T23:17:01.901118+00:00",
+      "search_queries": [
+        "\"Peyton Manning sweepstakes takes the form of a bracket\" entry",
+        "peyton manning takes form bracket sweepstakes enter official",
+        "peyton manning takes form bracket giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "08668db1f3b115ab": {
+      "contest_title": "College teams that won -- or lost -- at the NBA draft withdrawal deadline - ESPN",
+      "original_article": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRV9kVGdRZ09IcVg4NDNLUWhBUGpvdlBJNzZZM21FaEpaVG9TQ29CY0VBbDhBSzRkX3RDeXhnejZFanMzNTVIa2d4MmlOQm96Z0lQU3NuQVNnQTBPcXBxRkRtWlJQNXRLX0FObW5IMmdFemR2TThQNlBrWkk4T1lSekV5bHByMlQ4Tlk3SnNlMjhQTEhmaWQ4OHJIRmJ5WDVNbXhmZVlYQUE3RkRrLXpUanV1d1hMM1N6eW9jeGVZWUlvdFdjSWstUTkzVXFVd28?oc=5",
+      "looked_up_at": "2026-11-03T23:17:01.962545+00:00",
+      "search_queries": [
+        "\"College teams that won -- or lost -- at the NBA draft withdrawal deadline\" entry",
+        "college teams that lost draft withdrawal deadline sweepstakes enter official",
+        "college teams that lost draft withdrawal deadline giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "91ba8224f39297c1": {
+      "contest_title": "2026 NBA buzz: Latest news, injuries, league intel, updates - ESPN",
+      "original_article": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeTVNTnVlb1kyMDhWVEZMeGVCRUV4TkY3THhaR2RIc2x3cjAzVkprNFVMTko1NWJ0RFlfVnB3WDNmT0lwODdOSkZ4ZWI5NGR1R2xpMUR6QldmQmUyNEdYdGYtM3J3MWFlenh3aGViUDI3cDdBeXk2LVluaGtJcVg1RF9yb2dLWHVkVDRnWlEzazc0ZFEyalBEUnNpd3Q3OTFiajFtVDJ0UFN2MWxqQ3c?oc=5",
+      "looked_up_at": "2026-11-03T23:17:01.973796+00:00",
+      "search_queries": [
+        "\"2026 NBA buzz  Latest news  injuries  league intel  updates\" entry",
+        "buzz latest news injuries league intel updates sweepstakes enter official",
+        "buzz latest news injuries league intel updates giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "c70db5fc195ecf21": {
+      "contest_title": "Seven offers, one winner: Playing out the Kirk Cousins sweepstakes - ESPN",
+      "original_article": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWWRxakYwSzF6ZG04NHFrUnFpQi1DN1FMUlBmTTNuQ1BkQ0I3V2h2MWVjRnNyQy1GRDdkMEdGZVNpQVREX1I4c0JUOGRmVkZxZ1ZPQWdsUWZoRW5yeHBsVld0bExoQV93VFBtYTNUT0o2M1dYSmllX0JRUjlaLWJZQ29JVmJWa19aLXZBSUlRRHNwcnp1WTdkWFVHUW5yeHBJMk9qa1RQYWYtRnZQdGZReXB1SmFzXzRTZGhEVHNjQ2pfcWFxUmtJamRkLVVlZw?oc=5",
+      "looked_up_at": "2026-11-03T23:17:01.981995+00:00",
+      "search_queries": [
+        "\"Seven offers  one winner  Playing out the Kirk Cousins sweepstakes\" entry",
+        "seven offers winner playing kirk cousins sweepstakes enter official",
+        "seven offers winner playing kirk cousins giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "c172e47cb87e5582": {
+      "contest_title": "NBA playoff race questions: Are the Cavs the East favorites? - ESPN",
+      "original_article": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNejNoZmxscUVwQlpxblF2ZXFDVHFCMUpyeFVOdkxQTF84ZWZ0RWtpRE9GdUlnY1ZxOHdKSndzSzdaTThFT1VMc2JLWXhrck9TMEdka0tGNTBOV1N3MkRYQXdBVlB5aU9KOGxJUFZJdTU3OGw2cjhaMm1qRVZNLWR4WkJ4LXY4VmpJZG9SX1Y4dGMxZHJpUmFGSTRJVWx1NXdTa0JBQ2pWY3hlY3RoV1ozYmloWlpLN0JxQTEyN3pvVmoxOVRGeEpLUjdUcWRkUmVCeW9sMmV0dw?oc=5",
+      "looked_up_at": "2026-11-03T23:17:02.031737+00:00",
+      "search_queries": [
+        "\"NBA playoff race questions  Are the Cavs the East favorites \" entry",
+        "playoff race questions cavs east favorites sweepstakes enter official",
+        "playoff race questions cavs east favorites giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "031badc96cef4a62": {
+      "contest_title": "LeBron James declines option as summer sweepstakes set to begin - ESPN",
+      "original_article": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOR0lVZV9URzBVWDc2Qy1Sb19tVHRoeXlwRzdZWGtJaTYzdFJYbzYybktvYUFsVDZaaF8zYzd2bzJGY2pPQkRSaE90V0dRRVBDekNFNTFyRDdlbk4wM3djLUxGdVRmdFVVOWtQc0hEaXNWY0FrMmE3UUhyYVh5Z0RvQ2lneFRBZTR2QXJ1VDJ4VjRfR1FEcDduT3VURGZISlRyV1U0WGhtUzB4Wk1yQzFvSHl3?oc=5",
+      "looked_up_at": "2026-11-03T23:17:02.069018+00:00",
+      "search_queries": [
+        "\"LeBron James declines option as summer sweepstakes set to begin\" entry",
+        "lebron james declines option summer begin sweepstakes enter official",
+        "lebron james declines option summer begin giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "15de29266e58ffdc": {
+      "contest_title": "Dodgers acquire Manny Machado from Orioles for five prospects - ESPN",
+      "original_article": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWFRFU2pRT3pDXzh6OE56N2Z5OWhSczdQRWRNVDBTZFhKVFlpNms3TW1EYmFnb3hxbzVaYUVLMDlkWDhURWVtNHQ0MGhWb2M1NWZaVFJuUnBVRkNoTlNYOVJick1nakU3VG9EMTRhVWhpM1J0UGhORjg5djY1UEtzSEpMWjRtWS1lakJnZjNHQV9iRktmYTJIRWluX1BBTGh5S0hGUWZ4U2VHb0VyX2hRWHo2Q1U?oc=5",
+      "looked_up_at": "2026-11-03T23:17:02.115896+00:00",
+      "search_queries": [
+        "\"Dodgers acquire Manny Machado from Orioles for five prospects\" entry",
+        "dodgers acquire manny machado orioles five prospects sweepstakes enter official",
+        "dodgers acquire manny machado orioles five prospects giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "b778caff330ebf2b": {
+      "contest_title": "Luke Schenn - ESPN",
+      "original_article": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBmWkhfUWppNXRaU1ZPY09PLWNCbmV5aTdDV0VLUXhTTjVLTTVPMVR6RUdfNHZVTGcwakx0OUVsLVd4a0luREdrNWx3WlV6LUFhUUdqMVV4ZjZFYnRQTDFBZ21VTQ?oc=5",
+      "looked_up_at": "2026-11-03T23:17:02.091106+00:00",
+      "search_queries": [
+        "\"Luke Schenn\" entry",
+        "luke schenn sweepstakes enter official",
+        "luke schenn giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "f991ef0b6643c14a": {
+      "contest_title": "Bears banking on health, better coaching to improve pass rush - ESPN",
+      "original_article": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObk1hcFNZRWpRRHBxU0w3dEdJdU1LMUtrUWZZVzAzZS12b0tzNEw5d05xMl9VcUdXUjI4YjNUdURBYnJoeW9HUkItNXdVM3BGNy1UcUI3bkJwQmJWQzZLWFF1Q05Pdko5dVpSQUhxR1JkZEZFX0RHUTV2LXhiYTQwOHl3SDM3RHpPRXkyek5XMA?oc=5",
+      "looked_up_at": "2026-11-03T23:17:02.191334+00:00",
+      "search_queries": [
+        "\"Bears banking on health  better coaching to improve pass rush\" entry",
+        "bears banking health better coaching improve pass sweepstakes enter official",
+        "bears banking health better coaching improve pass giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "92a75e0ff4c7a292": {
+      "contest_title": "How to Play Women's Tournament Challenge - ESPN",
+      "original_article": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQalZpZ2I2V19uaDlJV3V2bUdXZTVVN3RFY0g5cmYxb2ZJWWZWdTBCODRIUXg5TVFpRDYzYUFYRnd4ZXMzaUlpOE5zWFo5SXNRV3JfRFBOMlg2TTlZdXNfbDMyUmx0ek93cFJPWUswMGdmVWE1S2xFbkYxY1R5VThQSDRGV2NTbW8?oc=5",
+      "looked_up_at": "2026-11-03T23:17:02.293376+00:00",
+      "search_queries": [
+        "\"How to Play Women's Tournament Challenge\" entry",
+        "play women tournament challenge sweepstakes enter official",
+        "play women tournament challenge giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "5d6320b7e4a1db87": {
+      "contest_title": "Chandler, Oliveira, Masvidal, Holloway? Who leads the McGregor sweepstakes now? - ESPN",
+      "original_article": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSUZCdzFIcWJTeDFic19ZVVhfUzFCRklrVzVxY3NGYUI1UUFGVVFKb3FoUllKUzR5eE5aTGNHeTVwRTBHUHhVNm11WE93eGNUT0MtTVo1QTljZDRBT2NXQUo4RVpad25LYjFjSnF5RVdjNXhSSGZoTDU2MVN0WE1WMFZkNE9rdGZnTDdlMUhlaktfcGxIM1VlRmJYbGNsdjhrMFc2aGlnbw?oc=5",
+      "looked_up_at": "2026-11-03T23:17:02.285360+00:00",
+      "search_queries": [
+        "\"Chandler  Oliveira  Masvidal  Holloway  Who leads the McGregor sweepstakes now \" entry",
+        "chandler oliveira masvidal holloway leads mcgregor sweepstakes enter official",
+        "chandler oliveira masvidal holloway leads mcgregor giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "372918af4ffd454f": {
+      "contest_title": "What all 30 teams must do before the MLB trade deadline - ESPN",
+      "original_article": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPa0ZVdlViTk9LNXJfUWlXYTVYUkkwQ1Y0Y09fVVpiNXh6elNQR1RYWHEyQUVjSDJpLVdEbkpKZ1VWbDdyODdsWXBKZ240QkE0ODVlYkVJT0tzLTlOSjI0MWQtaDZ3QXE5MThnblY3enlXUGFQalZMWmxTaF90eVlkc1p1RlQxcnI3eU0xUmJoQlhyUy1qUnR1X2pBQTVjeVQ4bnItd0Z1Y0xKeVZmbVVaeFlLOTJlYnV1NkU4Rw?oc=5",
+      "looked_up_at": "2026-11-03T23:17:02.272118+00:00",
+      "search_queries": [
+        "\"What all 30 teams must do before the MLB trade deadline\" entry",
+        "what teams must before trade deadline sweepstakes enter official",
+        "what teams must before trade deadline giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "b9c252ed7edfb2b2": {
+      "contest_title": "Who will win the Pep Guardiola sweepstakes? - ESPN",
+      "original_article": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUVh2OG5RT0VzQUtUOUZxWDlsclpraDFsUG5MVzZLV3JxVFM1TUp3eTdpaFpwdW1CQTM2Z0dMbVJOekxOaDA4blJJck1td2ZLYjluVGhDa3N0TEtBTFhWaFVfM0JidWlQMUFnT0RwRWtHOEhqMkZQci01V1NfeHlTWC05Vmo1R3Zr?oc=5",
+      "looked_up_at": "2026-11-03T23:17:02.236001+00:00",
+      "search_queries": [
+        "\"Who will win the Pep Guardiola sweepstakes \" entry",
+        "will guardiola sweepstakes enter official",
+        "will guardiola giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "3a0dda73953a00b6": {
+      "contest_title": "Rangers win Yu Darvish sweepstakes - ESPN",
+      "original_article": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQY3RSQjhmUl84a0ZjcFpTNWt2RExma1k1UW5FWnFvcXBuNHpGQXBHb053a0pnNnlCZzF0T3UwUVR0U2UtbF92ZWdkNnlsQmVJV2Q4MGdOdEwwQ3BJN0M3b3EyeDRKaEhXajd5dTlpWWZ2WGxZRVZ3UFZrdmtLN1NjUlB4UW4yUlJsZ2s2RzdBVldEMXRrakROSDYtZFNWVnJm?oc=5",
+      "looked_up_at": "2026-11-03T23:17:02.429876+00:00",
+      "search_queries": [
+        "\"Rangers win Yu Darvish sweepstakes\" entry",
+        "rangers darvish sweepstakes enter official",
+        "rangers darvish giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "bb600bea2b21afc6": {
+      "contest_title": "How to Play Men's Tournament Challenge - ESPN",
+      "original_article": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KX1ZydEpHSkYwbFF4bjk2QVNqZ0pvQ1JEczhiS3pPcXVQaEFYSjJQWXM0b2FmOTZucFUwWUxFLU5HZTg5V0IxbGQwOV80bXoyRjdNYmpGLWgxa1hNc2NkLU43cnpMNEVlWVJCRzZzMlpLR3ZvaFZKSy02ajl5LTg?oc=5",
+      "looked_up_at": "2026-11-03T23:17:02.338308+00:00",
+      "search_queries": [
+        "\"How to Play Men's Tournament Challenge\" entry",
+        "play tournament challenge sweepstakes enter official",
+        "play tournament challenge giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "4710a5bd795ae7f4": {
+      "contest_title": "Red Sox re-sign Mitch Moreland to 2-year deal, out of Eris Hosmer sweepstakes - ESPN",
+      "original_article": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTnBJWEI0aE45YXJlcEhyVnlzQmwta29mZFFkdjV5Ym93aEJqUHZtRHFjZWZWN0lmVEVOMzFMWnJGbjVlNWpaUFJ6MTZOSXVGa1dXTDNPTUNhUTdmY1JBZE82bGxnSmgxa0FXb19OdFAwS0QzX1dCRkZPMWpyVFI3eHZPV3hQOFBuTm0xTjhEa1BSTVFELVh0bW96akNvZWc?oc=5",
+      "looked_up_at": "2026-11-03T23:17:02.388195+00:00",
+      "search_queries": [
+        "\"Red Sox re-sign Mitch Moreland to 2-year deal  out of Eris Hosmer sweepstakes\" entry",
+        "sign mitch moreland year deal eris hosmer sweepstakes enter official",
+        "sign mitch moreland year deal eris hosmer giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "740a4ca8a336de1d": {
+      "contest_title": "V Foundation - ESPN",
+      "original_article": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9vR2gxTDZwSVB5cFhiZmRpZU92VElDczdkMXdHVEtHcWJTQ1gwUW52VUJMVzBTRm4yRGl0ZmQxb3ZIMzU1NVpncktIeDR6SzZGdVRGRTBjU2hnbkdvMXoyZGNR?oc=5",
+      "status": "insufficient_title"
+    },
+    "a940d7ebf429f2a1": {
+      "contest_title": "Simulating the season using EA Sports College Football 27 - ESPN",
+      "original_article": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQS3ctdFgzZ21BdzNacnhSdjFhOXlUWmt6eXI2MmlqaURwUjJwdXMzXzdoWXpDaUFraWEwTkRqOFJJdFQtSWx6ZncxWHVHTkVQVENyUVVEeHhXclVZZGJzRE9NNDNLMXFyVkhwMG5NazBMTDI5TDdxVHNUWHJnMlFINTd4OFp1TVRFcU1PSkM3dkxmX19PeUZqNnRHVUZCRVA5QVpuOGFkZ0dtZEl0elpLeDVGNDZCbGhwZ1BpcFZadXk?oc=5",
+      "looked_up_at": "2026-11-03T23:17:02.447119+00:00",
+      "search_queries": [
+        "\"Simulating the season using EA Sports College Football 27\" entry",
+        "simulating season using sports college football sweepstakes enter official",
+        "simulating season using sports college football giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "70d016f445880228": {
+      "contest_title": "NBA trade deadline: Execs, scouts on the aftermath of a wild week - ESPN",
+      "original_article": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOa0dsT1ozbFd1c3NZbUJEZ3FxMmlwUDM1dUpDUTM1NTktTjFvbXdvckgwRWtQWnZtYVVDZ3NDWDdJT2VvVUc4OW1tSFlKVnEwN0cyemp0OFh3aE94YXRJaElBRjdHdG1BN2hyMnZjd1p2X0FZRnpjWUpJLVdHczFKQ3paY29nczlQYjJ2aU9hYVU3MV8wNjNKMHFjRzBKVURyOWhGc25aMGZqNlR3Nm9NRU85T0tmYlRLTDAyWTBSTQ?oc=5",
+      "looked_up_at": "2026-11-03T23:17:03.121610+00:00",
+      "search_queries": [
+        "\"NBA trade deadline  Execs  scouts on the aftermath of a wild week\" entry",
+        "trade deadline execs scouts aftermath wild week sweepstakes enter official",
+        "trade deadline execs scouts aftermath wild week giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "e09c82fc6cbc3500": {
+      "contest_title": "Could box breaking be considered gambling or a lottery? - ESPN",
+      "original_article": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQXzNKeHcxdFRQU2c2dWQwMU1CQ1YtaEdhQTc5Zk5OUUdXQTJlUkduWFhYczE1RGdNVjNvMkxySHRqMnlxY29UeC15enR4ek53ZjNPV3dsVm80aFZnMlVtcUs5SVpPNzA5S2puZEc2QmJmc2RRZy13RlZ1R1c1S01kWnVwX3JSYnNOZnd2YWx1RmFuV3p2Snc?oc=5",
+      "looked_up_at": "2026-11-03T23:17:02.401685+00:00",
+      "search_queries": [
+        "\"Could box breaking be considered gambling or a lottery \" entry",
+        "could breaking considered gambling lottery sweepstakes enter official",
+        "could breaking considered gambling lottery giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "6d0c952be2a68364": {
+      "contest_title": "How to Play College Pick'em 2024 - ESPN",
+      "original_article": "https://news.google.com/rss/articles/CBMieEFVX3lxTE43dDgxaGZDbDdlSjFYYmpfYThOTl85QlF5V3RieGVqTDU0R2U3NkZLR2VvYUUtMWJWdUx5ajJNdEswUHZpbHFhVWJjQTl2X0NnQU15ZWNHUERTQWsxLWEtY3QxNTZFblBsMkthMHFMOXF5NDZrNG1QSw?oc=5",
+      "looked_up_at": "2026-11-03T23:17:02.508063+00:00",
+      "search_queries": [
+        "\"How to Play College Pick'em 2024\" entry",
+        "play college pick 2024 sweepstakes enter official",
+        "play college pick 2024 giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "5a67c9dad3866f56": {
+      "contest_title": "How to Play Pigskin Pick'em - ESPN",
+      "original_article": "https://news.google.com/rss/articles/CBMickFVX3lxTE9uSjZXV2VpZzQ5V1ZUQVNvMW1rWEdmWlhNcXhYbEtzdFQxdlJDajJQdlVIa245Z3NiMzZKcEZ4RjZod0I1M3c3dHczQ1ZjY0tZelNXTjBSNy1jcldfM1dqY0g2b09FRDRGY1JWVjlxNy1hZw?oc=5",
+      "looked_up_at": "2026-11-03T23:17:02.661007+00:00",
+      "search_queries": [
+        "\"How to Play Pigskin Pick'em\" entry",
+        "play pigskin pick sweepstakes enter official",
+        "play pigskin pick giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "d7666e7965c53f35": {
+      "contest_title": "What the David Montgomery trade means for Texans, Lions - ESPN",
+      "original_article": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcmVjSlpjMTFHdUpXNlZlZWdZZDNTaXVJSUg5R202aDVsMGNBYjZOQ0JHNjhiUVBCTzhWYS1CTFVialBLci1yZDFnRVo0QmhnaElKV0dqWnBPcm9FY2puSnEwak1ObmhYWXZwWUlNXzc0RjVwNDdlNnVhLTdxZHpJWXRXZkxGWmt4OHZELVNpbDJOR2RwMnFTQVRsSTY4YTVl?oc=5",
+      "looked_up_at": "2026-11-03T23:17:02.584791+00:00",
+      "search_queries": [
+        "\"What the David Montgomery trade means for Texans  Lions\" entry",
+        "what david montgomery trade means texans lions sweepstakes enter official",
+        "what david montgomery trade means texans lions giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "5920a372a14789f7": {
+      "contest_title": "NFL free agency buzz: Latest on WRs, RBs on the move - ESPN",
+      "original_article": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTEh3QjUyNGhNN0lPdW1hQ0U0QjR1TDNMUWNYblRLZVA1TTNSeXgwRm9UQkFucVZvMHc3b29lYmNMZXNlbFY4Vy1RQ3JGRnlYM2J3QjhYd1RsOVRmM1ZRX2d2bDR3Y2J5WFY5R2VEWklNS1V2QUMySzk0ZnRaYjdpdjU0c0NGUWRuWEE5SGdhYWo5ckZZTjViamFR?oc=5",
+      "looked_up_at": "2026-11-03T23:17:02.714011+00:00",
+      "search_queries": [
+        "\"NFL free agency buzz  Latest on WRs  RBs on the move\" entry",
+        "free agency buzz latest move sweepstakes enter official",
+        "free agency buzz latest move giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "a4b376edf7665612": {
+      "contest_title": "A casual fan's guide to the MLB postseason - ESPN",
+      "original_article": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNmFHYWlLdklNR1NDcHdpYkpjaFltRmdzU2FMQ0QwZy1TOE5Oc0xRRU1MNllfVC1GOHUwWG9aY3UzT0hlbHRCLWgwSHRIWWtXQnAyaEdaOFZwT0IwWkVxc05wSGZKQkdxZUJJOGJ2T1Q0RWN4bmpNc0ZCUS1QSDBrUEJ4N25nc2tRWnc?oc=5",
+      "looked_up_at": "2026-11-03T23:17:02.940538+00:00",
+      "search_queries": [
+        "\"A casual fan's guide to the MLB postseason\" entry",
+        "casual guide postseason sweepstakes enter official",
+        "casual guide postseason giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "1ac1b325f52dbe41": {
+      "contest_title": "Winners and losers of the NHL trade deadline - ESPN",
+      "original_article": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPY0xGbWZVUVhpRWl6Y2lkZHNLMU9tazlSTnRnekowV3lWdTZyMDVUNjJ6Nmg0RFUtampBdGE1YlptbHFDVWpyd2pTZC1sS0I1ZDlyTXlZVng1R3VVOXJ5VnFZcFpSckR1V2IxMHhnM0FGRkd6Tnl5TXZJNUlhNnFlMmwwUDM?oc=5",
+      "looked_up_at": "2026-11-03T23:17:02.648023+00:00",
+      "search_queries": [
+        "\"Winners and losers of the NHL trade deadline\" entry",
+        "winners losers trade deadline sweepstakes enter official",
+        "winners losers trade deadline giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "96b95c934a018975": {
+      "contest_title": "With the new ESPN and NFL+ Premium bundle, unlock NFL Network, NFL RedZone, NFL Films, and more. - ESPN",
+      "original_article": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBNVm5jdVZMZWVHYUwtZVZ4UXhwTkxSZGxkajZ1T3ZqQUU2N3E1NHpGRE9YV2h4MXVBNkpId0Z4WWdmMUZRRHc?oc=5",
+      "looked_up_at": "2026-11-03T23:17:02.673282+00:00",
+      "search_queries": [
+        "\"With the new ESPN and NFL  Premium bundle  unlock NFL Network  NFL RedZone  NFL Films  and more \" entry",
+        "espn premium bundle unlock network redzone films sweepstakes enter official",
+        "espn premium bundle unlock network redzone films giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "250284adb6b0b865": {
+      "contest_title": "Jimmy Vesey agrees to two-year, entry-level deal with Rangers - ESPN",
+      "original_article": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZDlFXzZNaUVrM2syMjZKd09faU5OZXhKODBYQy1EUnpEOWJGZ1VuNkN3bXdFTGphbVFQVmJPcDFhZ2FYMTBLZlIyR1V4cXNwRVc1aXZvM2FtdV9iT1ppR2xzU2NXSmV1Y0piaGpxMlJUdW1iNFN6aHB3cWFzWk9YSVVUSVVSVWFoX3RFWTV3LWFUaW1sYXdHa19xa3U2cWRKblBuZkgzai1CMXRQUDdXSFNaLXJDS0dPTnJj?oc=5",
+      "looked_up_at": "2026-11-03T23:17:02.881635+00:00",
+      "search_queries": [
+        "\"Jimmy Vesey agrees to two-year  entry-level deal with Rangers\" entry",
+        "jimmy vesey agrees year entry level deal sweepstakes enter official",
+        "jimmy vesey agrees year entry level deal giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "b77ce2c86cd73e99": {
+      "contest_title": "Donald Jones News - ESPN",
+      "original_article": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1tcER0V2J4dVd0OTE1SllMUjE1U0h1MEM1OV93c3ZmbjB1QnNJdmFSWjFMQmVpQWhVTHNlb0ViM0VBal9oZXNnX1JkLUI0SnU3cnctLVZxVWJCY2UzMFpVY19LLWlsQW5Eaml4UA?oc=5",
+      "looked_up_at": "2026-11-03T23:17:02.828062+00:00",
+      "search_queries": [
+        "\"Donald Jones News\" entry",
+        "donald jones news sweepstakes enter official",
+        "donald jones news giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "a34d355396f9d868": {
+      "contest_title": "German Supercup News, Stats, Scores - ESPN",
+      "original_article": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9tNWx0M1FTcE1ESktGLTFxXzRsdEk3M3VXc2VnVzZ2NTRkNDBTdGp2ZkdPWTV1elRvMHlFT2hSQU1pTTVZUk9JT1dZX1NRS1hScFM0UGZ1ZEpiNEwyVExfUzBpaUpnQQ?oc=5",
+      "looked_up_at": "2026-11-03T23:17:02.788358+00:00",
+      "search_queries": [
+        "\"German Supercup News  Stats  Scores\" entry",
+        "german supercup news stats scores sweepstakes enter official",
+        "german supercup news stats scores giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "ae5e9512ddefe4a4": {
+      "contest_title": "NHL betting guide: 32 teams, 32 bets to make this season - ESPN",
+      "original_article": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNWJYU2RZejFEUTlKZm92NEpIOWc0ZEZKNk1PSkZaelh3TlJjRmlGWTNGNGVROS1iZFp0aTEwVTFTWFgtd2V6dWp6cHYtdENZaEVKbzZPb0hteWkxb0hIdFNBUl85VTlQZDdLU3FkX0JuUVBpc0pURkZ3TWFDRE1ZNG1EZWlGZlpyaG9uWUZ3TW44MEpZcDBOWUdGbXFoQkk1SW5zNnlEbkZaU29WUUE?oc=5",
+      "looked_up_at": "2026-11-03T23:17:02.799191+00:00",
+      "search_queries": [
+        "\"NHL betting guide  32 teams  32 bets to make this season\" entry",
+        "betting guide teams bets make this season sweepstakes enter official",
+        "betting guide teams bets make this season giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "7767d54408b65f20": {
+      "contest_title": "Agent: LeBron eyeing host of teams, including Heat, Cavs, 76ers - ESPN",
+      "original_article": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaUhDLWVwNUEtS1ZIdzFmYnFwV0hPQThSUG9jb3Q4UUhkamEtUUNvWUZ2REJXUm1wMVV0UThBRkQ2eHZjUVV6ZjlVd0tNdE5zSjRDb2duQlpKdEZLMGpZRWpUcElNZEJCU1QxRmYtSDZRc3lKWHhJQXVGaG5LZFlSN2NfVmVuQ3FEcFlLbEZ4a2ZHeUpuaG5EUVJVdVNSV0F6NzlN?oc=5",
+      "looked_up_at": "2026-11-03T23:17:02.906038+00:00",
+      "search_queries": [
+        "\"Agent  LeBron eyeing host of teams  including Heat  Cavs  76ers\" entry",
+        "agent lebron eyeing host teams including heat sweepstakes enter official",
+        "agent lebron eyeing host teams including heat giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "42d6d344bc8147d8": {
+      "contest_title": "Jon Brown - Jacksonville Jaguars Place Kicker - ESPN",
+      "original_article": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBvUkhWYmhNeV9GQ3pQZ0IxY0xhU1c4WV8tSFRleFpwT0lsa0JhUGNyNVlXeFhJWlNZWmFoZDltLXFrWmNfMEliTWlKQ3E1dVBjbGNuS0ZQTnlBY21ZcU5hU1FVTVk?oc=5",
+      "status": "insufficient_title"
+    },
+    "9682cf3a190f6bc0": {
+      "contest_title": "Jorge Masvidal MMA News - ESPN",
+      "original_article": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBRQVlMVW5QV0xqb1ZUZVdiYWktU1M4NnRJN3cxcDFnNjRMNFpnQl91ZDdHalJZZUFDSzYtVWhTX2lRVEZwVDNIR1QxTUNBUFhmQTEwUUs1WmRxX3ZnWFV0c3JTa3RyUThrTkpPUGpCV1Q5OUE?oc=5",
+      "looked_up_at": "2026-11-03T23:17:03.106422+00:00",
+      "search_queries": [
+        "\"Jorge Masvidal MMA News\" entry",
+        "jorge masvidal news sweepstakes enter official",
+        "jorge masvidal news giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "743f194fc86c9b88": {
+      "contest_title": "WNBA offseason trade grades 2025: Winners and losers - ESPN",
+      "original_article": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNT2M2NkVEaTVnbV9EaVgta01KOHpUZmVtR1NpVlJGb2QtcjZTVk5NbUJIUGF0Wlh4ZnlyaVBHWVBtSXZKel9UaHU5UEZuQzVJQnBaODJ1S3A3RHVqN0U1NWlnVVp2QjAwYi10VmNIUHN3MVZYdW1tWmFXS1oyTzJfNlc0SWFVZy1VOW1TTXZLdlk4UzNXOXdhU2FQTQ?oc=5",
+      "looked_up_at": "2026-11-03T23:17:02.958477+00:00",
+      "search_queries": [
+        "\"WNBA offseason trade grades 2025  Winners and losers\" entry",
+        "wnba offseason trade grades 2025 winners losers sweepstakes enter official",
+        "wnba offseason trade grades 2025 winners losers giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "0d7de33f1079ab90": {
+      "contest_title": "WNBA free agency and trade tracker 2025: Deals, news, moves - ESPN",
+      "original_article": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYUxiVkkyVFlDVlo1aHcxaHhLcEM0TmVfc0tIRGFjeWdNYjNCbW8tZzRwUlU5R0dkeTVjNWpxUGZrWmt5Z2xCV2otNFN5TVE3MDQycnJyZDFneHJjbl9XZ2RUMXc2VHRjU1hpZFFNbG82ZllTWTFGQmh4aUluck93LVpSWjA4cWdKNS01U2FTbWVKM0ZvR25UV213VHJBMW9jSF9fbWhWeWY?oc=5",
+      "looked_up_at": "2026-11-03T23:17:02.980609+00:00",
+      "search_queries": [
+        "\"WNBA free agency and trade tracker 2025  Deals  news  moves\" entry",
+        "wnba free agency trade tracker 2025 deals sweepstakes enter official",
+        "wnba free agency trade tracker 2025 deals giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "a13d92694c0fd10c": {
+      "contest_title": "Stream Live NFL Games, Highlights, and Originals on ESPN - ESPN",
+      "original_article": "https://news.google.com/rss/articles/CBMiPkFVX3lxTFBsWTExaDBsc0pBQlJwUl9waHpwTnR4SG94YWwtOEhVR0RyQXVsdnFud3pxRFB2X0JpNVhvSlN3?oc=5",
+      "looked_up_at": "2026-11-03T23:17:03.092096+00:00",
+      "search_queries": [
+        "\"Stream Live NFL Games  Highlights  and Originals on ESPN\" entry",
+        "stream live games highlights originals espn sweepstakes enter official",
+        "stream live games highlights originals espn giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "6a169d5590bebb09": {
+      "contest_title": "MLB Opening Day 2025: A guide to the offseason chaos - ESPN",
+      "original_article": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZ0RhZE9SNVJxWkw5X21HUjg4b2JjREhxNFl6eklRVE5NQ1pQbF9ia00xZWw1bE9WOVl5YlprZnpYTzhTUS1ZMUdRTjk4UnplcGxaQlBxWHZacVcxRXpJaURKVkJuNnNtSUI5Y2JQemx1bkg5SnpMeUdxSjh1dXV4c0UxLV9vN0wyUElGNkw2aDVadHhzRHlheTVSbDNpcEljdzRpczhIdXJjVjVJeXQ4VGpBV3QzSlRxVGhZM3VnOA?oc=5",
+      "looked_up_at": "2026-11-03T23:17:03.270066+00:00",
+      "search_queries": [
+        "\"MLB Opening Day 2025  A guide to the offseason chaos\" entry",
+        "opening 2025 guide offseason chaos sweepstakes enter official",
+        "opening 2025 guide offseason chaos giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "1dabba47010b35c0": {
+      "contest_title": "Simulating the season using EA Sports College Football 27 - ESPN",
+      "original_article": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNR3dOWFJJX09uNVVEQm5jcTd3SnMxdWtjcjlYQTZKVFJETEVvY2FYU0Y3MnUtWjRZZjRqdG5mdFM3VTFrVWJ3NUpOYXNkc2ctOFRXTVNEenNtc2RLdmZpTk9sQVBXZzRuR3FvOTZLeFVENmN6c2RUbmd4QlhRUWUxemxjZ2o2WmFhelk0cmJaLVhiQk9hNWF3elZzLVpuYXdGVTZpalZHOXZzNXQ4UEFUU2RKbzJMRVJlMFZpdHpFdUhIYmJY?oc=5",
+      "looked_up_at": "2026-11-03T23:17:03.098198+00:00",
+      "search_queries": [
+        "\"Simulating the season using EA Sports College Football 27\" entry",
+        "simulating season using sports college football sweepstakes enter official",
+        "simulating season using sports college football giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "8c722ad2ae638033": {
+      "contest_title": "Flyers sign Vincent Lecavalier - ESPN",
+      "original_article": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNV3M4M1NCRnJFbTlTVkk5Vk41NklFS1ZrcjY2WWRYSGQtRjduTVMxQkROR3BObml5S1pQN1Q2VlktdHJSVURkX3hleUF4UTZJWDBDRjZmLXFnbkJ0ZDRBUnVwNWhHWklEMXlWM1NLM3lLZDFYU0VQZm82T0Fhd1RmV3ZYY0RScTFkaGtkdHRjZHk5am1mZUpLaFpnLUNKZFBNR1dJcjlBaGxUY2FEZkdIb3Zn?oc=5",
+      "looked_up_at": "2026-11-03T23:17:03.160214+00:00",
+      "search_queries": [
+        "\"Flyers sign Vincent Lecavalier\" entry",
+        "flyers sign vincent lecavalier sweepstakes enter official",
+        "flyers sign vincent lecavalier giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "669a36d227d2120f": {
+      "contest_title": "Stream Super Bowl LXI on ESPN on February 14, 2027. - ESPN Plus",
+      "original_article": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9tdGxMN3JQRUFyRS1tZDJiaGw5UjhBZmxpWUhLZ2xMWWNCSFVHc1NHWUFaUUVaWW9wQzNtbGxGVGs3TjNDdFE?oc=5",
+      "looked_up_at": "2026-11-03T23:17:03.188814+00:00",
+      "search_queries": [
+        "\"Stream Super Bowl LXI on ESPN on February 14  2027 \" entry",
+        "stream super bowl espn february sweepstakes enter official",
+        "stream super bowl espn february giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "dd7c00ece94e4d4e": {
+      "contest_title": "2025 NHL team report cards: Draft, free agency and trades - ESPN",
+      "original_article": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNHAzc1BhWElpR1d3YWZpTXQ5M01oZ29jQ1J5TVVBMEtpc0w5YzRQaWg2cmk3d3BYMTd0OThiRWlOeGZ5RFVmVFd0UkRiNzA4QVYxZUV5MzludzkwTFl6UEF4RnpZWk9yblRwQWFBdU83ek5VU0lxY3dqVjQ1MTdYeGlDZmgwRnQxVnJadTRuZXV0bENoR056OGN2YjdObkM0cmFvOHFveHoxZ3pB?oc=5",
+      "looked_up_at": "2026-11-03T23:17:03.353085+00:00",
+      "search_queries": [
+        "\"2025 NHL team report cards  Draft  free agency and trades\" entry",
+        "2025 team report cards draft free agency sweepstakes enter official",
+        "2025 team report cards draft free agency giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "eb71b191064d6eff": {
+      "contest_title": "Updates on the biggest remaining NBA free agents - ESPN",
+      "original_article": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQckVWYkNRX0ItdHVoMk5LakJlamFwSU5JYWxnUDlyaHVOMmNjX293cnd1M2tYMHNWemZpOF8wYW9iRG53LVBkTDltNFZGU1BvRXloTFdhb2o3djB4ZTZBZnVWZU9hbGdJQUhzUlhqQThoRUI4dXlNSlVYcXBzLWZ6R3pIN181VEVKZ0lXTHFkallmTGM?oc=5",
+      "looked_up_at": "2026-11-03T23:17:03.268590+00:00",
+      "search_queries": [
+        "\"Updates on the biggest remaining NBA free agents\" entry",
+        "updates biggest remaining free agents sweepstakes enter official",
+        "updates biggest remaining free agents giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "8d2ea4db245677ad": {
+      "contest_title": "Austin Rivers, Clippers agree on 3 years, $35M; Durant bid likely over - ESPN",
+      "original_article": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTWMzU0NrV2dKcVZkamFheXE4UGloVGJaMmdVWHNxMlJrUkVFdE5SQXI5SlQ0eUFwX3FGRi1pVFpqQ3ZwMDRCeWlMQWxLLThoejA1Ui1aUkdkUXhJd3VvdzV2QzlCZTVsSWpIb1ZfX2k0N2dsbG5JU0hEeHQxMnZ4YnNJUFFtQkVNMTV6RGRPV0NrNTJ6NUE2TW41SlJUWjNKSkhoaHpCUEtGbHZOS1FxMjFad0c5N0p3WjZzdGt3?oc=5",
+      "looked_up_at": "2026-11-03T23:17:03.351031+00:00",
+      "search_queries": [
+        "\"Austin Rivers  Clippers agree on 3 years   35M  Durant bid likely over\" entry",
+        "austin rivers clippers agree years durant likely sweepstakes enter official",
+        "austin rivers clippers agree years durant likely giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "bb6ad3a7a97aefc8": {
+      "contest_title": "Rules - Good Housekeeping",
+      "original_article": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1HQnRRV3NfZW1peHc3VmpOV0NzaXBWLUhqdE5EZlJxVDFuSUh1bXo2ZUlLbjBHdDlXWHF2eXV3U0dPZ0tWNXFndV9ITGFYQ0pITzkxZXRCNExwZGhiUU9hQw?oc=5",
+      "status": "insufficient_title"
+    },
+    "fc5314806e03979b": {
+      "contest_title": "I'm Losing It Over KitchenAid’s Taylor Swift-Inspired Mixer—Here’s How to Get One - Good Housekeeping",
+      "original_article": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdlhSWHVUT3lNNm1zejZpNUZoSlVQNUNjVmNtc29LMDU3VE1abzc0WXIzQlBPYVF2dERkUTFfVzNMbFQwWkw4WjAwMktvblIyMXJ4Z0FkRUNFN0FZcWFUN3ZsLTlIZDRmYVpCazRBUGdYdXZMVk9SVWowZ2EtNmZkMnNBeEROZUdSa29jYU1HQ0xJVWJtelE5TmtTQUkwUkI2VjkwcmdzZkFPejAzMktaWEQ3Slo?oc=5",
+      "looked_up_at": "2026-11-03T23:17:03.401144+00:00",
+      "search_queries": [
+        "\"I'm Losing It Over KitchenAid s Taylor Swift-Inspired Mixer Here s How to Get One\" entry",
+        "losing over kitchenaid taylor swift inspired mixer sweepstakes enter official",
+        "losing over kitchenaid taylor swift inspired mixer giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "e11c5528f71d509b": {
+      "contest_title": "Got a Question About Your Good Housekeeping Subscription? - Good Housekeeping",
+      "original_article": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CUVdOWEs3NDBHUW5tTjRHYzk0QUwwLXJBTEYyRlJ6b0trSHpRZU9JQmphOTQyQWp1MW56ZHRyek1adlNhSFhPcFkzWnRmQkxVMldBYk5ZV3duVTFQTzdORFB2bndOS016?oc=5",
+      "looked_up_at": "2026-11-03T23:17:03.328179+00:00",
+      "search_queries": [
+        "\"Got a Question About Your Good Housekeeping Subscription \" entry",
+        "question about your good housekeeping subscription sweepstakes enter official",
+        "question about your good housekeeping subscription giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "8c1eeadd139973ba": {
+      "contest_title": "Subway Just Revived Its Sub Club—and Free Footlongs Are Back on the Menu - Good Housekeeping",
+      "original_article": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORVljSWRBQVg4WEwxYkFDZW9MYnMxVVFoWUhTc0hSem1adFNpVkxEU1YyT3dCUzJCbVZ4NTNlX0Yzc0VUQ2RkcVlhYVRsRHpsY3dZenFQT0lWb1dIRnhzRVFfb2NlN3ZEUHhiM0gydUI1QnRnb2NWRzI1TU13bDRUeGNjLXlGdFBzdHc5REltZVRORzEyRGVMSmZjX2xjWXQ2QXhjSFpwNjZWejBXRWpPeUdTZlBRNjI1?oc=5",
+      "looked_up_at": "2026-11-03T23:17:03.536220+00:00",
+      "search_queries": [
+        "\"Subway Just Revived Its Sub Club and Free Footlongs Are Back on the Menu\" entry",
+        "subway just revived club free footlongs back sweepstakes enter official",
+        "subway just revived club free footlongs back giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "a348aa816f27cf85": {
+      "contest_title": "This Shopping Hack Can Help You Score Free LEGO Sets - Good Housekeeping",
+      "original_article": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMm83MHA4MkNJa2xGTURGci1penl3dWczM2c0b3FRN1d4ajJ1SHNTVS13Ym1MTzdrQmZSVXJLWGVjRDVlQ1J0eGx3TUxzaHJCcTBoczNmZTNVRVo3RXBZaFFoMGpmcFB4aE10S0JSM1UtYnNzSEZhal9UMWZSaE9aR0NWRXRyUVRZNGhZOE9JYmMtbE9ZTUNVNG1vS1hrU0VHbXF4eDgzTQ?oc=5",
+      "looked_up_at": "2026-11-03T23:17:03.497946+00:00",
+      "search_queries": [
+        "\"This Shopping Hack Can Help You Score Free LEGO Sets\" entry",
+        "this shopping hack help score free lego sweepstakes enter official",
+        "this shopping hack help score free lego giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "32cbd0231f5a1a32": {
+      "contest_title": "My Husband Has So Many Toys That I Can't Park In Our Three-Car Garage - Good Housekeeping",
+      "original_article": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSkJ2NmdVenplU0VNMlYybzBEV2hhTHBHdkxReWxtXzNILS1wOFVnenhfRG5XaUtVMGNSaEt2eWk0OEp0MldPWF9FNTNKck9CNnN0aXZIcmxycTZHY0tRUFhtU2xmWFl4aFU5WDlTaDhiRTlOc0JCYVlOejBOTk03cFhyZmMxY2RoUG0zeXYxSGdYSW9ibXY3NkFSNzhPVU02WWc?oc=5",
+      "looked_up_at": "2026-11-03T23:17:03.613702+00:00",
+      "search_queries": [
+        "\"My Husband Has So Many Toys That I Can't Park In Our Three-Car Garage\" entry",
+        "husband many toys that park three garage sweepstakes enter official",
+        "husband many toys that park three garage giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "9b90d9aee64b0bc0": {
+      "contest_title": "Starbucks Is Giving Away Thousands of Bearista Cups—Here's How to Win One - Good Housekeeping",
+      "original_article": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVHB5OVNyc0JuMmtZVkJwRUdLd1BpZjJZRVBGdkNTdUh5ODZlVDZxT2xGcWtzTHJ5cldmUUJKZ1A4NElHWXF3T2ZRRjVBTU5tSnF0WHAwakVjNVdWNDYwLTFBYzlLNDVVZWFBTTdsa2tueERPSGZTZXU1ZnQ4aGNMbVdpbTBfZ1BVUTE2ay0xS1l5R2Z1cDNwdUhrNTlpVzdqTU5PcjZyMXc?oc=5",
+      "looked_up_at": "2026-11-03T23:17:03.482215+00:00",
+      "search_queries": [
+        "\"Starbucks Is Giving Away Thousands of Bearista Cups Here's How to Win One\" entry",
+        "starbucks giving away thousands bearista cups here sweepstakes enter official",
+        "starbucks giving away thousands bearista cups here giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "96be61fced47dcdc": {
+      "contest_title": "Magazine Customer Service - Good Housekeeping",
+      "original_article": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE91MGFsQlFPNi04LU5TWTdVeVNiQ0k4eGExN3RtNW9hTE9NU21PWFkxYlZjSkQ4MDd0VEZqTTdoazJETG1TZW5NNUtB?oc=5",
+      "looked_up_at": "2026-11-03T23:17:03.503368+00:00",
+      "search_queries": [
+        "\"Magazine Customer Service\" entry",
+        "magazine customer service sweepstakes enter official",
+        "magazine customer service giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "07cc618eeaaa4722": {
+      "contest_title": "PRIVACY NOTICE - Hearst",
+      "original_article": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBiaDBpdmRYaHp0bHJpTG43Z09tSkNlaUJiRW1fdzhFZjQ1WUVBc3B2ajFFWktSVlJnX3ZWazhNVFlnd081STI5RGNqSXB5NkdVUXI2aWFvbFBhaHhlYzU4Unp3?oc=5",
+      "looked_up_at": "2026-11-03T23:17:03.679676+00:00",
+      "search_queries": [
+        "\"PRIVACY NOTICE\" entry",
+        "privacy notice sweepstakes enter official",
+        "privacy notice giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "2eac162593d3ba8f": {
+      "contest_title": "Terms of Use - Hearst",
+      "original_article": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1iWm1vdnNMckhlMkc5T1JTY1d1S3B5dEZWWU1JUDJGOUZaaTJTNllqbVhQRlJDSHRheGxjbXJmTWxiWnhZc3BuOEZGNWdMYmhUaFdPVFdRcV83V1BPQnVR?oc=5",
+      "status": "insufficient_title"
+    },
+    "100f1e5e70c97b3d": {
+      "contest_title": "Editor, Plainview Herald - Hearst",
+      "original_article": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TRVo3dl9BVVhkRzZxNThiYnE5cTRzRzlMWFZZMTdnU0dqa0ZZQ3pVVkZyQk5fczVCb01QcGxfZi1LR05jSTRZa21aOTV1T3Q0TS1EeHZZdnkwTUc1Sm9QY2VJVXJKa1U?oc=5",
+      "looked_up_at": "2026-11-03T23:17:03.614878+00:00",
+      "search_queries": [
+        "\"Editor  Plainview Herald\" entry",
+        "editor plainview herald sweepstakes enter official",
+        "editor plainview herald giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "24de611b4682829f": {
+      "contest_title": "​Michael Clinton Discusses New Consumer Marketing Initiatives - Hearst",
+      "original_article": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPR1FRUGRCQnY4SGpZR1R4MkluQUs1SlFFSlJZdWRwVUdyNzRZamxNZUZZTzN5NHItU21KOTJLMk1FNjBKMjBVMTIyZnNNRE4yRGJtcUdsczgtOHowSlctdmdESGs1MVNjWlVCMTV0QjdGb3lDLTV6Z3BkS1RINGhrTnNIWGFaWUNNZGRBektB?oc=5",
+      "looked_up_at": "2026-11-03T23:17:03.593340+00:00",
+      "search_queries": [
+        "\" Michael Clinton Discusses New Consumer Marketing Initiatives\" entry",
+        "michael clinton discusses consumer marketing initiatives sweepstakes enter official",
+        "michael clinton discusses consumer marketing initiatives giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "846e2523ee26bba5": {
+      "contest_title": "Seventeen Privacy Notice - Hearst",
+      "original_article": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBpOVRwQ05vYk5VVm9TeFcwdzY4NVVsRm9yZXllT2dxQzFZWE9oN2V4ZW11aXZzUkU0cTg4QlR6eHhZZHpmaGg5bHRhdW9WVnpscTREY0F2LWdOZHhzQ2VfOUdXSTBxMzho?oc=5",
+      "looked_up_at": "2026-11-03T23:17:03.754566+00:00",
+      "search_queries": [
+        "\"Seventeen Privacy Notice\" entry",
+        "seventeen privacy notice sweepstakes enter official",
+        "seventeen privacy notice giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "11f87bf32dab98a5": {
+      "contest_title": "Oprah Daily Reveals 2023 Oprah’s Favorite Things List Celebrating Inspiring Small Businesses - Hearst",
+      "original_article": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZVI2bWZDT0VwbnBsdXJqMlVnZkp3M01ZaS1sYjJ3Y0VDZ2w5aXB6ZDJOeGozcDZkbnA5ZS1SUGRUcHkwdG5XLTdFbUloa2U3b2NLclpBdVpJMkEwRUZpTlBzU01UaDR0b09UVGZOWVBfM2lDLUJVelhYT1VlZnBfaVNKSDM5NEdLWHluTlA5Nl8yVEdrR0d6QmRfUVdRVXZubXBiMmZTSDRjZFFYeWRHUXJxQkg3SmdC?oc=5",
+      "looked_up_at": "2026-11-03T23:17:03.733515+00:00",
+      "search_queries": [
+        "\"Oprah Daily Reveals 2023 Oprah s Favorite Things List Celebrating Inspiring Small Businesses\" entry",
+        "oprah daily reveals 2023 favorite things list sweepstakes enter official",
+        "oprah daily reveals 2023 favorite things list giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "fbe9101563bd4b17": {
+      "contest_title": "​Fact vs. Fiction: A Few Thoughts on Magazine Media - Hearst",
+      "original_article": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMGlVb0J5WEZvV0F4VWIxNzRCYkFHWkxuNFk4SWlnWXFqYlFJNFh5SUtoRUFFaHQ1LTZBTlFYTVphclZ5b08zaVFnMGw5Q3htVS1QdUVJNkpWZG80aXVCTnRNVlBxTlRRRkNiNjlFbElZWVUxWDJ3cTNLVzc2Rzh6Ug?oc=5",
+      "looked_up_at": "2026-11-03T23:17:03.748721+00:00",
+      "search_queries": [
+        "\" Fact vs  Fiction  A Few Thoughts on Magazine Media\" entry",
+        "fact fiction thoughts magazine media sweepstakes enter official",
+        "fact fiction thoughts magazine media giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "8c5217c17636e27f": {
+      "contest_title": "HEARST COMMUNITY MEDIA GROUP – TEXAS - Hearst",
+      "original_article": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Gay1DaDRlc0xZVk1fSk5iSjEzVGMteWEtN1U5b3Itd3FLRWJDTVZMemZ2VEEwV2ZSNnNkVXpKVWZrWlZFRmRZREZOdFBWdzNRQmZNaVhrTGlVWHBXc3B6YjBuNWxodw?oc=5",
+      "looked_up_at": "2026-11-03T23:17:03.740477+00:00",
+      "search_queries": [
+        "\"HEARST COMMUNITY MEDIA GROUP\" entry",
+        "hearst community media group sweepstakes enter official",
+        "hearst community media group giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "226f1765458526ea": {
+      "contest_title": "PlayStation Pro + Grand Theft Auto - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFB5d2NyN3FlRnR6NHdxajlkUGhXanJaWjd5dS1oSDhXRGxJVUxENGhIRmhMbFVYbXBfVWxOM0RyWlJtZDZHZV9V?oc=5",
+      "looked_up_at": "2026-11-03T23:17:03.824162+00:00",
+      "search_queries": [
+        "\"PlayStation Pro   Grand Theft Auto\" entry",
+        "playstation grand theft auto sweepstakes enter official",
+        "playstation grand theft auto giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "dbd6d277ddb0fedd": {
+      "contest_title": "Crafty Radler E-Bike Sweepstakes - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5MaVcxQTZCWVg4WFRiQlVOVHZlV0hlQXdRUDMtbWR6LVN0dFFFUFZ3YmY4YlNNdllNSW5uQ2txa29GNEVGaTJz?oc=5",
+      "looked_up_at": "2026-11-03T23:17:03.856384+00:00",
+      "search_queries": [
+        "\"Crafty Radler E-Bike Sweepstakes\" entry",
+        "crafty radler bike sweepstakes enter official",
+        "crafty radler bike giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "699fdda724ff015c": {
+      "contest_title": "Enter to Win A PlayStation 5 Console Or $500 - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFAxbk5MSmJzSXI1RVp6T012bkZLRUVJUEtXUGtENlUtTGdzNk53WUVhNjV0dHpEdGx1X2o5LWRtMDlFZ25xcE53?oc=5",
+      "looked_up_at": "2026-11-03T23:17:03.970396+00:00",
+      "search_queries": [
+        "\"Enter to Win A PlayStation 5 Console Or  500\" entry",
+        "playstation console sweepstakes enter official",
+        "playstation console giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "9c94d0fe3ea457bb": {
+      "contest_title": "Pick Your Power Giveaway (HO Scale) - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBhaDRfb0xOVWxYeEUxeC1tX3lqYzFmMGNrLUt2X01TcjRGMWJweV9SOVZRQmNmUmRUUDhreVFESW91RDU3cjU4?oc=5",
+      "looked_up_at": "2026-11-03T23:17:03.937409+00:00",
+      "search_queries": [
+        "\"Pick Your Power Giveaway  HO Scale \" entry",
+        "pick your power scale sweepstakes enter official",
+        "pick your power scale giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "2253a6f6c5729b95": {
+      "contest_title": "Cheat Happens Presents: RTX SPARK LAPTOP Giveaway! - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1icHVWMXk1T3NITF9Tdm9BZHlFU3ZzeG01MUd1ZFJRQllfdXVDa20wOHJXSFpqekI1VzJEbVZYelA5WHlIT2xn?oc=5",
+      "looked_up_at": "2026-11-03T23:17:03.950416+00:00",
+      "search_queries": [
+        "\"Cheat Happens Presents  RTX SPARK LAPTOP Giveaway \" entry",
+        "cheat happens presents spark laptop sweepstakes enter official",
+        "cheat happens presents spark laptop giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "c701a9051288aa78": {
+      "contest_title": "AMD X HyperX Sweepstakes - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9fdXhoZzJIbVVhQm1FNzBUYVlEbEdfdGJmR2UzLVdLbHduTVg4LU5KRDFjTE9XWDUxTnVtUy1wdHpXcDItZlFJ?oc=5",
+      "status": "insufficient_title"
+    },
+    "281c234c07c4af48": {
+      "contest_title": "October Giveaway #22: Win A Bambu Lab A1 Mini AMS Combo! - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA1SXI3MG82MWJsdUtxSmplVkVrc0Q3MnRaWVlXSFF2ZEEyZWVOc3pCdl8td2ZrZmJBdG1lcnBtQk5YYVVNZXpn?oc=5",
+      "looked_up_at": "2026-11-03T23:17:03.971151+00:00",
+      "search_queries": [
+        "\"October Giveaway  22  Win A Bambu Lab A1 Mini AMS Combo \" entry",
+        "october bambu mini combo sweepstakes enter official",
+        "october bambu mini combo giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "7f2877dd54129402": {
+      "contest_title": "Frank Abraham Music Summer Of Miracles Giveaway 2026 - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE16MTZIVWU3cUZVcFpqMEFZekpXc2xwWDRCWHYweVBiX2lKU3kyaUQ5c3lCTUt4Vk5ZUWFEeHJadGdGeUNiRDBZ?oc=5",
+      "looked_up_at": "2026-11-03T23:17:03.962823+00:00",
+      "search_queries": [
+        "\"Frank Abraham Music Summer Of Miracles Giveaway 2026\" entry",
+        "frank abraham music summer miracles sweepstakes enter official",
+        "frank abraham music summer miracles giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "59428cc370c2bf99": {
+      "contest_title": "Free Giveaways & Sweepstakes to Enter - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE1JeXAzSW4wUHgxNXV4ZVFkZXhRSkNGNmVzZ0pRelFOeHdlYWpsTjhFV2pWV1ZuRXRhWGZIVXpBYw?oc=5",
+      "looked_up_at": "2026-11-03T23:17:04.099692+00:00",
+      "search_queries": [
+        "\"Free Giveaways & Sweepstakes to Enter\" entry",
+        "free giveaways sweepstakes enter official",
+        "free giveaways giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "852091ef2e0308b6": {
+      "contest_title": "Eventathon 2026 Giveaway - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1NQkxFaXV5Qmg0ZE9lS3lrNVFFYmpQeVZSVzNGTURkNnJKemRFRDdNaXpKaFpJTFlQZ3pKMlNoSmhlSHFpYTBR?oc=5",
+      "status": "insufficient_title"
+    },
+    "c8b6c495b3bedab2": {
+      "contest_title": "Zenni X San Francisco Marathon 2026 Giveaway - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE52dzJKanZUb0xkczY3WUJXMXpUdERQTGVKV3A2ZUxTeExXdUgzbFpNaFEzOTBtQTdpVUR6Wnd2ZGYzQ3FQT253?oc=5",
+      "looked_up_at": "2026-11-03T23:17:04.078845+00:00",
+      "search_queries": [
+        "\"Zenni X San Francisco Marathon 2026 Giveaway\" entry",
+        "zenni francisco marathon sweepstakes enter official",
+        "zenni francisco marathon giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "2b54532cee735118": {
+      "contest_title": "Fall Giveaway 2026 - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9zVl91NzZyUlNDRFZBSGtBQ2ZmbUtBT1NQbjdkNUxnTWduZnRkTTM2QTZfaVdPWWFjSGhHYXNqb21ERE5RbjZN?oc=5",
+      "status": "insufficient_title"
+    },
+    "d78d5ce48c334f05": {
+      "contest_title": "IEM Krakow 2026 Giveaway - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBVeC1zalNfa25acmFmTUlmT0QxTlBjREQyTTNMMjZZRDVraEhxR1ZqekJhUnpMTUltRGFiSWllNmlNYkY0TnJJ?oc=5",
+      "status": "insufficient_title"
+    },
+    "e8cea8d6e26d8efc": {
+      "contest_title": "Clickability's 2026 Giveaway! - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBTV01valQ3NFNRaXpiQ3J5WTUxZ2N5OW12YUVMYzU2WFp0WVBaeUdNcDFNcmlndGdNekY4eTE0X09JNHE4c0M0?oc=5",
+      "status": "insufficient_title"
+    },
+    "238943fb45510eaf": {
+      "contest_title": "ACEMAGIC AM18 Mini PC - ACEMAGIC 2026 Prime Day Giveaway - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE82eHpTQmo1a3hKaC1TeHNjMlVMcjZNQWxhMVpLLVJDaXpaSkRTaFRoblhZcU91OFZ2eVhzSGxKaHRMamZMUGQ4?oc=5",
+      "looked_up_at": "2026-11-03T23:17:04.118118+00:00",
+      "search_queries": [
+        "\"ACEMAGIC AM18 Mini PC\" entry",
+        "acemagic am18 mini sweepstakes enter official",
+        "acemagic am18 mini giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "6c44f5480f62c4f8": {
+      "contest_title": "September 2026 Giveaway - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1EN1l4dDRmTUo2YnZ6LWw3SFRuUXhQblJtTW5sNWVyWHhXa1d2UWVXaHdXMDk0eUlRcDZfYnhsbldwWTduSjB3?oc=5",
+      "status": "insufficient_title"
+    },
+    "755e4aba45892dbd": {
+      "contest_title": "The New Blood 2026 BBQ Giveaway - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBUYXF0c2VQNDg5S2lwVUtLNUU3WjNyb0t0LWtBMDVNa0JyYTBITllCQ21KN3pSTUNraTlaRUxJOFhSRHRWalhJ?oc=5",
+      "status": "insufficient_title"
+    },
+    "be0dff0a320b95d2": {
+      "contest_title": "Summer Giveaway 2026 - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBGQjI4WFZWNjdsREJNZUtLbGtSSWEtQXBkRm5HckFMbzFHeERDeVZXeHNiNzB5RmZZX0xKd3RBQTZYOWdUZERV?oc=5",
+      "status": "insufficient_title"
+    },
+    "19a6365cde49a8c5": {
+      "contest_title": "Pick Your Pair Giveaway 2026 - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBCOTFCcEtaeHdDTFFLN0h1TjR0dVp6eFJMQ3dNekljMFdmU1c1YjdOQnNZWFExZVJyYWlHWk9GMVR0T1dTV0Mw?oc=5",
+      "looked_up_at": "2026-11-03T23:17:04.143409+00:00",
+      "search_queries": [
+        "\"Pick Your Pair Giveaway 2026\" entry",
+        "pick your pair sweepstakes enter official",
+        "pick your pair giveaway entry rules"
       ],
       "search_version": 4,
       "status": "entry_page_not_found"
