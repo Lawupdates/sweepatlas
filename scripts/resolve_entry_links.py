@@ -89,9 +89,10 @@ def main():
     except (OSError,ValueError):report={}
     results=report.get("results",{})
     if not isinstance(results,dict):results={}
-    # Every record is present in output even if not yet searched.
+    # Preserve prior lookup work when discovery rotates to a new daily feed.
+    # Historical records are retained for audit but only current candidates
+    # contribute to the active searched/remaining counts.
     active={x["id"] for x in records if x.get("id")}
-    results={k:v for k,v in results.items() if k in active}
     now=dt.datetime.now(dt.timezone.utc)
     def needs_check(item):
         saved=results.get(item.get("id"),{})
@@ -108,7 +109,12 @@ def main():
     for record in results.values():
         name=record.get("status","unknown")
         counts[name]=counts.get(name,0)+1
-    payload={"generated_utc":dt.datetime.now(dt.timezone.utc).isoformat(),"total_source_records":len(records),"searched":len(results),"remaining":len(records)-len(results),"results_by_status":counts,"notice":"Candidate links from public web search, not certified active entry forms. Human review required before publishing.","results":results}
+    active_results={k:v for k,v in results.items() if k in active}
+    active_counts={}
+    for record in active_results.values():
+        name=record.get("status","unknown")
+        active_counts[name]=active_counts.get(name,0)+1
+    payload={"generated_utc":dt.datetime.now(dt.timezone.utc).isoformat(),"total_source_records":len(records),"searched":len(active_results),"remaining":len(records)-len(active_results),"historical_results_retained":len(results)-len(active_results),"results_by_status":active_counts,"notice":"Candidate links from public web search, not certified active entry forms. Human review required before publishing. Historical lookups are retained, not counted as current.","results":results}
     OUT.write_text(json.dumps(payload,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
-    print("Searched",len(todo),"this run;",len(results),"with records;",len(records)-len(results),"remaining",counts)
+    print("Searched",len(todo),"this run;",len(active_results),"current results;",len(records)-len(active_results),"remaining; historical",len(results)-len(active_results))
 if __name__=="__main__":main()
