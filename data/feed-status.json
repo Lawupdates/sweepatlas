@@ -1,8 +1,8 @@
 {
-  "checked_at": "2026-11-03T23:18:41.772259+00:00",
-  "records": 338,
-  "unique_urls": 582,
-  "active_records": 303,
+  "checked_at": "2026-11-04T06:12:50.578262+00:00",
+  "records": 339,
+  "unique_urls": 584,
+  "active_records": 295,
   "flagged_records": 182,
   "results": [
     {
@@ -332,7 +332,7 @@
     {
       "id": "monster-london-circle-k-2026",
       "expires": "2026-11-03",
-      "expired": false,
+      "expired": true,
       "checks": [
         {
           "type": "entryUrl",
@@ -555,7 +555,7 @@
     {
       "id": "amd-fsr-update-2026",
       "expires": "2026-11-03",
-      "expired": false,
+      "expired": true,
       "checks": [
         {
           "type": "entryUrl",
@@ -1130,7 +1130,7 @@
     {
       "id": "bad-karmas-cthulhu-2026",
       "expires": "2026-11-03",
-      "expired": false,
+      "expired": true,
       "checks": [
         {
           "type": "entryUrl",
@@ -1255,7 +1255,7 @@
     {
       "id": "chiblee-youtooz-2026",
       "expires": "2026-11-03",
-      "expired": false,
+      "expired": true,
       "checks": [
         {
           "type": "entryUrl",
@@ -2931,7 +2931,7 @@
     {
       "id": "sourced-2e9f1e594b5c4df6",
       "expires": "2026-11-03",
-      "expired": false,
+      "expired": true,
       "checks": [
         {
           "type": "entryUrl",
@@ -2954,7 +2954,7 @@
     {
       "id": "sourced-5639d2ecd1876ae1",
       "expires": "2026-11-03",
-      "expired": false,
+      "expired": true,
       "checks": [
         {
           "type": "entryUrl",
@@ -2977,7 +2977,7 @@
     {
       "id": "sourced-190079bceabe5725",
       "expires": "2026-11-03",
-      "expired": false,
+      "expired": true,
       "checks": [
         {
           "type": "entryUrl",
@@ -3002,7 +3002,7 @@
     {
       "id": "sourced-77945c04ca694985",
       "expires": "2026-11-03",
-      "expired": false,
+      "expired": true,
       "checks": [
         {
           "type": "entryUrl",
@@ -4168,7 +4168,7 @@
           "http_status": 200,
           "reachable": true,
           "final_url": "https://www.killstar.com/pages/competitions",
-          "title": "Competitions &dash; KILLSTAR"
+          "title": ""
         },
         {
           "type": "rulesUrl",
@@ -4237,7 +4237,7 @@
           "http_status": 200,
           "reachable": true,
           "final_url": "https://www.pbs.org/wgbh/masterpiece/sweepstakes-official-rules/",
-          "title": "2026 MASTERPIECE European River Cruise Sweepstakes Official Rules | Masterpiece | Official Site | PBS"
+          "title": ""
         },
         {
           "type": "rulesUrl",
@@ -4247,9 +4247,7 @@
           "title": "2026 MASTERPIECE European River Cruise Sweepstakes | GiveOwl"
         }
       ],
-      "flags": [
-        "entry_title_looks_like_rules"
-      ],
+      "flags": [],
       "verified_entry_form": false
     },
     {
@@ -7410,7 +7408,7 @@
     {
       "id": "sourced-1f279e521d68876f",
       "expires": "2026-11-03",
-      "expired": false,
+      "expired": true,
       "checks": [
         {
           "type": "entryUrl",
@@ -8214,6 +8212,31 @@
       "flags": [
         "entry_is_homepage_review",
         "entry_redirects_to_homepage"
+      ],
+      "verified_entry_form": false
+    },
+    {
+      "id": "sourced-0d084169e38b6fb0",
+      "expires": "2026-11-08",
+      "expired": false,
+      "checks": [
+        {
+          "type": "entryUrl",
+          "http_status": 200,
+          "reachable": true,
+          "final_url": "https://casdeia.com/pages/black-friday-draw-rules",
+          "title": "Black Friday Draw \u00b7 Official Rules &ndash; CAS DEIA"
+        },
+        {
+          "type": "rulesUrl",
+          "http_status": 200,
+          "reachable": true,
+          "final_url": "https://giveowl.com/e/cas-deia-silver-and-goods-s-l--cas-deia-black-friday-draw-win-your-wishlist-up-to-5-pieces-max-915--2026/",
+          "title": "CAS DEI\u00c0 Black Friday Draw: win your wishlist | GiveOwl"
+        }
+      ],
+      "flags": [
+        "entry_title_looks_like_rules"
       ],
       "verified_entry_form": false
     }
