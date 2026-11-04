@@ -1,9 +1,9 @@
 {
-  "checked_at": "2026-11-04T06:12:50.578262+00:00",
+  "checked_at": "2026-11-04T14:38:11.460686+00:00",
   "records": 339,
   "unique_urls": 584,
   "active_records": 295,
-  "flagged_records": 182,
+  "flagged_records": 184,
   "results": [
     {
       "id": "motion-urus-2026",
@@ -2945,7 +2945,7 @@
           "http_status": 200,
           "reachable": true,
           "final_url": "https://giveowl.com/e/ollie-pets-inc-administrator-realtime-media-llc--ollie-ollieday-crystal-dog-bowl-giveaway--2026/",
-          "title": "Ollie Ollieday Crystal Dog Bowl Giveaway: Prize &amp; Deadline"
+          "title": "Ollie Ollieday Crystal Dog Bowl Giveaway | GiveOwl"
         }
       ],
       "flags": [],
@@ -3006,10 +3006,9 @@
       "checks": [
         {
           "type": "entryUrl",
-          "http_status": 200,
-          "reachable": true,
-          "final_url": "https://thechristmas.com/pages/trans-siberian-orchestra-giveaway",
-          "title": "Trans-Siberian Orchestra Giveaway &ndash; TheChristmas.com"
+          "http_status": 404,
+          "reachable": false,
+          "error": "http_error"
         },
         {
           "type": "rulesUrl",
@@ -3019,7 +3018,9 @@
           "title": "TheChristmas.com Trans-Siberian Orchestra Giveaway | GiveOwl"
         }
       ],
-      "flags": [],
+      "flags": [
+        "entryUrl_not_found"
+      ],
       "verified_entry_form": false
     },
     {
@@ -4237,7 +4238,7 @@
           "http_status": 200,
           "reachable": true,
           "final_url": "https://www.pbs.org/wgbh/masterpiece/sweepstakes-official-rules/",
-          "title": ""
+          "title": "2026 MASTERPIECE European River Cruise Sweepstakes Official Rules | Masterpiece | Official Site | PBS"
         },
         {
           "type": "rulesUrl",
@@ -4247,7 +4248,9 @@
           "title": "2026 MASTERPIECE European River Cruise Sweepstakes | GiveOwl"
         }
       ],
-      "flags": [],
+      "flags": [
+        "entry_title_looks_like_rules"
+      ],
       "verified_entry_form": false
     },
     {
