@@ -1,13 +1,14 @@
 {
-  "generated_utc": "2026-11-04T23:39:06.700356+00:00",
+  "generated_utc": "2026-11-04T23:39:13.819593+00:00",
   "total_source_records": 1631,
-  "searched": 1501,
-  "remaining": 130,
+  "searched": 1604,
+  "remaining": 27,
   "historical_results_retained": 540,
   "results_by_status": {
-    "entry_page_not_found": 1347,
-    "insufficient_title": 147,
-    "rejected_nonentry": 7
+    "entry_page_not_found": 1443,
+    "insufficient_title": 153,
+    "rejected_nonentry": 7,
+    "possible_entry_pages": 1
   },
   "notice": "Candidate links from public web search, not certified active entry forms. Human review required before publishing. Historical lookups are retained, not counted as current.",
   "results": {
@@ -23133,6 +23134,1220 @@
         "\"Daily entrySweepstakes you can enter every day \" entry",
         "daily entrysweepstakes every sweepstakes enter official",
         "daily entrysweepstakes every giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "04b10b1e6703d80d": {
+      "contest_title": "DoStuff Media Craig Morgan Nashville Trip Sweepstakes",
+      "original_article": "https://ilovegiveaways.com/sweepstakes/dostuff-media-craig-morgan-nashville-flyaway-2026/",
+      "looked_up_at": "2026-11-04T23:39:09.544820+00:00",
+      "search_queries": [
+        "\"DoStuff Media Craig Morgan Nashville Trip Sweepstakes\" entry",
+        "dostuff media craig morgan nashville trip sweepstakes enter official",
+        "dostuff media craig morgan nashville trip giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "71d1257695353baf": {
+      "contest_title": "Electro-Harmonix Bender Royale Germanium Fuzz Giveaway",
+      "original_article": "https://gleamgiveaways.com/giveaways/electro-harmonix-bender-royale-germanium-fuzz-giveaway-2026-11/",
+      "looked_up_at": "2026-11-04T23:39:09.517888+00:00",
+      "search_queries": [
+        "\"Electro-Harmonix Bender Royale Germanium Fuzz Giveaway\" entry",
+        "electro harmonix bender royale germanium fuzz sweepstakes enter official",
+        "electro harmonix bender royale germanium fuzz giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "548892a837172001": {
+      "contest_title": "Ending Soon",
+      "original_article": "https://www.sweepfeed.com/sweepstakes/ending-soon",
+      "looked_up_at": "2026-11-04T23:39:09.484372+00:00",
+      "search_queries": [
+        "\"Ending Soon\" entry",
+        "ending soon sweepstakes enter official",
+        "ending soon giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "27b2044ffca8aefb": {
+      "contest_title": "FCA US $100,000 Vehicle Sweepstakes 2026",
+      "original_article": "https://ilovegiveaways.com/sweepstakes/fca-us-100000-vehicle-sweepstakes-2026/",
+      "status": "insufficient_title"
+    },
+    "0a0e709980f48592": {
+      "contest_title": "FCA US LLC (Stellantis)$100,000VerifiedCashFCA US LLC 2026 Sweepstakes",
+      "original_article": "https://www.sweepstoday.com/sweepstakes/fca-us-llc-2026-sweepstakes",
+      "looked_up_at": "2026-11-04T23:39:09.513687+00:00",
+      "search_queries": [
+        "\"FCA US LLC  Stellantis  100 000VerifiedCashFCA US LLC 2026 Sweepstakes\" entry",
+        "stellantis 000verifiedcashfca sweepstakes enter official",
+        "stellantis 000verifiedcashfca giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "b912b3c1ffe55656": {
+      "contest_title": "FCA US$100,000VerifiedCashFCA US $100,000 Vehicle Sweepstakes 2026$100,000 vehicle credit for Dodge, Jeep, Chrysler, Ram, or Fiat",
+      "original_article": "https://www.sweepstoday.com/sweepstakes/fca-us-100-000-vehicle-sweepstakes-2026",
+      "looked_up_at": "2026-11-04T23:39:09.502624+00:00",
+      "search_queries": [
+        "\"FCA US 100 000VerifiedCashFCA US  100 000 Vehicle Sweepstakes 2026 100 000 vehicle credit for Dodge  Jeep  Chr\" entry",
+        "000verifiedcashfca vehicle credit dodge jeep sweepstakes enter official",
+        "000verifiedcashfca vehicle credit dodge jeep giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "a0fb4957e902eb2b": {
+      "contest_title": "Famadillo Momcozy DeepClean D8 Bottle Washer Giveaway",
+      "original_article": "https://gleamgiveaways.com/giveaways/famadillo-momcozy-deepclean-d8-bottle-washer-giveaway-2026-11/",
+      "looked_up_at": "2026-11-04T23:39:09.503575+00:00",
+      "search_queries": [
+        "\"Famadillo Momcozy DeepClean D8 Bottle Washer Giveaway\" entry",
+        "famadillo momcozy deepclean bottle washer sweepstakes enter official",
+        "famadillo momcozy deepclean bottle washer giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "4742290981954439": {
+      "contest_title": "FeaturedCash & Gift CardsUnited States, 18+, excludes DC, RI, PR, Guam, USVIWIN FREE GAS$2500Ends Feb 28, 2027$2,500391 entered this week",
+      "original_article": "https://www.sweepstakesradar.com/listing/win-gas-or-groceries-movies-or-gym-memberships-or-even-choose-cash",
+      "looked_up_at": "2026-11-04T23:39:09.507343+00:00",
+      "search_queries": [
+        "\"FeaturedCash & Gift CardsUnited States  18   excludes DC  RI  PR  Guam  USVIWIN FREE GAS 2500Ends Feb 28  2027\" entry",
+        "featuredcash gift cardsunited states excludes guam usviwin sweepstakes enter official",
+        "featuredcash gift cardsunited states excludes guam usviwin giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "9eca81ddb0680664": {
+      "contest_title": "Florida sweepstakesGiveaways open to Florida residents.",
+      "original_article": "https://www.sweepfeed.com/sweepstakes/state/florida",
+      "looked_up_at": "2026-11-04T23:39:09.542804+00:00",
+      "search_queries": [
+        "\"Florida sweepstakesGiveaways open to Florida residents \" entry",
+        "florida sweepstakesgiveaways open residents sweepstakes enter official",
+        "florida sweepstakesgiveaways open residents giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "200daa7a4419e195": {
+      "contest_title": "Food & Grocery Contests",
+      "original_article": "https://www.sweepsadvantage.com/win-food-giveaway-sweepstakes",
+      "looked_up_at": "2026-11-04T23:39:09.516265+00:00",
+      "search_queries": [
+        "\"Food & Grocery Contests\" entry",
+        "food grocery contests sweepstakes enter official",
+        "food grocery contests giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "de8b315d0ac05e86": {
+      "contest_title": "Food Network Season of Sweetness Sweepstakes 2026",
+      "original_article": "https://ilovegiveaways.com/sweepstakes/food-network-season-sweetness-sweepstakes-2026/",
+      "looked_up_at": "2026-11-04T23:39:09.557004+00:00",
+      "search_queries": [
+        "\"Food Network Season of Sweetness Sweepstakes 2026\" entry",
+        "food network season sweetness sweepstakes enter official",
+        "food network season sweetness giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "c6f121a6b3173a4d": {
+      "contest_title": "Food illustrationSweepFeed✦✦AriZona Legends Tour SweepsListed sponsor · Arizona Beverages USAPICK$10,000 grand prizeAriZona Legends Tour SweepsArizona Beverages USA",
+      "original_article": "https://www.sweepfeed.com/sweepstakes/e982e642cccfcec6",
+      "looked_up_at": "2026-11-04T23:39:09.633224+00:00",
+      "search_queries": [
+        "\"Food illustrationSweepFeed  AriZona Legends Tour SweepsListed sponsor   Arizona Beverages USAPICK 10 000 grand\" entry",
+        "food illustrationsweepfeed arizona legends tour sweepslisted sponsor sweepstakes enter official",
+        "food illustrationsweepfeed arizona legends tour sweepslisted sponsor giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "9a481761dc1302c3": {
+      "contest_title": "Ford Bronco Wild Fund Sweepstakes 2026 – Win a $60,000 SUV",
+      "original_article": "https://ilovegiveaways.com/sweepstakes/ford-bronco-wild-fund-sweepstakes-2026-win-a-60000-suv/",
+      "looked_up_at": "2026-11-04T23:39:09.489289+00:00",
+      "search_queries": [
+        "\"Ford Bronco Wild Fund Sweepstakes 2026\" entry",
+        "ford bronco wild fund sweepstakes enter official",
+        "ford bronco wild fund giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "f82bb00052fce4d9": {
+      "contest_title": "Ford Derby Sweepstakes: Win a Bronco SUV or Kentucky Trip",
+      "original_article": "https://ilovegiveaways.com/sweepstakes/ford-derby-sweepstakes-win-a-bronco-suv-or-kentucky-trip/",
+      "looked_up_at": "2026-11-04T23:39:09.834528+00:00",
+      "search_queries": [
+        "\"Ford Derby Sweepstakes  Win a Bronco SUV or Kentucky Trip\" entry",
+        "ford derby bronco kentucky trip sweepstakes enter official",
+        "ford derby bronco kentucky trip giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "d2b466c46cfb62c9": {
+      "contest_title": "Ford Motor Company$60,000VerifiedCashFord Bronco Wild Fund Sweepstakes 2026 - Win a $60,000 SUV2026 Ford Bronco Big Bend SUV valued at $50,000 plus $10,000 cash prize",
+      "original_article": "https://www.sweepstoday.com/sweepstakes/ford-bronco-wild-fund-sweepstakes-2026-win-a-60-000-suv",
+      "looked_up_at": "2026-11-04T23:39:09.881567+00:00",
+      "search_queries": [
+        "\"Ford Motor Company 60 000VerifiedCashFord Bronco Wild Fund Sweepstakes 2026\" entry",
+        "ford motor company 000verifiedcashford bronco wild fund sweepstakes enter official",
+        "ford motor company 000verifiedcashford bronco wild fund giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "f52398bca1954b3a": {
+      "contest_title": "Ford Motor Company$60,000VerifiedCashFord Mustang GT 5.0 Fever Sweepstakes",
+      "original_article": "https://www.sweepstoday.com/sweepstakes/ford-mustang-gt-5.0-fever-sweepstakes",
+      "looked_up_at": "2026-11-04T23:39:09.925568+00:00",
+      "search_queries": [
+        "\"Ford Motor Company 60 000VerifiedCashFord Mustang GT 5 0 Fever Sweepstakes\" entry",
+        "ford motor company 000verifiedcashford mustang fever sweepstakes enter official",
+        "ford motor company 000verifiedcashford mustang fever giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "26d35d0d90088a4e": {
+      "contest_title": "Full Disclaimer",
+      "original_article": "https://www.sweepfeed.com/sweepstakes-disclaimer",
+      "looked_up_at": "2026-11-04T23:39:09.865571+00:00",
+      "search_queries": [
+        "\"Full Disclaimer\" entry",
+        "full disclaimer sweepstakes enter official",
+        "full disclaimer giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "41fdfb0267f590a1": {
+      "contest_title": "Georgia sweepstakesGiveaways open to Georgia residents.",
+      "original_article": "https://www.sweepfeed.com/sweepstakes/state/georgia",
+      "looked_up_at": "2026-11-04T23:39:09.848980+00:00",
+      "search_queries": [
+        "\"Georgia sweepstakesGiveaways open to Georgia residents \" entry",
+        "georgia sweepstakesgiveaways open residents sweepstakes enter official",
+        "georgia sweepstakesgiveaways open residents giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "c98e22e28612f5f2": {
+      "contest_title": "Give Thanks: Gratitude Giveaway",
+      "original_article": "https://gleamgiveaways.com/giveaways/give-thanks-gratitude-giveaway/",
+      "looked_up_at": "2026-11-04T23:39:09.953409+00:00",
+      "search_queries": [
+        "\"Give Thanks  Gratitude Giveaway\" entry",
+        "give thanks gratitude sweepstakes enter official",
+        "give thanks gratitude giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "a740cc79a726679b": {
+      "contest_title": "Giveaway & Affiliate Disclosure",
+      "original_article": "https://ilovegiveaways.com/giveaway-affiliate-disclosure/",
+      "looked_up_at": "2026-11-04T23:39:09.894624+00:00",
+      "search_queries": [
+        "\"Giveaway & Affiliate Disclosure\" entry",
+        "affiliate disclosure sweepstakes enter official",
+        "affiliate disclosure giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "c7497efbfe4748bb": {
+      "contest_title": "Giveaways",
+      "original_article": "https://ilovegiveaways.com/giveaways/",
+      "status": "insufficient_title"
+    },
+    "3824c80ba323d3c1": {
+      "contest_title": "Giveaways Under $50",
+      "original_article": "https://gleamgiveaways.com/giveaways/under-50/",
+      "looked_up_at": "2026-11-04T23:39:09.934042+00:00",
+      "search_queries": [
+        "\"Giveaways Under  50\" entry",
+        "giveaways under sweepstakes enter official",
+        "giveaways under giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "88af914295f85676": {
+      "contest_title": "Golden Little Moments Giveaway",
+      "original_article": "https://gleamgiveaways.com/giveaways/golden-little-moments-giveaway/",
+      "looked_up_at": "2026-11-04T23:39:09.960447+00:00",
+      "search_queries": [
+        "\"Golden Little Moments Giveaway\" entry",
+        "golden little moments sweepstakes enter official",
+        "golden little moments giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "3f2e9c23e02ee7ff": {
+      "contest_title": "Golf PEIGolf vacation packageVerifiedTravelGolf PEI Golf Vacation ContestGolf vacation package",
+      "original_article": "https://www.sweepstoday.com/sweepstakes/golf-pei-golf-vacation-contest",
+      "looked_up_at": "2026-11-04T23:39:09.926560+00:00",
+      "search_queries": [
+        "\"Golf PEIGolf vacation packageVerifiedTravelGolf PEI Golf Vacation ContestGolf vacation package\" entry",
+        "golf peigolf vacation packageverifiedtravelgolf contestgolf package sweepstakes enter official",
+        "golf peigolf vacation packageverifiedtravelgolf contestgolf package giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "418b3c449019e414": {
+      "contest_title": "Hayabusa UFC BJJ Las Vegas Trip Sweepstakes 2026",
+      "original_article": "https://ilovegiveaways.com/sweepstakes/hayabusa-ufc-bjj-las-vegas-trip-sweepstakes-2026/",
+      "looked_up_at": "2026-11-04T23:39:09.916549+00:00",
+      "search_queries": [
+        "\"Hayabusa UFC BJJ Las Vegas Trip Sweepstakes 2026\" entry",
+        "hayabusa vegas trip sweepstakes enter official",
+        "hayabusa vegas trip giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "bbb8cb69453b084d": {
+      "contest_title": "Illinois sweepstakesGiveaways open to Illinois residents.",
+      "original_article": "https://www.sweepfeed.com/sweepstakes/state/illinois",
+      "looked_up_at": "2026-11-04T23:39:10.032011+00:00",
+      "search_queries": [
+        "\"Illinois sweepstakesGiveaways open to Illinois residents \" entry",
+        "illinois sweepstakesgiveaways open residents sweepstakes enter official",
+        "illinois sweepstakesgiveaways open residents giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "7fde2bf32d750014": {
+      "contest_title": "Instant winsFast plays",
+      "original_article": "https://www.sweepfeed.com/sweepstakes/instant-win",
+      "looked_up_at": "2026-11-04T23:39:10.188600+00:00",
+      "search_queries": [
+        "\"Instant winsFast plays\" entry",
+        "instant winsfast plays sweepstakes enter official",
+        "instant winsfast plays giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "86b0ddcac41e2a63": {
+      "contest_title": "J. Lohr Holiday Favorites Giveaway",
+      "original_article": "https://gleamgiveaways.com/giveaways/j-lohr-holiday-favorites-giveaway-2026-11/",
+      "looked_up_at": "2026-11-04T23:39:10.176811+00:00",
+      "search_queries": [
+        "\"J  Lohr Holiday Favorites Giveaway\" entry",
+        "lohr holiday favorites sweepstakes enter official",
+        "lohr holiday favorites giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "b256b0d8691baa7b": {
+      "contest_title": "Jarritos$5VerifiedFood & DrinkJarritos Zero Mandarin Free Product Sweepstakes",
+      "original_article": "https://www.sweepstoday.com/sweepstakes/jarritos-zero-mandarin-free-product",
+      "looked_up_at": "2026-11-04T23:39:10.239203+00:00",
+      "search_queries": [
+        "\"Jarritos 5VerifiedFood & DrinkJarritos Zero Mandarin Free Product Sweepstakes\" entry",
+        "jarritos 5verifiedfood drinkjarritos zero mandarin free product sweepstakes enter official",
+        "jarritos 5verifiedfood drinkjarritos zero mandarin free product giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "654f856e18db77ae": {
+      "contest_title": "Jersey Mike’s $5,000 Gift Card Sweepstakes 2026",
+      "original_article": "https://ilovegiveaways.com/sweepstakes/jersey-mikes-5000-gift-card-sweepstakes-2026/",
+      "looked_up_at": "2026-11-04T23:39:10.364508+00:00",
+      "search_queries": [
+        "\"Jersey Mike s  5 000 Gift Card Sweepstakes 2026\" entry",
+        "jersey mike gift card sweepstakes enter official",
+        "jersey mike gift card giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "433b9020b473b76b": {
+      "contest_title": "Johnjay and Rich Christmas Wish 2026 Sweepstakes",
+      "original_article": "https://ilovegiveaways.com/sweepstakes/johnjay-rich-christmas-wish-2026-sweepstakes/",
+      "looked_up_at": "2026-11-04T23:39:10.249548+00:00",
+      "search_queries": [
+        "\"Johnjay and Rich Christmas Wish 2026 Sweepstakes\" entry",
+        "johnjay rich christmas wish sweepstakes enter official",
+        "johnjay rich christmas wish giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "1f46231a858cb498": {
+      "contest_title": "Kendall-Jackson NBA All-Star 2027 Sweepstakes",
+      "original_article": "https://ilovegiveaways.com/sweepstakes/kendall-jackson-nba-all-star-2027-sweepstakes/",
+      "looked_up_at": "2026-11-04T23:39:13.817647+00:00",
+      "search_queries": [
+        "\"Kendall-Jackson NBA All-Star 2027 Sweepstakes\" entry",
+        "kendall jackson star sweepstakes enter official",
+        "kendall jackson star giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "possible_entry_pages",
+      "possible": [
+        {
+          "url": "https://www.kj.com/nba-allstar-sweeps-rules.html",
+          "title": "Kendall-Jackson & NBA All-Star 2027 Sweepstakes Official Rules",
+          "overlap": 3,
+          "destination_check": "entry_form_possible"
+        },
+        {
+          "url": "https://www.sweepstakesbible.com/giveaways/kendall-jackson-nba-all-star-2027-sweepstakes",
+          "title": "Kendall-Jackson & NBA All-Star 2027 Sweepstakes – Win NBA All-Star ...",
+          "overlap": 3,
+          "destination_check": "entry_form_possible"
+        },
+        {
+          "url": "https://gleamgiveaways.com/giveaways/kendall-jackson-nba-all-star-2027-sweepstakes-4-winners-2026-11/",
+          "title": "Kendall-Jackson NBA All-Star 2027 Sweepstakes",
+          "overlap": 3,
+          "destination_check": "entry_form_possible"
+        }
+      ]
+    },
+    "115ca5dc90e3eab3": {
+      "contest_title": "Kindred Bravely Cozy Holiday Giveaway",
+      "original_article": "https://gleamgiveaways.com/giveaways/kindred-bravely-cozy-holiday-giveaway-2026-11/",
+      "looked_up_at": "2026-11-04T23:39:10.331505+00:00",
+      "search_queries": [
+        "\"Kindred Bravely Cozy Holiday Giveaway\" entry",
+        "kindred bravely cozy holiday sweepstakes enter official",
+        "kindred bravely cozy holiday giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "92aa46e44b3f6235": {
+      "contest_title": "Kohl’s Serena Neel Gift List Sweepstakes 2026",
+      "original_article": "https://ilovegiveaways.com/sweepstakes/kohls-serena-neel-gift-list-sweepstakes-2026/",
+      "looked_up_at": "2026-11-04T23:39:10.305811+00:00",
+      "search_queries": [
+        "\"Kohl s Serena Neel Gift List Sweepstakes 2026\" entry",
+        "kohl serena neel gift list sweepstakes enter official",
+        "kohl serena neel gift list giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "6f8fd359449f16e9": {
+      "contest_title": "Kraft Heinz Single Greatest Cheeseburger Call Sweepstakes",
+      "original_article": "https://www.sweepfeed.com/sweepstakes/30efc9ac9ce58fd9",
+      "looked_up_at": "2026-11-04T23:39:10.329115+00:00",
+      "search_queries": [
+        "\"Kraft Heinz Single Greatest Cheeseburger Call Sweepstakes\" entry",
+        "kraft heinz single greatest cheeseburger call sweepstakes enter official",
+        "kraft heinz single greatest cheeseburger call giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "12abb52c7c37ec3d": {
+      "contest_title": "Learn about Sweepstakes Entry",
+      "original_article": "https://www.sweepsadvantage.com/sweepstakes-contests-blog/welcome-to-sweepstakes-school/",
+      "looked_up_at": "2026-11-04T23:39:10.316252+00:00",
+      "search_queries": [
+        "\"Learn about Sweepstakes Entry\" entry",
+        "learn about entry sweepstakes enter official",
+        "learn about entry giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "8039ee0512382f20": {
+      "contest_title": "Lowe’s 2026/2027 Monthly $500 Customer Survey Sweepstakes",
+      "original_article": "https://ilovegiveaways.com/sweepstakes/lowes-2026-2027-monthly-500-customer-survey-sweepstakes/",
+      "looked_up_at": "2026-11-04T23:39:10.306371+00:00",
+      "search_queries": [
+        "\"Lowe s 2026 2027 Monthly  500 Customer Survey Sweepstakes\" entry",
+        "lowe monthly customer survey sweepstakes enter official",
+        "lowe monthly customer survey giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "36e48e6bc86120e4": {
+      "contest_title": "Magnum Ice Cream “Better With Ice Cream” Sweepstakes",
+      "original_article": "https://www.sweepfeed.com/sweepstakes/674e77fe1c2ea982",
+      "looked_up_at": "2026-11-04T23:39:10.357085+00:00",
+      "search_queries": [
+        "\"Magnum Ice Cream  Better With Ice Cream  Sweepstakes\" entry",
+        "magnum cream better sweepstakes enter official",
+        "magnum cream better giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "c81588517bab9965": {
+      "contest_title": "Murphy’s Diesel Freedom Giveaway Sweepstakes (AMOE)",
+      "original_article": "https://gleamgiveaways.com/giveaways/murphy-s-diesel-freedom-giveaway-sweepstakes-2026-11/",
+      "looked_up_at": "2026-11-04T23:39:10.501161+00:00",
+      "search_queries": [
+        "\"Murphy s Diesel Freedom Giveaway Sweepstakes  AMOE \" entry",
+        "murphy diesel freedom amoe sweepstakes enter official",
+        "murphy diesel freedom amoe giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "d3feaeb0807c20cb": {
+      "contest_title": "New York sweepstakesGiveaways open to New York residents.",
+      "original_article": "https://www.sweepfeed.com/sweepstakes/state/new-york",
+      "looked_up_at": "2026-11-04T23:39:10.595500+00:00",
+      "search_queries": [
+        "\"New York sweepstakesGiveaways open to New York residents \" entry",
+        "york sweepstakesgiveaways open residents sweepstakes enter official",
+        "york sweepstakesgiveaways open residents giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "9d49bf6a6d47d3b6": {
+      "contest_title": "New listings",
+      "original_article": "https://www.sweepfeed.com/sweepstakes/new",
+      "status": "insufficient_title"
+    },
+    "148d7714d5c81827": {
+      "contest_title": "Newsletter",
+      "original_article": "https://www.sweepsadvantage.com/sweepstakes-newsletter.htm",
+      "status": "insufficient_title"
+    },
+    "d4410695efd76cde": {
+      "contest_title": "November Giveaway: Aimpoint Patrol Rifle Optic Red Dot Reflex Sight",
+      "original_article": "https://gleamgiveaways.com/giveaways/november-giveaway-aimpoint-patrol-rifle-optic-red-dot-r-2026-11/",
+      "looked_up_at": "2026-11-04T23:39:10.580350+00:00",
+      "search_queries": [
+        "\"November Giveaway  Aimpoint Patrol Rifle Optic Red Dot Reflex Sight\" entry",
+        "november aimpoint patrol rifle optic reflex sight sweepstakes enter official",
+        "november aimpoint patrol rifle optic reflex sight giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "e123b9931046ed23": {
+      "contest_title": "Ohio sweepstakesGiveaways open to Ohio residents.",
+      "original_article": "https://www.sweepfeed.com/sweepstakes/state/ohio",
+      "looked_up_at": "2026-11-04T23:39:10.596606+00:00",
+      "search_queries": [
+        "\"Ohio sweepstakesGiveaways open to Ohio residents \" entry",
+        "ohio sweepstakesgiveaways open residents sweepstakes enter official",
+        "ohio sweepstakesgiveaways open residents giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "6e1fbf599f8f96bd": {
+      "contest_title": "Open 2026 Away We Go SweepstakesSweepstakes illustrationSweepFeed✦✦2026 Away We Go SweepstakesListed sponsor · Pittsburgh Steelers",
+      "original_article": "https://www.sweepfeed.com/sweepstakes/33f9b151cc5a002f",
+      "looked_up_at": "2026-11-04T23:39:10.774614+00:00",
+      "search_queries": [
+        "\"Open 2026 Away We Go SweepstakesSweepstakes illustrationSweepFeed  2026 Away We Go SweepstakesListed sponsor  \" entry",
+        "open away sweepstakessweepstakes illustrationsweepfeed sweepstakeslisted sponsor sweepstakes enter official",
+        "open away sweepstakessweepstakes illustrationsweepfeed sweepstakeslisted sponsor giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "fb61090e4539886d": {
+      "contest_title": "Open 2026 Fortune Tires SweepstakesSweepstakes illustrationSweepFeed✦✦2026 Fortune Tires SweepstakesListed sponsor · Prinx Chengshan Tire North America",
+      "original_article": "https://www.sweepfeed.com/sweepstakes/988460a6765e3024",
+      "looked_up_at": "2026-11-04T23:39:10.735298+00:00",
+      "search_queries": [
+        "\"Open 2026 Fortune Tires SweepstakesSweepstakes illustrationSweepFeed  2026 Fortune Tires SweepstakesListed spo\" entry",
+        "open fortune tires sweepstakessweepstakes illustrationsweepfeed sweepstakeslisted sweepstakes enter official",
+        "open fortune tires sweepstakessweepstakes illustrationsweepfeed sweepstakeslisted giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "9c48dcbcabc5e328": {
+      "contest_title": "Open 2026 Nature Made Gift Card SweepstakesAI illustration",
+      "original_article": "https://www.sweepfeed.com/sweepstakes/d752fb22ec9b8962",
+      "looked_up_at": "2026-11-04T23:39:10.732022+00:00",
+      "search_queries": [
+        "\"Open 2026 Nature Made Gift Card SweepstakesAI illustration\" entry",
+        "open nature made gift card sweepstakesai illustration sweepstakes enter official",
+        "open nature made gift card sweepstakesai illustration giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "9c8f9333a48fca69": {
+      "contest_title": "Open Advance Auto Parts/Fix-a-Flat Free Gas SweepstakesPets illustrationSweepFeed✦✦Advance Auto Parts/Fix-a-Flat Free Gas SweepstakesListed sponsor · ITW Global Tire Repair",
+      "original_article": "https://www.sweepfeed.com/sweepstakes/aa80af0dce65724d",
+      "looked_up_at": "2026-11-04T23:39:10.806608+00:00",
+      "search_queries": [
+        "\"Open Advance Auto Parts Fix-a-Flat Free Gas SweepstakesPets illustrationSweepFeed  Advance Auto Parts Fix-a-Fl\" entry",
+        "open advance auto parts flat free sweepstakespets sweepstakes enter official",
+        "open advance auto parts flat free sweepstakespets giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "e964dc6bc3eae111": {
+      "contest_title": "Open Avocados from Mexico Guac Drops and Guac Box Suite Sweepstakes",
+      "original_article": "https://www.sweepfeed.com/sweepstakes/656f9f559f05f213",
+      "looked_up_at": "2026-11-04T23:39:10.708315+00:00",
+      "search_queries": [
+        "\"Open Avocados from Mexico Guac Drops and Guac Box Suite Sweepstakes\" entry",
+        "open avocados mexico guac drops suite sweepstakes enter official",
+        "open avocados mexico guac drops suite giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "0a3e0c09c3e2bd84": {
+      "contest_title": "Open CCHI Singer Island Wedding Giveaway",
+      "original_article": "https://www.sweepfeed.com/sweepstakes/217aeb7f1c92ea67",
+      "looked_up_at": "2026-11-04T23:39:10.717469+00:00",
+      "search_queries": [
+        "\"Open CCHI Singer Island Wedding Giveaway\" entry",
+        "open cchi singer island wedding sweepstakes enter official",
+        "open cchi singer island wedding giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "2286908838dd3171": {
+      "contest_title": "Open Canada's Luckiest Family 2027 ContestBaby illustrationSweepFeed✦✦Canada's Luckiest Family 2027 ContestListed sponsor · 55 Rush Inc.",
+      "original_article": "https://www.sweepfeed.com/sweepstakes/07858531f71684f4",
+      "looked_up_at": "2026-11-04T23:39:10.747973+00:00",
+      "search_queries": [
+        "\"Open Canada's Luckiest Family 2027 ContestBaby illustrationSweepFeed  Canada's Luckiest Family 2027 ContestLis\" entry",
+        "open canada luckiest family contestbaby illustrationsweepfeed contestlis sweepstakes enter official",
+        "open canada luckiest family contestbaby illustrationsweepfeed contestlis giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "743d32b74ca0e7a8": {
+      "contest_title": "Open Corona Golf 2026 SweepstakesTravel illustrationSweepFeed✦✦Corona Golf 2026 SweepstakesListed sponsor · Crown Imports",
+      "original_article": "https://www.sweepfeed.com/sweepstakes/a8ad077198f142d8",
+      "looked_up_at": "2026-11-04T23:39:10.893157+00:00",
+      "search_queries": [
+        "\"Open Corona Golf 2026 SweepstakesTravel illustrationSweepFeed  Corona Golf 2026 SweepstakesListed sponsor   Cr\" entry",
+        "open corona golf sweepstakestravel illustrationsweepfeed sweepstakeslisted sponsor sweepstakes enter official",
+        "open corona golf sweepstakestravel illustrationsweepfeed sweepstakeslisted sponsor giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "7c3becea1d8c6138": {
+      "contest_title": "Open Evan Williams “Game Day Like A Champ” SweepstakesAI illustration",
+      "original_article": "https://www.sweepfeed.com/sweepstakes/71133bfa3af43b84",
+      "looked_up_at": "2026-11-04T23:39:10.999256+00:00",
+      "search_queries": [
+        "\"Open Evan Williams  Game Day Like A Champ  SweepstakesAI illustration\" entry",
+        "open evan williams game like champ sweepstakesai sweepstakes enter official",
+        "open evan williams game like champ sweepstakesai giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "25fd270a38414f10": {
+      "contest_title": "Open Food Network Taste of Fall GiveawayFood illustrationSweepFeed✦✦Food Network Taste of Fall GiveawayListed sponsor · Discovery Communications",
+      "original_article": "https://www.sweepfeed.com/sweepstakes/b4a4898ee3cceff7",
+      "looked_up_at": "2026-11-04T23:39:10.937037+00:00",
+      "search_queries": [
+        "\"Open Food Network Taste of Fall GiveawayFood illustrationSweepFeed  Food Network Taste of Fall GiveawayListed \" entry",
+        "open food network taste fall giveawayfood illustrationsweepfeed sweepstakes enter official",
+        "open food network taste fall giveawayfood illustrationsweepfeed giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "93b3fd3da8deb4de": {
+      "contest_title": "Open Frito-Lay Gameday Experiences Sweepstakes",
+      "original_article": "https://www.sweepfeed.com/sweepstakes/6349bf5baa06d28a",
+      "looked_up_at": "2026-11-04T23:39:11.019516+00:00",
+      "search_queries": [
+        "\"Open Frito-Lay Gameday Experiences Sweepstakes\" entry",
+        "open frito gameday experiences sweepstakes enter official",
+        "open frito gameday experiences giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "55dac09502e939b9": {
+      "contest_title": "Open Great Beer, Great Price, Great Prizes SweepstakesFood illustrationSweepFeed✦✦Great Beer, Great Price, Great Prizes SweepstakesListed sponsor · Anheuser-Busch",
+      "original_article": "https://www.sweepfeed.com/sweepstakes/0025fc3397521190",
+      "looked_up_at": "2026-11-04T23:39:11.150621+00:00",
+      "search_queries": [
+        "\"Open Great Beer  Great Price  Great Prizes SweepstakesFood illustrationSweepFeed  Great Beer  Great Price  Gre\" entry",
+        "open great beer price prizes sweepstakesfood illustrationsweepfeed sweepstakes enter official",
+        "open great beer price prizes sweepstakesfood illustrationsweepfeed giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "84febd5a9fd30b3e": {
+      "contest_title": "Open Hayabusa UFC BJJ Las Vegas SweepstakesSweepstakes illustrationSweepFeed✦✦Hayabusa UFC BJJ Las Vegas SweepstakesListed sponsor · Hayabusa Fightwear",
+      "original_article": "https://www.sweepfeed.com/sweepstakes/f98ca1c8d9f2bd60",
+      "looked_up_at": "2026-11-04T23:39:11.187841+00:00",
+      "search_queries": [
+        "\"Open Hayabusa UFC BJJ Las Vegas SweepstakesSweepstakes illustrationSweepFeed  Hayabusa UFC BJJ Las Vegas Sweep\" entry",
+        "open hayabusa vegas sweepstakessweepstakes illustrationsweepfeed sweep sweepstakes enter official",
+        "open hayabusa vegas sweepstakessweepstakes illustrationsweepfeed sweep giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "2cbf059f002ca6be": {
+      "contest_title": "Open Heineken Beer for a Year 2026 SweepstakesGift Cards illustrationSweepFeed✦✦Heineken Beer for a Year 2026 SweepstakesListed sponsor · HEINEKEN USA",
+      "original_article": "https://www.sweepfeed.com/sweepstakes/ead7845e42abf00e",
+      "looked_up_at": "2026-11-04T23:39:11.137541+00:00",
+      "search_queries": [
+        "\"Open Heineken Beer for a Year 2026 SweepstakesGift Cards illustrationSweepFeed  Heineken Beer for a Year 2026 \" entry",
+        "open heineken beer year sweepstakesgift cards illustrationsweepfeed sweepstakes enter official",
+        "open heineken beer year sweepstakesgift cards illustrationsweepfeed giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "dcc67b14fd9be663": {
+      "contest_title": "Open Iron Infidel October SweepstakesSweepstakes illustrationSweepFeed✦✦Iron Infidel October SweepstakesListed sponsor · Iron Infidel Holdings",
+      "original_article": "https://www.sweepfeed.com/sweepstakes/79ebf392001429fb",
+      "looked_up_at": "2026-11-04T23:39:11.125295+00:00",
+      "search_queries": [
+        "\"Open Iron Infidel October SweepstakesSweepstakes illustrationSweepFeed  Iron Infidel October SweepstakesListed\" entry",
+        "open iron infidel october sweepstakessweepstakes illustrationsweepfeed sweepstakeslisted sweepstakes enter official",
+        "open iron infidel october sweepstakessweepstakes illustrationsweepfeed sweepstakeslisted giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "4f72d9b53bd36026": {
+      "contest_title": "Open Jagermeister Loyalty Q4 SweepstakesAI illustration",
+      "original_article": "https://www.sweepfeed.com/sweepstakes/6c45f98ef25b0196",
+      "looked_up_at": "2026-11-04T23:39:11.148816+00:00",
+      "search_queries": [
+        "\"Open Jagermeister Loyalty Q4 SweepstakesAI illustration\" entry",
+        "open jagermeister loyalty sweepstakesai illustration sweepstakes enter official",
+        "open jagermeister loyalty sweepstakesai illustration giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "928aadbc0eba69a2": {
+      "contest_title": "Open Kendall-Jackson NBA All-Star 2027 SweepstakesSponsor logoSweepFeed",
+      "original_article": "https://www.sweepfeed.com/sweepstakes/e993f239bb32bdef",
+      "looked_up_at": "2026-11-04T23:39:11.150022+00:00",
+      "search_queries": [
+        "\"Open Kendall-Jackson NBA All-Star 2027 SweepstakesSponsor logoSweepFeed\" entry",
+        "open kendall jackson star sweepstakessponsor logosweepfeed sweepstakes enter official",
+        "open kendall jackson star sweepstakessponsor logosweepfeed giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "96d2e1c3a3720b3f": {
+      "contest_title": "Open Modelo Chelada Collection SweepstakesAI illustration",
+      "original_article": "https://www.sweepfeed.com/sweepstakes/7a75718ec27e848c",
+      "looked_up_at": "2026-11-04T23:39:11.187286+00:00",
+      "search_queries": [
+        "\"Open Modelo Chelada Collection SweepstakesAI illustration\" entry",
+        "open modelo chelada collection sweepstakesai illustration sweepstakes enter official",
+        "open modelo chelada collection sweepstakesai illustration giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "af66a25332cf332a": {
+      "contest_title": "Open Philly to VA SweepstakesAI illustration",
+      "original_article": "https://www.sweepfeed.com/sweepstakes/0a13cdaedd283027",
+      "looked_up_at": "2026-11-04T23:39:11.270229+00:00",
+      "search_queries": [
+        "\"Open Philly to VA SweepstakesAI illustration\" entry",
+        "open philly sweepstakesai illustration sweepstakes enter official",
+        "open philly sweepstakesai illustration giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "65afffe15a6c2eaa": {
+      "contest_title": "Open Sony Electronics 2026 Super Bowl LXI SweepstakesTravel illustrationSweepFeed✦✦Sony Electronics 2026 Super Bowl LXI SweepstakesListed sponsor · Sony Electronics",
+      "original_article": "https://www.sweepfeed.com/sweepstakes/4d825db5dc3f87d5",
+      "looked_up_at": "2026-11-04T23:39:11.310813+00:00",
+      "search_queries": [
+        "\"Open Sony Electronics 2026 Super Bowl LXI SweepstakesTravel illustrationSweepFeed  Sony Electronics 2026 Super\" entry",
+        "open sony electronics super bowl sweepstakestravel illustrationsweepfeed sweepstakes enter official",
+        "open sony electronics super bowl sweepstakestravel illustrationsweepfeed giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "96c7113390503f83": {
+      "contest_title": "Open Sony Electronics 2026 “Dallas Cowboys” WH-1000XM6 Headphones SweepstakesAI illustration",
+      "original_article": "https://www.sweepfeed.com/sweepstakes/b4a958b5518b2642",
+      "looked_up_at": "2026-11-04T23:39:11.418202+00:00",
+      "search_queries": [
+        "\"Open Sony Electronics 2026  Dallas Cowboys  WH-1000XM6 Headphones SweepstakesAI illustration\" entry",
+        "open sony electronics dallas cowboys 1000xm6 headphones sweepstakes enter official",
+        "open sony electronics dallas cowboys 1000xm6 headphones giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "9a37c972b58b6af3": {
+      "contest_title": "Open Sony x Patriots WH-1000XM6 SweepstakesSweepstakes illustrationSweepFeed✦✦Sony x Patriots WH-1000XM6 SweepstakesListed sponsor · Sony Electronics",
+      "original_article": "https://www.sweepfeed.com/sweepstakes/e20efb8a14aff3c7",
+      "looked_up_at": "2026-11-04T23:39:11.449624+00:00",
+      "search_queries": [
+        "\"Open Sony x Patriots WH-1000XM6 SweepstakesSweepstakes illustrationSweepFeed  Sony x Patriots WH-1000XM6 Sweep\" entry",
+        "open sony patriots 1000xm6 sweepstakessweepstakes illustrationsweepfeed sweep sweepstakes enter official",
+        "open sony patriots 1000xm6 sweepstakessweepstakes illustrationsweepfeed sweep giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "7d8315ae02fecf6e": {
+      "contest_title": "Open Sony x Steelers WH-1000XM6 SweepstakesAI illustration",
+      "original_article": "https://www.sweepfeed.com/sweepstakes/36afda1c3f8b7e2b",
+      "looked_up_at": "2026-11-04T23:39:11.520117+00:00",
+      "search_queries": [
+        "\"Open Sony x Steelers WH-1000XM6 SweepstakesAI illustration\" entry",
+        "open sony steelers 1000xm6 sweepstakesai illustration sweepstakes enter official",
+        "open sony steelers 1000xm6 sweepstakesai illustration giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "d715b2b2f9418e8e": {
+      "contest_title": "Open TENA Take Back Your Game SweepstakesTravel illustrationSweepFeed✦✦TENA Take Back Your Game SweepstakesListed sponsor · Essity North America",
+      "original_article": "https://www.sweepfeed.com/sweepstakes/7a50aa6d085726f5",
+      "looked_up_at": "2026-11-04T23:39:11.537056+00:00",
+      "search_queries": [
+        "\"Open TENA Take Back Your Game SweepstakesTravel illustrationSweepFeed  TENA Take Back Your Game SweepstakesLis\" entry",
+        "open tena take back your game sweepstakestravel sweepstakes enter official",
+        "open tena take back your game sweepstakestravel giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "e9e5292eb6543449": {
+      "contest_title": "Open Takeoff For Kickoff SweepstakesTravel illustrationSweepFeed✦✦Takeoff For Kickoff SweepstakesListed sponsor · HEINEKEN USA",
+      "original_article": "https://www.sweepfeed.com/sweepstakes/0d5e1d7a6559400b",
+      "looked_up_at": "2026-11-04T23:39:11.568915+00:00",
+      "search_queries": [
+        "\"Open Takeoff For Kickoff SweepstakesTravel illustrationSweepFeed  Takeoff For Kickoff SweepstakesListed sponso\" entry",
+        "open takeoff kickoff sweepstakestravel illustrationsweepfeed sweepstakeslisted sponso sweepstakes enter official",
+        "open takeoff kickoff sweepstakestravel illustrationsweepfeed sweepstakeslisted sponso giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "56a0687f8459496b": {
+      "contest_title": "Open Travel Oregon 2026–2027 Email Newsletter Subscriber SweepstakesAI illustration",
+      "original_article": "https://www.sweepfeed.com/sweepstakes/618926a85677e954",
+      "looked_up_at": "2026-11-04T23:39:11.611145+00:00",
+      "search_queries": [
+        "\"Open Travel Oregon 2026 2027 Email Newsletter Subscriber SweepstakesAI illustration\" entry",
+        "open travel oregon email newsletter subscriber sweepstakesai sweepstakes enter official",
+        "open travel oregon email newsletter subscriber sweepstakesai giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "d395b8050a1fc0a6": {
+      "contest_title": "Open Travel Wisconsin Wonder-Filled Packers Sweepstakes",
+      "original_article": "https://www.sweepfeed.com/sweepstakes/e05dfdb4154b171e",
+      "looked_up_at": "2026-11-04T23:39:11.596905+00:00",
+      "search_queries": [
+        "\"Open Travel Wisconsin Wonder-Filled Packers Sweepstakes\" entry",
+        "open travel wisconsin wonder filled packers sweepstakes enter official",
+        "open travel wisconsin wonder filled packers giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "f8c78c4e5cd438c8": {
+      "contest_title": "Open Ultimate Basecamp 4x4 RV Giveaway",
+      "original_article": "https://www.sweepfeed.com/sweepstakes/799c06a237f94a28",
+      "looked_up_at": "2026-11-04T23:39:11.534725+00:00",
+      "search_queries": [
+        "\"Open Ultimate Basecamp 4x4 RV Giveaway\" entry",
+        "open ultimate basecamp sweepstakes enter official",
+        "open ultimate basecamp giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "8a19e7245b914164": {
+      "contest_title": "Open Win a cookware setAI illustration",
+      "original_article": "https://www.sweepfeed.com/sweepstakes/5f1c93cae572b133",
+      "looked_up_at": "2026-11-04T23:39:11.587119+00:00",
+      "search_queries": [
+        "\"Open Win a cookware setAI illustration\" entry",
+        "open cookware setai illustration sweepstakes enter official",
+        "open cookware setai illustration giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "a3a7c50b39f13cc2": {
+      "contest_title": "Outback Steakhouse Best Steaks Ever Sweepstakes",
+      "original_article": "https://ilovegiveaways.com/sweepstakes/outback-steakhouse-best-steaks-ever-sweepstakes/",
+      "looked_up_at": "2026-11-04T23:39:11.711999+00:00",
+      "search_queries": [
+        "\"Outback Steakhouse Best Steaks Ever Sweepstakes\" entry",
+        "outback steakhouse best steaks ever sweepstakes enter official",
+        "outback steakhouse best steaks ever giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "a4e14ebf3ed79cfa": {
+      "contest_title": "Pacific Northwest PGA $250 ShipSticks Gift Card Sweepstakes",
+      "original_article": "https://ilovegiveaways.com/sweepstakes/pacific-northwest-pga-shipsticks-gift-card-sweepstakes/",
+      "looked_up_at": "2026-11-04T23:39:11.680946+00:00",
+      "search_queries": [
+        "\"Pacific Northwest PGA  250 ShipSticks Gift Card Sweepstakes\" entry",
+        "pacific northwest shipsticks gift card sweepstakes enter official",
+        "pacific northwest shipsticks gift card giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "a675870da1bc033c": {
+      "contest_title": "Palen Music Roland TD316 Electronic Drum Set Giveaway",
+      "original_article": "https://gleamgiveaways.com/giveaways/palen-music-roland-td316-electronic-drum-set-giveaway/",
+      "looked_up_at": "2026-11-04T23:39:11.785346+00:00",
+      "search_queries": [
+        "\"Palen Music Roland TD316 Electronic Drum Set Giveaway\" entry",
+        "palen music roland td316 electronic drum sweepstakes enter official",
+        "palen music roland td316 electronic drum giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "ab0893bc7a92c2e9": {
+      "contest_title": "Peet’s Coffee Home for the Holidays Sweepstakes",
+      "original_article": "https://ilovegiveaways.com/sweepstakes/peets-coffee-home-holidays-sweepstakes-2026/",
+      "looked_up_at": "2026-11-04T23:39:11.888515+00:00",
+      "search_queries": [
+        "\"Peet s Coffee Home for the Holidays Sweepstakes\" entry",
+        "peet coffee home holidays sweepstakes enter official",
+        "peet coffee home holidays giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "fc40286934fb5b54": {
+      "contest_title": "Pennsylvania sweepstakesGiveaways open to Pennsylvania residents.",
+      "original_article": "https://www.sweepfeed.com/sweepstakes/state/pennsylvania",
+      "looked_up_at": "2026-11-04T23:39:11.879908+00:00",
+      "search_queries": [
+        "\"Pennsylvania sweepstakesGiveaways open to Pennsylvania residents \" entry",
+        "pennsylvania sweepstakesgiveaways open residents sweepstakes enter official",
+        "pennsylvania sweepstakesgiveaways open residents giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "040133165d6abf52": {
+      "contest_title": "Precision Pro Golf Holiday Giveaway",
+      "original_article": "https://gleamgiveaways.com/giveaways/precision-pro-golf-holiday-giveaway-2026-11/",
+      "looked_up_at": "2026-11-04T23:39:11.870608+00:00",
+      "search_queries": [
+        "\"Precision Pro Golf Holiday Giveaway\" entry",
+        "precision golf holiday sweepstakes enter official",
+        "precision golf holiday giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "acf37d30539fe267": {
+      "contest_title": "ProjectorScreen Hisense C3 Ultra Max Projector Giveaway",
+      "original_article": "https://gleamgiveaways.com/giveaways/projectorscreen-hisense-c3-ultra-max-projector-giveaway-2026-11/",
+      "looked_up_at": "2026-11-04T23:39:11.833065+00:00",
+      "search_queries": [
+        "\"ProjectorScreen Hisense C3 Ultra Max Projector Giveaway\" entry",
+        "projectorscreen hisense ultra projector sweepstakes enter official",
+        "projectorscreen hisense ultra projector giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "57d0e378de30add9": {
+      "contest_title": "RebelDustyPinky $2000 Gaming PC Or $2000 Cash Prize Giveaway",
+      "original_article": "https://gleamgiveaways.com/giveaways/rebeldustypinky-2000-gaming-pc-or-2000-cash-prize-givea-2026-11/",
+      "looked_up_at": "2026-11-04T23:39:11.917080+00:00",
+      "search_queries": [
+        "\"RebelDustyPinky  2000 Gaming PC Or  2000 Cash Prize Giveaway\" entry",
+        "rebeldustypinky 2000 gaming cash prize sweepstakes enter official",
+        "rebeldustypinky 2000 gaming cash prize giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "8b52bc95b8249171": {
+      "contest_title": "Reverend Kingbolt H290 Giveaway",
+      "original_article": "https://gleamgiveaways.com/giveaways/reverend-kingbolt-h290-giveaway/",
+      "looked_up_at": "2026-11-04T23:39:11.957039+00:00",
+      "search_queries": [
+        "\"Reverend Kingbolt H290 Giveaway\" entry",
+        "reverend kingbolt h290 sweepstakes enter official",
+        "reverend kingbolt h290 giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "d315f90e41c143bb": {
+      "contest_title": "Room & Board and King Arthur Baking Fall Giveaway",
+      "original_article": "https://gleamgiveaways.com/giveaways/room-board-and-king-arthur-baking-fall-giveaway/",
+      "looked_up_at": "2026-11-04T23:39:12.057157+00:00",
+      "search_queries": [
+        "\"Room & Board and King Arthur Baking Fall Giveaway\" entry",
+        "room board king arthur baking fall sweepstakes enter official",
+        "room board king arthur baking fall giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "438731360e76e307": {
+      "contest_title": "STAKT Giveaway",
+      "original_article": "https://gleamgiveaways.com/giveaways/stakt-giveaway/",
+      "status": "insufficient_title"
+    },
+    "f469151d4413ddb8": {
+      "contest_title": "Scam Risk Index",
+      "original_article": "https://www.sweepstakesradar.com/reports/sweepstakes-scam-risk-index",
+      "looked_up_at": "2026-11-04T23:39:12.023946+00:00",
+      "search_queries": [
+        "\"Scam Risk Index\" entry",
+        "scam risk index sweepstakes enter official",
+        "scam risk index giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "67c73c7e80dc456f": {
+      "contest_title": "SiriusXM Jerry Seinfeld Las Vegas Sweepstakes",
+      "original_article": "https://gleamgiveaways.com/giveaways/siriusxm-jerry-seinfeld-las-vegas-sweepstakes-2026-11/",
+      "looked_up_at": "2026-11-04T23:39:12.052339+00:00",
+      "search_queries": [
+        "\"SiriusXM Jerry Seinfeld Las Vegas Sweepstakes\" entry",
+        "siriusxm jerry seinfeld vegas sweepstakes enter official",
+        "siriusxm jerry seinfeld vegas giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "12537b79cb4e9d27": {
+      "contest_title": "Snap Finance Black Friday Sweepstakes",
+      "original_article": "https://gleamgiveaways.com/giveaways/snap-finance-black-friday-sweepstakes-6-winners-2026-11/",
+      "looked_up_at": "2026-11-04T23:39:12.066983+00:00",
+      "search_queries": [
+        "\"Snap Finance Black Friday Sweepstakes\" entry",
+        "snap finance black friday sweepstakes enter official",
+        "snap finance black friday giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "29076cd4f978d18c": {
+      "contest_title": "Sony Electronics 2026 “Seattle Seahawks” WH-1000XM6 Headphones Sweepstakes",
+      "original_article": "https://www.sweepfeed.com/sweepstakes/6eafe96182cc0d10",
+      "looked_up_at": "2026-11-04T23:39:12.211986+00:00",
+      "search_queries": [
+        "\"Sony Electronics 2026  Seattle Seahawks  WH-1000XM6 Headphones Sweepstakes\" entry",
+        "sony electronics seattle seahawks 1000xm6 headphones sweepstakes enter official",
+        "sony electronics seattle seahawks 1000xm6 headphones giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "3fb4f5903ab835df": {
+      "contest_title": "Springfield Armory Monthly Giveaway",
+      "original_article": "https://gleamgiveaways.com/giveaways/springfield-armory-monthly-giveaway/",
+      "looked_up_at": "2026-11-04T23:39:12.217352+00:00",
+      "search_queries": [
+        "\"Springfield Armory Monthly Giveaway\" entry",
+        "springfield armory monthly sweepstakes enter official",
+        "springfield armory monthly giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "602bc52b340d7c99": {
+      "contest_title": "Straight Talk$35,000VerifiedCashStraight Talk Ford Mustang GiveawayBrand New 2026 Ford Mustang",
+      "original_article": "https://www.sweepstoday.com/sweepstakes/straight-talk-ford-mustang-giveaway",
+      "looked_up_at": "2026-11-04T23:39:12.278408+00:00",
+      "search_queries": [
+        "\"Straight Talk 35 000VerifiedCashStraight Talk Ford Mustang GiveawayBrand New 2026 Ford Mustang\" entry",
+        "straight talk 000verifiedcashstraight ford mustang giveawaybrand sweepstakes enter official",
+        "straight talk 000verifiedcashstraight ford mustang giveawaybrand giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "871a16e6989c8620": {
+      "contest_title": "Submit a Sweepstakes (Members)",
+      "original_article": "https://www.sweepsadvantage.com/sweepstakes-submit-form.php",
+      "looked_up_at": "2026-11-04T23:39:12.421814+00:00",
+      "search_queries": [
+        "\"Submit a Sweepstakes  Members \" entry",
+        "submit members sweepstakes enter official",
+        "submit members giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "50d725ba7d9c7533": {
+      "contest_title": "Sun Sentinel Winterfest Weekend Sweepstakes 2026",
+      "original_article": "https://ilovegiveaways.com/sweepstakes/visit-lauderdale-winterfest-weekend-sweepstakes-2026/",
+      "looked_up_at": "2026-11-04T23:39:12.227728+00:00",
+      "search_queries": [
+        "\"Sun Sentinel Winterfest Weekend Sweepstakes 2026\" entry",
+        "sentinel winterfest weekend sweepstakes enter official",
+        "sentinel winterfest weekend giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "2c752850d3fcc534": {
+      "contest_title": "Sweepstakes illustrationSweepFeed✦✦AARP Movies for Grownups SweepstakesListed sponsor · AARPPICK$10,900AARP Movies for Grownups SweepstakesAARP",
+      "original_article": "https://www.sweepfeed.com/sweepstakes/2439434a097d9451",
+      "looked_up_at": "2026-11-04T23:39:12.269351+00:00",
+      "search_queries": [
+        "\"Sweepstakes illustrationSweepFeed  AARP Movies for Grownups SweepstakesListed sponsor   AARPPICK 10 900AARP Mo\" entry",
+        "illustrationsweepfeed aarp movies grownups sweepstakeslisted sponsor aarppick sweepstakes enter official",
+        "illustrationsweepfeed aarp movies grownups sweepstakeslisted sponsor aarppick giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "ace7840d1b3da6e3": {
+      "contest_title": "Sweepstakes taxesWhat winners should know about tax paperwork.",
+      "original_article": "https://www.sweepfeed.com/guides/sweepstakes-taxes",
+      "looked_up_at": "2026-11-04T23:39:12.316350+00:00",
+      "search_queries": [
+        "\"Sweepstakes taxesWhat winners should know about tax paperwork \" entry",
+        "taxeswhat winners should know about paperwork sweepstakes enter official",
+        "taxeswhat winners should know about paperwork giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "d0213845c01d3462": {
+      "contest_title": "THERMAL GEAR AND HOG HUNT SWEEPSTAKES",
+      "original_article": "https://gleamgiveaways.com/giveaways/thermal-gear-and-hog-hunt-sweepstakes/",
+      "looked_up_at": "2026-11-04T23:39:12.370592+00:00",
+      "search_queries": [
+        "\"THERMAL GEAR AND HOG HUNT SWEEPSTAKES\" entry",
+        "thermal gear hunt sweepstakes enter official",
+        "thermal gear hunt giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "6bfcfdea7e5670a3": {
+      "contest_title": "TempPro Weekly TempSpike Pro Giveaway",
+      "original_article": "https://gleamgiveaways.com/giveaways/temppro-weekly-tempspike-pro-giveaway-nov-2-8-2026-11/",
+      "looked_up_at": "2026-11-04T23:39:12.431695+00:00",
+      "search_queries": [
+        "\"TempPro Weekly TempSpike Pro Giveaway\" entry",
+        "temppro weekly tempspike sweepstakes enter official",
+        "temppro weekly tempspike giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "e71ea2c774e5d6ff": {
+      "contest_title": "Texas sweepstakesGiveaways open to Texas residents.",
+      "original_article": "https://www.sweepfeed.com/sweepstakes/state/texas",
+      "looked_up_at": "2026-11-04T23:39:12.498167+00:00",
+      "search_queries": [
+        "\"Texas sweepstakesGiveaways open to Texas residents \" entry",
+        "texas sweepstakesgiveaways open residents sweepstakes enter official",
+        "texas sweepstakesgiveaways open residents giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "2c3a3e25d94d35d9": {
+      "contest_title": "The Cat in the Hat Sweepstakes",
+      "original_article": "https://giveowl.com/e/cold-stone-creamery-kahala-management--the-cat-in-the-hat-sweepstakes--2026/",
+      "status": "insufficient_title"
+    },
+    "96b8f62e01669dd0": {
+      "contest_title": "TinyHealth–The Cozy Gut Health Giveaway",
+      "original_article": "https://gleamgiveaways.com/giveaways/tinyhealth-the-cozy-gut-health-giveaway-2026-11/",
+      "looked_up_at": "2026-11-04T23:39:12.442056+00:00",
+      "search_queries": [
+        "\"TinyHealth The Cozy Gut Health Giveaway\" entry",
+        "tinyhealth cozy health sweepstakes enter official",
+        "tinyhealth cozy health giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "dc3eadb5e2b91bd0": {
+      "contest_title": "Today's picks →",
+      "original_article": "https://www.sweepfeed.com/sweepstakes/today",
+      "looked_up_at": "2026-11-04T23:39:12.617163+00:00",
+      "search_queries": [
+        "\"Today's picks  \" entry",
+        "today picks sweepstakes enter official",
+        "today picks giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "6f152db652aaad04": {
+      "contest_title": "Tuff Shed$4,000VerifiedHome & Garden2026 TUFF SHED SR-640 Sweepstakes8' x 8' Tuff Shed building with optional upgrades",
+      "original_article": "https://www.sweepstoday.com/sweepstakes/2026-tuff-shed-sr-640-sweepstakes",
+      "looked_up_at": "2026-11-04T23:39:12.613269+00:00",
+      "search_queries": [
+        "\"Tuff Shed 4 000VerifiedHome & Garden2026 TUFF SHED SR-640 Sweepstakes8' x 8' Tuff Shed building with optional \" entry",
+        "tuff shed 000verifiedhome garden2026 sweepstakes8 building optional sweepstakes enter official",
+        "tuff shed 000verifiedhome garden2026 sweepstakes8 building optional giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "9a6f8304f2120cf8": {
+      "contest_title": "Unverified Giveaways",
+      "original_article": "https://gleamgiveaways.com/giveaways/unverified/",
+      "looked_up_at": "2026-11-04T23:39:12.593458+00:00",
+      "search_queries": [
+        "\"Unverified Giveaways\" entry",
+        "unverified giveaways sweepstakes enter official",
+        "unverified giveaways giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "3ac60d2a27668735": {
+      "contest_title": "View all 138 featured giveaways →",
+      "original_article": "https://gleamgiveaways.com/giveaways/featured/",
+      "looked_up_at": "2026-11-04T23:39:12.617389+00:00",
+      "search_queries": [
+        "\"View all 138 featured giveaways  \" entry",
+        "view featured giveaways sweepstakes enter official",
+        "view featured giveaways giveaway entry rules"
       ],
       "search_version": 4,
       "status": "entry_page_not_found"
