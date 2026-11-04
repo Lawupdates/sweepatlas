@@ -1,12 +1,12 @@
 {
-  "generated_utc": "2026-11-04T23:38:46.058823+00:00",
+  "generated_utc": "2026-11-04T23:38:53.462981+00:00",
   "total_source_records": 1631,
-  "searched": 1099,
-  "remaining": 532,
+  "searched": 1257,
+  "remaining": 374,
   "historical_results_retained": 540,
   "results_by_status": {
-    "entry_page_not_found": 1000,
-    "insufficient_title": 92,
+    "entry_page_not_found": 1134,
+    "insufficient_title": 116,
     "rejected_nonentry": 7
   },
   "notice": "Candidate links from public web search, not certified active entry forms. Human review required before publishing. Historical lookups are retained, not counted as current.",
@@ -18694,6 +18694,1734 @@
         "\"PRIVACY NOTICE\" entry",
         "privacy notice sweepstakes enter official",
         "privacy notice giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "2eac162593d3ba8f": {
+      "contest_title": "Terms of Use - Hearst",
+      "original_article": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1iWm1vdnNMckhlMkc5T1JTY1d1S3B5dEZWWU1JUDJGOUZaaTJTNllqbVhQRlJDSHRheGxjbXJmTWxiWnhZc3BuOEZGNWdMYmhUaFdPVFdRcV83V1BPQnVR?oc=5",
+      "status": "insufficient_title"
+    },
+    "100f1e5e70c97b3d": {
+      "contest_title": "Editor, Plainview Herald - Hearst",
+      "original_article": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TRVo3dl9BVVhkRzZxNThiYnE5cTRzRzlMWFZZMTdnU0dqa0ZZQ3pVVkZyQk5fczVCb01QcGxfZi1LR05jSTRZa21aOTV1T3Q0TS1EeHZZdnkwTUc1Sm9QY2VJVXJKa1U?oc=5",
+      "looked_up_at": "2026-11-04T23:38:49.134902+00:00",
+      "search_queries": [
+        "\"Editor  Plainview Herald\" entry",
+        "editor plainview herald sweepstakes enter official",
+        "editor plainview herald giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "24de611b4682829f": {
+      "contest_title": "​Michael Clinton Discusses New Consumer Marketing Initiatives - Hearst",
+      "original_article": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPR1FRUGRCQnY4SGpZR1R4MkluQUs1SlFFSlJZdWRwVUdyNzRZamxNZUZZTzN5NHItU21KOTJLMk1FNjBKMjBVMTIyZnNNRE4yRGJtcUdsczgtOHowSlctdmdESGs1MVNjWlVCMTV0QjdGb3lDLTV6Z3BkS1RINGhrTnNIWGFaWUNNZGRBektB?oc=5",
+      "looked_up_at": "2026-11-04T23:38:49.184814+00:00",
+      "search_queries": [
+        "\" Michael Clinton Discusses New Consumer Marketing Initiatives\" entry",
+        "michael clinton discusses consumer marketing initiatives sweepstakes enter official",
+        "michael clinton discusses consumer marketing initiatives giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "846e2523ee26bba5": {
+      "contest_title": "Seventeen Privacy Notice - Hearst",
+      "original_article": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBpOVRwQ05vYk5VVm9TeFcwdzY4NVVsRm9yZXllT2dxQzFZWE9oN2V4ZW11aXZzUkU0cTg4QlR6eHhZZHpmaGg5bHRhdW9WVnpscTREY0F2LWdOZHhzQ2VfOUdXSTBxMzho?oc=5",
+      "looked_up_at": "2026-11-04T23:38:49.073493+00:00",
+      "search_queries": [
+        "\"Seventeen Privacy Notice\" entry",
+        "seventeen privacy notice sweepstakes enter official",
+        "seventeen privacy notice giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "11f87bf32dab98a5": {
+      "contest_title": "Oprah Daily Reveals 2023 Oprah’s Favorite Things List Celebrating Inspiring Small Businesses - Hearst",
+      "original_article": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZVI2bWZDT0VwbnBsdXJqMlVnZkp3M01ZaS1sYjJ3Y0VDZ2w5aXB6ZDJOeGozcDZkbnA5ZS1SUGRUcHkwdG5XLTdFbUloa2U3b2NLclpBdVpJMkEwRUZpTlBzU01UaDR0b09UVGZOWVBfM2lDLUJVelhYT1VlZnBfaVNKSDM5NEdLWHluTlA5Nl8yVEdrR0d6QmRfUVdRVXZubXBiMmZTSDRjZFFYeWRHUXJxQkg3SmdC?oc=5",
+      "looked_up_at": "2026-11-04T23:38:49.174579+00:00",
+      "search_queries": [
+        "\"Oprah Daily Reveals 2023 Oprah s Favorite Things List Celebrating Inspiring Small Businesses\" entry",
+        "oprah daily reveals 2023 favorite things list sweepstakes enter official",
+        "oprah daily reveals 2023 favorite things list giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "fbe9101563bd4b17": {
+      "contest_title": "​Fact vs. Fiction: A Few Thoughts on Magazine Media - Hearst",
+      "original_article": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMGlVb0J5WEZvV0F4VWIxNzRCYkFHWkxuNFk4SWlnWXFqYlFJNFh5SUtoRUFFaHQ1LTZBTlFYTVphclZ5b08zaVFnMGw5Q3htVS1QdUVJNkpWZG80aXVCTnRNVlBxTlRRRkNiNjlFbElZWVUxWDJ3cTNLVzc2Rzh6Ug?oc=5",
+      "looked_up_at": "2026-11-04T23:38:49.146313+00:00",
+      "search_queries": [
+        "\" Fact vs  Fiction  A Few Thoughts on Magazine Media\" entry",
+        "fact fiction thoughts magazine media sweepstakes enter official",
+        "fact fiction thoughts magazine media giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "8c5217c17636e27f": {
+      "contest_title": "HEARST COMMUNITY MEDIA GROUP – TEXAS - Hearst",
+      "original_article": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Gay1DaDRlc0xZVk1fSk5iSjEzVGMteWEtN1U5b3Itd3FLRWJDTVZMemZ2VEEwV2ZSNnNkVXpKVWZrWlZFRmRZREZOdFBWdzNRQmZNaVhrTGlVWHBXc3B6YjBuNWxodw?oc=5",
+      "looked_up_at": "2026-11-04T23:38:49.074206+00:00",
+      "search_queries": [
+        "\"HEARST COMMUNITY MEDIA GROUP\" entry",
+        "hearst community media group sweepstakes enter official",
+        "hearst community media group giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "226f1765458526ea": {
+      "contest_title": "PlayStation Pro + Grand Theft Auto - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFB5d2NyN3FlRnR6NHdxajlkUGhXanJaWjd5dS1oSDhXRGxJVUxENGhIRmhMbFVYbXBfVWxOM0RyWlJtZDZHZV9V?oc=5",
+      "looked_up_at": "2026-11-04T23:38:49.112943+00:00",
+      "search_queries": [
+        "\"PlayStation Pro   Grand Theft Auto\" entry",
+        "playstation grand theft auto sweepstakes enter official",
+        "playstation grand theft auto giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "c5d8aec9e4ee779e": {
+      "contest_title": "Chiblee Giveaway - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9kNHhOYjN6TkxOQTk0VHV6d3Z1cVB0UTRDcC1LNXpXYlp6RVNuenhDTlZ1MFJaSUQ3VGotWG1wNm5jYU5LR3E4?oc=5",
+      "status": "insufficient_title"
+    },
+    "dbd6d277ddb0fedd": {
+      "contest_title": "Crafty Radler E-Bike Sweepstakes - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5MaVcxQTZCWVg4WFRiQlVOVHZlV0hlQXdRUDMtbWR6LVN0dFFFUFZ3YmY4YlNNdllNSW5uQ2txa29GNEVGaTJz?oc=5",
+      "looked_up_at": "2026-11-04T23:38:49.038046+00:00",
+      "search_queries": [
+        "\"Crafty Radler E-Bike Sweepstakes\" entry",
+        "crafty radler bike sweepstakes enter official",
+        "crafty radler bike giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "7f2877dd54129402": {
+      "contest_title": "Frank Abraham Music Summer Of Miracles Giveaway 2026 - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE16MTZIVWU3cUZVcFpqMEFZekpXc2xwWDRCWHYweVBiX2lKU3kyaUQ5c3lCTUt4Vk5ZUWFEeHJadGdGeUNiRDBZ?oc=5",
+      "looked_up_at": "2026-11-04T23:38:49.175552+00:00",
+      "search_queries": [
+        "\"Frank Abraham Music Summer Of Miracles Giveaway 2026\" entry",
+        "frank abraham music summer miracles sweepstakes enter official",
+        "frank abraham music summer miracles giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "59428cc370c2bf99": {
+      "contest_title": "Free Giveaways & Sweepstakes to Enter - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE1JeXAzSW4wUHgxNXV4ZVFkZXhRSkNGNmVzZ0pRelFOeHdlYWpsTjhFV2pWV1ZuRXRhWGZIVXpBYw?oc=5",
+      "looked_up_at": "2026-11-04T23:38:49.114415+00:00",
+      "search_queries": [
+        "\"Free Giveaways & Sweepstakes to Enter\" entry",
+        "free giveaways sweepstakes enter official",
+        "free giveaways giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "852091ef2e0308b6": {
+      "contest_title": "Eventathon 2026 Giveaway - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1NQkxFaXV5Qmg0ZE9lS3lrNVFFYmpQeVZSVzNGTURkNnJKemRFRDdNaXpKaFpJTFlQZ3pKMlNoSmhlSHFpYTBR?oc=5",
+      "status": "insufficient_title"
+    },
+    "6597a55d44465d8c": {
+      "contest_title": "Enter For Your Chance to WIN An Arena Saddle! - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5HS2NnRFJxOHdkaUw1dXFlWkdZUWVFTGJLQUNYRVlPNWcwZUpnb2xPYkwyTGFLNk5NWkFNSVNiT3JjU0FRX1lB?oc=5",
+      "looked_up_at": "2026-11-04T23:38:49.069222+00:00",
+      "search_queries": [
+        "\"Enter For Your Chance to WIN An Arena Saddle \" entry",
+        "your chance arena saddle sweepstakes enter official",
+        "your chance arena saddle giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "3bfd9eb1149abe69": {
+      "contest_title": "ECLIO Giveaway September 2026: Otium M5L City Commuter Ebike - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5YblFrTXpzMVpuTGJ3VTJ1Ry0wWHZYWlkxb2dQdjNHaXlBVFY5TlhKWEVEbUhrZEhZSUh5YmxRcHF4U0N0bHFV?oc=5",
+      "looked_up_at": "2026-11-04T23:38:49.051732+00:00",
+      "search_queries": [
+        "\"ECLIO Giveaway September 2026  Otium M5L City Commuter Ebike\" entry",
+        "eclio september otium city commuter ebike sweepstakes enter official",
+        "eclio september otium city commuter ebike giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "c8b6c495b3bedab2": {
+      "contest_title": "Zenni X San Francisco Marathon 2026 Giveaway - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE52dzJKanZUb0xkczY3WUJXMXpUdERQTGVKV3A2ZUxTeExXdUgzbFpNaFEzOTBtQTdpVUR6Wnd2ZGYzQ3FQT253?oc=5",
+      "looked_up_at": "2026-11-04T23:38:49.412706+00:00",
+      "search_queries": [
+        "\"Zenni X San Francisco Marathon 2026 Giveaway\" entry",
+        "zenni francisco marathon sweepstakes enter official",
+        "zenni francisco marathon giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "2b54532cee735118": {
+      "contest_title": "Fall Giveaway 2026 - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9zVl91NzZyUlNDRFZBSGtBQ2ZmbUtBT1NQbjdkNUxnTWduZnRkTTM2QTZfaVdPWWFjSGhHYXNqb21ERE5RbjZN?oc=5",
+      "status": "insufficient_title"
+    },
+    "e8cea8d6e26d8efc": {
+      "contest_title": "Clickability's 2026 Giveaway! - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBTV01valQ3NFNRaXpiQ3J5WTUxZ2N5OW12YUVMYzU2WFp0WVBaeUdNcDFNcmlndGdNekY4eTE0X09JNHE4c0M0?oc=5",
+      "status": "insufficient_title"
+    },
+    "238943fb45510eaf": {
+      "contest_title": "ACEMAGIC AM18 Mini PC - ACEMAGIC 2026 Prime Day Giveaway - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE82eHpTQmo1a3hKaC1TeHNjMlVMcjZNQWxhMVpLLVJDaXpaSkRTaFRoblhZcU91OFZ2eVhzSGxKaHRMamZMUGQ4?oc=5",
+      "looked_up_at": "2026-11-04T23:38:49.482250+00:00",
+      "search_queries": [
+        "\"ACEMAGIC AM18 Mini PC\" entry",
+        "acemagic am18 mini sweepstakes enter official",
+        "acemagic am18 mini giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "d78d5ce48c334f05": {
+      "contest_title": "IEM Krakow 2026 Giveaway - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBVeC1zalNfa25acmFmTUlmT0QxTlBjREQyTTNMMjZZRDVraEhxR1ZqekJhUnpMTUltRGFiSWllNmlNYkY0TnJJ?oc=5",
+      "status": "insufficient_title"
+    },
+    "6c44f5480f62c4f8": {
+      "contest_title": "September 2026 Giveaway - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1EN1l4dDRmTUo2YnZ6LWw3SFRuUXhQblJtTW5sNWVyWHhXa1d2UWVXaHdXMDk0eUlRcDZfYnhsbldwWTduSjB3?oc=5",
+      "status": "insufficient_title"
+    },
+    "511ad13d6b8e6419": {
+      "contest_title": "Nintendo Switch 2 & The Legend Of Zelda: Ocarina Of Time Fall 2026 Giveaway - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBCMmdyNkhhTzRmQ0JnaVVmVkpqeDRidnNOLXhsVlRqTV96ek41NzlSYThjS0dLcWZuNHo5RHpVLWp4MEdqS3Q0?oc=5",
+      "looked_up_at": "2026-11-04T23:38:49.447079+00:00",
+      "search_queries": [
+        "\"Nintendo Switch 2 & The Legend Of Zelda  Ocarina Of Time Fall 2026 Giveaway\" entry",
+        "nintendo switch legend zelda ocarina time fall sweepstakes enter official",
+        "nintendo switch legend zelda ocarina time fall giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "755e4aba45892dbd": {
+      "contest_title": "The New Blood 2026 BBQ Giveaway - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBUYXF0c2VQNDg5S2lwVUtLNUU3WjNyb0t0LWtBMDVNa0JyYTBITllCQ21KN3pSTUNraTlaRUxJOFhSRHRWalhJ?oc=5",
+      "status": "insufficient_title"
+    },
+    "be0dff0a320b95d2": {
+      "contest_title": "Summer Giveaway 2026 - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBGQjI4WFZWNjdsREJNZUtLbGtSSWEtQXBkRm5HckFMbzFHeERDeVZXeHNiNzB5RmZZX0xKd3RBQTZYOWdUZERV?oc=5",
+      "status": "insufficient_title"
+    },
+    "19a6365cde49a8c5": {
+      "contest_title": "Pick Your Pair Giveaway 2026 - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBCOTFCcEtaeHdDTFFLN0h1TjR0dVp6eFJMQ3dNekljMFdmU1c1YjdOQnNZWFExZVJyYWlHWk9GMVR0T1dTV0Mw?oc=5",
+      "looked_up_at": "2026-11-04T23:38:49.495375+00:00",
+      "search_queries": [
+        "\"Pick Your Pair Giveaway 2026\" entry",
+        "pick your pair sweepstakes enter official",
+        "pick your pair giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "996f121eb606e8d2": {
+      "contest_title": "Fall 2026 Game Giveaway - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9DRy04eE1Qd210Z0JrRGp0VUxRZWlwaFg1ak14MktQOERSbVE2eEhJRTZ5bWJ0RGxBdnZYTXVFanNwY3luM2Fr?oc=5",
+      "looked_up_at": "2026-11-04T23:38:49.569121+00:00",
+      "search_queries": [
+        "\"Fall 2026 Game Giveaway\" entry",
+        "fall game sweepstakes enter official",
+        "fall game giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "b9196bd443f4bd9e": {
+      "contest_title": "Back to School Giveaway 2026 - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9MVjNnbkQ5RjBRLVJUSEpfZXU4N2ozOHhzako2UFhxbFE5eXprY09JUFBkY3NhUVN5VGF0UURqXzJ4LUV5eGxB?oc=5",
+      "looked_up_at": "2026-11-04T23:38:49.517552+00:00",
+      "search_queries": [
+        "\"Back to School Giveaway 2026\" entry",
+        "back school sweepstakes enter official",
+        "back school giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "f50c092413bb692d": {
+      "contest_title": "August 2026 Giveaway - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9FRFNHWEx2cUs2WWtQeHRJSUNRaHlvcUphbmVaYTRqZDRoUHVLVG5MMHhOMDlMQ2JfMFd2QVhZaWQ5SHZ4bXRZ?oc=5",
+      "status": "insufficient_title"
+    },
+    "1cdffc5a005d6def": {
+      "contest_title": "June 2026 Giveaway (2) - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5Ka2ppTzBUaTBJUlVIU2pIY01QR3V3UXN5TTBhWmNDVlU5bG1vblgwN2o5NTdjMjRfY29RU1ZQXzJaamp2Y3Nr?oc=5",
+      "status": "insufficient_title"
+    },
+    "292ed866f42e583c": {
+      "contest_title": "MSI Intel Gamer Days 2026 Lucky Soccer Blind Box Giveaway - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5wYWYtTkhBZE9hTEhBakhsT2t6QXZfUFZzZWtHRWVNU3k0REkzSDAtR3Y5SENwQ1VzX1FYbElEdTAxZG5NSzhZ?oc=5",
+      "looked_up_at": "2026-11-04T23:38:49.581922+00:00",
+      "search_queries": [
+        "\"MSI Intel Gamer Days 2026 Lucky Soccer Blind Box Giveaway\" entry",
+        "intel gamer days lucky soccer blind sweepstakes enter official",
+        "intel gamer days lucky soccer blind giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "167001facf45870f": {
+      "contest_title": "IEM Cologne Major 2026 Giveaway - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5aeWg1cjhoRDkzY3JUaFNiTmdIVE84UWEweXBkM0xER3pNRTVoNklpbVpvVzJRbXg0eEprTV9CSGVJRXJEN2NF?oc=5",
+      "looked_up_at": "2026-11-04T23:38:49.494915+00:00",
+      "search_queries": [
+        "\"IEM Cologne Major 2026 Giveaway\" entry",
+        "cologne major sweepstakes enter official",
+        "cologne major giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "d708180333eb1b4e": {
+      "contest_title": "GIGABYTE BlizzCon 2026 Custom PC Giveaway - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5xRmpwMmZRQ000SjdSNTBfelgxSUQxUzNxV2ZqVEtWdUNld1dmRWFGV040QlFMdG03czgyMFp5N2FfVDFpdXBv?oc=5",
+      "looked_up_at": "2026-11-04T23:38:49.462916+00:00",
+      "search_queries": [
+        "\"GIGABYTE BlizzCon 2026 Custom PC Giveaway\" entry",
+        "gigabyte blizzcon custom sweepstakes enter official",
+        "gigabyte blizzcon custom giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "acf0db9656c4db96": {
+      "contest_title": "Akko X IFA 2026 Giveaway - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9lZHY3YTMzVGxzWGo5c2RKeXRGS3kwQmRqcGl6Q1ZJdy1NX09yb25BTHhJQkJRcUhrLS1Md0VLNWpiMllMZGU4?oc=5",
+      "status": "insufficient_title"
+    },
+    "29b8509ee36b5395": {
+      "contest_title": "ROG Gamescom 2026 Giveaway - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1zRVp3c0NiMmVqMkNVQVk3cWRnMXhVcUlvd19OUlBGbXhLeWhGaGFmTWtSblJYVnR1aEQ3Z1FzWmdjemxHR3Zv?oc=5",
+      "status": "insufficient_title"
+    },
+    "3680a48c83ee3d89": {
+      "contest_title": "Balsam Hill UK: Countdown to Christmas Giveaway 2026 - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBJLXZHWlFtU3lHcWVRTjJ6ME50bmJQMWNibS1jS2hUMm9rTk50dC0yZVdoQnFzUEl0eHFnUll1MGVGb1o2NEFR?oc=5",
+      "looked_up_at": "2026-11-04T23:38:49.603919+00:00",
+      "search_queries": [
+        "\"Balsam Hill UK  Countdown to Christmas Giveaway 2026\" entry",
+        "balsam hill countdown christmas sweepstakes enter official",
+        "balsam hill countdown christmas giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "5dbcdacc01ab8516": {
+      "contest_title": "October 2026 Giveaway - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9kQkg2dG5Ba3h0bG53RUplcS14Zk5UaHBSc190TnVuY1M1WDhxWjZCOFVfZmZNSGZkeWRKWS1LQy1wYVJYZTl3?oc=5",
+      "status": "insufficient_title"
+    },
+    "0bc575611c618a08": {
+      "contest_title": "Comfiroom October 2026 Giveaway: Win 1 Home Theater Recliner Of Your Choice - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA5THBCanhtS185eWhlZmFPUEZRRFM2UVBuRHhZSHVXcTJhM3M2MHEzc1dIaFlhZERlRFByZmxlQ044d2IwNWJr?oc=5",
+      "looked_up_at": "2026-11-04T23:38:49.502815+00:00",
+      "search_queries": [
+        "\"Comfiroom October 2026 Giveaway  Win 1 Home Theater Recliner Of Your Choice\" entry",
+        "comfiroom october home theater recliner your choice sweepstakes enter official",
+        "comfiroom october home theater recliner your choice giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "83b3e5b6faeb7d7f": {
+      "contest_title": "Apple MacBook Neo Giveaway - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBONURGY2p5WE1CLUZwN2ExRnd3Q3VtUzc1alFvU256bzNiMDFRbTd5OVVjU1JDNTJmYmwxNnF4Y3VrZC11WVlR?oc=5",
+      "looked_up_at": "2026-11-04T23:38:49.586344+00:00",
+      "search_queries": [
+        "\"Apple MacBook Neo Giveaway\" entry",
+        "apple macbook sweepstakes enter official",
+        "apple macbook giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "32b160dabb298a1b": {
+      "contest_title": "GIGABYTE 40th Anniversary | COMPUTEX 2026 Giveaway - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE56UkZIRXV1eHdaUWFWUmtMVWtLVDFrdUpoY0pJendScFFGbFp5czFlNFBCeF9TNkVYVXNXRy1ETkhGaXl2dUlz?oc=5",
+      "looked_up_at": "2026-11-04T23:38:49.755630+00:00",
+      "search_queries": [
+        "\"GIGABYTE 40th Anniversary\" entry",
+        "gigabyte 40th anniversary sweepstakes enter official",
+        "gigabyte 40th anniversary giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "2acc6346074219bf": {
+      "contest_title": "Comfiroom September 2026 Giveaway: Win 1 Home Theater Recliner Of Your Choice - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9vRUdtalFaTmdhbWhKVDhZRWp4MXVHcm50Yks1VGRUa3RHZnVMUG5rb210ekQ0MGVrX0R4Uk85bFVuZFRzb05N?oc=5",
+      "looked_up_at": "2026-11-04T23:38:49.885639+00:00",
+      "search_queries": [
+        "\"Comfiroom September 2026 Giveaway  Win 1 Home Theater Recliner Of Your Choice\" entry",
+        "comfiroom september home theater recliner your choice sweepstakes enter official",
+        "comfiroom september home theater recliner your choice giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "a57e0607ee95824f": {
+      "contest_title": "TCL 2026 Toyota AFL Grand Final Ticket Giveaway - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1vXzBYdnlnZzdMRV8ySFY5X0xRYm5nYUlsZHhCRzcyaUZTUWs4YjhkVmhOMlljOGxfNGxKbzRqSFJRUFRxNmJR?oc=5",
+      "looked_up_at": "2026-11-04T23:38:49.888755+00:00",
+      "search_queries": [
+        "\"TCL 2026 Toyota AFL Grand Final Ticket Giveaway\" entry",
+        "toyota grand final ticket sweepstakes enter official",
+        "toyota grand final ticket giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "b74571cd2379449d": {
+      "contest_title": "2026 Product Of The Year Giveaway! - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1mLXZoT0hIbkltR1AzQzE1WkQ3MnlkeEY2UFJZN3E2dDd3THVSc1RMTWEwbmdCYTlvTGpra1FENFpjOVpCUG5z?oc=5",
+      "looked_up_at": "2026-11-04T23:38:49.871183+00:00",
+      "search_queries": [
+        "\"2026 Product Of The Year Giveaway \" entry",
+        "product year sweepstakes enter official",
+        "product year giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "1568dee957c28328": {
+      "contest_title": "ATTACK SHARK Weekly Giveaway - Week 34 Of 2026 - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFB0ZzlnM1lSMnlIdy1lUDJRb3lydFpVekJZQmY2UlNmM3hPS1dFQkxDdEtMOXZwT3RzV3JGQWt4Zi1sVVJrekhj?oc=5",
+      "looked_up_at": "2026-11-04T23:38:49.925166+00:00",
+      "search_queries": [
+        "\"ATTACK SHARK Weekly Giveaway\" entry",
+        "attack shark weekly sweepstakes enter official",
+        "attack shark weekly giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "6523d0468cf14ec1": {
+      "contest_title": "ATTACK SHARK Weekly Giveaway - Week 20 Of 2026 - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBscmNuZm5tcVZLSEd4eUF6eGdtTFk2enEzR2QtM0h2QWpkajN6THd5M3B5WE52cFFXMVJSbkxPQVNQbWpZVVc0?oc=5",
+      "looked_up_at": "2026-11-04T23:38:49.913351+00:00",
+      "search_queries": [
+        "\"ATTACK SHARK Weekly Giveaway\" entry",
+        "attack shark weekly sweepstakes enter official",
+        "attack shark weekly giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "50694a3673f49fa3": {
+      "contest_title": "2026 MLF Bass Pro Shops Nitro Z19 Sweepstakes - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBnY1E4bTM0T3F5bVYwM2pJWTlSR1RWSFVzSHJXZ1M4VVpLck5VNDk0WTI0RTczNU9hWkRoeUhfVXUtMzIyb0hR?oc=5",
+      "looked_up_at": "2026-11-04T23:38:49.901983+00:00",
+      "search_queries": [
+        "\"2026 MLF Bass Pro Shops Nitro Z19 Sweepstakes\" entry",
+        "bass shops nitro sweepstakes enter official",
+        "bass shops nitro giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "b1822f6340339998": {
+      "contest_title": "Black Friday Mega Weekly GIVEAWAY - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFB4Zkc1N3BFZ0tLUE9tT1A3S2JKTTQ1SXlJdGR4Y1FwcTdQUHNqWktJbDFENzR3RGdkTEZTT191VnFiOWJ0Z3dV?oc=5",
+      "looked_up_at": "2026-11-04T23:38:49.890073+00:00",
+      "search_queries": [
+        "\"Black Friday Mega Weekly GIVEAWAY\" entry",
+        "black friday mega weekly sweepstakes enter official",
+        "black friday mega weekly giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "f03ebe4c201c29a4": {
+      "contest_title": "YouTube Giveaway Rules 2026: What the Contest Policy Requires - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5kbWdqbmRUMmJDNDM3VUs0V0twelYwRjk5Y3Q3am9td193dFhsWWRmTXFDdU1uM3p3b2w4WjFKdndPX25OeUpuS202Z2k?oc=5",
+      "looked_up_at": "2026-11-04T23:38:49.973576+00:00",
+      "search_queries": [
+        "\"YouTube Giveaway Rules 2026  What the Contest Policy Requires\" entry",
+        "youtube what policy requires sweepstakes enter official",
+        "youtube what policy requires giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "ffa41abf0428d034": {
+      "contest_title": "Ultimate Summer Festival Giveaway 2026 - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBfd0J6Xy1hNUlyWEt2cmdUcXJra0t3OEdpOGNlOHJScDFBdlo4UmNKbnJOWl9Nc2c1RzZCUkREeURUMDk3cVBn?oc=5",
+      "looked_up_at": "2026-11-04T23:38:49.956109+00:00",
+      "search_queries": [
+        "\"Ultimate Summer Festival Giveaway 2026\" entry",
+        "ultimate summer festival sweepstakes enter official",
+        "ultimate summer festival giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "68d7afd04958e607": {
+      "contest_title": "BEATBOX BEVERAGES® XTREME ROCK TOUR 2026 SWEEPSTAKES - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1FbnpqRkJQVlNnVjE3bVdwZ2VlTjJ1REloSUxYRHFOZHpjeXpKSGFQcElpZWVXQmJtQ1VibGxhdGZvZF9HUVJF?oc=5",
+      "looked_up_at": "2026-11-04T23:38:49.992357+00:00",
+      "search_queries": [
+        "\"BEATBOX BEVERAGES  XTREME ROCK TOUR 2026 SWEEPSTAKES\" entry",
+        "beatbox beverages xtreme rock tour sweepstakes enter official",
+        "beatbox beverages xtreme rock tour giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "3e144a7ffbf22d22": {
+      "contest_title": "CyberPowerPC Anime NYC 2026 PC Giveaway - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBROGZNZlZCMXFrYXRVTzJQMk5yVkVOZUVUSGFDbnI1VWhfRXlmUEVOcGxEU0phemFKMHdyMnRSU2FXRkhyMFBj?oc=5",
+      "looked_up_at": "2026-11-04T23:38:49.936251+00:00",
+      "search_queries": [
+        "\"CyberPowerPC Anime NYC 2026 PC Giveaway\" entry",
+        "cyberpowerpc anime sweepstakes enter official",
+        "cyberpowerpc anime giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "42a1dd7bc3d1c087": {
+      "contest_title": "Enter to Win 2 VIP Passes to Nightmare Weekend Raleigh October 10-11, 2026 - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9ZeFNiaWpnTldxWnNOU0hFaE55YndsRm1xXzJQbzdfRmg0aDRwd19aOFE0VTNUdlpYYnFBZ3Ywa0h4WVBKUlNR?oc=5",
+      "looked_up_at": "2026-11-04T23:38:50.203642+00:00",
+      "search_queries": [
+        "\"Enter to Win 2 VIP Passes to Nightmare Weekend Raleigh October 10-11  2026\" entry",
+        "passes nightmare weekend raleigh october sweepstakes enter official",
+        "passes nightmare weekend raleigh october giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "035bb9a243dcdbee": {
+      "contest_title": "G.SKILL X MSI X Lian Li X CM 2026 New Year‘s Giveaway - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5BRHpuVGJvTkZzX1dCdlBDYUJqeU5xM2ItRVdvT3ZIN2NYTDlpRGdRTjlhOXNnblJObWJTWk5sMlFnM011M3dr?oc=5",
+      "looked_up_at": "2026-11-04T23:38:50.280292+00:00",
+      "search_queries": [
+        "\"G SKILL X MSI X Lian Li X CM 2026 New Year s Giveaway\" entry",
+        "skill lian year sweepstakes enter official",
+        "skill lian year giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "dbe6fd76b8e371e5": {
+      "contest_title": "Intel Gamer Days Giveaway 2026! - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE94MzlzUmhrSjRRcjlMQnZtdUdvNkRYODBMbUtMT3ZyZEtBaWt5X1NjN0pOOF9qUEtRcTJYZ2FNcGU2Qkd6TDc0?oc=5",
+      "looked_up_at": "2026-11-04T23:38:50.214689+00:00",
+      "search_queries": [
+        "\"Intel Gamer Days Giveaway 2026 \" entry",
+        "intel gamer days sweepstakes enter official",
+        "intel gamer days giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "39ac8cd2055369c3": {
+      "contest_title": "Comfiroom April 2026 Giveaway: 2 Winners Each Win 1 Black Theater Seat–$899 Each - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE41TkFoanJuYk1kTWljbml4SnpyNG8wNUJMbThsYi1HcDhPLUY4cUl1dkxiblZ0Wko5TXRiaUFWeGx4NDZROEdN?oc=5",
+      "looked_up_at": "2026-11-04T23:38:50.233260+00:00",
+      "search_queries": [
+        "\"Comfiroom April 2026 Giveaway  2 Winners Each Win 1 Black Theater Seat  899 Each\" entry",
+        "comfiroom april winners each black theater seat sweepstakes enter official",
+        "comfiroom april winners each black theater seat giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "1e26116bbbe15e57": {
+      "contest_title": "Persona Live 2026: Awakenings Merch Pack Promotion - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1jOHdYYzRrRk15cmZVTnhUZHJJYmFJU2JMQkJZbkVMSkZRb3NFZTh1RmNKcXNuZ0NNZzJuN1RGYVk4RDc5eEZJ?oc=5",
+      "looked_up_at": "2026-11-04T23:38:50.278169+00:00",
+      "search_queries": [
+        "\"Persona Live 2026  Awakenings Merch Pack Promotion\" entry",
+        "persona live awakenings merch pack sweepstakes enter official",
+        "persona live awakenings merch pack giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "cbda18c8d339838e": {
+      "contest_title": "REDMAGIC X Futcrunch Giveaway - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBNYTM1X3ZrS3UtQnZqa29wZUM5c1lMbkxJTHBIN2tTN18wMktlT1EyV0pxUkg3NnZhYzhyVTZKckotWGRFUUVR?oc=5",
+      "looked_up_at": "2026-11-04T23:38:50.276187+00:00",
+      "search_queries": [
+        "\"REDMAGIC X Futcrunch Giveaway\" entry",
+        "redmagic futcrunch sweepstakes enter official",
+        "redmagic futcrunch giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "44712a01c3bcef01": {
+      "contest_title": "NA/EU/UK July 2026 Giveaway - Legion 5i Gen 10 Intel (15\") Laptop - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1kY25keEpPTkRmcDdvVC1YcmFDc2swbWhPS2F2eVlldHFBZ29lQllfMFVWY2VQNFhjSWdmaUhTUUhZUWlSN19N?oc=5",
+      "status": "insufficient_title"
+    },
+    "7edefa1f90e9cb93": {
+      "contest_title": "Excellence, Refined. — Earn Your Dream Setup - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE82X0dyQ3FxRktJMHF1U2JtS0szZUV1ZHd1T0UyZElsdXcxZG1wT2diQkdVWVZmZ2gyZ0xVek5OSGFFa1lSSHRN?oc=5",
+      "looked_up_at": "2026-11-04T23:38:50.369344+00:00",
+      "search_queries": [
+        "\"Excellence  Refined    Earn Your Dream Setup\" entry",
+        "excellence refined earn your dream setup sweepstakes enter official",
+        "excellence refined earn your dream setup giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "f202f0d6d7581eff": {
+      "contest_title": "NA/EU/UK June 2026 Giveaway - Legion 5a Gen 11a - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE82TUVzNWNFcWJWTFdHaDFYNUZYRnFlaTdiZkFmY0hqUEtLQkVvbXFLbTZnakJzVG1FaDlDMUVSMDJEVTBQNG5V?oc=5",
+      "status": "insufficient_title"
+    },
+    "50bff2165df231b3": {
+      "contest_title": "Logitech G PLAY DEALS DAY Giveaway - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE0zTkNndnl4R3NKVWxiX2k0aGlwNVdBNy1tZGVZdVQwR2VaWjBwMHN2STRRTzczcUVjVjl6STRnQzd4bzlBWkFV?oc=5",
+      "looked_up_at": "2026-11-04T23:38:50.341522+00:00",
+      "search_queries": [
+        "\"Logitech G PLAY DEALS DAY Giveaway\" entry",
+        "logitech play deals sweepstakes enter official",
+        "logitech play deals giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "5bddc02d525fde07": {
+      "contest_title": "REDMAGIC X JerryRigEverything Astra 2 Giveaway - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5TbmhrN1Q4bm5ZTVJNRVVVdVFBWlliejZDMHlVNXhoMUUtX183X3pBMFBxSG9fM0gtQjIzTmROdm8tY1BpQkxJ?oc=5",
+      "looked_up_at": "2026-11-04T23:38:50.377294+00:00",
+      "search_queries": [
+        "\"REDMAGIC X JerryRigEverything Astra 2 Giveaway\" entry",
+        "redmagic jerryrigeverything astra sweepstakes enter official",
+        "redmagic jerryrigeverything astra giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "66a011427f693b27": {
+      "contest_title": "Intel Gamer Days 2026 | Made to Game Sweepstakes - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5sZVlPZlJPdU1zSmZuU2FBeHVKcVEtNEM1TUhPZ2JzU0t4QnNMUlMzNzR3czVyV1NfcHI4QkxSZVBhMzBOYXU4?oc=5",
+      "looked_up_at": "2026-11-04T23:38:50.312819+00:00",
+      "search_queries": [
+        "\"Intel Gamer Days 2026\" entry",
+        "intel gamer days sweepstakes enter official",
+        "intel gamer days giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "5fe51b4da6b82e92": {
+      "contest_title": "REDMAGIC Halloween Giveaway - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE8wd1dTdjVYNnJCUnV3VVA4bVExekpPaDhPVlRxcWY1NTNwcVZCcmlmRnNxZm9zX2piTUNEc2V4eC1SWFlzYWRv?oc=5",
+      "looked_up_at": "2026-11-04T23:38:50.339600+00:00",
+      "search_queries": [
+        "\"REDMAGIC Halloween Giveaway\" entry",
+        "redmagic halloween sweepstakes enter official",
+        "redmagic halloween giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "73708c8abb30bf7c": {
+      "contest_title": "Gas South's Customer Appreciation Month Grand Prize Giveaway - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9TcEtHZEVZVWx0WDlPWWo4dWRRenFnYmNyejdOUm4yZjhyTi15U3FEVXRnRjlQZ2k3S0hFVzdOWG51bjVLaGRz?oc=5",
+      "looked_up_at": "2026-11-04T23:38:50.360322+00:00",
+      "search_queries": [
+        "\"Gas South's Customer Appreciation Month Grand Prize Giveaway\" entry",
+        "south customer appreciation month grand prize sweepstakes enter official",
+        "south customer appreciation month grand prize giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "a7da1c36e4e3a313": {
+      "contest_title": "SeaWattgaming X Skytech Gaming X Intel Gamer Days PC Giveaway! - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5ibjZPS1ZRN3haUnNMUVVLcFplaG1JdkVlTlpkQkkzb2EybkEtV1JXbmR2QWFpWENkTEo0RV8xZ21BaGRMaFY4?oc=5",
+      "looked_up_at": "2026-11-04T23:38:50.648289+00:00",
+      "search_queries": [
+        "\"SeaWattgaming X Skytech Gaming X Intel Gamer Days PC Giveaway \" entry",
+        "seawattgaming skytech gaming intel gamer days sweepstakes enter official",
+        "seawattgaming skytech gaming intel gamer days giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "7a31a1b052be7d9d": {
+      "contest_title": "Stripe Life Spring Giveaway 2026 - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9qcndHbUpwQ0RFYmg4ZEdDQ0trSjkxUXpHRWtIelNhQnJoWFlOV0U3YkVFdS1fVDNnQVN2ME1SQzVRei16RENZ?oc=5",
+      "looked_up_at": "2026-11-04T23:38:50.693822+00:00",
+      "search_queries": [
+        "\"Stripe Life Spring Giveaway 2026\" entry",
+        "stripe life spring sweepstakes enter official",
+        "stripe life spring giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "95884206188b7325": {
+      "contest_title": "The Op Games' Epic Summer Giveaway - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA3bndTRjMxeUZsZXpBT2ExX3J1LXJSZU13c0FLQ3hxeWVVQlF0M01NWW5vQmY4N3FWWjR5WHNaQkdIWXZVQlZV?oc=5",
+      "looked_up_at": "2026-11-04T23:38:50.640206+00:00",
+      "search_queries": [
+        "\"The Op Games' Epic Summer Giveaway\" entry",
+        "games epic summer sweepstakes enter official",
+        "games epic summer giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "25cc6a5ca85b23bb": {
+      "contest_title": "GIGABYTE Resident Evil Requiem Custom PC Giveaway - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1FWk5ZMzVVbHFUU1lBNXVjVHpreU1kTThBSE50MzE2V1AzeTlSUWxhMm05M0JlN2pBMGk5ZkxVRGNWZElPWElz?oc=5",
+      "looked_up_at": "2026-11-04T23:38:50.679827+00:00",
+      "search_queries": [
+        "\"GIGABYTE Resident Evil Requiem Custom PC Giveaway\" entry",
+        "gigabyte resident evil requiem custom sweepstakes enter official",
+        "gigabyte resident evil requiem custom giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "56a5601a10c0034f": {
+      "contest_title": "Intel Gamer Days Ultimate Build Giveaway - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE8xeEtMTmdzc0p1NVZVbk9pVHFnOW5kV1JKTzhhZWttTnhWZkI2Wk9sSVpxSXE1WGNVTzFsTEdxdjZPWTVyVjVF?oc=5",
+      "looked_up_at": "2026-11-04T23:38:50.680415+00:00",
+      "search_queries": [
+        "\"Intel Gamer Days Ultimate Build Giveaway\" entry",
+        "intel gamer days ultimate build sweepstakes enter official",
+        "intel gamer days ultimate build giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "449f1ee122b6f9f5": {
+      "contest_title": "RTX 5060 Gaming PC Giveaway 🎁 - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1oZWtvVlVQR0tYNDV0ckViLUtHTGF2RWNVaFRTSHRDaC1PaXBpdkxlWUFsdUZNVVdrSE1uOGdiZ3JJZ3V2cXVN?oc=5",
+      "looked_up_at": "2026-11-04T23:38:50.612784+00:00",
+      "search_queries": [
+        "\"RTX 5060 Gaming PC Giveaway  \" entry",
+        "5060 gaming sweepstakes enter official",
+        "5060 gaming giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "78ad559b5e4a5789": {
+      "contest_title": "Endix 🫰 Alienware GAMING PC 🎮🖥️ GIVEAWAY - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE12MkRDd1RRdTY0WUlHNDZHbHRqX3hsNmVXWWlzRDBaMXVDV2pTY0c4c2NlYW1tWl9SRy0tYldPQWJmMzMydXU4?oc=5",
+      "looked_up_at": "2026-11-04T23:38:50.706841+00:00",
+      "search_queries": [
+        "\"Endix   Alienware GAMING PC     GIVEAWAY\" entry",
+        "endix alienware gaming sweepstakes enter official",
+        "endix alienware gaming giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "d0cb3f6280b2e618": {
+      "contest_title": "STORMCRAFT Salem Tech ​Sales Season PC Giveaway - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9uRmNKSVpmT3p0NGQ0UWhwN29VYjczWXhQYU9udnZZdm5lRDB0X0YtUUhBeTc5WEdUZGJLT3RIS2M2b3FWV05R?oc=5",
+      "looked_up_at": "2026-11-04T23:38:50.751720+00:00",
+      "search_queries": [
+        "\"STORMCRAFT Salem Tech  Sales Season PC Giveaway\" entry",
+        "stormcraft salem tech sales season sweepstakes enter official",
+        "stormcraft salem tech sales season giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "740655008a5f85a2": {
+      "contest_title": "Enter For A Chance to Win A Logitech G ASTRO Headset - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9oMEJwNzQxUnhBVzQyS2RyeEF3UUM1c3BWNEJoZ0lydmJXdHlKdF9yOE10VlpOMHNndlB6MWZxYzhhQkEtRmd3?oc=5",
+      "looked_up_at": "2026-11-04T23:38:50.703974+00:00",
+      "search_queries": [
+        "\"Enter For A Chance to Win A Logitech G ASTRO Headset\" entry",
+        "chance logitech astro headset sweepstakes enter official",
+        "chance logitech astro headset giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "abb69fb566ff64d6": {
+      "contest_title": "Win Free Groceries All Year Long! - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5QcV9mQlhDV0wtVmFsUjRQUEdSbHNmWklhZnNNb0llTmdQUWJsT2xOODlPaDFFbThBYS1JSHlteE9uZnFodVQ4?oc=5",
+      "looked_up_at": "2026-11-04T23:38:50.698248+00:00",
+      "search_queries": [
+        "\"Win Free Groceries All Year Long \" entry",
+        "free groceries year long sweepstakes enter official",
+        "free groceries year long giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "362a6216d4bde0df": {
+      "contest_title": "BEATBOX BEVERAGES® ELECTRIC FOREST FESTIVAL 2026 SWEEPSTAKES - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBobDB5UFc3UmNoNnlRVGtBaUh4SUtoYnZKZlc4SUJVUEZlZXQ3SlpCWkYwV3BNeHFjaWQ4aWxDMlFpMndFZHFj?oc=5",
+      "looked_up_at": "2026-11-04T23:38:50.781366+00:00",
+      "search_queries": [
+        "\"BEATBOX BEVERAGES  ELECTRIC FOREST FESTIVAL 2026 SWEEPSTAKES\" entry",
+        "beatbox beverages electric forest festival sweepstakes enter official",
+        "beatbox beverages electric forest festival giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "8959c0621d26916d": {
+      "contest_title": "AMD X MomoCon 2026 Sweepstakes - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBjemNPMmR0Z2g4dlBPdTVSTjJXTHRObzF2bFdnUjRpcTNIbnZtcXVqemc0RDZBY1o3eE5KY2VaVWZqYWdxVlRz?oc=5",
+      "status": "insufficient_title"
+    },
+    "a36c5a98e8d081d2": {
+      "contest_title": "AMD X ROG 20th Anniversary Sweepstakes #1 - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBUbmltSVREU3FiVUJpM3pPOVFvb01JZk02cEM3cEdtQ2Q3VHJlMFp4eDZuWWZiSldRaHIwbGhxMEt2VC1QMWpJ?oc=5",
+      "looked_up_at": "2026-11-04T23:38:50.758816+00:00",
+      "search_queries": [
+        "\"AMD X ROG 20th Anniversary Sweepstakes  1\" entry",
+        "20th anniversary sweepstakes enter official",
+        "20th anniversary giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "499ca3f030ce3b90": {
+      "contest_title": "AMD FSR™ UPDATE SWEEPSTAKES - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE13c3FjdXdzNHkzdzI4NVhLNnIwOFAwbDUtNGk5QkVvVGlUUUoxUV9fWERfM2tkQkpOYjFjdW1BUTB0VEU3Mzh3?oc=5",
+      "status": "insufficient_title"
+    },
+    "6d7655a688400b64": {
+      "contest_title": "BEATBOX BEVERAGES® AUSTIN FESTIVAL 2026 SWEEPSTAKES - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE40ellmVHdhNXVfX0dFQTcwVjJJdXJBcnZ0WmRfUlJxN2JIVWpmOTRPcy03UlJpNXpublN3V2ZXdW82M1c3cEhv?oc=5",
+      "looked_up_at": "2026-11-04T23:38:51.056055+00:00",
+      "search_queries": [
+        "\"BEATBOX BEVERAGES  AUSTIN FESTIVAL 2026 SWEEPSTAKES\" entry",
+        "beatbox beverages austin festival sweepstakes enter official",
+        "beatbox beverages austin festival giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "d2b3504b6519e56e": {
+      "contest_title": "BEATBOX BEVERAGES® LAS VEGAS FESTIVAL 2026 SWEEPSTAKES - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBsbTU2aEFkakhPVWpRME1lbUhuWWxlcHU4akU4OS04M0ppWTdlTFp0WVdiQlphR205dlZfWmtGeEZwRVZuRzFn?oc=5",
+      "looked_up_at": "2026-11-04T23:38:50.972266+00:00",
+      "search_queries": [
+        "\"BEATBOX BEVERAGES  LAS VEGAS FESTIVAL 2026 SWEEPSTAKES\" entry",
+        "beatbox beverages vegas festival sweepstakes enter official",
+        "beatbox beverages vegas festival giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "10eb39d918f077b0": {
+      "contest_title": "BEATBOX BEVERAGES® ORLANDO FESTIVAL 2026 SWEEPSTAKES - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5FM0NpRFNDbDlvT3lDd0lYYWVrUXpPWGl2RkM4NjR4X1liWkNRMXZMMUp0YVNhbzFTUldiWlR0c19XTTlWRXd3?oc=5",
+      "looked_up_at": "2026-11-04T23:38:51.063752+00:00",
+      "search_queries": [
+        "\"BEATBOX BEVERAGES  ORLANDO FESTIVAL 2026 SWEEPSTAKES\" entry",
+        "beatbox beverages orlando festival sweepstakes enter official",
+        "beatbox beverages orlando festival giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "b0cbce7c2cd35035": {
+      "contest_title": "Lenox Spice Village Golden Winner Getaway Sweepstakes - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE4xcUhSYUNrejdGYk5Hc1pDTkpFV1RNNHYxRUQ5Z1h6ZFFUQVA4bWIxdWNxTFhBaEdzRFZwLVBjWGQ1R2t3cTZJ?oc=5",
+      "looked_up_at": "2026-11-04T23:38:51.105578+00:00",
+      "search_queries": [
+        "\"Lenox Spice Village Golden Winner Getaway Sweepstakes\" entry",
+        "lenox spice village golden winner getaway sweepstakes enter official",
+        "lenox spice village golden winner getaway giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "6c1cfe98cde0d645": {
+      "contest_title": "Summer Of Grilling Sweepstakes - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE45dWphZERfSHhpeWtwVEhtbWJNbEQ5UHVzUk5HNWNUYUtrVEUxc3NlQzF5a2ljZjFMV19GTGdnSDJmVk1GLUlz?oc=5",
+      "looked_up_at": "2026-11-04T23:38:51.096970+00:00",
+      "search_queries": [
+        "\"Summer Of Grilling Sweepstakes\" entry",
+        "summer grilling sweepstakes enter official",
+        "summer grilling giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "0893b918de3bd434": {
+      "contest_title": "Opry Birthday Flyaway Sweepstakes 2026 - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1hd21hZFZEaThmalZVR3REYUZMTk5qTHRvZE8tRmZMYzVid09vM0ZnX0pVbDNkMGdrbVNQQUtZUHRpLXhxSlpr?oc=5",
+      "looked_up_at": "2026-11-04T23:38:51.119060+00:00",
+      "search_queries": [
+        "\"Opry Birthday Flyaway Sweepstakes 2026\" entry",
+        "opry birthday flyaway sweepstakes enter official",
+        "opry birthday flyaway giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "faf72cf6ccbb72d2": {
+      "contest_title": "AMD X LTT - Ultimate Tech Upgrade Series Sweepstakes - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBBeDNNd1BKRzJWWnJ5Ym42SzMzUy1icVpIZWlFMTNIRDZlc1VKSnoyTjJhVzFjOTdoaEtMdHhmaEs2R0QzdUF3?oc=5",
+      "status": "insufficient_title"
+    },
+    "dc2a30e041d247fc": {
+      "contest_title": "THIS IS WHY WE GAME SWEEPSTAKES - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9qM2M2VXhndDcxRjBBRUZpNllvZkoyVmpuWjlFWTN4V0pONWNLOGFaVVA5SUxKcHI1RFoyNGNYQ05nYWc3cG1B?oc=5",
+      "looked_up_at": "2026-11-04T23:38:51.024543+00:00",
+      "search_queries": [
+        "\"THIS IS WHY WE GAME SWEEPSTAKES\" entry",
+        "this game sweepstakes enter official",
+        "this game giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "0e8df3638382b2e1": {
+      "contest_title": "WWE & Zenni WrestleMania 42 Sweepstakes - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBpa01BMHk4d3V3WHhBalNicEdZTWdDeTUxdVZjR0RqamQzTkZZWFFiV1pYaUR1VkZoOVJieFduS055UjBFMEQ0?oc=5",
+      "looked_up_at": "2026-11-04T23:38:51.045474+00:00",
+      "search_queries": [
+        "\"WWE & Zenni WrestleMania 42 Sweepstakes\" entry",
+        "zenni wrestlemania sweepstakes enter official",
+        "zenni wrestlemania giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "ffdba3c62bece6ce": {
+      "contest_title": "SANDISK Optimus ReWired College Tour 2026 Sweepstakes - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1leVF2eVhMbm8wM1c0Q0FpRHI3Wi1SV1lNRURRc3Bxb0x0U29yVnQ3a0pYN255bUo4X2h6MWRYQ3ZHektvVjkw?oc=5",
+      "looked_up_at": "2026-11-04T23:38:51.098539+00:00",
+      "search_queries": [
+        "\"SANDISK Optimus ReWired College Tour 2026 Sweepstakes\" entry",
+        "sandisk optimus rewired college tour sweepstakes enter official",
+        "sandisk optimus rewired college tour giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "7d1f90e2f3bdec9d": {
+      "contest_title": "AMD X LTT - Ultimate Tech Upgrade Series Sweepstakes - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9PRnROTUFqdXdVSjNNYXBhMEZMVnU2OVE0NTZ6SWJGSkFZOWk5emRNdFJYY1NSbVNPWkhtVmlHZlRtQjJZR2RZ?oc=5",
+      "status": "insufficient_title"
+    },
+    "49aba745e1aab081": {
+      "contest_title": "AMD X MAINGEAR X Mistfall Hunter Sweepstakes - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBYa3laa041QlVEcUNQd2FQeWx0N3RaZjJrUVdiZUtLYkFHU1kyZC00ZkI2Y2hFdnVtb0JHclNZSEJmQmJNMEpB?oc=5",
+      "looked_up_at": "2026-11-04T23:38:51.138040+00:00",
+      "search_queries": [
+        "\"AMD X MAINGEAR X Mistfall Hunter Sweepstakes\" entry",
+        "maingear mistfall hunter sweepstakes enter official",
+        "maingear mistfall hunter giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "779df6eecdf34b9d": {
+      "contest_title": "AMD X Echo Guild X LTT - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBCQ0kzYUVrNm9DbzAxd25CMThpRF90M3AwTDhXTFlBcHZ1cWtPcHpVNDg2OTE2Nks4d1Z5T0xCdmVLMTJIckxZ?oc=5",
+      "looked_up_at": "2026-11-04T23:38:51.210606+00:00",
+      "search_queries": [
+        "\"AMD X Echo Guild X LTT\" entry",
+        "echo guild sweepstakes enter official",
+        "echo guild giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "f7d8e82e3aa018c8": {
+      "contest_title": "Palia Royal Highlands Expansion Celebration - PC Sweepstakes (U.S. Only) - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE82YU9RQjFwRkhYV0hJY1hoZ2syR3pNdmlhcGZibm9LUVlaUGswc0tXU3BsallQYjlaTU9MWW8taWFJT0x5ano0?oc=5",
+      "looked_up_at": "2026-11-04T23:38:51.179938+00:00",
+      "search_queries": [
+        "\"Palia Royal Highlands Expansion Celebration\" entry",
+        "palia royal highlands expansion celebration sweepstakes enter official",
+        "palia royal highlands expansion celebration giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "5f727a3454a2eb52": {
+      "contest_title": "AMD X DOCKED Sweepstakes - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1KdzhUOTRuMkhnMWdpYVhzQk9aNmFxYm9Fc2hfUktxc0Q5Z2pnak5yX0NPM05oZ1ZRZ095ekN2RndnWWJUZkRB?oc=5",
+      "status": "insufficient_title"
+    },
+    "a9c9ad8959fc9002": {
+      "contest_title": "DEATH STRANDING 2 ON THE BEACH Sweepstakes - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBJZXllWlMyM2hFNXE5TlgzS2VFOEQzbl80emI0M3dmZDVBb01QcUN0d2NfNVRYX0ppSENtVU1VMUZGTXdMdkZZ?oc=5",
+      "looked_up_at": "2026-11-04T23:38:51.318613+00:00",
+      "search_queries": [
+        "\"DEATH STRANDING 2 ON THE BEACH Sweepstakes\" entry",
+        "death stranding beach sweepstakes enter official",
+        "death stranding beach giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "9f9aaec2bf4f84b5": {
+      "contest_title": "Own Your Destiny Sweepstakes - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1WRTcwQ1VrZzN2Y1FvbXFFdGpRZDgxRzRBbWQ5VWR0Qnk4NzFyNmV4Q2xMeEhpYy1od2VhYmlyUXVwYi1FYl8w?oc=5",
+      "looked_up_at": "2026-11-04T23:38:51.410374+00:00",
+      "search_queries": [
+        "\"Own Your Destiny Sweepstakes\" entry",
+        "your destiny sweepstakes enter official",
+        "your destiny giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "c0c66d03d2417525": {
+      "contest_title": "AMD X MAINGEAR X Space Marine 2 Sweepstakes - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1rWTZHazB5TWJrU2RUY2l5SmkzaFVRZmdFZmZ2bWtXQXYzd0pnd0ttaGc4MjdzdDJsaDk4dTRrc2pYSVlaYnc4?oc=5",
+      "looked_up_at": "2026-11-04T23:38:51.451415+00:00",
+      "search_queries": [
+        "\"AMD X MAINGEAR X Space Marine 2 Sweepstakes\" entry",
+        "maingear space marine sweepstakes enter official",
+        "maingear space marine giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "863169f8cdb5d065": {
+      "contest_title": "The Fall Getaway Sweepstakes With Explore La Crosse - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE05V3NVY0dDaFpWN1NrUTRFbXFsVWVHVDlkYnFxUnVCOHl3SGtpNGJSd2NLeDdXbFZpcTdwX3RDRGlaakE1ZTRJ?oc=5",
+      "looked_up_at": "2026-11-04T23:38:51.526122+00:00",
+      "search_queries": [
+        "\"The Fall Getaway Sweepstakes With Explore La Crosse\" entry",
+        "fall getaway explore crosse sweepstakes enter official",
+        "fall getaway explore crosse giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "cf10eca3b963c573": {
+      "contest_title": "CRKD Guitar Controller Sweepstakes - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA1Y3AzRHpDVndSSFgwTEJuTHhEa095T1dvLWpYcF9LclloNmMwWXRtR05kNlc0Q0FudTJETHhEX0JZNkRYTzhN?oc=5",
+      "looked_up_at": "2026-11-04T23:38:51.445994+00:00",
+      "search_queries": [
+        "\"CRKD Guitar Controller Sweepstakes\" entry",
+        "crkd guitar controller sweepstakes enter official",
+        "crkd guitar controller giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "0c7d17ba88008619": {
+      "contest_title": "CRKD Gibson SG Guitar Controller Sweepstakes - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5Rb0hnR2hkcU41d3NuN09SMzNvZ3AyVHBFQUxwSldFRVByWk1LQm8tb1cxRkFCVFNMbWV0ak5XLVFGZllZTEM4?oc=5",
+      "looked_up_at": "2026-11-04T23:38:51.467961+00:00",
+      "search_queries": [
+        "\"CRKD Gibson SG Guitar Controller Sweepstakes\" entry",
+        "crkd gibson guitar controller sweepstakes enter official",
+        "crkd gibson guitar controller giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "1c6eebedb12aafe7": {
+      "contest_title": "Palia Of Barns And Briars Update Celebration - Nintendo Switch 2 Sweepstakes - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE92U21ERVpWYm83WXJ6R1l3d3pyS0FKNEJQcU90NHF6cEVMbmdmVnZGanJTd2xHLXkyME5MR1RwZlhLSDg2Nldv?oc=5",
+      "looked_up_at": "2026-11-04T23:38:51.520367+00:00",
+      "search_queries": [
+        "\"Palia Of Barns And Briars Update Celebration\" entry",
+        "palia barns briars update celebration sweepstakes enter official",
+        "palia barns briars update celebration giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "b12840975e2fd0b6": {
+      "contest_title": "Everwind Game Key Sweepstakes - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5iYW5nYWFIX21BQkNkOEdNeFlEUUhJZXRjNGxQTHdkSjlHN3lQbktYOE53RlROQ1BXRnhOQl91NTRmLVdLOG40?oc=5",
+      "looked_up_at": "2026-11-04T23:38:51.490484+00:00",
+      "search_queries": [
+        "\"Everwind Game Key Sweepstakes\" entry",
+        "everwind game sweepstakes enter official",
+        "everwind game giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "c8c081e4bf503da1": {
+      "contest_title": "AMD X Diablo® IV: Lord Of Hatred™ Sweepstakes - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBxSGJzZmNVdlZUeTNZTm4tNDlFUVF1b1dnell2NHRqOHgwSGVpYVhzUGg3aGtSVm0zSm5rU1Y1MXdsSnViYnM4?oc=5",
+      "looked_up_at": "2026-11-04T23:38:51.528017+00:00",
+      "search_queries": [
+        "\"AMD X Diablo  IV  Lord Of Hatred  Sweepstakes\" entry",
+        "diablo lord hatred sweepstakes enter official",
+        "diablo lord hatred giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "920c994d4b70de47": {
+      "contest_title": "KONI + GRIOT'S GARAGE SWEEPSTAKES - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE8zTmRSaTdVbG0xRDNaNlJra0FYbXVMc2VQWGc3MnhIcXo3Q1lEMWxvSk5sdTBqZnQtd0VyRWtwRGh2VFhWQ2dJ?oc=5",
+      "looked_up_at": "2026-11-04T23:38:51.456155+00:00",
+      "search_queries": [
+        "\"KONI   GRIOT'S GARAGE SWEEPSTAKES\" entry",
+        "koni griot garage sweepstakes enter official",
+        "koni griot garage giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "40cc7ee558759d30": {
+      "contest_title": "PowerColor Hellhound AMD Radeon™ RX 9070 XT Resonance Edition Sweepstakes - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9rZ3NwMVdyVWg0WjJtN1BmcDJaRGdfa2ZRb1Z4bTgzT0g0OWFqbFpmbXJfMGZGRFlPa2VjNzNoRmJHY1J5ZzNB?oc=5",
+      "looked_up_at": "2026-11-04T23:38:51.664475+00:00",
+      "search_queries": [
+        "\"PowerColor Hellhound AMD Radeon  RX 9070 XT Resonance Edition Sweepstakes\" entry",
+        "powercolor hellhound radeon 9070 resonance edition sweepstakes enter official",
+        "powercolor hellhound radeon 9070 resonance edition giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "69a1fc55c44aed51": {
+      "contest_title": "Tomb Raider: Legacy Of Atlantis Collector's Edition Sweepstakes - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5OUE1vWXR1TTJ6cG9sVEhCaThnRGUydXhpV1REbXhTNWF2aXRmV0tBYzc3dEU3a2tLeVFlMEZkX2tablpwLVlB?oc=5",
+      "looked_up_at": "2026-11-04T23:38:51.729384+00:00",
+      "search_queries": [
+        "\"Tomb Raider  Legacy Of Atlantis Collector's Edition Sweepstakes\" entry",
+        "tomb raider legacy atlantis collector edition sweepstakes enter official",
+        "tomb raider legacy atlantis collector edition giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "3855a02576ba348a": {
+      "contest_title": "Summer Sendoff Sweepstakes - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9XWENiRnNhalZ1a3YySFItTXFUaXJsd0F2b0FDd241VTNqeVVHQTF0UVJSZ3VxTllqSnhpbXdOU0Ezd3dRWHZv?oc=5",
+      "looked_up_at": "2026-11-04T23:38:51.667333+00:00",
+      "search_queries": [
+        "\"Summer Sendoff Sweepstakes\" entry",
+        "summer sendoff sweepstakes enter official",
+        "summer sendoff giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "ec6586324524e758": {
+      "contest_title": "Cold Stone Creamery® The Cat In The Hat Sweepstakes - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1naWh1Umh5RHdFTGh6WFpKVEhTbnN4d0xxSWw3aS15dWMzMjNFRGhOSU9LeVBSXzBZRGxlZnBkU2Z1V2l3TmU0?oc=5",
+      "looked_up_at": "2026-11-04T23:38:51.836386+00:00",
+      "search_queries": [
+        "\"Cold Stone Creamery  The Cat In The Hat Sweepstakes\" entry",
+        "cold stone creamery sweepstakes enter official",
+        "cold stone creamery giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "81774e9fe9b23605": {
+      "contest_title": "Linus Tech Tips And AMD Gaming Red Team: Holiday Gaming Bundle Sweepstakes - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9mSjF1bVp5NW0zek45cnRSMVV0ZTY0el9PQk5nNGtKOHBJMk83UmNIMFFlLV9HREJfUklwR3Q3bXM5UkRtMW1r?oc=5",
+      "looked_up_at": "2026-11-04T23:38:51.852094+00:00",
+      "search_queries": [
+        "\"Linus Tech Tips And AMD Gaming Red Team  Holiday Gaming Bundle Sweepstakes\" entry",
+        "linus tech tips gaming team holiday bundle sweepstakes enter official",
+        "linus tech tips gaming team holiday bundle giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "2124ee21e459be18": {
+      "contest_title": "WIN A CUSTOM DESIGNED SUPER MEAT BOY 3D GAMING PC AND STEAM KEYS - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1sajdVSGU2X1haWThOVTlEenRZNGNwYm12STN3V2dwdS1KQ01HTmVTWjZKOW80WWZUcHN1WTBXZGt0TXlwZi1B?oc=5",
+      "looked_up_at": "2026-11-04T23:38:51.818365+00:00",
+      "search_queries": [
+        "\"WIN A CUSTOM DESIGNED SUPER MEAT BOY 3D GAMING PC AND STEAM KEYS\" entry",
+        "custom designed super meat gaming steam keys sweepstakes enter official",
+        "custom designed super meat gaming steam keys giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "d0e86a963201e8cb": {
+      "contest_title": "Pinkberry® Practical Magic 2 Private Screening Sweepstakes - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1INXV3TW14SkoyaVRoRmZnTHlBa1NacE9rR2JoMDMyUFBVTWJ1NFZXX3RGblBFZTJWbmlvS0VVTU4zS25zLXhV?oc=5",
+      "looked_up_at": "2026-11-04T23:38:51.927407+00:00",
+      "search_queries": [
+        "\"Pinkberry  Practical Magic 2 Private Screening Sweepstakes\" entry",
+        "pinkberry practical magic private screening sweepstakes enter official",
+        "pinkberry practical magic private screening giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "fa7f2a84d0c7b639": {
+      "contest_title": "ROG 20th Anniversary - Gleam Giveaway - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9oUktRdUYxWXFGUjBzZVk1ekEyUWx2WHJLRHp3TW9WTWRiYjl3al9tMVlNMkh0bEJ4Y1FDRXM4eHhEUTBYZkJ3?oc=5",
+      "looked_up_at": "2026-11-04T23:38:51.906346+00:00",
+      "search_queries": [
+        "\"ROG 20th Anniversary\" entry",
+        "20th anniversary sweepstakes enter official",
+        "20th anniversary giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "5b1cad8c522a2ca5": {
+      "contest_title": "Solo Stove's Dallas Cowboys Dream Backyard Sweepstakes - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9MWFJsa1YzVEdQSDBXSEMzdHVnVkdmRVJQWWc3M3prczVnaUR1ZDE3VDR3VjVzRzlXUGs4QUxPTmtoYXdGbWtN?oc=5",
+      "looked_up_at": "2026-11-04T23:38:52.130242+00:00",
+      "search_queries": [
+        "\"Solo Stove's Dallas Cowboys Dream Backyard Sweepstakes\" entry",
+        "solo stove dallas cowboys dream backyard sweepstakes enter official",
+        "solo stove dallas cowboys dream backyard giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "9c25619e5318ba05": {
+      "contest_title": "North Carolina Contest and Sweepstakes Laws - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUjJ3QXQ1SHBiUm53SmRpS0VLT2J6eUxwS3A0bFByY0w4bFdHMFdnbXIybTBxeWVOaWFlNm1YUWhxS2ZjcWZ5cXlNUFB5bFdfT2xHWllNZW04Z0pjVV9aVTVXWVQtUnNlSEFoalp6aTA3czMyTU5yOEVfeENrRlFSNVFXdUwxNzFnS2M4MGFB?oc=5",
+      "looked_up_at": "2026-11-04T23:38:52.031086+00:00",
+      "search_queries": [
+        "\"North Carolina Contest and Sweepstakes Laws\" entry",
+        "north carolina laws sweepstakes enter official",
+        "north carolina laws giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "825481b5de98e11f": {
+      "contest_title": "CRKD X Good Kid X POPeArt_ Signed Guitar Controller Sweepstakes - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1nTEM1OGNSU05jTVdfM1ZPZTZXVWNqa1M0QUhQNTNCdHlkNWJUc1hadHFMLUlSUEJFd3ZuZjJlT18zN3RfOW9N?oc=5",
+      "looked_up_at": "2026-11-04T23:38:51.922503+00:00",
+      "search_queries": [
+        "\"CRKD X Good Kid X POPeArt_ Signed Guitar Controller Sweepstakes\" entry",
+        "crkd good popeart signed guitar controller sweepstakes enter official",
+        "crkd good popeart signed guitar controller giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "632780cdd1906443": {
+      "contest_title": "Michigan Contest and Sweepstakes Laws - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZmw5WDdEUlVaaGkzM0xmcF9Ldnd6U3Q5UHhLZnlvbW1ubmQ3SXd3NG5pWTRSOWxMMU1nUU9JbWVYNHNfZi1FaDVnbzlFRTlCTFRnQnp5RHh0TXFPdmpsVzJqVjV1QUQzRExmdjhERTdqZDA5QmFzZ2hEeG9SVkF3UUJCSzUwQQ?oc=5",
+      "looked_up_at": "2026-11-04T23:38:51.897704+00:00",
+      "search_queries": [
+        "\"Michigan Contest and Sweepstakes Laws\" entry",
+        "michigan laws sweepstakes enter official",
+        "michigan laws giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "e7eaa93458098f4e": {
+      "contest_title": "Iowa Contest and Sweepstakes Laws - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNjc2TmtZRWlDRjFKNHp2VHhlRy15VGdoSDZnTXBHR1dVNGpNOG90eTM0d3QxdFg5cmlmTmNYR1hqUHhsTFBPOFp0YThROWRqWHRNVjVPaGdZR0lEY05kdVRKYm1pRF9mcktMbkJSc1g0dmhFQWIzX0Z2ZVBYamRsWA?oc=5",
+      "looked_up_at": "2026-11-04T23:38:52.012436+00:00",
+      "search_queries": [
+        "\"Iowa Contest and Sweepstakes Laws\" entry",
+        "iowa laws sweepstakes enter official",
+        "iowa laws giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "0df325e80c01f8ad": {
+      "contest_title": "IHeartRaves - WinThe Ultimate Trip to Ultra Music Festival 2026 - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBqRUxXRFB0dnJRWU5JLVpMc0Izcl9fcmJ5NnVzLWdrLWJBVWdhX2tSM2V5N1NyVDJuLVBSbTNaRWVubGJHZTdn?oc=5",
+      "status": "insufficient_title"
+    },
+    "9b546ab248b7d533": {
+      "contest_title": "LTT X AMD: Back to School UPGRADE Sweepstakes - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5BdDRCZjh2VVJvRXRaYkVCWC1NQ2dfUTl0MVpGNk5hVEEyMjE2MFZMeWlZNnlUbnNfdTNyRndCcE1MeVI5Q2dF?oc=5",
+      "looked_up_at": "2026-11-04T23:38:52.029150+00:00",
+      "search_queries": [
+        "\"LTT X AMD  Back to School UPGRADE Sweepstakes\" entry",
+        "back school upgrade sweepstakes enter official",
+        "back school upgrade giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "16843675585d4659": {
+      "contest_title": "Win A Subnautica 2 Themed XBOX Controller! - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5acTh5UmVxaEgyQUlFR1dDVThjaXNiay1lVXlhMkliQzdicG55NWhKX2xSYzFpaTg4V19fWUtMNm5qQTlmUm40?oc=5",
+      "looked_up_at": "2026-11-04T23:38:52.156266+00:00",
+      "search_queries": [
+        "\"Win A Subnautica 2 Themed XBOX Controller \" entry",
+        "subnautica themed xbox controller sweepstakes enter official",
+        "subnautica themed xbox controller giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "c7ee71ef3389a17c": {
+      "contest_title": "Disney Magic Kingdoms: Toy Box Treasures Sweepstakes - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9ieDdHQkVDLWtHOUFDdjhZalVrS0F6QUU3Tmc2bHpGMlVKT3pocHpNNlBEdTdHalBUc095RW90dDdLQUViaHJz?oc=5",
+      "looked_up_at": "2026-11-04T23:38:52.348645+00:00",
+      "search_queries": [
+        "\"Disney Magic Kingdoms  Toy Box Treasures Sweepstakes\" entry",
+        "disney magic kingdoms treasures sweepstakes enter official",
+        "disney magic kingdoms treasures giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "0d9dd09cdf330efc": {
+      "contest_title": "Razer Ultimate Raider Kit Giveaway - Gleam",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5GcXAyM2p0STBxd09PeGdEVnRkSUFKa2YzM0hXU0lsMzJWcWFkaVRDSFNwbV9xUHI3VGdSbkVDaklJMFpmXy13?oc=5",
+      "looked_up_at": "2026-11-04T23:38:52.161919+00:00",
+      "search_queries": [
+        "\"Razer Ultimate Raider Kit Giveaway\" entry",
+        "razer ultimate raider sweepstakes enter official",
+        "razer ultimate raider giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "f96c295a2d029630": {
+      "contest_title": "Create your free SweepWidget account - SweepWidget",
+      "original_article": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBoMzdlYmNSOHF1aVNEOTBOejBLY2VxTXdjS0k5WE9NQ1JuejdMT0FyaHpLX1lYeWdCMXd6NXpIWDhybUFu?oc=5",
+      "looked_up_at": "2026-11-04T23:38:52.247232+00:00",
+      "search_queries": [
+        "\"Create your free SweepWidget account\" entry",
+        "create your free sweepwidget account sweepstakes enter official",
+        "create your free sweepwidget account giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "d49380bfd5513e3e": {
+      "contest_title": "Instagram Giveaway & Contest Tool (2026) - SweepWidget",
+      "original_article": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBPMV9vMEloLU5uR05nNUFqeUx6MjAwX1hqbTF0LVdzVlZtUnFZdEhfelBJbjhLVFZjdElhRmpYc0txemJBRXp2OG5SdkxlbzI2Rlk5Tg?oc=5",
+      "looked_up_at": "2026-11-04T23:38:52.240971+00:00",
+      "search_queries": [
+        "\"Instagram Giveaway & Contest Tool  2026 \" entry",
+        "instagram tool sweepstakes enter official",
+        "instagram tool giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "6a6a15cf17eb6b92": {
+      "contest_title": "Snapchat Giveaway Tool (2026) - SweepWidget",
+      "original_article": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE51ZjAtc3NFNldGRkNYam9BVno3Y3d0eEJKOXlGNlJCTGpoeDhwSUF3ZWRPNnNVTy1ERlhScTNXemRHQldWejEwbkF0VFdOM2dSNXBR?oc=5",
+      "looked_up_at": "2026-11-04T23:38:52.292228+00:00",
+      "search_queries": [
+        "\"Snapchat Giveaway Tool  2026 \" entry",
+        "snapchat tool sweepstakes enter official",
+        "snapchat tool giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "41f3b117521f02c1": {
+      "contest_title": "LinkedIn Giveaway Tool for B2B (2026) - SweepWidget",
+      "original_article": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1yelhnMGVMVDJ3el9rUTRfNUlqV0NXVGhySjdSdEJIcFpaRHZTVmZQN0VFeUdGSmktYXNXVUp5M0dBcmdOSVdnY0J0MUlYX3dVMmI0?oc=5",
+      "looked_up_at": "2026-11-04T23:38:52.277424+00:00",
+      "search_queries": [
+        "\"LinkedIn Giveaway Tool for B2B  2026 \" entry",
+        "linkedin tool sweepstakes enter official",
+        "linkedin tool giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "5afd74b8e9db9ed2": {
+      "contest_title": "Spotify Giveaway & Promotion Contest Tool - SweepWidget",
+      "original_article": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBROW5UWXR3U2wxREhzRjd2aU82cnpmazdxRk1MYXVmZ1MybDJ2alUzUjljVTBONmlydVVYdlliVXNNbTVMcjdCbkdaVEhPcDNjU1E?oc=5",
+      "looked_up_at": "2026-11-04T23:38:52.305656+00:00",
+      "search_queries": [
+        "\"Spotify Giveaway & Promotion Contest Tool\" entry",
+        "spotify tool sweepstakes enter official",
+        "spotify tool giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "5b005e8fb0c7ebef": {
+      "contest_title": "Threads Giveaway Tool (2026) - SweepWidget",
+      "original_article": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE14TVUxWDMwNWlsX0c2N2Nhc1c5eDBSdlVNU1l2NDNJQXkxWW1FQmY5d3dwQUMyQ0Q2cmVzdHNib1RvQlp3QjNJT0hvblU3TmxObXc?oc=5",
+      "looked_up_at": "2026-11-04T23:38:52.401429+00:00",
+      "search_queries": [
+        "\"Threads Giveaway Tool  2026 \" entry",
+        "threads tool sweepstakes enter official",
+        "threads tool giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "9c697c4bf6776da7": {
+      "contest_title": "How To Run A Viral TikTok Contest To Get More Followers, Likes, & Fans - SweepWidget",
+      "original_article": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWjlzT1ItV29zandibXg4cE1rNTBkSkkyX19NMXU2S0NIQUR1QzJBV2dOT2JVRWoya1hVV1R2MXlNeVUyNVNtRDZJNXdZZ0FCNk5RdExjdzd1TnpGeDBWV2E0OThNM0RDbWgwWVR5S29ZVUNzZzVwUW5XVkFhOFVidW56RTVfX0RaNld2ZDluYlFwclk?oc=5",
+      "looked_up_at": "2026-11-04T23:38:52.494351+00:00",
+      "search_queries": [
+        "\"How To Run A Viral TikTok Contest To Get More Followers  Likes  & Fans\" entry",
+        "viral tiktok more followers likes fans sweepstakes enter official",
+        "viral tiktok more followers likes fans giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "dc4f5da564b920b5": {
+      "contest_title": "Run Viral Giveaways, Contests & Sweepstakes With SweepWidget - SweepWidget",
+      "original_article": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE8xcnl5WEc4OFBma2NCMEVkRlNYYTRWU1VCbUU2dHJBLUdwVmRYU2p4cUFLUkFIMndpRF95OQ?oc=5",
+      "looked_up_at": "2026-11-04T23:38:52.364910+00:00",
+      "search_queries": [
+        "\"Run Viral Giveaways  Contests & Sweepstakes With SweepWidget\" entry",
+        "viral giveaways contests sweepwidget sweepstakes enter official",
+        "viral giveaways contests sweepwidget giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "bea627bc2f16f55b": {
+      "contest_title": "Facebook Giveaway & Contest Tool (2026) - SweepWidget",
+      "original_article": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1lUWh5cnV4eGd4amU5TVZpOG9uQXhTR0wwUzNJZk5iTlFscE9Ickl0ZHlHcjFwUjd4c1hzam8zdWVRblMyVEJjbmVYRElSMGxuUGZR?oc=5",
+      "looked_up_at": "2026-11-04T23:38:52.561897+00:00",
+      "search_queries": [
+        "\"Facebook Giveaway & Contest Tool  2026 \" entry",
+        "facebook tool sweepstakes enter official",
+        "facebook tool giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "b30e2e1995f50a33": {
+      "contest_title": "TikTok Giveaway & Contest Tool (2026) - SweepWidget",
+      "original_article": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9TUzRYQkJGYVp4czVaRkhCLV9mM1FIUjR5bVdwdFFmLXRWOVJQMnd4UXg5cXZ3enNkLXNjeEJnd3h6MGJsY2NNUWh4N2tkNXpQ?oc=5",
+      "looked_up_at": "2026-11-04T23:38:52.559130+00:00",
+      "search_queries": [
+        "\"TikTok Giveaway & Contest Tool  2026 \" entry",
+        "tiktok tool sweepstakes enter official",
+        "tiktok tool giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "980e18d322810a43": {
+      "contest_title": "Patreon Giveaway Tool to Convert Followers into Patrons - SweepWidget",
+      "original_article": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBvOENxNDRaNjVuLVBWU2YyXzk0cDdZN0FmLU5lYzJJMG5aQ2ZCQUxFTmZBWkNHQ3RsZV9OUWlpdW5rT1hBVk5PUnpmV3ljcWtNMGc?oc=5",
+      "looked_up_at": "2026-11-04T23:38:52.542636+00:00",
+      "search_queries": [
+        "\"Patreon Giveaway Tool to Convert Followers into Patrons\" entry",
+        "patreon tool convert followers into patrons sweepstakes enter official",
+        "patreon tool convert followers into patrons giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "ae29fc259d40bc6a": {
+      "contest_title": "Refer-a-Friend Giveaway Tool (2026) - SweepWidget",
+      "original_article": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5yWXRrNlpxWXo0bnpycTAzMVJLSnVHWVo4TVdpQWNQNmZHZTJsSzVLOHk3RDR0a213SHlmeEozeHB3N2pzQnNOMl9ZX2hNTHVCRlVIRk5kTQ?oc=5",
+      "looked_up_at": "2026-11-04T23:38:52.591579+00:00",
+      "search_queries": [
+        "\"Refer-a-Friend Giveaway Tool  2026 \" entry",
+        "refer friend tool sweepstakes enter official",
+        "refer friend tool giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "5ff10813f40616fa": {
+      "contest_title": "9 Giveaway Ideas for Small Businesses on a Budget - SweepWidget",
+      "original_article": "https://news.google.com/rss/articles/CBMickFVX3lxTE1McXFqMkdxM1F4ZUxDVjdFYUp0OGhNekJ3VExpdlA4ZHkxT19KOTR0VmxaVGlJYVVGdVpDMHlzRzRsdl9UaTBONTBYU0gwakJMdmJ4X1RNcU4yeHI4aUNDcGgyMmNNaDJEMm5hTHg0cnB6dw?oc=5",
+      "looked_up_at": "2026-11-04T23:38:52.660611+00:00",
+      "search_queries": [
+        "\"9 Giveaway Ideas for Small Businesses on a Budget\" entry",
+        "ideas small businesses budget sweepstakes enter official",
+        "ideas small businesses budget giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "e7166cdc08c3d27b": {
+      "contest_title": "The 12 Best Giveaway and Contest Tools in 2026 - SweepWidget",
+      "original_article": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KMjZoMHNBR3M5UDZmNDBfdW9QcG1YYkdDWVBrMVFRVjlfemFYdmFlcko3NlVoRFdlMlRZek4yNEtSY1VHaTlVUE9BZG1QRUd2OGJtVWwyWWM3VW13QUZsX3E4dHpta0ZqQ3MzcQ?oc=5",
+      "looked_up_at": "2026-11-04T23:38:52.650281+00:00",
+      "search_queries": [
+        "\"The 12 Best Giveaway and Contest Tools in 2026\" entry",
+        "best tools sweepstakes enter official",
+        "best tools giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "00a68d89d624e37e": {
+      "contest_title": "How to Run an Instagram Giveaway: Steps, Rules and Picking a Winner - SweepWidget",
+      "original_article": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1HNkxQXy1LQjZFVU1vVE8ySHRielNWSnJKZkEwSjR6TzB5dkdBa2dsd09HNG9fTDc4X3MwZVEzNGdGVGd4akpBaGdCNEpJcHFWRGlsQXdieDA4MjFWcmZpb2NaRUs0ZmpWWlgwWEtn?oc=5",
+      "looked_up_at": "2026-11-04T23:38:52.690383+00:00",
+      "search_queries": [
+        "\"How to Run an Instagram Giveaway  Steps  Rules and Picking a Winner\" entry",
+        "instagram steps picking winner sweepstakes enter official",
+        "instagram steps picking winner giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "12d7b2f38659bf1c": {
+      "contest_title": "App Download Giveaway Tool (2026) - SweepWidget",
+      "original_article": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9HeU5nT0xHLVhmR1VWQV9WSV9Eai12bG9ZTHZhV3J4aGZ1WUh2a2JJbTBrZ1g4STZrSFBEM2ZCTEE4UHlLOGJlajludEN2eGo4bmlvMl84REw?oc=5",
+      "looked_up_at": "2026-11-04T23:38:52.649398+00:00",
+      "search_queries": [
+        "\"App Download Giveaway Tool  2026 \" entry",
+        "download tool sweepstakes enter official",
+        "download tool giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "7b83b6201b073653": {
+      "contest_title": "How to Pick a Giveaway Winner Fairly (Step by Step) - SweepWidget",
+      "original_article": "https://news.google.com/rss/articles/CBMic0FVX3lxTE91NFl0UkQtRkdHRWY4NnZRS3BfZ1lYWUJhRzI5aXVUZ3hKOTZrZ0FLZkhuUjVYWnNOU2NQbS1ZeG1scVZmT2xtdExDek9ibHRoR0JsRERITTZqczlRQ25BN0xpNnVCNVlqaDBzcG93b3l4ZHM?oc=5",
+      "looked_up_at": "2026-11-04T23:38:52.743616+00:00",
+      "search_queries": [
+        "\"How to Pick a Giveaway Winner Fairly  Step by Step \" entry",
+        "pick winner fairly step sweepstakes enter official",
+        "pick winner fairly step giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "123f4309507bdc72": {
+      "contest_title": "Care Connects Us Giveaway - SweepWidget",
+      "original_article": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMQXZ3bFJBTWpRaHhGRlMxZGJzZnRHZXY0V0ROS1ZZLUNuQy1pbVBSR1hydUU4VXQ4ejlleFFlZlpoemxDckFIZ25JMTdpaFRrSks1RFpnVHFMb3l4?oc=5",
+      "looked_up_at": "2026-11-04T23:38:52.713138+00:00",
+      "search_queries": [
+        "\"Care Connects Us Giveaway\" entry",
+        "care connects sweepstakes enter official",
+        "care connects giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "11895a10acb7a89d": {
+      "contest_title": "SweepWidget vs. ShortStack: Which Giveaway Platform Fits You in 2026? - SweepWidget",
+      "original_article": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBUaktTZG9xcXFVTFhfYkE0eGs3SUxEN3NBdERkYlU4cDRkUF92aGVWZzQ4QzB5eTJuUXV6Z1p5TWpNQi1UMkhqcGZoRnRSeDQ?oc=5",
+      "looked_up_at": "2026-11-04T23:38:52.787773+00:00",
+      "search_queries": [
+        "\"SweepWidget vs  ShortStack  Which Giveaway Platform Fits You in 2026 \" entry",
+        "sweepwidget shortstack which platform fits sweepstakes enter official",
+        "sweepwidget shortstack which platform fits giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "9ed0ab9192bf7957": {
+      "contest_title": "Pinterest Giveaway & Contest Tool (2026) - SweepWidget",
+      "original_article": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1VbW5sZkxpZkVKaUEzUHcxZ0xCaGRZQmhMSlBuNkNFS2xtejZ1X19WT1lraEJkeEdGdHZtUF9lc29qMWhKdEUwSFk3cm9DbFZlODhDWg?oc=5",
+      "looked_up_at": "2026-11-04T23:38:52.875650+00:00",
+      "search_queries": [
+        "\"Pinterest Giveaway & Contest Tool  2026 \" entry",
+        "pinterest tool sweepstakes enter official",
+        "pinterest tool giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "46cd882150303375": {
+      "contest_title": "Tumblr Giveaway Tool (2026) - SweepWidget",
+      "original_article": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBCZnhJcTNlU3RkdjdmUHdhTVd4ZlB1cUtrMGtKR3cyV2dBYVNJbE9qMldwd3FfN2JEVU85Qzh4QmhuWjRJekp0YzNabTFPM2tr?oc=5",
+      "looked_up_at": "2026-11-04T23:38:52.921895+00:00",
+      "search_queries": [
+        "\"Tumblr Giveaway Tool  2026 \" entry",
+        "tumblr tool sweepstakes enter official",
+        "tumblr tool giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "d559a485e3c9c89c": {
+      "contest_title": "EARLY RISER Gallery Photo Contest - Free Giveaway - SweepWidget",
+      "original_article": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB4SVhnSmxzaS1aem5aT3BrZlI4dVJCTi02aFgwMWptYnFlRWdqdGlMNGdQbWQyVEwwVmJ3SXJjN3l5VEk1ZlNQUXdPNW1pMTJkOUVCMHpQSi12OTk2?oc=5",
+      "looked_up_at": "2026-11-04T23:38:52.856625+00:00",
+      "search_queries": [
+        "\"EARLY RISER Gallery Photo Contest\" entry",
+        "early riser gallery photo sweepstakes enter official",
+        "early riser gallery photo giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "51019295c8818099": {
+      "contest_title": "Compare Giveaway Tools (2026) - SweepWidget",
+      "original_article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9vN1ZtZ25SNTB2RFZmSE9aVVNZREVzUWFXZld3WHhPcU5vOC04bktRNmVaV3RMOTk1TXd4RVBnQk50bklObGFZ?oc=5",
+      "looked_up_at": "2026-11-04T23:38:53.030242+00:00",
+      "search_queries": [
+        "\"Compare Giveaway Tools  2026 \" entry",
+        "compare tools sweepstakes enter official",
+        "compare tools giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "60ed29ecf0e7eaf6": {
+      "contest_title": "Reddit Giveaway Tool That Works With the Community - SweepWidget",
+      "original_article": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE96bnBoZ284M2sxYWl5M0JNUXllbEtWRmNBazBBN21tUk5MQVliWnAzaG1PQXpITjZBSVpQUG5TdFJ3T3lpYVhOWkhySlN1NjBz?oc=5",
+      "looked_up_at": "2026-11-04T23:38:53.061352+00:00",
+      "search_queries": [
+        "\"Reddit Giveaway Tool That Works With the Community\" entry",
+        "reddit tool that works community sweepstakes enter official",
+        "reddit tool that works community giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "e08a7a74e984d65e": {
+      "contest_title": "Etsy Giveaway Tool for Sellers (2026) - SweepWidget",
+      "original_article": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE10aE02QXR6TzJRUkJodEJySG1qaUxrZ1FWXzRJV1o2MWJwdzR5MEt0WEhCeFlfZ25Ta3M1TjZKQ2dlZTYtMDNsVUNGeDRGZw?oc=5",
+      "looked_up_at": "2026-11-04T23:38:53.024075+00:00",
+      "search_queries": [
+        "\"Etsy Giveaway Tool for Sellers  2026 \" entry",
+        "etsy tool sellers sweepstakes enter official",
+        "etsy tool sellers giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "0d60f98995ee5689": {
+      "contest_title": "Secret Code Giveaway Tool (2026) - SweepWidget",
+      "original_article": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5LZVdweXBWNUVMVkJMTWJBRnVTYUp6TXB4VHpLRGFVdTQ0TWZJMHhRQnlIbkI0MVpNT3EzdjJ2QWZYQzNQT0t2ZThBM2VBaF9NQ3ZZeDBhUQ?oc=5",
+      "looked_up_at": "2026-11-04T23:38:53.007919+00:00",
+      "search_queries": [
+        "\"Secret Code Giveaway Tool  2026 \" entry",
+        "secret code tool sweepstakes enter official",
+        "secret code tool giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "eb8a4c30feab2063": {
+      "contest_title": "Tiered Giveaway Rewards That Keep Participants Coming Back - SweepWidget",
+      "original_article": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBvQlBXbXV4RkhrdWJvWWFycWtCY19GWHpuQjVHb2lUZzQ5NVlmRWJiXzlMaEc2ZHRobDJuV0VYVFBEOFVLbmdCdTFYVURvUEF1NmZxcXBheE1XN2c?oc=5",
+      "looked_up_at": "2026-11-04T23:38:53.021669+00:00",
+      "search_queries": [
+        "\"Tiered Giveaway Rewards That Keep Participants Coming Back\" entry",
+        "tiered rewards that keep participants coming back sweepstakes enter official",
+        "tiered rewards that keep participants coming back giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "d470df69615c0e52": {
+      "contest_title": "Enter New Free Giveaways & Contests - Win Prizes [November 2026] - SweepWidget",
+      "original_article": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDb2FWMTE3TlBTLTlsdnkzcUVRX2JCdEpHRWNpTEF2NURZOVE5NGQyQmRfUW1JaHpIdGZfdjZfNVFhaUg2WF9wV094Z1NLNm9KRE1RS3I2eGV5QQ?oc=5",
+      "looked_up_at": "2026-11-04T23:38:53.060137+00:00",
+      "search_queries": [
+        "\"Enter New Free Giveaways & Contests\" entry",
+        "free giveaways contests sweepstakes enter official",
+        "free giveaways contests giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "318d254368935d0c": {
+      "contest_title": "Create A Custom Entry Giveaway - SweepWidget",
+      "original_article": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9hUEd4cnRMNDJEZGRfSUQzZ0dwaU0tVERhVEl0MEdxUVZYWFBJTVJQa3FNSE9iSjVDOGJKLVIwQzNXSFFLY2hYNnBrQkYtLXNvMmZ4VUtzRWxSbFJWckNUZFozblY?oc=5",
+      "looked_up_at": "2026-11-04T23:38:53.143745+00:00",
+      "search_queries": [
+        "\"Create A Custom Entry Giveaway\" entry",
+        "create custom entry sweepstakes enter official",
+        "create custom entry giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "0e62bcfff2ca1c81": {
+      "contest_title": "GHI Sep 2026 CompTIA Certification Sweepstakes - Free Giveaway - SweepWidget",
+      "original_article": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8yVk1UZWY2ZDFXUWFKRnFpODNhMXNKakprcU41OVNhNnFiU3k1RzdvOHozOEd5NE1aZ01oSTFER3JQUS1XcWliT1ROQWRINkk3eUw5QkxsZXQtRGdlQXc?oc=5",
+      "looked_up_at": "2026-11-04T23:38:53.057419+00:00",
+      "search_queries": [
+        "\"GHI Sep 2026 CompTIA Certification Sweepstakes\" entry",
+        "comptia certification sweepstakes enter official",
+        "comptia certification giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "569211730a9fe550": {
+      "contest_title": "Batch PS5 Giveaway - Free Giveaway - SweepWidget",
+      "original_article": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1sV1d0THI3WXNLd19aZGllenpzT0xrMWp2WXNKOFB0UE1Bb21VSzBJTFRRbHBFSTNweEVYd2lFdTQ2ckJWVlBlbmJfbmRHQmp6b2RveW4tVUJNZEhLUWc?oc=5",
+      "status": "insufficient_title"
+    },
+    "97b24cb5a83b6aba": {
+      "contest_title": "October 2026 Giveaway: Give Your Starter the VIP Treatment - SweepWidget",
+      "original_article": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XRXo4SGdDMzMwcktLNTF2a2o3NDJVeV9TLXV6ZWVEUGVSdzliSzd0eTdXeVRkVDc4Z0lYQ0M2TDMyU01fYTNyQlBjeWpRbGtBanpwaGRrZDNOMEgtblE?oc=5",
+      "looked_up_at": "2026-11-04T23:38:53.149582+00:00",
+      "search_queries": [
+        "\"October 2026 Giveaway  Give Your Starter the VIP Treatment\" entry",
+        "october give your starter treatment sweepstakes enter official",
+        "october give your starter treatment giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "3e7122ae9d7ffd81": {
+      "contest_title": "Shopify Giveaway App - Track Purchases (2026) - SweepWidget",
+      "original_article": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5DRV8xSzN0QnQ2UHZkT3dpdm1hSFV5LTJ6bXVfS1B0MUtCWFhLLUhvVGpjbkprMW5YVmlVUVRrWjZaSmJpbWZVVmRVbEx3ejFTU2c?oc=5",
+      "status": "insufficient_title"
+    },
+    "ad06f71751f48b2c": {
+      "contest_title": "Leaderboard Giveaway Tool That Turns Contests Into Competitions - SweepWidget",
+      "original_article": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBkZHRSYTZPNHFwck5iLUptQ0lIcFRMck9IWWZxSlFLVnkzY0lyN05veEtKU29YZlJSR2RsVmFXMmxpRS0xcVVwLUtqY21fRFNqZWdlMV9PVQ?oc=5",
+      "looked_up_at": "2026-11-04T23:38:53.211441+00:00",
+      "search_queries": [
+        "\"Leaderboard Giveaway Tool That Turns Contests Into Competitions\" entry",
+        "leaderboard tool that turns contests into competitions sweepstakes enter official",
+        "leaderboard tool that turns contests into competitions giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "a9f63da6a4692895": {
+      "contest_title": "Breeze Airways Connecticut August and September 2026 Giveaway - SweepWidget",
+      "original_article": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE15aVd6X0g5dG1oc3FqbTVMZEJXbUV0VlA0VGNkbzA4cnJOWDdHRFhoT1RaVU5PaFJIQ1E4Rl95SnpObHkxRk42dFZzdDlLTVFvX0tWYVBRa1hjak5CZnc?oc=5",
+      "looked_up_at": "2026-11-04T23:38:53.208751+00:00",
+      "search_queries": [
+        "\"Breeze Airways Connecticut August and September 2026 Giveaway\" entry",
+        "breeze airways connecticut august september sweepstakes enter official",
+        "breeze airways connecticut august september giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "12088685c281f565": {
+      "contest_title": "Breeze Airways Akron-Canton October 2026 Giveaway - Free Giveaway - SweepWidget",
+      "original_article": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1sUjZNb3QtTVlvWTY4X3BsamlyTjBDa1hCb0daajhSWlpkdjg5VVR5bkFxbGFEQVF2eVhEVWtsVmZHNWpkM0hNRG94ckNhZ0VDOUUyeS02U1Y3NWx6V3c?oc=5",
+      "looked_up_at": "2026-11-04T23:38:53.338434+00:00",
+      "search_queries": [
+        "\"Breeze Airways Akron-Canton October 2026 Giveaway\" entry",
+        "breeze airways akron canton october sweepstakes enter official",
+        "breeze airways akron canton october giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "0aaebd1eee21cb49": {
+      "contest_title": "Create Email Subscription Giveaway - SweepWidget",
+      "original_article": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Gc3VUM3lVYVo4X01rdXFvU2EwU0xYVTJYeVBURVlhTWo2Y2NsN0RyeWlnaFZEUmw0UmhQZl8wMXpRelR3cjViLXdVZi12RS1CT2JLaTd2N0ZjdTJmM1Jhbg?oc=5",
+      "looked_up_at": "2026-11-04T23:38:53.461318+00:00",
+      "search_queries": [
+        "\"Create Email Subscription Giveaway\" entry",
+        "create email subscription sweepstakes enter official",
+        "create email subscription giveaway entry rules"
       ],
       "search_version": 4,
       "status": "entry_page_not_found"
