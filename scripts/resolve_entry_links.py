@@ -115,6 +115,11 @@ def main():
         name=record.get("status","unknown")
         active_counts[name]=active_counts.get(name,0)+1
     payload={"generated_utc":dt.datetime.now(dt.timezone.utc).isoformat(),"total_source_records":len(records),"searched":len(active_results),"remaining":len(records)-len(active_results),"historical_results_retained":len(results)-len(active_results),"results_by_status":active_counts,"notice":"Candidate links from public web search, not certified active entry forms. Human review required before publishing. Historical lookups are retained, not counted as current.","results":results}
-    # Write a complete JSON report atomically; never expose a zero-byte file to readers.\n    import tempfile\n    with tempfile.NamedTemporaryFile(mode="w",encoding="utf-8",dir=OUT.parent,prefix=".entry-lookup-",suffix=".tmp",delete=False) as tmp:\n        tmp.write(json.dumps(payload,ensure_ascii=False,indent=2)+"\n")\n        temp_path=Path(tmp.name)\n    temp_path.replace(OUT)
+    # Write a complete JSON report atomically; never expose a zero-byte file to readers.
+    import tempfile
+    with tempfile.NamedTemporaryFile(mode="w",encoding="utf-8",dir=OUT.parent,prefix=".entry-lookup-",suffix=".tmp",delete=False) as tmp:
+        tmp.write(json.dumps(payload,ensure_ascii=False,indent=2)+"\n")
+        temp_path=Path(tmp.name)
+    temp_path.replace(OUT)
     print("Searched",len(todo),"this run;",len(active_results),"current results;",len(records)-len(active_results),"remaining; historical",len(results)-len(active_results))
 if __name__=="__main__":main()
