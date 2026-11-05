@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-04T20:30:25.842198+00:00",
-  "auditGeneratedAt": "2026-11-04T20:29:49.596461+00:00",
-  "count": 274,
+  "generatedAt": "2026-11-05T08:12:39.864744+00:00",
+  "auditGeneratedAt": "2026-11-05T08:12:15.330154+00:00",
+  "count": 273,
   "notice": "Research queue only; do not infer a 403 means dead link or automatically promote guessed URLs. Expired records should remain accessible in the expired archive.",
   "queue": [
     {
@@ -537,6 +537,20 @@
       "reviewStatus": "needs_manual_review"
     },
     {
+      "id": "sourced-12e59c4a02842fe6",
+      "name": "DYLD DIG 009 1993 Mazda RX-7 Sweepstakes",
+      "priority": 85,
+      "issues": [
+        "likely_rules_page_not_entry",
+        "redirected_to_rules_page"
+      ],
+      "httpStatus": 200,
+      "currentEntryUrl": "https://dyldindustries.com/pages/dig-009-official-rules",
+      "officialRulesUrl": "https://giveowl.com/e/dialed-industries-llc-dyld--dyld-dig-009-1993-mazda-rx-7-sweepstakes--2026/",
+      "endDate": "2026-11-29",
+      "reviewStatus": "needs_manual_review"
+    },
+    {
       "id": "sourced-38d3a8385b98f30a",
       "name": "Bravo Insider Vanderpump Vegas Sweepstakes",
       "priority": 85,
@@ -581,6 +595,20 @@
       "reviewStatus": "needs_manual_review"
     },
     {
+      "id": "sourced-df3da13da5e856a7",
+      "name": "Freckled Poppy \"Fashion Fuel #9\" Giveaway",
+      "priority": 85,
+      "issues": [
+        "likely_rules_page_not_entry",
+        "redirected_to_rules_page"
+      ],
+      "httpStatus": 200,
+      "currentEntryUrl": "https://freckledpoppy.com/pages/official-rules-fashion-fuel-giveaway",
+      "officialRulesUrl": "https://giveowl.com/e/thelaigles-llc-freckled-poppy--freckled-poppy-fashion-fuel-9-giveaway--2026/",
+      "endDate": "2026-11-30",
+      "reviewStatus": "needs_manual_review"
+    },
+    {
       "id": "sourced-995d21f87e0e8985",
       "name": "Insider One Black Friday Power Combo Giveaway",
       "priority": 85,
@@ -606,6 +634,20 @@
       "httpStatus": 200,
       "currentEntryUrl": "https://www.koreanow.us/official-rules/",
       "officialRulesUrl": "https://giveowl.com/e/hs-ad-usa--korea-now-trip-planner-sweepstakes--2026/",
+      "endDate": "2026-11-30",
+      "reviewStatus": "needs_manual_review"
+    },
+    {
+      "id": "sourced-db9fa598f2b86440",
+      "name": "OBG6 Giveaway",
+      "priority": 85,
+      "issues": [
+        "likely_rules_page_not_entry",
+        "redirected_to_rules_page"
+      ],
+      "httpStatus": 200,
+      "currentEntryUrl": "https://overkillbattalion.com/pages/official-rules",
+      "officialRulesUrl": "https://giveowl.com/e/overkill-battalion-shared-sweeps--obg6-giveaway--2026/",
       "endDate": "2026-11-30",
       "reviewStatus": "needs_manual_review"
     },
@@ -696,6 +738,21 @@
       "httpStatus": 200,
       "currentEntryUrl": "https://cloud.email.sel.sony.com/SonyxSeahawksHeadphones_OfficialRules",
       "officialRulesUrl": "https://giveowl.com/e/sony-electronics--sony-seattle-seahawks-wh-1000xm6-headphones-sweepstakes--2026/",
+      "endDate": "2026-11-30",
+      "reviewStatus": "needs_manual_review"
+    },
+    {
+      "id": "sourced-f2b63fcb9f1b3ab0",
+      "name": "Stork and Sun Sweepstakes",
+      "priority": 85,
+      "issues": [
+        "likely_rules_page_not_entry",
+        "no_form_detected_manual_check",
+        "redirected_to_rules_page"
+      ],
+      "httpStatus": 200,
+      "currentEntryUrl": "https://storkandsun.com/pages/sweepstakes-official-rules",
+      "officialRulesUrl": "https://giveowl.com/e/stork-and-sun-llc--stork-and-sun-sweepstakes--2026/",
       "endDate": "2026-11-30",
       "reviewStatus": "needs_manual_review"
     },
@@ -1066,62 +1123,6 @@
       "reviewStatus": "needs_manual_review"
     },
     {
-      "id": "sourced-12e59c4a02842fe6",
-      "name": "DYLD DIG 009 1993 Mazda RX-7 Sweepstakes",
-      "priority": 80,
-      "issues": [
-        "likely_rules_page_not_entry",
-        "access_restricted_unconfirmed"
-      ],
-      "httpStatus": 429,
-      "currentEntryUrl": "https://dyldindustries.com/pages/dig-009-official-rules",
-      "officialRulesUrl": "https://giveowl.com/e/dialed-industries-llc-dyld--dyld-dig-009-1993-mazda-rx-7-sweepstakes--2026/",
-      "endDate": "2026-11-29",
-      "reviewStatus": "needs_manual_review"
-    },
-    {
-      "id": "sourced-df3da13da5e856a7",
-      "name": "Freckled Poppy \"Fashion Fuel #9\" Giveaway",
-      "priority": 80,
-      "issues": [
-        "likely_rules_page_not_entry",
-        "access_restricted_unconfirmed"
-      ],
-      "httpStatus": 429,
-      "currentEntryUrl": "https://freckledpoppy.com/pages/official-rules-fashion-fuel-giveaway",
-      "officialRulesUrl": "https://giveowl.com/e/thelaigles-llc-freckled-poppy--freckled-poppy-fashion-fuel-9-giveaway--2026/",
-      "endDate": "2026-11-30",
-      "reviewStatus": "needs_manual_review"
-    },
-    {
-      "id": "sourced-db9fa598f2b86440",
-      "name": "OBG6 Giveaway",
-      "priority": 80,
-      "issues": [
-        "likely_rules_page_not_entry",
-        "access_restricted_unconfirmed"
-      ],
-      "httpStatus": 429,
-      "currentEntryUrl": "https://overkillbattalion.com/pages/official-rules",
-      "officialRulesUrl": "https://giveowl.com/e/overkill-battalion-shared-sweeps--obg6-giveaway--2026/",
-      "endDate": "2026-11-30",
-      "reviewStatus": "needs_manual_review"
-    },
-    {
-      "id": "sourced-f2b63fcb9f1b3ab0",
-      "name": "Stork and Sun Sweepstakes",
-      "priority": 80,
-      "issues": [
-        "likely_rules_page_not_entry",
-        "access_restricted_unconfirmed"
-      ],
-      "httpStatus": 429,
-      "currentEntryUrl": "https://storkandsun.com/pages/sweepstakes-official-rules",
-      "officialRulesUrl": "https://giveowl.com/e/stork-and-sun-llc--stork-and-sun-sweepstakes--2026/",
-      "endDate": "2026-11-30",
-      "reviewStatus": "needs_manual_review"
-    },
-    {
       "id": "sourced-aa854d1720326e3a",
       "name": "Haven's First Chapter Sweepstakes",
       "priority": 80,
@@ -1439,9 +1440,9 @@
       "priority": 70,
       "issues": [
         "entry_matches_rules_link",
-        "network_check_failed"
+        "no_form_detected_manual_check"
       ],
-      "httpStatus": null,
+      "httpStatus": 200,
       "currentEntryUrl": "https://www.cslplasma.com/giveaway-tnc",
       "officialRulesUrl": "https://www.cslplasma.com/giveaway-tnc",
       "endDate": "2026-11-06",
@@ -1616,9 +1617,9 @@
       "priority": 70,
       "issues": [
         "entry_matches_rules_link",
-        "network_check_failed"
+        "no_form_detected_manual_check"
       ],
-      "httpStatus": null,
+      "httpStatus": 200,
       "currentEntryUrl": "https://www.cslplasma.com/giveaway-tnc",
       "officialRulesUrl": "https://www.cslplasma.com/giveaway-tnc",
       "endDate": "2026-11-13",
@@ -1780,9 +1781,9 @@
       "priority": 70,
       "issues": [
         "entry_matches_rules_link",
-        "network_check_failed"
+        "no_form_detected_manual_check"
       ],
-      "httpStatus": null,
+      "httpStatus": 200,
       "currentEntryUrl": "https://www.cslplasma.com/giveaway-tnc",
       "officialRulesUrl": "https://www.cslplasma.com/giveaway-tnc",
       "endDate": "2026-11-20",
@@ -1850,9 +1851,9 @@
       "priority": 70,
       "issues": [
         "entry_matches_rules_link",
-        "network_check_failed"
+        "no_form_detected_manual_check"
       ],
-      "httpStatus": null,
+      "httpStatus": 200,
       "currentEntryUrl": "https://www.cslplasma.com/giveaway-tnc",
       "officialRulesUrl": "https://www.cslplasma.com/giveaway-tnc",
       "endDate": "2026-11-27",
@@ -2087,9 +2088,9 @@
       "priority": 70,
       "issues": [
         "entry_matches_rules_link",
-        "network_check_failed"
+        "no_form_detected_manual_check"
       ],
-      "httpStatus": null,
+      "httpStatus": 200,
       "currentEntryUrl": "https://www.cslplasma.com/giveaway-tnc",
       "officialRulesUrl": "https://www.cslplasma.com/giveaway-tnc",
       "endDate": "2026-12-04",
@@ -2143,9 +2144,9 @@
       "priority": 70,
       "issues": [
         "entry_matches_rules_link",
-        "network_check_failed"
+        "no_form_detected_manual_check"
       ],
-      "httpStatus": null,
+      "httpStatus": 200,
       "currentEntryUrl": "https://www.cslplasma.com/giveaway-tnc",
       "officialRulesUrl": "https://www.cslplasma.com/giveaway-tnc",
       "endDate": "2026-12-11",
@@ -2171,9 +2172,9 @@
       "priority": 70,
       "issues": [
         "entry_matches_rules_link",
-        "network_check_failed"
+        "no_form_detected_manual_check"
       ],
-      "httpStatus": null,
+      "httpStatus": 200,
       "currentEntryUrl": "https://www.cslplasma.com/giveaway-tnc",
       "officialRulesUrl": "https://www.cslplasma.com/giveaway-tnc",
       "endDate": "2026-12-18",
@@ -2185,9 +2186,9 @@
       "priority": 70,
       "issues": [
         "entry_matches_rules_link",
-        "network_check_failed"
+        "no_form_detected_manual_check"
       ],
-      "httpStatus": null,
+      "httpStatus": 200,
       "currentEntryUrl": "https://www.cslplasma.com/giveaway-tnc",
       "officialRulesUrl": "https://www.cslplasma.com/giveaway-tnc",
       "endDate": "2026-12-25",
@@ -2199,9 +2200,9 @@
       "priority": 70,
       "issues": [
         "entry_matches_rules_link",
-        "network_check_failed"
+        "no_form_detected_manual_check"
       ],
-      "httpStatus": null,
+      "httpStatus": 200,
       "currentEntryUrl": "https://www.cslplasma.com/giveaway-tnc",
       "officialRulesUrl": "https://www.cslplasma.com/giveaway-tnc",
       "endDate": "2026-12-31",
@@ -2476,45 +2477,6 @@
       "reviewStatus": "needs_manual_review"
     },
     {
-      "id": "sourced-98d1aa1c689d2217",
-      "name": "ACON Black Friday 2026 \"Ultimate Backyard Setup\" Giveaway",
-      "priority": 30,
-      "issues": [
-        "access_restricted_unconfirmed"
-      ],
-      "httpStatus": 429,
-      "currentEntryUrl": "https://us.acon24.com/pages/black-friday",
-      "officialRulesUrl": "https://giveowl.com/e/acon-distributacon-inc--acon-black-friday-2026-ultimate-backyard-setup-giveaway--2026/",
-      "endDate": "2026-11-30",
-      "reviewStatus": "needs_manual_review"
-    },
-    {
-      "id": "sourced-0ccdf8fe14341af8",
-      "name": "Apollo Scooters Black Friday Weekly Draw (US)",
-      "priority": 30,
-      "issues": [
-        "access_restricted_unconfirmed"
-      ],
-      "httpStatus": 429,
-      "currentEntryUrl": "https://apolloscooters.co/pages/black-friday-early-access-apollo-scooters",
-      "officialRulesUrl": "https://giveowl.com/e/apollo-imports-inc-apollo-scooters--apollo-scooters-black-friday-weekly-draw-us--2026/",
-      "endDate": "2026-11-30",
-      "reviewStatus": "needs_manual_review"
-    },
-    {
-      "id": "sourced-470433e95a03b904",
-      "name": "Holiday Giveaway: Trucker Essentials Bundle",
-      "priority": 30,
-      "issues": [
-        "access_restricted_unconfirmed"
-      ],
-      "httpStatus": 429,
-      "currentEntryUrl": "https://www.truckerspride.com/pages/giveaway",
-      "officialRulesUrl": "https://giveowl.com/e/trucker-s-pride-syross-inc--holiday-giveaway-trucker-essentials-bundle--2026/",
-      "endDate": "2026-11-30",
-      "reviewStatus": "needs_manual_review"
-    },
-    {
       "id": "sourced-0f553c589c3880c4",
       "name": "KILZ Rate & Win",
       "priority": 30,
@@ -2541,32 +2503,6 @@
       "reviewStatus": "needs_manual_review"
     },
     {
-      "id": "sourced-7d1a72ec4a965bd0",
-      "name": "MOON Black Friday Giveaway",
-      "priority": 30,
-      "issues": [
-        "access_restricted_unconfirmed"
-      ],
-      "httpStatus": 429,
-      "currentEntryUrl": "https://moonwhiteshop.store/pages/giveaway",
-      "officialRulesUrl": "https://giveowl.com/e/moonwhite-global-screen-limited--moon-black-friday-giveaway--2026/",
-      "endDate": "2026-11-30",
-      "reviewStatus": "needs_manual_review"
-    },
-    {
-      "id": "sourced-29d7ddde2c73561a",
-      "name": "Main Street Collective Handmade Holiday Giveaway 2026",
-      "priority": 30,
-      "issues": [
-        "access_restricted_unconfirmed"
-      ],
-      "httpStatus": 429,
-      "currentEntryUrl": "https://www.mainstreetco.us/pages/handmade-holiday-rules-2026",
-      "officialRulesUrl": "https://giveowl.com/e/main-street-collective--main-street-collective-handmade-holiday-giveaway--2026/",
-      "endDate": "2026-11-30",
-      "reviewStatus": "needs_manual_review"
-    },
-    {
       "id": "sourced-7686c547f56db45c",
       "name": "Redshirt Golf Scotty Cameron Phantom 9.2R Giveaway",
       "priority": 30,
@@ -2576,19 +2512,6 @@
       "httpStatus": 429,
       "currentEntryUrl": "https://playredshirtgolf.com/pages/win-a-scotty-cameron-phantom-92r",
       "officialRulesUrl": "https://giveowl.com/e/redshirt-brands-llc-redshirt-golf--redshirt-golf-scotty-cameron-phantom-9-2r-giveaway--2026/",
-      "endDate": "2026-11-30",
-      "reviewStatus": "needs_manual_review"
-    },
-    {
-      "id": "sourced-3c81d43dd8060dc1",
-      "name": "Slabtown Card Shop November 2026 Giveaway: Topps Holiday Football Mega Box",
-      "priority": 30,
-      "issues": [
-        "access_restricted_unconfirmed"
-      ],
-      "httpStatus": 429,
-      "currentEntryUrl": "https://slabtowncardshop.com/pages/november-2026-giveaway-rules",
-      "officialRulesUrl": "https://giveowl.com/e/slabtown-card-shop--slabtown-november-2026-giveaway--2026/",
       "endDate": "2026-11-30",
       "reviewStatus": "needs_manual_review"
     },
@@ -3013,6 +2936,7 @@
       "name": "Common Uniform Daily Drawings",
       "priority": 20,
       "issues": [
+        "expired_by_listed_end_date",
         "no_form_detected_manual_check"
       ],
       "httpStatus": 200,
@@ -3026,6 +2950,7 @@
       "name": "Hayabusa UFC BJJ Las Vegas Sweepstakes",
       "priority": 20,
       "issues": [
+        "expired_by_listed_end_date",
         "no_form_detected_manual_check"
       ],
       "httpStatus": 200,
@@ -3363,6 +3288,32 @@
       "reviewStatus": "needs_manual_review"
     },
     {
+      "id": "sourced-98d1aa1c689d2217",
+      "name": "ACON Black Friday 2026 \"Ultimate Backyard Setup\" Giveaway",
+      "priority": 20,
+      "issues": [
+        "no_form_detected_manual_check"
+      ],
+      "httpStatus": 200,
+      "currentEntryUrl": "https://us.acon24.com/pages/black-friday",
+      "officialRulesUrl": "https://giveowl.com/e/acon-distributacon-inc--acon-black-friday-2026-ultimate-backyard-setup-giveaway--2026/",
+      "endDate": "2026-11-30",
+      "reviewStatus": "needs_manual_review"
+    },
+    {
+      "id": "sourced-0ccdf8fe14341af8",
+      "name": "Apollo Scooters Black Friday Weekly Draw (US)",
+      "priority": 20,
+      "issues": [
+        "no_form_detected_manual_check"
+      ],
+      "httpStatus": 200,
+      "currentEntryUrl": "https://apolloscooters.co/pages/black-friday-early-access-apollo-scooters",
+      "officialRulesUrl": "https://giveowl.com/e/apollo-imports-inc-apollo-scooters--apollo-scooters-black-friday-weekly-draw-us--2026/",
+      "endDate": "2026-11-30",
+      "reviewStatus": "needs_manual_review"
+    },
+    {
       "id": "sourced-d97e34370927ac07",
       "name": "Dacia Reserve Holiday Giveaway",
       "priority": 20,
@@ -3385,6 +3336,45 @@
       "httpStatus": 200,
       "currentEntryUrl": "https://fordeventreg.com/BWFGeneralRegistration",
       "officialRulesUrl": "https://fordeventreg.com/assets/pdfs/en/BWF26_Sweepstakes_Rules.pdf",
+      "endDate": "2026-11-30",
+      "reviewStatus": "needs_manual_review"
+    },
+    {
+      "id": "sourced-470433e95a03b904",
+      "name": "Holiday Giveaway: Trucker Essentials Bundle",
+      "priority": 20,
+      "issues": [
+        "no_form_detected_manual_check"
+      ],
+      "httpStatus": 200,
+      "currentEntryUrl": "https://www.truckerspride.com/pages/giveaway",
+      "officialRulesUrl": "https://giveowl.com/e/trucker-s-pride-syross-inc--holiday-giveaway-trucker-essentials-bundle--2026/",
+      "endDate": "2026-11-30",
+      "reviewStatus": "needs_manual_review"
+    },
+    {
+      "id": "sourced-29d7ddde2c73561a",
+      "name": "Main Street Collective Handmade Holiday Giveaway 2026",
+      "priority": 20,
+      "issues": [
+        "no_form_detected_manual_check"
+      ],
+      "httpStatus": 200,
+      "currentEntryUrl": "https://www.mainstreetco.us/pages/handmade-holiday-rules-2026",
+      "officialRulesUrl": "https://giveowl.com/e/main-street-collective--main-street-collective-handmade-holiday-giveaway--2026/",
+      "endDate": "2026-11-30",
+      "reviewStatus": "needs_manual_review"
+    },
+    {
+      "id": "sourced-3c81d43dd8060dc1",
+      "name": "Slabtown Card Shop November 2026 Giveaway: Topps Holiday Football Mega Box",
+      "priority": 20,
+      "issues": [
+        "no_form_detected_manual_check"
+      ],
+      "httpStatus": 200,
+      "currentEntryUrl": "https://slabtowncardshop.com/pages/november-2026-giveaway-rules",
+      "officialRulesUrl": "https://giveowl.com/e/slabtown-card-shop--slabtown-november-2026-giveaway--2026/",
       "endDate": "2026-11-30",
       "reviewStatus": "needs_manual_review"
     },
