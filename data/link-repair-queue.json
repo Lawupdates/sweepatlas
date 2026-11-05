@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-05T08:12:39.864744+00:00",
-  "auditGeneratedAt": "2026-11-05T08:12:15.330154+00:00",
-  "count": 273,
+  "generatedAt": "2026-11-05T20:45:37.755646+00:00",
+  "auditGeneratedAt": "2026-11-05T20:45:12.952732+00:00",
+  "count": 278,
   "notice": "Research queue only; do not infer a 403 means dead link or automatically promote guessed URLs. Expired records should remain accessible in the expired archive.",
   "queue": [
     {
@@ -240,21 +240,6 @@
       "reviewStatus": "needs_manual_review"
     },
     {
-      "id": "sourced-4f15ca64831d5802",
-      "name": "Real Good Foods Meatball Sweepstakes",
-      "priority": 85,
-      "issues": [
-        "likely_rules_page_not_entry",
-        "no_form_detected_manual_check",
-        "redirected_to_rules_page"
-      ],
-      "httpStatus": 200,
-      "currentEntryUrl": "https://realgoodfoods.com/pages/real-good-foods-meatball-sweepstakes-rules",
-      "officialRulesUrl": "https://giveowl.com/e/real-good-foods--real-good-foods-meatball-sweepstakes--2026/",
-      "endDate": "2026-11-08",
-      "reviewStatus": "needs_manual_review"
-    },
-    {
       "id": "sourced-41fb89611ff79d42",
       "name": "STIHL \"100 Days of STIHL\" Sweepstakes",
       "priority": 85,
@@ -344,21 +329,6 @@
       "reviewStatus": "needs_manual_review"
     },
     {
-      "id": "sourced-d23a4efd9f48175e",
-      "name": "RipSkirt Hawaii Live Like You're On Vacation Sweepstakes",
-      "priority": 85,
-      "issues": [
-        "likely_rules_page_not_entry",
-        "no_form_detected_manual_check",
-        "redirected_to_rules_page"
-      ],
-      "httpStatus": 200,
-      "currentEntryUrl": "https://ripskirthawaii.com/pages/the-live-like-youre-on-vacation-sweepstakes-official-rules",
-      "officialRulesUrl": "https://giveowl.com/e/sierra-brands-group-ripskirt-hawaii--ripskirt-hawaii-live-like-you-re-on-vacation-sweepstakes--2026/",
-      "endDate": "2026-11-15",
-      "reviewStatus": "needs_manual_review"
-    },
-    {
       "id": "sourced-aeafb2521600846d",
       "name": "Sparkle Home Essentials Sweepstakes",
       "priority": 85,
@@ -386,21 +356,6 @@
       "currentEntryUrl": "https://www.vanityfairnapkins.com/win-a-year-supply-sweeps/rules",
       "officialRulesUrl": "https://giveowl.com/e/georgia-pacific-consumer-products-vanity-fair--vanity-fair-home-essentials-sweepstakes--2026/",
       "endDate": "2026-11-15",
-      "reviewStatus": "needs_manual_review"
-    },
-    {
-      "id": "sourced-f31377b3301f6ca1",
-      "name": "BURST x MAGNA-TILES Giveaway",
-      "priority": 85,
-      "issues": [
-        "likely_rules_page_not_entry",
-        "no_form_detected_manual_check",
-        "redirected_to_rules_page"
-      ],
-      "httpStatus": 200,
-      "currentEntryUrl": "https://burstoralcare.com/pages/magna-tiles-x-burstkids-sweepstakes-rules",
-      "officialRulesUrl": "https://giveowl.com/e/burst-oral-care--burst-x-magna-tiles-giveaway--2026/",
-      "endDate": "2026-11-16",
       "reviewStatus": "needs_manual_review"
     },
     {
@@ -492,21 +447,6 @@
       "reviewStatus": "needs_manual_review"
     },
     {
-      "id": "sourced-b669d933dccff79f",
-      "name": "The Forward Bar BFCM Sweepstakes",
-      "priority": 85,
-      "issues": [
-        "likely_rules_page_not_entry",
-        "no_form_detected_manual_check",
-        "redirected_to_rules_page"
-      ],
-      "httpStatus": 200,
-      "currentEntryUrl": "https://theforwardbar.com/pages/bfcm-sweepstakes-official-rules",
-      "officialRulesUrl": "https://giveowl.com/e/the-forward-company-inc--the-forward-bar-bfcm-sweepstakes--2026/",
-      "endDate": "2026-11-24",
-      "reviewStatus": "needs_manual_review"
-    },
-    {
       "id": "sourced-473ace576a87748e",
       "name": "WinCo Foods 'Fresh Turkey, Full Table' Butterball Sweepstakes",
       "priority": 85,
@@ -519,35 +459,6 @@
       "currentEntryUrl": "https://promotions.wincofoods.com/fresh-turkey-full-table-butterball-sweepstakes-official-rules-copy/",
       "officialRulesUrl": "https://giveowl.com/e/winco-foods--winco-foods-fresh-turkey-full-table-butterball-sweepstakes--2026/",
       "endDate": "2026-11-26",
-      "reviewStatus": "needs_manual_review"
-    },
-    {
-      "id": "sourced-fd5e5608be989a09",
-      "name": "Surron Ultra Bee Giveaway",
-      "priority": 85,
-      "issues": [
-        "likely_rules_page_not_entry",
-        "no_form_detected_manual_check",
-        "redirected_to_rules_page"
-      ],
-      "httpStatus": 200,
-      "currentEntryUrl": "https://txcdesigns.com/pages/giveaway-official-rules",
-      "officialRulesUrl": "https://giveowl.com/e/txc-designs-the-galligan-company--surron-ultra-bee-giveaway--2026/",
-      "endDate": "2026-11-27",
-      "reviewStatus": "needs_manual_review"
-    },
-    {
-      "id": "sourced-12e59c4a02842fe6",
-      "name": "DYLD DIG 009 1993 Mazda RX-7 Sweepstakes",
-      "priority": 85,
-      "issues": [
-        "likely_rules_page_not_entry",
-        "redirected_to_rules_page"
-      ],
-      "httpStatus": 200,
-      "currentEntryUrl": "https://dyldindustries.com/pages/dig-009-official-rules",
-      "officialRulesUrl": "https://giveowl.com/e/dialed-industries-llc-dyld--dyld-dig-009-1993-mazda-rx-7-sweepstakes--2026/",
-      "endDate": "2026-11-29",
       "reviewStatus": "needs_manual_review"
     },
     {
@@ -595,20 +506,6 @@
       "reviewStatus": "needs_manual_review"
     },
     {
-      "id": "sourced-df3da13da5e856a7",
-      "name": "Freckled Poppy \"Fashion Fuel #9\" Giveaway",
-      "priority": 85,
-      "issues": [
-        "likely_rules_page_not_entry",
-        "redirected_to_rules_page"
-      ],
-      "httpStatus": 200,
-      "currentEntryUrl": "https://freckledpoppy.com/pages/official-rules-fashion-fuel-giveaway",
-      "officialRulesUrl": "https://giveowl.com/e/thelaigles-llc-freckled-poppy--freckled-poppy-fashion-fuel-9-giveaway--2026/",
-      "endDate": "2026-11-30",
-      "reviewStatus": "needs_manual_review"
-    },
-    {
       "id": "sourced-995d21f87e0e8985",
       "name": "Insider One Black Friday Power Combo Giveaway",
       "priority": 85,
@@ -634,20 +531,6 @@
       "httpStatus": 200,
       "currentEntryUrl": "https://www.koreanow.us/official-rules/",
       "officialRulesUrl": "https://giveowl.com/e/hs-ad-usa--korea-now-trip-planner-sweepstakes--2026/",
-      "endDate": "2026-11-30",
-      "reviewStatus": "needs_manual_review"
-    },
-    {
-      "id": "sourced-db9fa598f2b86440",
-      "name": "OBG6 Giveaway",
-      "priority": 85,
-      "issues": [
-        "likely_rules_page_not_entry",
-        "redirected_to_rules_page"
-      ],
-      "httpStatus": 200,
-      "currentEntryUrl": "https://overkillbattalion.com/pages/official-rules",
-      "officialRulesUrl": "https://giveowl.com/e/overkill-battalion-shared-sweeps--obg6-giveaway--2026/",
       "endDate": "2026-11-30",
       "reviewStatus": "needs_manual_review"
     },
@@ -738,21 +621,6 @@
       "httpStatus": 200,
       "currentEntryUrl": "https://cloud.email.sel.sony.com/SonyxSeahawksHeadphones_OfficialRules",
       "officialRulesUrl": "https://giveowl.com/e/sony-electronics--sony-seattle-seahawks-wh-1000xm6-headphones-sweepstakes--2026/",
-      "endDate": "2026-11-30",
-      "reviewStatus": "needs_manual_review"
-    },
-    {
-      "id": "sourced-f2b63fcb9f1b3ab0",
-      "name": "Stork and Sun Sweepstakes",
-      "priority": 85,
-      "issues": [
-        "likely_rules_page_not_entry",
-        "no_form_detected_manual_check",
-        "redirected_to_rules_page"
-      ],
-      "httpStatus": 200,
-      "currentEntryUrl": "https://storkandsun.com/pages/sweepstakes-official-rules",
-      "officialRulesUrl": "https://giveowl.com/e/stork-and-sun-llc--stork-and-sun-sweepstakes--2026/",
       "endDate": "2026-11-30",
       "reviewStatus": "needs_manual_review"
     },
@@ -1095,6 +963,20 @@
       "reviewStatus": "needs_manual_review"
     },
     {
+      "id": "sourced-4f15ca64831d5802",
+      "name": "Real Good Foods Meatball Sweepstakes",
+      "priority": 80,
+      "issues": [
+        "likely_rules_page_not_entry",
+        "access_restricted_unconfirmed"
+      ],
+      "httpStatus": 429,
+      "currentEntryUrl": "https://realgoodfoods.com/pages/real-good-foods-meatball-sweepstakes-rules",
+      "officialRulesUrl": "https://giveowl.com/e/real-good-foods--real-good-foods-meatball-sweepstakes--2026/",
+      "endDate": "2026-11-08",
+      "reviewStatus": "needs_manual_review"
+    },
+    {
       "id": "sourced-e9ea59def414dc02",
       "name": "Eckrich Big Ten Championship Game Sweepstakes",
       "priority": 80,
@@ -1120,6 +1002,118 @@
       "currentEntryUrl": "https://www.kitchenaidxcorkciclesweeps.com/rules",
       "officialRulesUrl": "https://giveowl.com/e/whirlpool-corporation-kitchenaid--kitchenaid-x-corkcicle-mindfullness-fridge-sweepstakes--2026/",
       "endDate": "2026-11-15",
+      "reviewStatus": "needs_manual_review"
+    },
+    {
+      "id": "sourced-d23a4efd9f48175e",
+      "name": "RipSkirt Hawaii Live Like You're On Vacation Sweepstakes",
+      "priority": 80,
+      "issues": [
+        "likely_rules_page_not_entry",
+        "access_restricted_unconfirmed"
+      ],
+      "httpStatus": 429,
+      "currentEntryUrl": "https://ripskirthawaii.com/pages/the-live-like-youre-on-vacation-sweepstakes-official-rules",
+      "officialRulesUrl": "https://giveowl.com/e/sierra-brands-group-ripskirt-hawaii--ripskirt-hawaii-live-like-you-re-on-vacation-sweepstakes--2026/",
+      "endDate": "2026-11-15",
+      "reviewStatus": "needs_manual_review"
+    },
+    {
+      "id": "sourced-f31377b3301f6ca1",
+      "name": "BURST x MAGNA-TILES Giveaway",
+      "priority": 80,
+      "issues": [
+        "likely_rules_page_not_entry",
+        "access_restricted_unconfirmed"
+      ],
+      "httpStatus": 429,
+      "currentEntryUrl": "https://burstoralcare.com/pages/magna-tiles-x-burstkids-sweepstakes-rules",
+      "officialRulesUrl": "https://giveowl.com/e/burst-oral-care--burst-x-magna-tiles-giveaway--2026/",
+      "endDate": "2026-11-16",
+      "reviewStatus": "needs_manual_review"
+    },
+    {
+      "id": "sourced-b669d933dccff79f",
+      "name": "The Forward Bar BFCM Sweepstakes",
+      "priority": 80,
+      "issues": [
+        "likely_rules_page_not_entry",
+        "access_restricted_unconfirmed"
+      ],
+      "httpStatus": 429,
+      "currentEntryUrl": "https://theforwardbar.com/pages/bfcm-sweepstakes-official-rules",
+      "officialRulesUrl": "https://giveowl.com/e/the-forward-company-inc--the-forward-bar-bfcm-sweepstakes--2026/",
+      "endDate": "2026-11-24",
+      "reviewStatus": "needs_manual_review"
+    },
+    {
+      "id": "sourced-fd5e5608be989a09",
+      "name": "Surron Ultra Bee Giveaway",
+      "priority": 80,
+      "issues": [
+        "likely_rules_page_not_entry",
+        "access_restricted_unconfirmed"
+      ],
+      "httpStatus": 429,
+      "currentEntryUrl": "https://txcdesigns.com/pages/giveaway-official-rules",
+      "officialRulesUrl": "https://giveowl.com/e/txc-designs-the-galligan-company--surron-ultra-bee-giveaway--2026/",
+      "endDate": "2026-11-27",
+      "reviewStatus": "needs_manual_review"
+    },
+    {
+      "id": "sourced-12e59c4a02842fe6",
+      "name": "DYLD DIG 009 1993 Mazda RX-7 Sweepstakes",
+      "priority": 80,
+      "issues": [
+        "likely_rules_page_not_entry",
+        "access_restricted_unconfirmed"
+      ],
+      "httpStatus": 429,
+      "currentEntryUrl": "https://dyldindustries.com/pages/dig-009-official-rules",
+      "officialRulesUrl": "https://giveowl.com/e/dialed-industries-llc-dyld--dyld-dig-009-1993-mazda-rx-7-sweepstakes--2026/",
+      "endDate": "2026-11-29",
+      "reviewStatus": "needs_manual_review"
+    },
+    {
+      "id": "sourced-df3da13da5e856a7",
+      "name": "Freckled Poppy \"Fashion Fuel #9\" Giveaway",
+      "priority": 80,
+      "issues": [
+        "likely_rules_page_not_entry",
+        "access_restricted_unconfirmed"
+      ],
+      "httpStatus": 429,
+      "currentEntryUrl": "https://freckledpoppy.com/pages/official-rules-fashion-fuel-giveaway",
+      "officialRulesUrl": "https://giveowl.com/e/thelaigles-llc-freckled-poppy--freckled-poppy-fashion-fuel-9-giveaway--2026/",
+      "endDate": "2026-11-30",
+      "reviewStatus": "needs_manual_review"
+    },
+    {
+      "id": "sourced-db9fa598f2b86440",
+      "name": "OBG6 Giveaway",
+      "priority": 80,
+      "issues": [
+        "likely_rules_page_not_entry",
+        "access_restricted_unconfirmed"
+      ],
+      "httpStatus": 429,
+      "currentEntryUrl": "https://overkillbattalion.com/pages/official-rules",
+      "officialRulesUrl": "https://giveowl.com/e/overkill-battalion-shared-sweeps--obg6-giveaway--2026/",
+      "endDate": "2026-11-30",
+      "reviewStatus": "needs_manual_review"
+    },
+    {
+      "id": "sourced-f2b63fcb9f1b3ab0",
+      "name": "Stork and Sun Sweepstakes",
+      "priority": 80,
+      "issues": [
+        "likely_rules_page_not_entry",
+        "access_restricted_unconfirmed"
+      ],
+      "httpStatus": 429,
+      "currentEntryUrl": "https://storkandsun.com/pages/sweepstakes-official-rules",
+      "officialRulesUrl": "https://giveowl.com/e/stork-and-sun-llc--stork-and-sun-sweepstakes--2026/",
+      "endDate": "2026-11-30",
       "reviewStatus": "needs_manual_review"
     },
     {
@@ -1453,7 +1447,8 @@
       "name": "HGTV Shock Your Home Sweepstakes",
       "priority": 70,
       "issues": [
-        "entry_matches_rules_link"
+        "entry_matches_rules_link",
+        "no_form_detected_manual_check"
       ],
       "httpStatus": 200,
       "currentEntryUrl": "https://www.hgtv.com/shows/house-shock/giveaway",
@@ -1506,7 +1501,8 @@
       "name": "Food Network Taste of Fall $5,000 Giveaway",
       "priority": 70,
       "issues": [
-        "entry_matches_rules_link"
+        "entry_matches_rules_link",
+        "no_form_detected_manual_check"
       ],
       "httpStatus": 200,
       "currentEntryUrl": "https://www.foodnetwork.com/features/articles/sweepstakes-and-contests",
@@ -1658,7 +1654,8 @@
       "name": "Food Network Magazine Who's Counting? Contest",
       "priority": 70,
       "issues": [
-        "entry_matches_rules_link"
+        "entry_matches_rules_link",
+        "no_form_detected_manual_check"
       ],
       "httpStatus": 200,
       "currentEntryUrl": "https://www.foodnetwork.com/magazine/food-network-magazine-whos-counting",
@@ -2282,7 +2279,8 @@
       "name": "Food Network Home for the Holidays $5,000 Giveaway",
       "priority": 70,
       "issues": [
-        "entry_matches_rules_link"
+        "entry_matches_rules_link",
+        "no_form_detected_manual_check"
       ],
       "httpStatus": 200,
       "currentEntryUrl": "https://www.foodnetwork.com/sponsored/sweepstakes/home-for-the-holidays",
@@ -2295,7 +2293,8 @@
       "name": "HGTV Home for the Holidays $5,000 Giveaway",
       "priority": 70,
       "issues": [
-        "entry_matches_rules_link"
+        "entry_matches_rules_link",
+        "no_form_detected_manual_check"
       ],
       "httpStatus": 200,
       "currentEntryUrl": "https://www.hgtv.com/sweepstakes/home-for-the-holidays",
@@ -2386,6 +2385,19 @@
       "reviewStatus": "needs_manual_review"
     },
     {
+      "id": "sourced-f60dd54792b68d66",
+      "name": "Larry's Coffee Moccamaster Giveaway",
+      "priority": 30,
+      "issues": [
+        "access_restricted_unconfirmed"
+      ],
+      "httpStatus": 429,
+      "currentEntryUrl": "https://larryscoffee.com/pages/moccamaster-giveaway",
+      "officialRulesUrl": "https://giveowl.com/e/larry-s-coffee--larry-s-coffee-moccamaster-giveaway--2026/",
+      "endDate": "2026-11-05",
+      "reviewStatus": "needs_manual_review"
+    },
+    {
       "id": "cold-stone-cat-hat-2026",
       "name": "The Cat in the Hat Sweepstakes",
       "priority": 30,
@@ -2409,6 +2421,45 @@
       "currentEntryUrl": "https://casdeia.com/pages/black-friday-draw-rules",
       "officialRulesUrl": "https://giveowl.com/e/cas-deia-silver-and-goods-s-l--cas-deia-black-friday-draw-win-your-wishlist-up-to-5-pieces-max-915--2026/",
       "endDate": "2026-11-08",
+      "reviewStatus": "needs_manual_review"
+    },
+    {
+      "id": "sourced-2db2e9787fdbb021",
+      "name": "Cove Home Holiday Hosting Giveaway",
+      "priority": 30,
+      "issues": [
+        "access_restricted_unconfirmed"
+      ],
+      "httpStatus": 429,
+      "currentEntryUrl": "https://cove-home.co/pages/holiday-giveaway",
+      "officialRulesUrl": "https://giveowl.com/e/cove-home-llc--cove-home-holiday-hosting-giveaway--2026/",
+      "endDate": "2026-11-09",
+      "reviewStatus": "needs_manual_review"
+    },
+    {
+      "id": "sourced-b17dbc168103b157",
+      "name": "Klean Freak $5,000 Cancun Getaway",
+      "priority": 30,
+      "issues": [
+        "access_restricted_unconfirmed"
+      ],
+      "httpStatus": 429,
+      "currentEntryUrl": "https://www.kleanfreak.com/pages/cancun-giveaway",
+      "officialRulesUrl": "https://giveowl.com/e/klean-freak-llc--klean-freak-5-000-cancun-getaway--2026/",
+      "endDate": "2026-11-10",
+      "reviewStatus": "needs_manual_review"
+    },
+    {
+      "id": "sourced-2fbd499882e31a90",
+      "name": "MadeOn Holiday Giveaway",
+      "priority": 30,
+      "issues": [
+        "access_restricted_unconfirmed"
+      ],
+      "httpStatus": 429,
+      "currentEntryUrl": "https://store.hardlotion.com/pages/giveaway-rules",
+      "officialRulesUrl": "https://giveowl.com/e/madeon-skin-care-hard-lotion--madeon-holiday-giveaway--2026/",
+      "endDate": "2026-11-11",
       "reviewStatus": "needs_manual_review"
     },
     {
@@ -2451,6 +2502,19 @@
       "reviewStatus": "needs_manual_review"
     },
     {
+      "id": "sourced-ce316149e9a959e9",
+      "name": "Kanso POWDER Giveaway",
+      "priority": 30,
+      "issues": [
+        "access_restricted_unconfirmed"
+      ],
+      "httpStatus": 429,
+      "currentEntryUrl": "https://www.ellisskis.com/pages/kanso-powder-giveaway",
+      "officialRulesUrl": "https://giveowl.com/e/ellis-skis--kanso-powder-giveaway--2026/",
+      "endDate": "2026-11-15",
+      "reviewStatus": "needs_manual_review"
+    },
+    {
       "id": "sourced-519a372acfb63d71",
       "name": "SHIFTPOD “Make It Golden” Holiday Giveaway",
       "priority": 30,
@@ -2464,6 +2528,71 @@
       "reviewStatus": "needs_manual_review"
     },
     {
+      "id": "sourced-69bc4a432486272b",
+      "name": "Molekule Ultimate Longevity Stack Sweepstakes",
+      "priority": 30,
+      "issues": [
+        "access_restricted_unconfirmed"
+      ],
+      "httpStatus": 429,
+      "currentEntryUrl": "https://molekule.com/pages/longevity",
+      "officialRulesUrl": "https://giveowl.com/e/molekule-group-inc--molekule-ultimate-longevity-stack-sweepstakes--2026/",
+      "endDate": "2026-11-16",
+      "reviewStatus": "needs_manual_review"
+    },
+    {
+      "id": "sourced-193570f8050e4d08",
+      "name": "Golf Discount Holiday Shopping Spree Giveaway",
+      "priority": 30,
+      "issues": [
+        "access_restricted_unconfirmed"
+      ],
+      "httpStatus": 429,
+      "currentEntryUrl": "https://www.golfdiscount.com/pages/giveaway",
+      "officialRulesUrl": "https://giveowl.com/e/golf-discount--golf-discount-holiday-shopping-spree-giveaway--2026/",
+      "endDate": "2026-11-19",
+      "reviewStatus": "needs_manual_review"
+    },
+    {
+      "id": "sourced-6a68d71245deedee",
+      "name": "KILLSTAR Black Friday Gift Card Giveaway: win a $1,000 gift card",
+      "priority": 30,
+      "issues": [
+        "access_restricted_unconfirmed"
+      ],
+      "httpStatus": 429,
+      "currentEntryUrl": "https://www.killstar.com/pages/competitions",
+      "officialRulesUrl": "https://giveowl.com/e/killstar--killstar-black-friday-gift-card-giveaway--2026-us/",
+      "endDate": "2026-11-22",
+      "reviewStatus": "needs_manual_review"
+    },
+    {
+      "id": "sourced-6590f6678bf1a591",
+      "name": "Monos Mercedes-Benz G320 Giveaway",
+      "priority": 30,
+      "issues": [
+        "access_restricted_unconfirmed"
+      ],
+      "httpStatus": 429,
+      "currentEntryUrl": "https://monos.com/pages/giveaway-rules",
+      "officialRulesUrl": "https://giveowl.com/e/monos-travel-usa-operations-ltd--monos-mercedes-benz-g320-giveaway--2026/",
+      "endDate": "2026-11-26",
+      "reviewStatus": "needs_manual_review"
+    },
+    {
+      "id": "sourced-d8fc1dcb60eeb8e0",
+      "name": "ElectroGum Early Black Friday Apple Watch Giveaway",
+      "priority": 30,
+      "issues": [
+        "access_restricted_unconfirmed"
+      ],
+      "httpStatus": 429,
+      "currentEntryUrl": "https://electrogum.com/pages/apple-watch-giveaway",
+      "officialRulesUrl": "https://giveowl.com/e/electrogum-llc--electrogum-early-black-friday-apple-watch-giveaway--2026/",
+      "endDate": "2026-11-27",
+      "reviewStatus": "needs_manual_review"
+    },
+    {
       "id": "sourced-809c2e4b24939918",
       "name": "Ordo Black Friday Airbnb Giveaway 2026 (US)",
       "priority": 30,
@@ -2474,6 +2603,45 @@
       "currentEntryUrl": "https://www.ordolife.com/en-us/pages/giveaway-terms-conditions",
       "officialRulesUrl": "https://giveowl.com/e/ordo-ordoclub-ltd--ordo-black-friday-airbnb-giveaway-2026-us--2026/",
       "endDate": "2026-11-29",
+      "reviewStatus": "needs_manual_review"
+    },
+    {
+      "id": "sourced-98d1aa1c689d2217",
+      "name": "ACON Black Friday 2026 \"Ultimate Backyard Setup\" Giveaway",
+      "priority": 30,
+      "issues": [
+        "access_restricted_unconfirmed"
+      ],
+      "httpStatus": 429,
+      "currentEntryUrl": "https://us.acon24.com/pages/black-friday",
+      "officialRulesUrl": "https://giveowl.com/e/acon-distributacon-inc--acon-black-friday-2026-ultimate-backyard-setup-giveaway--2026/",
+      "endDate": "2026-11-30",
+      "reviewStatus": "needs_manual_review"
+    },
+    {
+      "id": "sourced-0ccdf8fe14341af8",
+      "name": "Apollo Scooters Black Friday Weekly Draw (US)",
+      "priority": 30,
+      "issues": [
+        "access_restricted_unconfirmed"
+      ],
+      "httpStatus": 429,
+      "currentEntryUrl": "https://apolloscooters.co/pages/black-friday-early-access-apollo-scooters",
+      "officialRulesUrl": "https://giveowl.com/e/apollo-imports-inc-apollo-scooters--apollo-scooters-black-friday-weekly-draw-us--2026/",
+      "endDate": "2026-11-30",
+      "reviewStatus": "needs_manual_review"
+    },
+    {
+      "id": "sourced-470433e95a03b904",
+      "name": "Holiday Giveaway: Trucker Essentials Bundle",
+      "priority": 30,
+      "issues": [
+        "access_restricted_unconfirmed"
+      ],
+      "httpStatus": 429,
+      "currentEntryUrl": "https://www.truckerspride.com/pages/giveaway",
+      "officialRulesUrl": "https://giveowl.com/e/trucker-s-pride-syross-inc--holiday-giveaway-trucker-essentials-bundle--2026/",
+      "endDate": "2026-11-30",
       "reviewStatus": "needs_manual_review"
     },
     {
@@ -2503,6 +2671,32 @@
       "reviewStatus": "needs_manual_review"
     },
     {
+      "id": "sourced-7d1a72ec4a965bd0",
+      "name": "MOON Black Friday Giveaway",
+      "priority": 30,
+      "issues": [
+        "access_restricted_unconfirmed"
+      ],
+      "httpStatus": 429,
+      "currentEntryUrl": "https://moonwhiteshop.store/pages/giveaway",
+      "officialRulesUrl": "https://giveowl.com/e/moonwhite-global-screen-limited--moon-black-friday-giveaway--2026/",
+      "endDate": "2026-11-30",
+      "reviewStatus": "needs_manual_review"
+    },
+    {
+      "id": "sourced-29d7ddde2c73561a",
+      "name": "Main Street Collective Handmade Holiday Giveaway 2026",
+      "priority": 30,
+      "issues": [
+        "access_restricted_unconfirmed"
+      ],
+      "httpStatus": 429,
+      "currentEntryUrl": "https://www.mainstreetco.us/pages/handmade-holiday-rules-2026",
+      "officialRulesUrl": "https://giveowl.com/e/main-street-collective--main-street-collective-handmade-holiday-giveaway--2026/",
+      "endDate": "2026-11-30",
+      "reviewStatus": "needs_manual_review"
+    },
+    {
       "id": "sourced-7686c547f56db45c",
       "name": "Redshirt Golf Scotty Cameron Phantom 9.2R Giveaway",
       "priority": 30,
@@ -2512,6 +2706,19 @@
       "httpStatus": 429,
       "currentEntryUrl": "https://playredshirtgolf.com/pages/win-a-scotty-cameron-phantom-92r",
       "officialRulesUrl": "https://giveowl.com/e/redshirt-brands-llc-redshirt-golf--redshirt-golf-scotty-cameron-phantom-9-2r-giveaway--2026/",
+      "endDate": "2026-11-30",
+      "reviewStatus": "needs_manual_review"
+    },
+    {
+      "id": "sourced-3c81d43dd8060dc1",
+      "name": "Slabtown Card Shop November 2026 Giveaway: Topps Holiday Football Mega Box",
+      "priority": 30,
+      "issues": [
+        "access_restricted_unconfirmed"
+      ],
+      "httpStatus": 429,
+      "currentEntryUrl": "https://slabtowncardshop.com/pages/november-2026-giveaway-rules",
+      "officialRulesUrl": "https://giveowl.com/e/slabtown-card-shop--slabtown-november-2026-giveaway--2026/",
       "endDate": "2026-11-30",
       "reviewStatus": "needs_manual_review"
     },
@@ -3013,19 +3220,6 @@
       "reviewStatus": "needs_manual_review"
     },
     {
-      "id": "sourced-2db2e9787fdbb021",
-      "name": "Cove Home Holiday Hosting Giveaway",
-      "priority": 20,
-      "issues": [
-        "no_form_detected_manual_check"
-      ],
-      "httpStatus": 200,
-      "currentEntryUrl": "https://cove-home.co/pages/holiday-giveaway",
-      "officialRulesUrl": "https://giveowl.com/e/cove-home-llc--cove-home-holiday-hosting-giveaway--2026/",
-      "endDate": "2026-11-09",
-      "reviewStatus": "needs_manual_review"
-    },
-    {
       "id": "bon-appetit-gear-year-2026",
       "name": "Bon Appétit Gear of the Year Giveaway",
       "priority": 20,
@@ -3052,15 +3246,15 @@
       "reviewStatus": "needs_manual_review"
     },
     {
-      "id": "sourced-b17dbc168103b157",
-      "name": "Klean Freak $5,000 Cancun Getaway",
+      "id": "sourced-13225346f3d48ae4",
+      "name": "Food Network Taste of Fall Giveaway",
       "priority": 20,
       "issues": [
         "no_form_detected_manual_check"
       ],
       "httpStatus": 200,
-      "currentEntryUrl": "https://www.kleanfreak.com/pages/cancun-giveaway",
-      "officialRulesUrl": "https://giveowl.com/e/klean-freak-llc--klean-freak-5-000-cancun-getaway--2026/",
+      "currentEntryUrl": "https://www.foodnetwork.com/sponsored/sweepstakes/taste-of-fall",
+      "officialRulesUrl": "https://giveowl.com/e/food-network-warner-bros-discovery--food-network-taste-of-fall-giveaway--2026/",
       "endDate": "2026-11-10",
       "reviewStatus": "needs_manual_review"
     },
@@ -3074,19 +3268,6 @@
       "httpStatus": 200,
       "currentEntryUrl": "https://www.guitarcenter.com/gear-giveaway.gc",
       "officialRulesUrl": "https://giveowl.com/e/guitar-center--guitar-center-fender-pre-black-friday-sweepstakes--2026/",
-      "endDate": "2026-11-11",
-      "reviewStatus": "needs_manual_review"
-    },
-    {
-      "id": "sourced-2fbd499882e31a90",
-      "name": "MadeOn Holiday Giveaway",
-      "priority": 20,
-      "issues": [
-        "no_form_detected_manual_check"
-      ],
-      "httpStatus": 200,
-      "currentEntryUrl": "https://store.hardlotion.com/pages/giveaway-rules",
-      "officialRulesUrl": "https://giveowl.com/e/madeon-skin-care-hard-lotion--madeon-holiday-giveaway--2026/",
       "endDate": "2026-11-11",
       "reviewStatus": "needs_manual_review"
     },
@@ -3144,32 +3325,6 @@
       "reviewStatus": "needs_manual_review"
     },
     {
-      "id": "sourced-69bc4a432486272b",
-      "name": "Molekule Ultimate Longevity Stack Sweepstakes",
-      "priority": 20,
-      "issues": [
-        "no_form_detected_manual_check"
-      ],
-      "httpStatus": 200,
-      "currentEntryUrl": "https://molekule.com/pages/longevity",
-      "officialRulesUrl": "https://giveowl.com/e/molekule-group-inc--molekule-ultimate-longevity-stack-sweepstakes--2026/",
-      "endDate": "2026-11-16",
-      "reviewStatus": "needs_manual_review"
-    },
-    {
-      "id": "sourced-6a68d71245deedee",
-      "name": "KILLSTAR Black Friday Gift Card Giveaway: win a $1,000 gift card",
-      "priority": 20,
-      "issues": [
-        "no_form_detected_manual_check"
-      ],
-      "httpStatus": 200,
-      "currentEntryUrl": "https://www.killstar.com/pages/competitions",
-      "officialRulesUrl": "https://giveowl.com/e/killstar--killstar-black-friday-gift-card-giveaway--2026-us/",
-      "endDate": "2026-11-22",
-      "reviewStatus": "needs_manual_review"
-    },
-    {
       "id": "sourced-76fe699317561b49",
       "name": "LEGO Win Your Wish List",
       "priority": 20,
@@ -3223,32 +3378,6 @@
       "reviewStatus": "needs_manual_review"
     },
     {
-      "id": "sourced-6590f6678bf1a591",
-      "name": "Monos Mercedes-Benz G320 Giveaway",
-      "priority": 20,
-      "issues": [
-        "no_form_detected_manual_check"
-      ],
-      "httpStatus": 200,
-      "currentEntryUrl": "https://monos.com/pages/giveaway-rules",
-      "officialRulesUrl": "https://giveowl.com/e/monos-travel-usa-operations-ltd--monos-mercedes-benz-g320-giveaway--2026/",
-      "endDate": "2026-11-26",
-      "reviewStatus": "needs_manual_review"
-    },
-    {
-      "id": "sourced-d8fc1dcb60eeb8e0",
-      "name": "ElectroGum Early Black Friday Apple Watch Giveaway",
-      "priority": 20,
-      "issues": [
-        "no_form_detected_manual_check"
-      ],
-      "httpStatus": 200,
-      "currentEntryUrl": "https://electrogum.com/pages/apple-watch-giveaway",
-      "officialRulesUrl": "https://giveowl.com/e/electrogum-llc--electrogum-early-black-friday-apple-watch-giveaway--2026/",
-      "endDate": "2026-11-27",
-      "reviewStatus": "needs_manual_review"
-    },
-    {
       "id": "verified-source-coca-cola-friday-football-2026",
       "name": "Coca-Cola Friday for the Win Football Sweepstakes",
       "priority": 20,
@@ -3288,32 +3417,6 @@
       "reviewStatus": "needs_manual_review"
     },
     {
-      "id": "sourced-98d1aa1c689d2217",
-      "name": "ACON Black Friday 2026 \"Ultimate Backyard Setup\" Giveaway",
-      "priority": 20,
-      "issues": [
-        "no_form_detected_manual_check"
-      ],
-      "httpStatus": 200,
-      "currentEntryUrl": "https://us.acon24.com/pages/black-friday",
-      "officialRulesUrl": "https://giveowl.com/e/acon-distributacon-inc--acon-black-friday-2026-ultimate-backyard-setup-giveaway--2026/",
-      "endDate": "2026-11-30",
-      "reviewStatus": "needs_manual_review"
-    },
-    {
-      "id": "sourced-0ccdf8fe14341af8",
-      "name": "Apollo Scooters Black Friday Weekly Draw (US)",
-      "priority": 20,
-      "issues": [
-        "no_form_detected_manual_check"
-      ],
-      "httpStatus": 200,
-      "currentEntryUrl": "https://apolloscooters.co/pages/black-friday-early-access-apollo-scooters",
-      "officialRulesUrl": "https://giveowl.com/e/apollo-imports-inc-apollo-scooters--apollo-scooters-black-friday-weekly-draw-us--2026/",
-      "endDate": "2026-11-30",
-      "reviewStatus": "needs_manual_review"
-    },
-    {
       "id": "sourced-d97e34370927ac07",
       "name": "Dacia Reserve Holiday Giveaway",
       "priority": 20,
@@ -3336,45 +3439,6 @@
       "httpStatus": 200,
       "currentEntryUrl": "https://fordeventreg.com/BWFGeneralRegistration",
       "officialRulesUrl": "https://fordeventreg.com/assets/pdfs/en/BWF26_Sweepstakes_Rules.pdf",
-      "endDate": "2026-11-30",
-      "reviewStatus": "needs_manual_review"
-    },
-    {
-      "id": "sourced-470433e95a03b904",
-      "name": "Holiday Giveaway: Trucker Essentials Bundle",
-      "priority": 20,
-      "issues": [
-        "no_form_detected_manual_check"
-      ],
-      "httpStatus": 200,
-      "currentEntryUrl": "https://www.truckerspride.com/pages/giveaway",
-      "officialRulesUrl": "https://giveowl.com/e/trucker-s-pride-syross-inc--holiday-giveaway-trucker-essentials-bundle--2026/",
-      "endDate": "2026-11-30",
-      "reviewStatus": "needs_manual_review"
-    },
-    {
-      "id": "sourced-29d7ddde2c73561a",
-      "name": "Main Street Collective Handmade Holiday Giveaway 2026",
-      "priority": 20,
-      "issues": [
-        "no_form_detected_manual_check"
-      ],
-      "httpStatus": 200,
-      "currentEntryUrl": "https://www.mainstreetco.us/pages/handmade-holiday-rules-2026",
-      "officialRulesUrl": "https://giveowl.com/e/main-street-collective--main-street-collective-handmade-holiday-giveaway--2026/",
-      "endDate": "2026-11-30",
-      "reviewStatus": "needs_manual_review"
-    },
-    {
-      "id": "sourced-3c81d43dd8060dc1",
-      "name": "Slabtown Card Shop November 2026 Giveaway: Topps Holiday Football Mega Box",
-      "priority": 20,
-      "issues": [
-        "no_form_detected_manual_check"
-      ],
-      "httpStatus": 200,
-      "currentEntryUrl": "https://slabtowncardshop.com/pages/november-2026-giveaway-rules",
-      "officialRulesUrl": "https://giveowl.com/e/slabtown-card-shop--slabtown-november-2026-giveaway--2026/",
       "endDate": "2026-11-30",
       "reviewStatus": "needs_manual_review"
     },
