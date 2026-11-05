@@ -1,9 +1,9 @@
 {
-  "checked_at": "2026-11-04T23:38:27.109877+00:00",
+  "checked_at": "2026-11-05T06:40:43.953461+00:00",
   "records": 340,
   "unique_urls": 586,
-  "active_records": 296,
-  "flagged_records": 187,
+  "active_records": 294,
+  "flagged_records": 185,
   "results": [
     {
       "id": "motion-urus-2026",
@@ -284,7 +284,7 @@
     {
       "id": "common-uniform-october-2026",
       "expires": "2026-11-04",
-      "expired": false,
+      "expired": true,
       "checks": [
         {
           "type": "entryUrl",
@@ -2680,9 +2680,10 @@
       "checks": [
         {
           "type": "entryUrl",
-          "http_status": 404,
-          "reachable": false,
-          "error": "http_error"
+          "http_status": 200,
+          "reachable": true,
+          "final_url": "https://tartecosmetics.com/pages/vip-holiday-sweeps",
+          "title": ""
         },
         {
           "type": "rulesUrl",
@@ -2692,9 +2693,7 @@
           "title": "Tarte VIP 2026 Holiday Collection Giveaway | GiveOwl"
         }
       ],
-      "flags": [
-        "entryUrl_not_found"
-      ],
+      "flags": [],
       "verified_entry_form": false
     },
     {
@@ -3028,7 +3027,7 @@
     {
       "id": "sourced-fbbd23ff450fd429",
       "expires": "2026-11-04",
-      "expired": false,
+      "expired": true,
       "checks": [
         {
           "type": "entryUrl",
@@ -3529,9 +3528,10 @@
       "checks": [
         {
           "type": "entryUrl",
-          "http_status": 403,
-          "reachable": false,
-          "error": "http_error"
+          "http_status": 200,
+          "reachable": true,
+          "final_url": "https://www.thenorthface.com/en-us/xplr-pass/xplr-pass-sweepstakes",
+          "title": "XPLR Pass Sweepstakes | The North Face"
         },
         {
           "type": "rulesUrl",
@@ -3541,9 +3541,7 @@
           "title": "The North Face Holiday Wish List Sweepstakes | GiveOwl"
         }
       ],
-      "flags": [
-        "entryUrl_unconfirmed_or_blocked"
-      ],
+      "flags": [],
       "verified_entry_form": false
     },
     {
