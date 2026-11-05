@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-05T06:40:43.953461+00:00",
+  "checked_at": "2026-11-05T19:54:42.598689+00:00",
   "records": 340,
   "unique_urls": 586,
   "active_records": 294,
@@ -4170,7 +4170,7 @@
           "http_status": 200,
           "reachable": true,
           "final_url": "https://www.killstar.com/pages/competitions",
-          "title": ""
+          "title": "Competitions &dash; KILLSTAR"
         },
         {
           "type": "rulesUrl",
@@ -8001,23 +8001,22 @@
       "checks": [
         {
           "type": "entryUrl",
-          "http_status": 200,
-          "reachable": true,
-          "final_url": "https://www.celebratewithsquirtsoda.com/",
-          "title": ""
+          "http_status": null,
+          "reachable": false,
+          "error": "URLError"
         },
         {
           "type": "rulesUrl",
-          "http_status": 200,
-          "reachable": true,
-          "final_url": "https://www.celebratewithsquirtsoda.com/",
-          "title": ""
+          "http_status": null,
+          "reachable": false,
+          "error": "URLError"
         }
       ],
       "flags": [
+        "entryUrl_unconfirmed_or_blocked",
         "entry_and_rules_same_url_review",
         "entry_is_homepage_review",
-        "entry_redirects_to_homepage"
+        "rulesUrl_unconfirmed_or_blocked"
       ],
       "verified_entry_form": false
     },
