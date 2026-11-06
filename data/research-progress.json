@@ -12,7 +12,7 @@
     "unresolved": 2636
   },
   "current_discovery_status": {
-    "research_only": 148
+    "research_only": 153
   },
   "lookup_results_current": 0,
   "lookup_remaining_current": 153,
@@ -30,8 +30,8 @@
   "rejected_research_navigation_leads_this_run": 0,
   "reviewed_official_sources_this_run": [],
   "repository_maintenance_this_run": [
-    "Repaired zero-byte entry lookup JSON report with 148 pending research candidates.",
-    "Updated lookup resolver to replace output atomically instead of writing directly.",
-    "Historical research totals carried forward without independently recounting archived files."
+    "Repaired zero-byte lookup report with 153 pending current research candidates; no historical lookup results recovered.",
+    "Added per-batch JSON structure and count checks before GitHub commits.",
+    "Recounted curated catalog and current discovery candidates; historical archive figures remain carried forward."
   ]
 }
