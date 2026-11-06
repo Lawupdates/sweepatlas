@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-06T08:16:21.833204+00:00",
-  "auditGeneratedAt": "2026-11-06T08:15:57.438716+00:00",
-  "count": 276,
+  "generatedAt": "2026-11-06T20:02:06.319903+00:00",
+  "auditGeneratedAt": "2026-11-06T20:01:42.524945+00:00",
+  "count": 281,
   "notice": "Research queue only; do not infer a 403 means dead link or automatically promote guessed URLs. Expired records should remain accessible in the expired archive.",
   "queue": [
     {
@@ -344,21 +344,6 @@
       "reviewStatus": "needs_manual_review"
     },
     {
-      "id": "sourced-d23a4efd9f48175e",
-      "name": "RipSkirt Hawaii Live Like You're On Vacation Sweepstakes",
-      "priority": 85,
-      "issues": [
-        "likely_rules_page_not_entry",
-        "no_form_detected_manual_check",
-        "redirected_to_rules_page"
-      ],
-      "httpStatus": 200,
-      "currentEntryUrl": "https://ripskirthawaii.com/pages/the-live-like-youre-on-vacation-sweepstakes-official-rules",
-      "officialRulesUrl": "https://giveowl.com/e/sierra-brands-group-ripskirt-hawaii--ripskirt-hawaii-live-like-you-re-on-vacation-sweepstakes--2026/",
-      "endDate": "2026-11-15",
-      "reviewStatus": "needs_manual_review"
-    },
-    {
       "id": "sourced-aeafb2521600846d",
       "name": "Sparkle Home Essentials Sweepstakes",
       "priority": 85,
@@ -386,21 +371,6 @@
       "currentEntryUrl": "https://www.vanityfairnapkins.com/win-a-year-supply-sweeps/rules",
       "officialRulesUrl": "https://giveowl.com/e/georgia-pacific-consumer-products-vanity-fair--vanity-fair-home-essentials-sweepstakes--2026/",
       "endDate": "2026-11-15",
-      "reviewStatus": "needs_manual_review"
-    },
-    {
-      "id": "sourced-f31377b3301f6ca1",
-      "name": "BURST x MAGNA-TILES Giveaway",
-      "priority": 85,
-      "issues": [
-        "likely_rules_page_not_entry",
-        "no_form_detected_manual_check",
-        "redirected_to_rules_page"
-      ],
-      "httpStatus": 200,
-      "currentEntryUrl": "https://burstoralcare.com/pages/magna-tiles-x-burstkids-sweepstakes-rules",
-      "officialRulesUrl": "https://giveowl.com/e/burst-oral-care--burst-x-magna-tiles-giveaway--2026/",
-      "endDate": "2026-11-16",
       "reviewStatus": "needs_manual_review"
     },
     {
@@ -489,6 +459,21 @@
       "currentEntryUrl": "https://www.pbs.org/wgbh/masterpiece/sweepstakes-official-rules/",
       "officialRulesUrl": "https://giveowl.com/e/wgbh-educational-foundation-pbs-masterpiece--2026-masterpiece-european-river-cruise-sweepstakes--2026/",
       "endDate": "2026-11-24",
+      "reviewStatus": "needs_manual_review"
+    },
+    {
+      "id": "sourced-473ace576a87748e",
+      "name": "WinCo Foods 'Fresh Turkey, Full Table' Butterball Sweepstakes",
+      "priority": 85,
+      "issues": [
+        "likely_rules_page_not_entry",
+        "no_form_detected_manual_check",
+        "redirected_to_rules_page"
+      ],
+      "httpStatus": 200,
+      "currentEntryUrl": "https://promotions.wincofoods.com/fresh-turkey-full-table-butterball-sweepstakes-official-rules-copy/",
+      "officialRulesUrl": "https://giveowl.com/e/winco-foods--winco-foods-fresh-turkey-full-table-butterball-sweepstakes--2026/",
+      "endDate": "2026-11-26",
       "reviewStatus": "needs_manual_review"
     },
     {
@@ -667,20 +652,6 @@
       "currentEntryUrl": "https://www.newbelgium.com/siteassets/rules/4369418466_vr_x_halloween.pdf",
       "officialRulesUrl": "https://giveowl.com/e/new-belgium-brewing-company--voodoo-ranger-x-halloween-sweepstakes--2026/",
       "endDate": "2026-11-30",
-      "reviewStatus": "needs_manual_review"
-    },
-    {
-      "id": "sourced-f35fa338dea65776",
-      "name": "Mother Earth News Brinsea Maxi 24 Incubator Giveaway",
-      "priority": 85,
-      "issues": [
-        "likely_rules_page_not_entry",
-        "redirected_to_rules_page"
-      ],
-      "httpStatus": 200,
-      "currentEntryUrl": "https://www.motherearthnews.com/sweepstakes/brinsea-maxi/rules/",
-      "officialRulesUrl": "https://giveowl.com/e/mother-earth-news-ogden-publications--mother-earth-news-brinsea-maxi-24-incubator-giveaway--2026/",
-      "endDate": "2026-12-10",
       "reviewStatus": "needs_manual_review"
     },
     {
@@ -1021,6 +992,34 @@
       "reviewStatus": "needs_manual_review"
     },
     {
+      "id": "sourced-d23a4efd9f48175e",
+      "name": "RipSkirt Hawaii Live Like You're On Vacation Sweepstakes",
+      "priority": 80,
+      "issues": [
+        "likely_rules_page_not_entry",
+        "access_restricted_unconfirmed"
+      ],
+      "httpStatus": 429,
+      "currentEntryUrl": "https://ripskirthawaii.com/pages/the-live-like-youre-on-vacation-sweepstakes-official-rules",
+      "officialRulesUrl": "https://giveowl.com/e/sierra-brands-group-ripskirt-hawaii--ripskirt-hawaii-live-like-you-re-on-vacation-sweepstakes--2026/",
+      "endDate": "2026-11-15",
+      "reviewStatus": "needs_manual_review"
+    },
+    {
+      "id": "sourced-f31377b3301f6ca1",
+      "name": "BURST x MAGNA-TILES Giveaway",
+      "priority": 80,
+      "issues": [
+        "likely_rules_page_not_entry",
+        "access_restricted_unconfirmed"
+      ],
+      "httpStatus": 429,
+      "currentEntryUrl": "https://burstoralcare.com/pages/magna-tiles-x-burstkids-sweepstakes-rules",
+      "officialRulesUrl": "https://giveowl.com/e/burst-oral-care--burst-x-magna-tiles-giveaway--2026/",
+      "endDate": "2026-11-16",
+      "reviewStatus": "needs_manual_review"
+    },
+    {
       "id": "sourced-b669d933dccff79f",
       "name": "The Forward Bar BFCM Sweepstakes",
       "priority": 80,
@@ -1032,20 +1031,6 @@
       "currentEntryUrl": "https://theforwardbar.com/pages/bfcm-sweepstakes-official-rules",
       "officialRulesUrl": "https://giveowl.com/e/the-forward-company-inc--the-forward-bar-bfcm-sweepstakes--2026/",
       "endDate": "2026-11-24",
-      "reviewStatus": "needs_manual_review"
-    },
-    {
-      "id": "sourced-473ace576a87748e",
-      "name": "WinCo Foods 'Fresh Turkey, Full Table' Butterball Sweepstakes",
-      "priority": 80,
-      "issues": [
-        "likely_rules_page_not_entry",
-        "network_check_failed"
-      ],
-      "httpStatus": null,
-      "currentEntryUrl": "https://promotions.wincofoods.com/fresh-turkey-full-table-butterball-sweepstakes-official-rules-copy/",
-      "officialRulesUrl": "https://giveowl.com/e/winco-foods--winco-foods-fresh-turkey-full-table-butterball-sweepstakes--2026/",
-      "endDate": "2026-11-26",
       "reviewStatus": "needs_manual_review"
     },
     {
@@ -1116,6 +1101,20 @@
       "currentEntryUrl": "https://storkandsun.com/pages/sweepstakes-official-rules",
       "officialRulesUrl": "https://giveowl.com/e/stork-and-sun-llc--stork-and-sun-sweepstakes--2026/",
       "endDate": "2026-11-30",
+      "reviewStatus": "needs_manual_review"
+    },
+    {
+      "id": "sourced-f35fa338dea65776",
+      "name": "Mother Earth News Brinsea Maxi 24 Incubator Giveaway",
+      "priority": 80,
+      "issues": [
+        "likely_rules_page_not_entry",
+        "network_check_failed"
+      ],
+      "httpStatus": null,
+      "currentEntryUrl": "https://www.motherearthnews.com/sweepstakes/brinsea-maxi/rules/",
+      "officialRulesUrl": "https://giveowl.com/e/mother-earth-news-ogden-publications--mother-earth-news-brinsea-maxi-24-incubator-giveaway--2026/",
+      "endDate": "2026-12-10",
       "reviewStatus": "needs_manual_review"
     },
     {
@@ -2440,6 +2439,19 @@
       "reviewStatus": "needs_manual_review"
     },
     {
+      "id": "sourced-255e207dc8dcfa60",
+      "name": "Monolight Sauna Giveaway 2026: win ONE, DUO or PRO infrared sauna",
+      "priority": 30,
+      "issues": [
+        "access_restricted_unconfirmed"
+      ],
+      "httpStatus": 429,
+      "currentEntryUrl": "https://monolightsauna.com/pages/giveaway",
+      "officialRulesUrl": "https://giveowl.com/e/monolight-wellness-llc--monolight-sauna-giveaway-2026-win-one-duo-or-pro-infrared-sauna--2026/",
+      "endDate": "2026-11-12",
+      "reviewStatus": "needs_manual_review"
+    },
+    {
       "id": "sourced-25e39b1108980d2f",
       "name": "The North Face Holiday Wish List Sweepstakes",
       "priority": 30,
@@ -2453,6 +2465,19 @@
       "reviewStatus": "needs_manual_review"
     },
     {
+      "id": "sourced-ce316149e9a959e9",
+      "name": "Kanso POWDER Giveaway",
+      "priority": 30,
+      "issues": [
+        "access_restricted_unconfirmed"
+      ],
+      "httpStatus": 429,
+      "currentEntryUrl": "https://www.ellisskis.com/pages/kanso-powder-giveaway",
+      "officialRulesUrl": "https://giveowl.com/e/ellis-skis--kanso-powder-giveaway--2026/",
+      "endDate": "2026-11-15",
+      "reviewStatus": "needs_manual_review"
+    },
+    {
       "id": "sourced-519a372acfb63d71",
       "name": "SHIFTPOD “Make It Golden” Holiday Giveaway",
       "priority": 30,
@@ -2463,6 +2488,32 @@
       "currentEntryUrl": "https://shiftpod.com/pages/giveaway-rules",
       "officialRulesUrl": "https://giveowl.com/e/advanced-shelter-systems-inc-dba-shiftpod--shiftpod-make-it-golden-holiday-giveaway--2026/",
       "endDate": "2026-11-15",
+      "reviewStatus": "needs_manual_review"
+    },
+    {
+      "id": "sourced-69bc4a432486272b",
+      "name": "Molekule Ultimate Longevity Stack Sweepstakes",
+      "priority": 30,
+      "issues": [
+        "access_restricted_unconfirmed"
+      ],
+      "httpStatus": 429,
+      "currentEntryUrl": "https://molekule.com/pages/longevity",
+      "officialRulesUrl": "https://giveowl.com/e/molekule-group-inc--molekule-ultimate-longevity-stack-sweepstakes--2026/",
+      "endDate": "2026-11-16",
+      "reviewStatus": "needs_manual_review"
+    },
+    {
+      "id": "sourced-193570f8050e4d08",
+      "name": "Golf Discount Holiday Shopping Spree Giveaway",
+      "priority": 30,
+      "issues": [
+        "access_restricted_unconfirmed"
+      ],
+      "httpStatus": 429,
+      "currentEntryUrl": "https://www.golfdiscount.com/pages/giveaway",
+      "officialRulesUrl": "https://giveowl.com/e/golf-discount--golf-discount-holiday-shopping-spree-giveaway--2026/",
+      "endDate": "2026-11-19",
       "reviewStatus": "needs_manual_review"
     },
     {
@@ -2540,6 +2591,19 @@
       "httpStatus": 429,
       "currentEntryUrl": "https://apolloscooters.co/pages/black-friday-early-access-apollo-scooters",
       "officialRulesUrl": "https://giveowl.com/e/apollo-imports-inc-apollo-scooters--apollo-scooters-black-friday-weekly-draw-us--2026/",
+      "endDate": "2026-11-30",
+      "reviewStatus": "needs_manual_review"
+    },
+    {
+      "id": "sourced-f34915725509c6f8",
+      "name": "HNDRD NITRIX 80 BULLET Ultimate Giveaway: racket, kit bag and tournament tee",
+      "priority": 30,
+      "issues": [
+        "access_restricted_unconfirmed"
+      ],
+      "httpStatus": 429,
+      "currentEntryUrl": "https://us.hndrd.co/pages/hndrd-giveaway",
+      "officialRulesUrl": "https://giveowl.com/e/sunlight-sports-us-llc-hndrd-usa--hndrd-nitrix-80-bullet-ultimate-giveaway-racket-kit-bag-and-tournament-tee--2026/",
       "endDate": "2026-11-30",
       "reviewStatus": "needs_manual_review"
     },
@@ -3277,19 +3341,6 @@
       "reviewStatus": "needs_manual_review"
     },
     {
-      "id": "sourced-69bc4a432486272b",
-      "name": "Molekule Ultimate Longevity Stack Sweepstakes",
-      "priority": 20,
-      "issues": [
-        "no_form_detected_manual_check"
-      ],
-      "httpStatus": 200,
-      "currentEntryUrl": "https://molekule.com/pages/longevity",
-      "officialRulesUrl": "https://giveowl.com/e/molekule-group-inc--molekule-ultimate-longevity-stack-sweepstakes--2026/",
-      "endDate": "2026-11-16",
-      "reviewStatus": "needs_manual_review"
-    },
-    {
       "id": "sourced-76fe699317561b49",
       "name": "LEGO Win Your Wish List",
       "priority": 20,
@@ -3417,6 +3468,20 @@
       "httpStatus": 200,
       "currentEntryUrl": "https://www.thepioneerwoman.com/just-for-fun/a74221142/captioncontest/",
       "officialRulesUrl": "https://giveowl.com/e/hearst-magazine-media-the-pioneer-woman-magazine--the-pioneer-woman-magazine-holiday-2026-caption-contest--2026/",
+      "endDate": "2026-11-30",
+      "reviewStatus": "needs_manual_review"
+    },
+    {
+      "id": "sourced-4f25bba8cb7421bc",
+      "name": "Win with FALKEN – Bike Giveaway: BULLS e-trail or carbon gravel bikes",
+      "priority": 20,
+      "issues": [
+        "no_form_detected_manual_check",
+        "possible_homepage_not_entry"
+      ],
+      "httpStatus": 200,
+      "currentEntryUrl": "https://win-with-falken.com/",
+      "officialRulesUrl": "https://giveowl.com/e/sokrativ-gmbh-with-dunlop-tyre-europe-bulls-zeg--win-with-falken-bike-giveaway-bulls-e-trail-or-carbon-gravel-bikes--2026/",
       "endDate": "2026-11-30",
       "reviewStatus": "needs_manual_review"
     },
