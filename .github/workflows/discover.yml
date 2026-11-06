@@ -39,6 +39,7 @@ jobs:
           for batch in 1 2 3 4 5 6; do
             echo "Resolving entry links: batch $batch of 6"
             LOOKUP_BATCH=250 python scripts/resolve_entry_links.py
+            python -c 'import json,pathlib; p=pathlib.Path("data/entry-lookup-results.json"); j=json.loads(p.read_text()); assert isinstance(j.get("results"),dict), "Missing results"; assert 0<=j.get("searched",0)<=j.get("total_source_records",0), "Bad counts"; print("Validated lookup batch:",j["searched"])'
             git add data/entry-lookup-results.json
             if ! git diff --cached --quiet; then
               git commit -m "Record entry link lookup batch $batch of 6"
