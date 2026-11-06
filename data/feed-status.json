@@ -1,9 +1,9 @@
 {
-  "checked_at": "2026-11-05T19:54:42.598689+00:00",
+  "checked_at": "2026-11-06T06:37:07.440294+00:00",
   "records": 340,
   "unique_urls": 586,
-  "active_records": 294,
-  "flagged_records": 185,
+  "active_records": 291,
+  "flagged_records": 187,
   "results": [
     {
       "id": "motion-urus-2026",
@@ -1155,7 +1155,7 @@
     {
       "id": "chestnut-hill-tech-2026",
       "expires": "2026-11-05",
-      "expired": false,
+      "expired": true,
       "checks": [
         {
           "type": "entryUrl",
@@ -2680,10 +2680,9 @@
       "checks": [
         {
           "type": "entryUrl",
-          "http_status": 200,
-          "reachable": true,
-          "final_url": "https://tartecosmetics.com/pages/vip-holiday-sweeps",
-          "title": ""
+          "http_status": 404,
+          "reachable": false,
+          "error": "http_error"
         },
         {
           "type": "rulesUrl",
@@ -2693,7 +2692,9 @@
           "title": "Tarte VIP 2026 Holiday Collection Giveaway | GiveOwl"
         }
       ],
-      "flags": [],
+      "flags": [
+        "entryUrl_not_found"
+      ],
       "verified_entry_form": false
     },
     {
@@ -2844,10 +2845,9 @@
       "checks": [
         {
           "type": "entryUrl",
-          "http_status": 200,
-          "reachable": true,
-          "final_url": "https://pepsipromos.com/freegroceries/freegroceries_rules/",
-          "title": "2026 PEPSI\u00ae GROCERY GIFT CARD SWEEPSTAKES - Pepsi Promos"
+          "http_status": null,
+          "reachable": false,
+          "error": "URLError"
         },
         {
           "type": "rulesUrl",
@@ -2857,7 +2857,9 @@
           "title": "2026 Pepsi Grocery Gift Card Sweepstakes | GiveOwl"
         }
       ],
-      "flags": [],
+      "flags": [
+        "entryUrl_unconfirmed_or_blocked"
+      ],
       "verified_entry_form": false
     },
     {
@@ -3050,7 +3052,7 @@
     {
       "id": "sourced-bd180b5fc5ee3bc3",
       "expires": "2026-11-05",
-      "expired": false,
+      "expired": true,
       "checks": [
         {
           "type": "entryUrl",
@@ -3073,7 +3075,7 @@
     {
       "id": "sourced-f60dd54792b68d66",
       "expires": "2026-11-05",
-      "expired": false,
+      "expired": true,
       "checks": [
         {
           "type": "entryUrl",
@@ -7510,10 +7512,9 @@
       "checks": [
         {
           "type": "entryUrl",
-          "http_status": 200,
-          "reachable": true,
-          "final_url": "https://promotions.wincofoods.com/fresh-turkey-full-table-butterball-sweepstakes-official-rules-copy/",
-          "title": "&#8216;Fresh Turkey, Full Table Butterball&#8217; Sweepstakes Official Rules &#8211; WinCo Foods Promotions"
+          "http_status": null,
+          "reachable": false,
+          "error": "URLError"
         },
         {
           "type": "rulesUrl",
@@ -7524,7 +7525,7 @@
         }
       ],
       "flags": [
-        "entry_title_looks_like_rules"
+        "entryUrl_unconfirmed_or_blocked"
       ],
       "verified_entry_form": false
     },
@@ -8001,22 +8002,23 @@
       "checks": [
         {
           "type": "entryUrl",
-          "http_status": null,
-          "reachable": false,
-          "error": "URLError"
+          "http_status": 200,
+          "reachable": true,
+          "final_url": "https://www.celebratewithsquirtsoda.com/",
+          "title": ""
         },
         {
           "type": "rulesUrl",
-          "http_status": null,
-          "reachable": false,
-          "error": "URLError"
+          "http_status": 200,
+          "reachable": true,
+          "final_url": "https://www.celebratewithsquirtsoda.com/",
+          "title": ""
         }
       ],
       "flags": [
-        "entryUrl_unconfirmed_or_blocked",
         "entry_and_rules_same_url_review",
         "entry_is_homepage_review",
-        "rulesUrl_unconfirmed_or_blocked"
+        "entry_redirects_to_homepage"
       ],
       "verified_entry_form": false
     },
