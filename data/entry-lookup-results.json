@@ -1,12 +1,12 @@
 {
-  "generated_utc": "2026-11-06T19:20:31.575459+00:00",
+  "generated_utc": "2026-11-06T19:20:37.759252+00:00",
   "total_source_records": 1792,
-  "searched": 1527,
-  "remaining": 265,
+  "searched": 1638,
+  "remaining": 154,
   "historical_results_retained": 0,
   "results_by_status": {
-    "insufficient_title": 139,
-    "entry_page_not_found": 1378,
+    "insufficient_title": 150,
+    "entry_page_not_found": 1478,
     "rejected_nonentry": 9,
     "possible_entry_pages": 1
   },
@@ -17331,6 +17331,1261 @@
       "contest_title": "Check out the $15,000 Sweepstakes! - isj.secondstreetapp.com",
       "original_article": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5kTGRtMk1rNXB6VEc2ZUo0RnFoSHNhSTNCem1BN1FaRi1qMWMzZnFURWNQVDNFajZ1U3VCLUNvUW1rcVdQY2dQWlQwX1lkNE9vaE9ST2J4TEFKeDN4cS00R2Z1dVE?oc=5",
       "status": "insufficient_title"
+    },
+    "4e5f2855b06a953a": {
+      "contest_title": "$5,000 Sweepstakes - folioweekly.secondstreetapp.com",
+      "original_article": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBGeXE4dHNidmxfeE5xb2drZzloaDl4dV9mX2NZb2FyMEI5VnVQYkxZRnFEZ1VQc0UzZzExZko5SDdUV0EwNm4wNWZNb29GVzZ3UUJQNlpNbkNQdWU2SVVkZW93SnRTbFZzWHRMTEJPUDdtcGs?oc=5",
+      "status": "insufficient_title"
+    },
+    "d32d6f070e6c5a0d": {
+      "contest_title": "Daily Chronicle Fall 2026 Home Improvement Sweepstakes - dekalbdailychronicle.secondstreetapp.com",
+      "original_article": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOc3NhYmFfX3luRThmRy1weDFuZklMZnNFb2xXTmdqNDFBNUlfU09hdkpfUTh4UFRfckExc05mazE5c09CMDltTFg1bnJJaXN6ZGlyOU1IbmJtVjJ0ZjlLLXlhTVpZX3JtZjlzTGpsbHJNMWxyS3BIN3BDcklaX1N3SHFpaHh6c09KVGxlNQ?oc=5",
+      "looked_up_at": "2026-11-06T19:20:34.314030+00:00",
+      "search_queries": [
+        "\"Daily Chronicle Fall 2026 Home Improvement Sweepstakes\" entry",
+        "daily chronicle fall home improvement sweepstakes enter official",
+        "daily chronicle fall home improvement giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "01d99fd1c50888d4": {
+      "contest_title": "Sun Media Readers Choice - apgecm.secondstreetapp.com",
+      "original_article": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPS1RPaGxhVU14YU9IMVB1eW91X09VdGJjYlJoS0xpcDdoMEtONlBfUThoektCaEpvUER4MzMyVmhURU1QY2s5QTdVWVFfYldCVlh0a001UkF6NmdJOFVTVFN4Y1BzdjdCcmZ2NHc2SGc4TVNGMEZkMnNjd05wclRNQklkRQ?oc=5",
+      "looked_up_at": "2026-11-06T19:20:34.227203+00:00",
+      "search_queries": [
+        "\"Sun Media Readers Choice\" entry",
+        "media readers choice sweepstakes enter official",
+        "media readers choice giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "b9041aa008def0b1": {
+      "contest_title": "Check out 2026 Buffalo Best of 716 - Voting - thebuffalonews2.secondstreetapp.com",
+      "original_article": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOV1A5Yl9tVnVra0pUakhxeUM1TEkxaFVxMXpiUU5RTHh0RHRvS0NVN0ZWekxmenZlRU1FV1VEdktWVHp2OFJHcmJpRnQ4bkVxTUFhNkQ5ZUQ1OGw5UTIwdU43ZENEZjVsWTFKMm5qMWcyR2M5NmZVR0gtQWhudjR4ZXBValZQVE1WWHVEUVU0aWtSQnJfUnJTSXdLY2QyUWs?oc=5",
+      "looked_up_at": "2026-11-06T19:20:34.129275+00:00",
+      "search_queries": [
+        "\"Check out 2026 Buffalo Best of 716\" entry",
+        "check buffalo best sweepstakes enter official",
+        "check buffalo best giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "7c9de614e6d2855f": {
+      "contest_title": "Check out 2026 Bonnaroo Tickets - sierranevadabeer.secondstreetapp.com",
+      "original_article": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYjBoX2FKQXE5OWVQZlFhY2pNRWlxMVBtR0ZnYTFLUmdrTlI3LU5LV1Q2Z0hKWlJqMVdHaC12NUhBWDk5ZnQ5X0pmVThQb09NcEkzS0FjU3lOUDYyUmZfdEM5RGNQS3djcWxPay1CVEViVERxOUZhbWxGQ1JndEV5M2xuYw?oc=5",
+      "looked_up_at": "2026-11-06T19:20:34.193014+00:00",
+      "search_queries": [
+        "\"Check out 2026 Bonnaroo Tickets\" entry",
+        "check bonnaroo tickets sweepstakes enter official",
+        "check bonnaroo tickets giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "39548a8e9e778e30": {
+      "contest_title": "Check out 2026 Buffalo Best of 716 - Voting - thebuffalonews2.secondstreetapp.com",
+      "original_article": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZ0F1R1BhZnlCN1lRdEFEVkRhZi14d25vaktoVVZRTnY3MUpWNk01YTNWdjg4QU5ZejhJempvdFYzOVFoOFdpNmNPaFJ1Z29yQzNMellaM0VkRU1HbGdoamgyeWZURzluZTQ3U1kwLTc0c2tLMVJtNTEwaDR6YWp0TnRPVGZid0M5dnF3UHVTb3A3MmVETXBrMmxzd3F6dmdD?oc=5",
+      "looked_up_at": "2026-11-06T19:20:34.256604+00:00",
+      "search_queries": [
+        "\"Check out 2026 Buffalo Best of 716\" entry",
+        "check buffalo best sweepstakes enter official",
+        "check buffalo best giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "6f126e486726b6d3": {
+      "contest_title": "Check out Reader's Choice 2026 - syracuse.secondstreetapp.com",
+      "original_article": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1XRV9ZbWRyMEZhX1MxVTBIRnZQTEM3WDdBdzEzM3llVGloRGExZklyMkNLeTRmYmozSW1jUG1zbTM0aDNLZVByd05MWXlTNUhjWHN4MEV1MkNxMWtOZ1ZhU0J4dGtFX091?oc=5",
+      "looked_up_at": "2026-11-06T19:20:34.174228+00:00",
+      "search_queries": [
+        "\"Check out Reader's Choice 2026\" entry",
+        "check reader choice sweepstakes enter official",
+        "check reader choice giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "a713640e2297ceec": {
+      "contest_title": "Vote for Your Favorites - mtairynews.secondstreetapp.com",
+      "original_article": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBWZFVPbUlKd014d3VrNFdqMjVzanRwQkowMTZDX3ZsYUhOOGRGUkRYNXhJdHgwVFZNaTZBazFIdmRrZUxUeGJvUld5cGJzMVgxeWktZmtLSWlZYmlfWTRmVm01aG5yY3NUc0M3cWl4ZkJrN19F?oc=5",
+      "looked_up_at": "2026-11-06T19:20:34.080410+00:00",
+      "search_queries": [
+        "\"Vote for Your Favorites\" entry",
+        "vote your favorites sweepstakes enter official",
+        "vote your favorites giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "97311e962174ec83": {
+      "contest_title": "Check out Reader's Choice 2026 - syracuse.secondstreetapp.com",
+      "original_article": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZjg0UWNUY2hGT0U5S2NtR1l6VmRWOHRIOGVzSXktbFo0MWNFeWRuZWczOC11WXFPMXlzakN0YTFFVUo4b1MxZy10Z2stNkRBRGJ1aFZGQW9HNkZ2S09WY0ZLNlZaRGQ5dFdQMWJQU0xNLVBPNUV1SW9GeVhzcURFYWdHRQ?oc=5",
+      "looked_up_at": "2026-11-06T19:20:34.228415+00:00",
+      "search_queries": [
+        "\"Check out Reader's Choice 2026\" entry",
+        "check reader choice sweepstakes enter official",
+        "check reader choice giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "a7027073d153906f": {
+      "contest_title": "KHOU 11_Balloona Palooza_Great Day Houston Balloona Palooza Sweepstakes - khou-tv.secondstreetapp.com",
+      "original_article": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbTJULW9CWUlKZ0gwQ2IwbGZHcGExZUV2YVg3NXNWUmt2SzJjSTlnM19TTWJ4Wk5rcGRsT2kxZ2NENVlmNmZMVDJHZ1RHVHF2TEVIeU90UmlaRk9MS2lIS1NGYVkyLXR3RTd1aF9HcVlhVURKVXpuelVnOW1ORFpkeGV4T1hjZlYtT1ZMQkRNZ1Z5TTBQekp5bWlrd0RESkJFbVNPdVA2SUx3U3dW?oc=5",
+      "looked_up_at": "2026-11-06T19:20:34.178482+00:00",
+      "search_queries": [
+        "\"KHOU 11_Balloona Palooza_Great Day Houston Balloona Palooza Sweepstakes\" entry",
+        "khou balloona palooza great houston sweepstakes enter official",
+        "khou balloona palooza great houston giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "886cd1fd6b3b8dba": {
+      "contest_title": "KHOU 11_Disney on Ice_Great Day Houston Disney on Ice Sweepstakes - khou-tv.secondstreetapp.com",
+      "original_article": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTWNLWGdyaUNXd0FCSWRxdlhPUWR4eXg0LWlkZTZSWC1lUHNHSjNrUVZMMlFSa3ZOQzBmajVoVkhtQWtYNlQ3Zk9JOUpjRlptSTJFb0JWekJFUEpCb2M4RS1KQVJoNFg5dmpEQ3ExUGphU2Fsa1BISXBxN1NZeXI4U3FSaEZLWkZKTnA5RG9ZOTNSRzh0OVFMeGNRcDJuZUIteG5KRg?oc=5",
+      "looked_up_at": "2026-11-06T19:20:34.139164+00:00",
+      "search_queries": [
+        "\"KHOU 11_Disney on Ice_Great Day Houston Disney on Ice Sweepstakes\" entry",
+        "khou disney great houston sweepstakes enter official",
+        "khou disney great houston giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "93f17b97c3600bec": {
+      "contest_title": "Vote for Your Favorites - mtairynews.secondstreetapp.com",
+      "original_article": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWlE3ZlpVRGN0Vl81MDNndmRUUkU1YTY4MWQ5OXJHM0g2MlE5TkYzTEFGSHdWS2J4ZEsxN0F4YVNpeUIydXFHLVBIb1VINGpEOVlBMmxYS0hMMlI2bWJtenpjOWE0QWNyOXhBcUZWU3B1dmdKZURuYV9DVHRnbm5BbTFQUjJpSHh3SGZrOVRwNA?oc=5",
+      "looked_up_at": "2026-11-06T19:20:34.344534+00:00",
+      "search_queries": [
+        "\"Vote for Your Favorites\" entry",
+        "vote your favorites sweepstakes enter official",
+        "vote your favorites giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "875305e2110fbe61": {
+      "contest_title": "Check out Nevada Appeal's $5,000 Sweepstakes - nevadaappeal.secondstreetapp.com",
+      "original_article": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Vd0tIbkxRbDJ0elZFRTdGa3JBZ2VKLXpEYnVzTGZ4S2RQczlPN3FLYUk0dmFPX1o4SjZYYkZubUNkemw5WDRnTlB6LUk5a0VUT2pYektGdUxmUFdwMXV5dVZXREVGb2pxVGdWaXF4Mm1yVElt?oc=5",
+      "looked_up_at": "2026-11-06T19:20:34.270320+00:00",
+      "search_queries": [
+        "\"Check out Nevada Appeal's  5 000 Sweepstakes\" entry",
+        "check nevada appeal sweepstakes enter official",
+        "check nevada appeal giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "bbc54753817f088b": {
+      "contest_title": "Check out JBFxPILS.Boston.Dinner - sierranevadabeer.secondstreetapp.com",
+      "original_article": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBvb0psVkJaUkZUeERuRHpqWHlsbFpwbkZ3cjBRVWZ3WTdfbTBiaEF6dXJoLTNfcXRQNjhaeDZKYXdHTXdNeTJXSFduSjFXOVpvSEs0V1Q0QmptT1d5SUdwYnFfR3VJWHduQUNzMDB1clM3VndXOThPaDJqMDc1Zw?oc=5",
+      "looked_up_at": "2026-11-06T19:20:34.536731+00:00",
+      "search_queries": [
+        "\"Check out JBFxPILS Boston Dinner\" entry",
+        "check jbfxpils boston dinner sweepstakes enter official",
+        "check jbfxpils boston dinner giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "78d58c30e21f57d5": {
+      "contest_title": "Vote for Your Favorites - mtairynews.secondstreetapp.com",
+      "original_article": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNR0RfckRtWHNCcVlCRVJ5bDEwRHRYcGxjREhUM3k0eEd4TlAzbDZMR1huVWFvQW1kUFFGNVpBM29TbGhoTWowODdLdnNLWHlTR3JZdVhkdzlvV1NHUXJSSk8wNW50ekx0OHNERFFLVGtXS0taNmJqMkwtME5fY0pEMEtNOA?oc=5",
+      "looked_up_at": "2026-11-06T19:20:34.626795+00:00",
+      "search_queries": [
+        "\"Vote for Your Favorites\" entry",
+        "vote your favorites sweepstakes enter official",
+        "vote your favorites giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "e0c72f68cb2bcaad": {
+      "contest_title": "Check out Shop Small in Downtown Conway - myhorrynews.secondstreetapp.com",
+      "original_article": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5RdUlNTXplZzUxbnZxMXR0MTdfVGxGWVVSMFNHSUZMU2R4YUFmMjdZak02bnRGSVhLX1VVZ2xPaEFiYktVa1BFbVk2T2RsSkZJSUhHZEdTT1FoYnMwWWdWM3l1RFJjSEVnb0JCQmxHc1liY05mNXJwOU53?oc=5",
+      "looked_up_at": "2026-11-06T19:20:34.637601+00:00",
+      "search_queries": [
+        "\"Check out Shop Small in Downtown Conway\" entry",
+        "check shop small downtown conway sweepstakes enter official",
+        "check shop small downtown conway giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "630db58d542995a1": {
+      "contest_title": "2025 Elkin Reader's Choice - elkintribune.secondstreetapp.com",
+      "original_article": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNd0ZEMTJFXzlrZFdfOUNvZ01KWWE5T08tTzdrakV4VjhrSWwxVmN5ZEM1Ull2bWFBUkxTcmo5ZTRtZVo0aGs4Z0xnYUhsUEw1ZkROWDBPTFUxMXdIeWhqRFFhcGpsSXl2dkRmMG9Wc01iSEI5bW02NzdPTEh1eEhKMFEzcE9lbURnc3c?oc=5",
+      "looked_up_at": "2026-11-06T19:20:34.595618+00:00",
+      "search_queries": [
+        "\"2025 Elkin Reader's Choice\" entry",
+        "2025 elkin reader choice sweepstakes enter official",
+        "2025 elkin reader choice giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "dd71271493e74d85": {
+      "contest_title": "$15,000 Sweepstakes - wdel-amfm.secondstreetapp.com",
+      "original_article": "https://news.google.com/rss/articles/CBMib0FVX3lxTE85c2ZTLU9temJZRUt4aDQycjVjeUM5cE1FeldlNUFuSFlNeFR0b2NXdFdRSXF3Tk9RNXBSZllSTEtGb3MzT191d2FZTUprWENlQkVsQm1aLTNvUVdPYlpLeFhKdTRwYTF0cVM5SmFBbw?oc=5",
+      "status": "insufficient_title"
+    },
+    "1bd3f79b494e2666": {
+      "contest_title": "Official Rules - Tunespeak",
+      "original_article": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4wUFZaRHd3aGFUTGNYaUZUTGhsUlhZazRpclpDV0J3WWc2TXBUOTBidVJSNHdTVThBcVVwektHVnlZdHlzSFdqVzRQdm9XakItaVlVNnA1VGJKVXRWMmE5WWNpZjNiX0E?oc=5",
+      "status": "insufficient_title"
+    },
+    "11c1ad84ac6afdb1": {
+      "contest_title": "Official Rules - Tunespeak",
+      "original_article": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mYjEwSWhtdXBwNFdsR29KT3cxNDNLekh2V2l1UlVsRzdObUZCTjRHSEN1NklGS1lMU3FhLXVYckR4Uy1hVENzZ3ZVb3N1ckxlVlRHQW9uLWowNG9yOG9qRVdTREdHblk?oc=5",
+      "status": "insufficient_title"
+    },
+    "a2627fe764985a97": {
+      "contest_title": "Official Rules - Tunespeak",
+      "original_article": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4zRnBLY2p0YmFWOS10WWRvUW1TdHh3VWRfeG96Q0wtWjRpckpSWXRFSHZxbTRaUFVmdzA1Vy0tVEcyc0FVWnlDclY5akJFM3czaUpMZS1vSW5LZDhiVUsxclRGQXg4LWM?oc=5",
+      "status": "insufficient_title"
+    },
+    "9f6ea3ca3cf146d6": {
+      "contest_title": "Official Rules - Tunespeak",
+      "original_article": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8yOWdmWlAtRGdSNDBCSXhiRGg3NTFtcUxJamJjdk4tSGZxeW85LTh6OWxjMUNUZkQyUWhENTNqb19ObnE4V1NzV3RFWmpOQ3JxRHVNYkJCczk5Tjg5LWEwMUhhenNrS3c?oc=5",
+      "status": "insufficient_title"
+    },
+    "7eaf2aceca1c8ac2": {
+      "contest_title": "The Strumbellas - Tunespeak",
+      "original_article": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBQY2lnaF9QaDgwX1NOaDQyNzRVYmZsNFlIWXowMEdYZGFUcm1TQjJ4aEJJUTFUSnFhazBudTZjWUFrU2c1OTVlcm9NcTNsQmJSc0ZUUnlXUUpBN0ZUVE1sUm5iVXEyWEpHU25F?oc=5",
+      "status": "insufficient_title"
+    },
+    "5ed665ace228405e": {
+      "contest_title": "Win 2 Tickets to see INOHA at Music Box in San Diego, CA on Nov 1 + a chance to win a Victrola Record Player + Merch Bundle - Tunespeak",
+      "original_article": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBEd2RJYVBmMy1LWnhIYThEb0tINzlMVVZUSUQtTFhtaFFBeU1BXzM0YzhPTGxUWXlreWozV3BiR0ozVHRjX0ZoclJFcmZaZ2ZpbThxdUdjQU90czlPZ3ZDbjcwVlBrTFNUZVlF?oc=5",
+      "looked_up_at": "2026-11-06T19:20:34.602336+00:00",
+      "search_queries": [
+        "\"Win 2 Tickets to see INOHA at Music Box in San Diego  CA on Nov 1   a chance to win a Victrola Record Player  \" entry",
+        "tickets inoha music diego chance victrola record sweepstakes enter official",
+        "tickets inoha music diego chance victrola record giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "e2cadce9f527be73": {
+      "contest_title": "Win 2 Tickets to see INOHA at Paper Tiger in San Antonio, TX on Sep 19 + a chance to win a Victrola Record Player + Merch Bundle - Tunespeak",
+      "original_article": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4xOHpNbTBtWms3R3Bjd2xSVDZsQzFIdkt3M2pIYm5Tc0tfWUw5cGxKOVREZ0ZiX0JMak9MR3BEZENSdkppTThTelhhQjljVGpTdW1fUjZzSXpHYTVEUDVnLUptQ29fWGt2TVk4?oc=5",
+      "looked_up_at": "2026-11-06T19:20:34.737763+00:00",
+      "search_queries": [
+        "\"Win 2 Tickets to see INOHA at Paper Tiger in San Antonio  TX on Sep 19   a chance to win a Victrola Record Pla\" entry",
+        "tickets inoha paper tiger antonio chance victrola sweepstakes enter official",
+        "tickets inoha paper tiger antonio chance victrola giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "dfb7833369a2e15b": {
+      "contest_title": "Win 2 Tickets to see Brian Wilson at Blumenthal PAC in Charlotte, NC on 9/19 + Meet & Greet + More - Tunespeak",
+      "original_article": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB1d3ZfU2Z2OXpEQUs4VlQyTFBBaS1FOGthMlp5ZEtNd29OcVFqdm1TeDY2YkFLSEdPdXNhMzVpTzV1ZVdlVkh1QXhUd3FfOEFNR2l0V3otZVIyanlYdEhZLVR5M1JOd2p2WW4w?oc=5",
+      "looked_up_at": "2026-11-06T19:20:34.746231+00:00",
+      "search_queries": [
+        "\"Win 2 Tickets to see Brian Wilson at Blumenthal PAC in Charlotte  NC on 9 19   Meet & Greet   More\" entry",
+        "tickets brian wilson blumenthal charlotte meet greet sweepstakes enter official",
+        "tickets brian wilson blumenthal charlotte meet greet giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "02f157436738ec67": {
+      "contest_title": "Win 2 Tickets to see Eric Benét at The Fillmore Charlotte in Charlotte, NC on Apr 9 + VIP Meet & Greet - Tunespeak",
+      "original_article": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBGaVl4NnBuRVNoUjBHYnNvYUswV3NvTWE0N21nWGhjVHRSVUx4ZG9TWUFZMUVQbk90Y0NiakNWbV9xNEg1M1ZmbFA1OUpKck9aX01jSGZhVlF3TkVVZlZ3SjQybDJDMWx2RTEw?oc=5",
+      "looked_up_at": "2026-11-06T19:20:34.784591+00:00",
+      "search_queries": [
+        "\"Win 2 Tickets to see Eric Benét at The Fillmore Charlotte in Charlotte  NC on Apr 9   VIP Meet & Greet\" entry",
+        "tickets eric fillmore charlotte meet greet sweepstakes enter official",
+        "tickets eric fillmore charlotte meet greet giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "048777eb207070ee": {
+      "contest_title": "Mt. Joy - Tunespeak",
+      "original_article": "https://news.google.com/rss/articles/CBMia0FVX3lxTE10U0tWV2FRVXplNlphMTRhaFZUa0c4WUtzR3NFRHhjLVVtMG1UclZfRGxzRUZxaDVjeEIybjFYcW0wNFVOUnVPOW81VzZDOTlKVlgxeDFSYWlYaVpVTFUySndranljT0p1eXpz?oc=5",
+      "status": "insufficient_title"
+    },
+    "9620f46d343f62aa": {
+      "contest_title": "Win 2 tickets to see Cole Swindell in Orlando, FL on Nov 18 + a chance to win a Marshall Bluetooth Speaker - Tunespeak",
+      "original_article": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmZWUxaE1aZTJEOFhQTjg5ZkpRZnlna0R6SmNrZnBWOTFTRG4taWl3eXhSZWJrOENTX0xybWVhSDNmN1FSdWhJWVlUX05DakNVY0ctWG5CRGJVTXlaa2RzMUIwSWQ0NENrbjBr?oc=5",
+      "looked_up_at": "2026-11-06T19:20:34.759252+00:00",
+      "search_queries": [
+        "\"Win 2 tickets to see Cole Swindell in Orlando  FL on Nov 18   a chance to win a Marshall Bluetooth Speaker\" entry",
+        "tickets cole swindell orlando chance marshall bluetooth sweepstakes enter official",
+        "tickets cole swindell orlando chance marshall bluetooth giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "4cf4bb48a4740bde": {
+      "contest_title": "Naked Giants - Tunespeak",
+      "original_article": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0xUUNNX1RaMDBLdVRGWTh4cWQyQ1VWOEVOMnd5MHk5RXpqY1ZWcGNfY2I4dDItOV9BZG5qNnpiaENYdktlelBpdzdRTDc2OXVYbVNWRU53S05kUEs4UlBWbUJydUNMRmN1dXAw?oc=5",
+      "looked_up_at": "2026-11-06T19:20:34.666367+00:00",
+      "search_queries": [
+        "\"Naked Giants\" entry",
+        "naked giants sweepstakes enter official",
+        "naked giants giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "55a46ffeaa287854": {
+      "contest_title": "Whiskey Myers and Firewater Music Festival - Tunespeak",
+      "original_article": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBjd0UyUFU1YVFzOFVMa1FGeUFoNFNDdllHVlkyNm1ickVKVjdnX2ZKcmdmTXZqWkNTV3NJeEJzWUQ5T0pFVGoxdTV5QlRzYXE3Zy1GdnpGZUJtMjhIdDJHUTMteFFQOVgzdlZr?oc=5",
+      "looked_up_at": "2026-11-06T19:20:34.726431+00:00",
+      "search_queries": [
+        "\"Whiskey Myers and Firewater Music Festival\" entry",
+        "whiskey myers firewater music festival sweepstakes enter official",
+        "whiskey myers firewater music festival giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "5cc2341d37eca019": {
+      "contest_title": "Official Rules - Tunespeak",
+      "original_article": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE42SjhMelZrTlpmenp3TDBDV1RfdGlkbWxKSGlOc3M1TnRnUWpiakVmTFRZSzczX1JoSUhFVGVPNmp3VGQ2UlRQcE9tN3BGclYyeGxjWGxfNkZXUzlUb0NvbzY1UlZTems?oc=5",
+      "status": "insufficient_title"
+    },
+    "c76884a1c9199e39": {
+      "contest_title": "Ultimate iHeartCountry Christmas Vacation 2026 National Sweepstakes | iHeartRadio - iHeart",
+      "original_article": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWFNwV2ZaY3ZjWnB4RjJyUWI2b09DeXdsTThNaTRHMDNZakFnOEpjeTk4NUlVWUZZWlNMUVdYS3k5U0lOZHlhSUZjbFZYc2FoZXYtblBJZmp0YUh3RHpETWROWHBHYWJQT3NhWHV4Slp6cG5wdy04ZTFwT25CNURSbGstZG5FX3hlQmRTcm5rOEZqUG0yWlI2UkNpdFN2UUNC?oc=5",
+      "looked_up_at": "2026-11-06T19:20:34.783443+00:00",
+      "search_queries": [
+        "\"Ultimate iHeartCountry Christmas Vacation 2026 National Sweepstakes\" entry",
+        "ultimate iheartcountry christmas vacation national sweepstakes enter official",
+        "ultimate iheartcountry christmas vacation national giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "b5269ebc7827882d": {
+      "contest_title": "iHeartRadio Jingle Ball x JCPenney Sweepstakes - iHeart",
+      "original_article": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaV9DUXM2a2dMN1BGRXFLT1c0VzdNV3dXNHVNWTNsTG9IM21pUGJUY3lTSU8zNGdrRkppR0hkWlJwVDFMam1XYmFZWDdJZkVvNVozNnRnSUttRHNuRTFXXzBwal8xWGl4MW84YjlIYmU5eVpDU2FOdkJHSERxbVBaeVN4RnhNQ2l2SlpVT0R3QnNLbUZO?oc=5",
+      "looked_up_at": "2026-11-06T19:20:34.993716+00:00",
+      "search_queries": [
+        "\"iHeartRadio Jingle Ball x JCPenney Sweepstakes\" entry",
+        "iheartradio jingle ball jcpenney sweepstakes enter official",
+        "iheartradio jingle ball jcpenney giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "751a8e61579e4f8e": {
+      "contest_title": "Ultimate iHeartCountry Christmas Vacation 2026 National Sweepstakes - Whistle 100.5",
+      "original_article": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQ0NWSzcyTDNiR19wVU5Odm51LUxlTUtWWkFacHZ6OVZsTEItNGo3MTRfeVdJREF1ZC1GUExNck1DeVJoM3FpcG1wWmhVQUg2WV9LYWprSVo5aGd5M2pCM0V4Wll1U2NTRnVUTWxzRHozR1VqeElzSEFlNkFYSldHbkUwZFpfbFBtdktxYTdENklVa0x3U1VRVW02UFJ0NzBFdDhN?oc=5",
+      "looked_up_at": "2026-11-06T19:20:35.034267+00:00",
+      "search_queries": [
+        "\"Ultimate iHeartCountry Christmas Vacation 2026 National Sweepstakes\" entry",
+        "ultimate iheartcountry christmas vacation national sweepstakes enter official",
+        "ultimate iheartcountry christmas vacation national giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "6180801123f8f81f": {
+      "contest_title": "Ultimate iHeartCountry Christmas Vacation 2026 National Sweepstakes - iHeart",
+      "original_article": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQR25NdkRQOUtDZE9jNjVDT1ZwOFJUTmZRNlBXdTFPUUJkb2o5MWZra0VrTjZXOE9QYTJUY2YtVHlPTWdDVzJuY1MzX1dxUkRQV1NpcTdmaUMyNEtvbk9hLW5YTWN1QUpSeHBvUk0xdWtkUEpRYWxlZWk2d0xUaEV3U1hNaUtKZFFTd2V4RFVvZ3ctSjJHdXp5WkdnaXFvNXpV?oc=5",
+      "looked_up_at": "2026-11-06T19:20:35.117650+00:00",
+      "search_queries": [
+        "\"Ultimate iHeartCountry Christmas Vacation 2026 National Sweepstakes\" entry",
+        "ultimate iheartcountry christmas vacation national sweepstakes enter official",
+        "ultimate iheartcountry christmas vacation national giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "d1cfd56b42fa690a": {
+      "contest_title": "Ultimate iHeartCountry Christmas Vacation 2026 National Sweepstakes - KIX 100.9",
+      "original_article": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMFR0azh0SDdXVEdvd1JIaDVYd0QtUThkWVAteUNZeUNWb3d5S3hYSDlMSEFpV0xLTW9qb0htXzBxbTZidzZ2Uy1XOGhWTUxyNFJmcnFVOU9TSGNBeEN2Tk1SVkJsYU9ZQ2RsUlR0STBMd1Y2TWk3NjlvT2k5aVJ6dnhCNUlteGI0WFZtdnkwY1VRRDRKdGhfRVlYUVlaVFFKVXJ6Q3FPMA?oc=5",
+      "looked_up_at": "2026-11-06T19:20:35.009547+00:00",
+      "search_queries": [
+        "\"Ultimate iHeartCountry Christmas Vacation 2026 National Sweepstakes\" entry",
+        "ultimate iheartcountry christmas vacation national sweepstakes enter official",
+        "ultimate iheartcountry christmas vacation national giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "f4f57e730a762838": {
+      "contest_title": "Ultimate iHeartCountry Christmas Vacation 2026 National Sweepstakes - 92.9 The Big Dog",
+      "original_article": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOejhGbmRaRGJCeS1UZGI4by0wMEdWaUtVS0xRaEdDM0lYeDdkLUEtQ0VXRXd1SEIzb0gzWkR6RXF0XzF5U2hlWl9nc3lLQmF4ZE55bndqekhSMHQ4OG5MaF8xaGkySllQNWl0ODZHV0VaR1NBLVQ4RHRjZDZ5MXlSLW81Y0IzSHg0Qk1kbnVTc2xwSzZYWXppN0JZUWNObjhPR0haVGtja0g4NEE?oc=5",
+      "looked_up_at": "2026-11-06T19:20:35.048440+00:00",
+      "search_queries": [
+        "\"Ultimate iHeartCountry Christmas Vacation 2026 National Sweepstakes\" entry",
+        "ultimate iheartcountry christmas vacation national sweepstakes enter official",
+        "ultimate iheartcountry christmas vacation national giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "7c9d51c641d7abc8": {
+      "contest_title": "Ultimate iHeartCountry Christmas Vacation 2026 National Sweepstakes - 102.5 KNIX",
+      "original_article": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOUd2NUh5Q1czLXBUZllqQkRiVVMwdG0zdlV0N0JBMzYzeWRYMGJqR2hOLVYtX21GQkxIcWZUMWhMb3VoN0IteTZvYXA5bDRzSlZ4WFZRam1KemtKOWk5aWpUZUIwQ2lCbjA2blpaRmF0MlVJVVMweWhQcEstMU1TWE1wMzNrV3FJU2VsbzdFZGtzX2tIQkwyOEMzWWYwY1QtYmdaSzFubHJsQQ?oc=5",
+      "looked_up_at": "2026-11-06T19:20:35.121573+00:00",
+      "search_queries": [
+        "\"Ultimate iHeartCountry Christmas Vacation 2026 National Sweepstakes\" entry",
+        "ultimate iheartcountry christmas vacation national sweepstakes enter official",
+        "ultimate iheartcountry christmas vacation national giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "6f9203b622f8a8ed": {
+      "contest_title": "Ultimate iHeartCountry Christmas Vacation 2026 National Sweepstakes - 99.9 Kiss Country",
+      "original_article": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaDlZUFhfMTVoRjllYXhnV3duSVE4U3dpZWk2emlaUkRiZ3duaVRBTGx6ZkxlZGp0N1J3WWNqT3lwRFctLV9TajJRQ1RFNHZHRkNYY25EaTlLUDllS0hqeG9BXzQ2aERtb3h0dHZRU1owSDk2SFJrbDFEOWw3aDBNRW5JaE13ODVONHdUV1BTdFpOUXgwOTBzWnZ2cFJyU01EYTM0bTlrSmJDRWVU?oc=5",
+      "looked_up_at": "2026-11-06T19:20:35.167727+00:00",
+      "search_queries": [
+        "\"Ultimate iHeartCountry Christmas Vacation 2026 National Sweepstakes\" entry",
+        "ultimate iheartcountry christmas vacation national sweepstakes enter official",
+        "ultimate iheartcountry christmas vacation national giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "4e5ac1823334bb50": {
+      "contest_title": "Ultimate iHeartCountry Christmas Vacation 2026 National Sweepstakes - 92.7 KTOM",
+      "original_article": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRllJaHNPQi1WZ2N1NW0tVjY0LTYzcUtZQS1NbzFIOFd4eVlnY0tuVl9Gb2QySl9wdU1mQkZ4S21YbGdXLU5qU1Jvd1Z1b3FuLUY1MHZlZHRyaHNTZkpMZXp6a3k0c09tUEltVksySjlET05wX3RwMDh4QnFpSFpwM3AyRGNucjJKY1NZY2FCNUpKWnkya3psdzFhUDdUaHlS?oc=5",
+      "looked_up_at": "2026-11-06T19:20:35.096995+00:00",
+      "search_queries": [
+        "\"Ultimate iHeartCountry Christmas Vacation 2026 National Sweepstakes\" entry",
+        "ultimate iheartcountry christmas vacation national sweepstakes enter official",
+        "ultimate iheartcountry christmas vacation national giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "7f98fa4169bcfe85": {
+      "contest_title": "Ultimate iHeartCountry Christmas Vacation 2026 National Sweepstakes - 93.1 WPOC",
+      "original_article": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRkFTdU9PWllXdXdQT2pmUzVxOXFDM3ZDTTR2aDFEQmRLbUZYTThxMzJseHJ5cURXOEllUTYxbEd6ZWRhVEhJTm42ZzF0LXJ2RTdWLVhtZlFZclBSdFd3UVg0bTZla0xweFdLVlJmZ1NwU19EZWpyNHcwd0lMejN5STBOUnZGc19oalpwbWZUak03WUNWQ2JwTXIxbldiWlFJ?oc=5",
+      "looked_up_at": "2026-11-06T19:20:35.202319+00:00",
+      "search_queries": [
+        "\"Ultimate iHeartCountry Christmas Vacation 2026 National Sweepstakes\" entry",
+        "ultimate iheartcountry christmas vacation national sweepstakes enter official",
+        "ultimate iheartcountry christmas vacation national giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "cf6ad5ad50ceba89": {
+      "contest_title": "Ultimate iHeartCountry Christmas Vacation 2026 National Sweepstakes - iHeart",
+      "original_article": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcEtyM0c3ak1nOGxWNTV5N2NrRTJ5QzM2MlZnUlMzaWtaTWpnVFZrZkhad3ZWMzdvU09rRzJLbDhiUFcza0ZoZ004Qk9lSnhqdGVITk9aSk8xSVFsMGo1R29FSzBodWctWVpXR2psQUFtRWNjcE1YSkNZc1Y4VHdhZFJ6amo1V0o4aWctYUsyQ0dQU3B3ZGVZbkhmVm43aFM0VDhQb2tuQVBfUQ?oc=5",
+      "looked_up_at": "2026-11-06T19:20:35.211612+00:00",
+      "search_queries": [
+        "\"Ultimate iHeartCountry Christmas Vacation 2026 National Sweepstakes\" entry",
+        "ultimate iheartcountry christmas vacation national sweepstakes enter official",
+        "ultimate iheartcountry christmas vacation national giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "6ee089ee0ca79d0d": {
+      "contest_title": "Ultimate iHeartCountry Christmas Vacation 2026 National Sweepstakes - Kicker 95.1",
+      "original_article": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPc01ERnpKYi0wQzA4MnpGWW13NXZNdFY5S0tqZzV1SzAwUy16d1JmX0lVZFkxN29jV0EwTFZWRjFmRWxZajUwNGhJZWY5ZERSR0ViN0E0UHE4TjBvbEUyUHllcFo3d2xoM0VMWG9wV2IwLXFPZXlDSmN5XzdFTGR3dUZpelU0QmQ1NmpPWjFpMDk2d3RjZUZ2RVhRQVEtUjFk?oc=5",
+      "looked_up_at": "2026-11-06T19:20:35.177533+00:00",
+      "search_queries": [
+        "\"Ultimate iHeartCountry Christmas Vacation 2026 National Sweepstakes\" entry",
+        "ultimate iheartcountry christmas vacation national sweepstakes enter official",
+        "ultimate iheartcountry christmas vacation national giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "e29b3987bea3f51a": {
+      "contest_title": "Ultimate iHeartCountry Christmas Vacation 2026 National Sweepstakes - 100.7 KOLT FM",
+      "original_article": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUXlKTVBMZUpDVWxaOTVURUdRSUVUUENqQXhma0hlbWZ0UGRvb3hoUm5iM0IzSGNzNGRuV0ZGYkV5VUNJUExleFJZYm9VM0pFWVhURGxJT2xmMEQ0UDBmLXY2bGRaY21UN3Jma0p6YlIyVVktNG5nOWp0MmVVQVVqSG90UHI4ZGRoR2EzY3NPTW1XSUVIckRydHptN3ljZXN6TFJ3?oc=5",
+      "looked_up_at": "2026-11-06T19:20:35.191916+00:00",
+      "search_queries": [
+        "\"Ultimate iHeartCountry Christmas Vacation 2026 National Sweepstakes\" entry",
+        "ultimate iheartcountry christmas vacation national sweepstakes enter official",
+        "ultimate iheartcountry christmas vacation national giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "c97ec7ded1420573": {
+      "contest_title": "Ultimate iHeartCountry Christmas Vacation 2026 National Sweepstakes - KSSN 96",
+      "original_article": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQenVnNmNneE9laFE1anl2V0FtX1JBU09YbVJicFVoT3NMZnNrMFY3X3B2V291SGRFdGptYkEyMEpOT3M1OURzV0p1eGJDLWw2d0ZURTVydTF3dlc5WnE3Q2hQa2V6M0x1LXRzZ3cxVkF3Tlh1MXpITHpaX0JUWVhQUU40RVpOam9VRTQtYktWaFRzQmVMTGZwYzdZWXc2d1Nl?oc=5",
+      "looked_up_at": "2026-11-06T19:20:35.406194+00:00",
+      "search_queries": [
+        "\"Ultimate iHeartCountry Christmas Vacation 2026 National Sweepstakes\" entry",
+        "ultimate iheartcountry christmas vacation national sweepstakes enter official",
+        "ultimate iheartcountry christmas vacation national giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "28915017f1531fd3": {
+      "contest_title": "Ultimate iHeartCountry Christmas Vacation 2026 National Sweepstakes - KIX 100.9",
+      "original_article": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVTY2Y3RZSHY3RkxLV08wOW96bndXM0NkSEd6VkNsUzFvTms4RHJUQktpOXNPUnVDWTE1WVBXN29YTWVSb1FUOElBMmFNNHBxQ0ZQLVh6NG5KdXdmbHplMjZlUVdJZ09JcTlFQTFlMnhhSWhDR1RkdjktTENOQW11Z1VVSGQ5YThPOHBRdjRCRkRycDhSbVBSaWVIdDdWa2RJSXZLTUtpSQ?oc=5",
+      "looked_up_at": "2026-11-06T19:20:35.384193+00:00",
+      "search_queries": [
+        "\"Ultimate iHeartCountry Christmas Vacation 2026 National Sweepstakes\" entry",
+        "ultimate iheartcountry christmas vacation national sweepstakes enter official",
+        "ultimate iheartcountry christmas vacation national giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "ac68adde235e1291": {
+      "contest_title": "Ultimate iHeartCountry Christmas Vacation 2026 National Sweepstakes - KASE 100.7",
+      "original_article": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbXFybzVqV2dicGhHZWlQRERLbnZldlpFcy1JeGdDcXFVZlJ1R18xcWZ1bVJqOG1CelNIUmstSk9yT0xXWkpRdEFuUndqYlJfV2FRZFhVdWw0M0w4c19GeFVOQ1ZMZHBzbUQwTkVvaUNYT3kzODluUGZwNDBfbnpDVnBBLTBoaGpIVzdkeVdtY3RGVmlsQjFlSDc3Z1g3Z25hRS1hRENn?oc=5",
+      "looked_up_at": "2026-11-06T19:20:35.426498+00:00",
+      "search_queries": [
+        "\"Ultimate iHeartCountry Christmas Vacation 2026 National Sweepstakes\" entry",
+        "ultimate iheartcountry christmas vacation national sweepstakes enter official",
+        "ultimate iheartcountry christmas vacation national giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "56f44582a2099838": {
+      "contest_title": "Ultimate iHeartCountry Christmas Vacation 2026 National Sweepstakes - 100.5 The Wolf",
+      "original_article": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSkxSQjVNdU5kX0IzMUw1MG9LcmVHbEhOVV8wTV9Ld2tnS05NekthUzRVTVJ1UERYTE9NenZSblBpaTFIQjVXa3VzUUUwWF9RNDF1RWZGcnpuaGFUb01Pc3FETkZ5NzN6YzdBa3lfYkJEaU1Xc3FsRDhYemFIenV1dW9KY1V2OHhUUFVPTEgxUGRyamZ6LU1kaWlkblRCdFlKb2R5eGFRT1AxUQ?oc=5",
+      "looked_up_at": "2026-11-06T19:20:35.465444+00:00",
+      "search_queries": [
+        "\"Ultimate iHeartCountry Christmas Vacation 2026 National Sweepstakes\" entry",
+        "ultimate iheartcountry christmas vacation national sweepstakes enter official",
+        "ultimate iheartcountry christmas vacation national giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "0cba41544edb3a0d": {
+      "contest_title": "Ultimate iHeartCountry Christmas Vacation 2026 National Sweepstakes - Bill 95.3",
+      "original_article": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNVpYdG9hSUdoRXRiM2lDeVlHVU1mOFFfR2V2ZVlva1JTMlo5Tk9QNl9aRTI5YUxNQURBcGVRSWxabElzRVU3VXNQY0JZNkMwRlRpdVo3S29mVzNvejFhUnY3UEppSmdrZndidEQzX1ZJRE0zYy1CZFBpYmtnZ2hiLXZ5c3pVVl9GZTF3dHZIZFdLMzNwUHNHUVZIbVNhOUduVVhuX25GRDc5X21pMnViWg?oc=5",
+      "looked_up_at": "2026-11-06T19:20:35.540500+00:00",
+      "search_queries": [
+        "\"Ultimate iHeartCountry Christmas Vacation 2026 National Sweepstakes\" entry",
+        "ultimate iheartcountry christmas vacation national sweepstakes enter official",
+        "ultimate iheartcountry christmas vacation national giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "a8b3172c762f0a53": {
+      "contest_title": "Ultimate iHeartCountry Christmas Vacation 2026 National Sweepstakes - iHeart",
+      "original_article": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTzNKbVVWVDVPUGpWMEhHb2RSMExEcEpWb0VVSFJFdGNMUlgwLXAwSnJ2aU1JMjVfVmxVdF9fcEJySGlkeko4RjhwMGF3UnBHTFg3SXRkbFlVTVVpMG4zZVJoVEFxajc3M3l2Yl9jNVJVRlA2UU40aV83SGR0UFY1cU5mMmhXN0hUTVdweEswMnpIWnFuVkVGaVNyaUpvcmFvOXNCYk1n?oc=5",
+      "looked_up_at": "2026-11-06T19:20:35.507583+00:00",
+      "search_queries": [
+        "\"Ultimate iHeartCountry Christmas Vacation 2026 National Sweepstakes\" entry",
+        "ultimate iheartcountry christmas vacation national sweepstakes enter official",
+        "ultimate iheartcountry christmas vacation national giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "d7d207085d88b0cb": {
+      "contest_title": "Ultimate iHeartCountry Christmas Vacation 2026 National Sweepstakes - BOB 94.9",
+      "original_article": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNb1IwSUJfWXBWaC1CZEpZc053ck1LY3RDRnJTTlgwRVRYQjhEcEVxUFhkUVVvSDdTb1c4dFhXOXFPS3lxdzZmVHh4V2xlYm1TdlRnS2RBTHh6MnhYa2ZybXdmZG9lcW1LRFUtb01iNlZvVjdJRXdFSGFab3pVeHBwX3g0N0IzakhQRnlGNWZEU3h2cHRjdV9fRUx3cXBIS1o3X0ZJ?oc=5",
+      "looked_up_at": "2026-11-06T19:20:35.618893+00:00",
+      "search_queries": [
+        "\"Ultimate iHeartCountry Christmas Vacation 2026 National Sweepstakes\" entry",
+        "ultimate iheartcountry christmas vacation national sweepstakes enter official",
+        "ultimate iheartcountry christmas vacation national giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "2307cac003c4b737": {
+      "contest_title": "Ultimate iHeartCountry Christmas Vacation 2026 National Sweepstakes - T102",
+      "original_article": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTTJNVWtOWGtnTWVQS2dBRGJSckx2aUpqc3pmbm5yUXliLWxMUUZ0dU16TTFjUElOeGFNRHhVZV9HUWtfcHBkS1RpYjdUYlhnYUlkZHJKeXlRN3pIMFR4V19aZ3dWdEd6UzhINFdNQWhRZm9HelhVT3Z2bnpEVzgzSDJUbl9rRjNfTlZXVi1IN3JZTXUzWENtWkRtMUtZNVIz?oc=5",
+      "looked_up_at": "2026-11-06T19:20:35.556217+00:00",
+      "search_queries": [
+        "\"Ultimate iHeartCountry Christmas Vacation 2026 National Sweepstakes\" entry",
+        "ultimate iheartcountry christmas vacation national sweepstakes enter official",
+        "ultimate iheartcountry christmas vacation national giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "dceabd3ee462670a": {
+      "contest_title": "Ultimate iHeartCountry Christmas Vacation 2026 National Sweepstakes - iHeart",
+      "original_article": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbG1mTy1IcnRWTUJFX3Nsd09iQjRaUXJRdno3ZktVQ1ZoMVlXc0xVYVlmNTVoSVE5NndLdjhPaFFOcGh5ZHYtbTJMSF9xMGdfbzNrZXlxNzVoSUpDNWxidXlXOUJnRjY2SzVPY0FGV1laRnRNTTVxOVVjQWFNMDlTclhwcXFmaHhaUk5yWWxxeHliQWo5V0RGYnotYzF1NnIwLUhRcTN6bHpuckJhdmc?oc=5",
+      "looked_up_at": "2026-11-06T19:20:35.616305+00:00",
+      "search_queries": [
+        "\"Ultimate iHeartCountry Christmas Vacation 2026 National Sweepstakes\" entry",
+        "ultimate iheartcountry christmas vacation national sweepstakes enter official",
+        "ultimate iheartcountry christmas vacation national giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "640289d8160c7a39": {
+      "contest_title": "Ultimate iHeartCountry Christmas Vacation 2026 National Sweepstakes - 96.5 The Bull",
+      "original_article": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONEw0Uk5PT3k2YU50RUJvMDVXamhaaWN0SmtzcFA1YlMxeXVBdlR6NEw1dkFhN1JYaTZoOUQzWXRTU3V6WnNNTEZHcEFBcS02cld3NTRMVXR6eVhMNFJhMDNMZVFmOW51TFRNUTcwaF84N2hRRU9JcVBFaDQ4dm90Z3pxRTByS0ttMnBDT2VwX0pXSVBuQjd1WWpXbV9PWllsWTZHemM5MjM?oc=5",
+      "looked_up_at": "2026-11-06T19:20:35.751725+00:00",
+      "search_queries": [
+        "\"Ultimate iHeartCountry Christmas Vacation 2026 National Sweepstakes\" entry",
+        "ultimate iheartcountry christmas vacation national sweepstakes enter official",
+        "ultimate iheartcountry christmas vacation national giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "1fe370631f252481": {
+      "contest_title": "Ultimate iHeartCountry Christmas Vacation 2026 National Sweepstakes - Buckeye Country 94.3 WMRN-FM",
+      "original_article": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQajgtZVBrWXFEbmc2dEFjbDdndmpHbC1PcWdyNkZwano5VU04elJsU3lyZENFMGQyWUVpNDRnaFFIVDRCckJQWlcyUVJXX0tLVGtDT2FrZEt5SnNlcG8tZjFmRjVISmFNcG9COGZsTjJtaFlsbzFNMmQ5TVRwYzY3Z0stY1JEeTAxUG9ieHBKT1NTaF9RVTNpLUZzRU9Rblp6M01WV0NCWkFYMU40YW5DbU5R?oc=5",
+      "looked_up_at": "2026-11-06T19:20:35.614125+00:00",
+      "search_queries": [
+        "\"Ultimate iHeartCountry Christmas Vacation 2026 National Sweepstakes\" entry",
+        "ultimate iheartcountry christmas vacation national sweepstakes enter official",
+        "ultimate iheartcountry christmas vacation national giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "935436739d610d72": {
+      "contest_title": "Ultimate iHeartCountry Christmas Vacation 2026 National Sweepstakes - 96.9 the Bull",
+      "original_article": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcE9LOVBoZUtiNDAwY0pNRE94Y2dHTHRvZUNBOXNLUzliMmduMXN4dUhLVnlrUTRUNXVtRGpPdGJQZDJFZ0lhRG1OdU9kczNIQVpaU3pYVnBSQVFaTzVZckIwdGpJbmJqZzhqX25FS3h3clVFS3Y2UlNaLXM3TUo2cW5MVlpPZzJlQWs5c3ZOMHhoZXVIWkgtYWh0MXR0d0hvUEVSZWVoN1lYSmc?oc=5",
+      "looked_up_at": "2026-11-06T19:20:35.690973+00:00",
+      "search_queries": [
+        "\"Ultimate iHeartCountry Christmas Vacation 2026 National Sweepstakes\" entry",
+        "ultimate iheartcountry christmas vacation national sweepstakes enter official",
+        "ultimate iheartcountry christmas vacation national giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "816f768f13341b9e": {
+      "contest_title": "Ultimate iHeartCountry Christmas Vacation 2026 National Sweepstakes - 107MUS",
+      "original_article": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSFh5NnMzdG8wVnkxR2NzLXBvYmw0elhBVndSTkRHYU5YSmZSM1puUVpHZFhBQi1mUzgzUVNoekZweWN4MGhSYmxOR1lzUTQtNU9MQkZOMk8zOFJwaml0M3RrZHAzUFYxdnliUEc1UENzanJoeGU1d1dONDFHYzY0djJCN2p6TTU2c3pfSF9JRGJRblU4RDFMRVMwdFQ1bVd1amJN?oc=5",
+      "looked_up_at": "2026-11-06T19:20:35.765748+00:00",
+      "search_queries": [
+        "\"Ultimate iHeartCountry Christmas Vacation 2026 National Sweepstakes\" entry",
+        "ultimate iheartcountry christmas vacation national sweepstakes enter official",
+        "ultimate iheartcountry christmas vacation national giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "bf3a2b9b83edb0a4": {
+      "contest_title": "Ultimate iHeartCountry Christmas Vacation 2026 National Sweepstakes - 96.5 The Bull",
+      "original_article": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaE5ZTDJHZ0MxbkNGS0dSYmlZeExXQUtfYlhoYUZVWUhYcDEtODVpejFFZ1IxWmN2Vm1FZnYxUzc5b1VHMEw4OVdiT052OWtJM0M0Yk9wN3dXbkVvS2Rlci1jN29hekU2bmFkRGV6SU9sU2FBSHpLUlhBQnNqQ2NsZExQTUdleEZjQ0ZCQVlXUkpSU2hzaXFaWnJXRW1xOWd2YnlZVGFKUF8?oc=5",
+      "looked_up_at": "2026-11-06T19:20:35.815893+00:00",
+      "search_queries": [
+        "\"Ultimate iHeartCountry Christmas Vacation 2026 National Sweepstakes\" entry",
+        "ultimate iheartcountry christmas vacation national sweepstakes enter official",
+        "ultimate iheartcountry christmas vacation national giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "4a29e9aad3f9c3d4": {
+      "contest_title": "Ultimate iHeartCountry Christmas Vacation 2026 National Sweepstakes - iHeart",
+      "original_article": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWHJFYjN2cVJYRElZWUFHYmI0SDJuei1ZbWdSaExsWmZMVEpPanRfX1RGRllzdW9WSzEtZHN4aG5CWEZpb1RsNGJxOWx1eFBHS2ozSVFEa0RDeHMxbEJLYnRpa3JILVJCRnpvNlhad1BJQkRON1lYQmt3TEN5QmtKblR2YXdTRU5LVjEtNXJNSmlPb25YMkpLMnlkMU1EaDA?oc=5",
+      "looked_up_at": "2026-11-06T19:20:35.856877+00:00",
+      "search_queries": [
+        "\"Ultimate iHeartCountry Christmas Vacation 2026 National Sweepstakes\" entry",
+        "ultimate iheartcountry christmas vacation national sweepstakes enter official",
+        "ultimate iheartcountry christmas vacation national giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "a2b3f4475bc94aa7": {
+      "contest_title": "2026 Q4 Cash Sweepstakes - iHeart",
+      "original_article": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBZZ0VlTWtTbmloSTNFcDIwcEo4UUFuQVlucURnbnNTc1dxZURrRGNycUVsQVJHT3VsWVc4MnhQT19nMDI2MFJxbGUtZlRxQ3Zmdk1SRlZYWV9vZU1OUGVMMllYYWpkU3ptZkNMbEpJT29UdDRmbXAw0gF_QVVfeXFMTUdxQkw3SmVaMHN5NUs0S1VrYUNCeHRzNHBZQkdIaG5ESDZSSmZHMlc3Qm9MNU8yUFJWWnZCOU44Y055azV3aWZzbC1yeHdmU2NHYkhlQWU5aXhTWTZJSF9rVHRvRDN2Y2xZdURvM19VcTczRTFNdVZDVFJaa1JNSQ?oc=5",
+      "status": "insufficient_title"
+    },
+    "5a4ba50dfbe8f48b": {
+      "contest_title": "Ultimate iHeartCountry Christmas Vacation 2026 National Sweepstakes - Cat Country 107.1",
+      "original_article": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPV0lvMHRKX3ZnQ2U4OXBJVmhhUUsxREpaSmVmSzFfZzV0SkF6ck9ET3g5cVFOdjI3c3NDUlpPdVFPUVJKS200emdabHBYakZaMjNIT1RnRkUwdU5Ua2hLUXhVcXBQRXJMNTBNSk9ZMVdVWU9ZSmc5NjFjZEtQNHBMUjkwRUFTbGVLWE8xRTQ0QXotd1otdHFsa3NPT0pQX0xIVk8tWWdkMWZnRk8xVHc?oc=5",
+      "looked_up_at": "2026-11-06T19:20:35.878636+00:00",
+      "search_queries": [
+        "\"Ultimate iHeartCountry Christmas Vacation 2026 National Sweepstakes\" entry",
+        "ultimate iheartcountry christmas vacation national sweepstakes enter official",
+        "ultimate iheartcountry christmas vacation national giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "08aa8e254f463915": {
+      "contest_title": "Find Exclusive Contests to Win Tickets, Trips & More from iHeartRadio - iHeart",
+      "original_article": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8zSC14cmxnWGhwdWd6X29pRmhoMWVabFlCN0NQYkZtanM2NFhaNThQQUJ5VmNWOFFDdGJmdlhPeDZPbkNPejhzZUhFZw?oc=5",
+      "looked_up_at": "2026-11-06T19:20:35.890697+00:00",
+      "search_queries": [
+        "\"Find Exclusive Contests to Win Tickets  Trips & More from iHeartRadio\" entry",
+        "find exclusive contests tickets trips more iheartradio sweepstakes enter official",
+        "find exclusive contests tickets trips more iheartradio giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "59bac43397dbc208": {
+      "contest_title": "2026 Q3 Cash Sweepstakes - iHeart",
+      "original_article": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTjFYQ0Nhc3pydjlDbWFwT052eVI5amVfOGxteVowQzlLZWNsYnEwN3JybU1SOFhjSzNRMUpuV0JxTXdHUE91dXZkVDE3TFJWOHdQcVJlTm9XWTFFTzVwLXRoYU9rQnJLZ2tCeHZPTlhlRU5YcW9pYXNVQTY2b2NFNmpLSQ?oc=5",
+      "status": "insufficient_title"
+    },
+    "f39358de424a4aa7": {
+      "contest_title": "KOST 103.5 Beaches Resorts Sweepstakes – JAN/FEB 2026 - KOST 103.5",
+      "original_article": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYWhGMlJZZlVvblBxcy1HM2dTSlU2dXdKaHJhVkc0SEE3anh2S1dkcElMcmZ6WXBfeFYySGlhaHNKMHZTdXA1MDVSMExEbnpDaHpLUEZiZTNsaWQ0QjFfNjE0OVRJdzFHeGl2UjZjMVVmZk5JbE01SWV5OS0wd0JpT3dFSGpxSjdwU2hNemZOR01MUFljczdXLW5VdURYZw?oc=5",
+      "looked_up_at": "2026-11-06T19:20:36.034274+00:00",
+      "search_queries": [
+        "\"KOST 103 5 Beaches Resorts Sweepstakes\" entry",
+        "kost beaches resorts sweepstakes enter official",
+        "kost beaches resorts giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "d23d1ea6f4ab2e7c": {
+      "contest_title": "Ultimate iHeartCountry Christmas Vacation 2026 National Sweepstakes - 92.5 WPAP",
+      "original_article": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOamRuX0RDTmVFbEw3NE5hZzJCWTFZX0Y5cHAtN3lPNFdPbUh4SUdCc3pLczQyclpjUlVEMDg1U3dLMUQ2cWV3MHQ1VUpYV2UxX2NwbVpRLVpkN3QweHFZc0IyQ2JBaFlLelZmWm5Oci11bWNJcWcxb1hMb0NmNTZMZ1doOHVjSzBMd2FBQ21zWTRKQXY2dHdHdFJsdk5CX2JZdWQyeA?oc=5",
+      "looked_up_at": "2026-11-06T19:20:36.021189+00:00",
+      "search_queries": [
+        "\"Ultimate iHeartCountry Christmas Vacation 2026 National Sweepstakes\" entry",
+        "ultimate iheartcountry christmas vacation national sweepstakes enter official",
+        "ultimate iheartcountry christmas vacation national giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "8f1a7023e7038b09": {
+      "contest_title": "Ultimate iHeartCountry Christmas Vacation 2026 National Sweepstakes - KJ97",
+      "original_article": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaFNtNzZSYnVOX1FrY1djdVE2bHBhYVI5V1VpYndiNmZZVE5ENHZaQkhSMDJZNHg2OFdMdU5SU21BanFTOE5oVGZDOXd6LUpEdWhZRFA5RXZXc29PM1pmemhaMkRqV2Z6ajhHTnhNandadUYyTGRhcWlRdlJiZmp0RldzTGVsQS1kRVZGcGRmd19qdHY2enZpcGdCVHIwWFZ4?oc=5",
+      "looked_up_at": "2026-11-06T19:20:36.030371+00:00",
+      "search_queries": [
+        "\"Ultimate iHeartCountry Christmas Vacation 2026 National Sweepstakes\" entry",
+        "ultimate iheartcountry christmas vacation national sweepstakes enter official",
+        "ultimate iheartcountry christmas vacation national giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "2923dd2128b18b2e": {
+      "contest_title": "Spring 2026 Disneyland Resort Talkback Sweepstakes - Rules - WiLD 94.9",
+      "original_article": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQc2ZpOWdkR1lUZXNFaWR2LXBqOEp1VlkwSDVpQi1XQmZMalVSX1FiUGpPWXB5UlozWFhoZWNRY0p3di0wOENDdWRxTjFTSlBlN2hFRlJjN0cxcEN1Sm4xVG1lMDJOYUxxNjNqX0taNnBGM0FtTWZkNkhraUFWQ0lEek13MG9jV0dXRldULS02TkJtenBHZ2RzT0NzcG9pYTFpaWFwUm130gGuAUFVX3lxTE9hZnBoTVhmb2YzZ2xCeU5UWXdEYUNlRUhOcE9JaVpGYzlTeV9qbEpfZTJTMXdvQ095YXFyOS1SV3JvZGRuNTFsTzgyb0xBWFhiczV4M3hTN2dNeTVPQ2hueE1DbFBVbm5XS1ppUlVkRzBqMk03TnU2Y3RLbEJUOUxCcEtKMkVrU2hNeTQ4YW53ZXRUT0pHWnFndUQ3SVhITjJYbWFfa2VoQ1BDRmNRdw?oc=5",
+      "looked_up_at": "2026-11-06T19:20:36.070533+00:00",
+      "search_queries": [
+        "\"Spring 2026 Disneyland Resort Talkback Sweepstakes\" entry",
+        "spring disneyland resort talkback sweepstakes enter official",
+        "spring disneyland resort talkback giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "410384fa4ba29826": {
+      "contest_title": "Ultimate iHeartCountry Christmas Vacation 2026 National Sweepstakes - 97 Kicks FM",
+      "original_article": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUlBWSzhoVTlTa0xfMWRZU2h3SnJzZ2pLQ01JLVlXWXlVNFR1b1JMSkxIUERsNFJmcFlvc1o4Q3lVRGxTaTFIdVVPTTN4MWdEc3N6MDgwUk55V2ZmQWVnMkhQS3NfemNFSWJtSXJUTGMzNHBwX0o3VlJBb2hJNExiXzVqbzZrMXlWcVZhbEJUQkp5TnBjcWlDazZ2c1JzT0JVUXlleWdJZw?oc=5",
+      "looked_up_at": "2026-11-06T19:20:36.051301+00:00",
+      "search_queries": [
+        "\"Ultimate iHeartCountry Christmas Vacation 2026 National Sweepstakes\" entry",
+        "ultimate iheartcountry christmas vacation national sweepstakes enter official",
+        "ultimate iheartcountry christmas vacation national giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "1e1578cdcaecbd04": {
+      "contest_title": "Find Exclusive Contests to Win Tickets, Trips & More from 94.9 The Bull - 94.9 The Bull",
+      "original_article": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9UTThqN2NIenR6b1RXVGI2US1sZU9HSDJJVko4UXdsSHFWdVBETmdITklabUExUXJXeElCQlZNQWxLNTRubDAwVDhIcU14TWRrajQ0?oc=5",
+      "looked_up_at": "2026-11-06T19:20:36.105320+00:00",
+      "search_queries": [
+        "\"Find Exclusive Contests to Win Tickets  Trips & More from 94 9 The Bull\" entry",
+        "find exclusive contests tickets trips more bull sweepstakes enter official",
+        "find exclusive contests tickets trips more bull giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "156316044d8f7836": {
+      "contest_title": "Doja Cat (Instagram Contest Rules) - HITS 100.3",
+      "original_article": "https://news.google.com/rss/articles/CBMijAFBVV95cUxON1NYZDBFem1walh0bEhIQVdFaEZfOWJSY08wcG96VV9xLTMzM05kdl9mNlM0Yjh2UGR5bjNrZHVQeS13RjFBTnBnaVc4SUtSWVdJVGExaEtEVGx3TEVjYXpmdGg1eEs0a01FZTJoNS01Z05CcTZVZm5EckhRRy1EY1pRYVNfc0Y2aENBatIBlAFBVV95cUxNb3ZxTDJxRkNRZ0VNczMxd2w2Skk5UF9Cd0dtOHBxR3h3QUEyd0RkRXZhbnhDTWtqSkNpbkZxNVJwdWlHVXFCenhzdmlCNDlXUlRmT2NDTDZVY3NJNmhXZzhuU3ZpYUlnMVVKQ0xIdkZjaWN2cDRUS1ZRWllPVFVvTXlLWW41MkxHYndNbkZvNDBDVElQ?oc=5",
+      "looked_up_at": "2026-11-06T19:20:36.265718+00:00",
+      "search_queries": [
+        "\"Doja Cat  Instagram Contest Rules \" entry",
+        "doja instagram sweepstakes enter official",
+        "doja instagram giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "c7e0b8d3c414e16c": {
+      "contest_title": "Ultimate iHeartCountry Christmas Vacation 2026 National Sweepstakes - WYNR 102.5",
+      "original_article": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYllUMks4M1FPYUkzTE1QUzd5UU5pRm9jTkFnZTlQLW5PUzYya2hTcW8tTTJSTDM4WHF6X3NSLVVVLU1XSXJzUWRLMmFmMF8wVlJac3dCVFp0S0p0LXlmSHVRUzZUbEp2bDNuWVRkbVg4ZjRaOEVwS0ZNMTVXUV9GcnR5RkpYNnZDMnFmX0V2bnZUMktQbGl2ZE5lai1jZVRWemlYZnln?oc=5",
+      "looked_up_at": "2026-11-06T19:20:36.123145+00:00",
+      "search_queries": [
+        "\"Ultimate iHeartCountry Christmas Vacation 2026 National Sweepstakes\" entry",
+        "ultimate iheartcountry christmas vacation national sweepstakes enter official",
+        "ultimate iheartcountry christmas vacation national giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "40beca31b8285b22": {
+      "contest_title": "Ultimate iHeartCountry Christmas Vacation 2026 National Sweepstakes - 106.1 The Twister",
+      "original_article": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdllxSnQxU3NIbmg3Wm5MSUpYLXZtUk04a0NNc2J1NDBaOXhuclczN25GbmE2VXhTd0tFalc0dXNoX1NIb012U1NnRFljenRaUUd5ZDRpdEhORTI3ZEI5MEp0TXRNOGNmOHl3MEtrNkg4Mzd1MVI1TC1Ec1lTWGJhNzRkdnFtQW5oWXpsTFd0X09GcUIzZ05EZk1CSHpxVHV5aVdSejczNS1ialZTN1E?oc=5",
+      "looked_up_at": "2026-11-06T19:20:36.212931+00:00",
+      "search_queries": [
+        "\"Ultimate iHeartCountry Christmas Vacation 2026 National Sweepstakes\" entry",
+        "ultimate iheartcountry christmas vacation national sweepstakes enter official",
+        "ultimate iheartcountry christmas vacation national giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "2f49958efcebc840": {
+      "contest_title": "Ultimate iHeartCountry Christmas Vacation 2026 National Sweepstakes - KGLX-FM",
+      "original_article": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNM0VhcVN1QWlqRG0ydTN2NU9hbEdPX2hzVHV4YWo4UjBrdkZYR1l5bGFfS2x3NGsybUxfa3lOZlJYVDZyeTZqZGY0TnNBOUVlUzdYMjB0enZXaGdRY1YyMlRlZVZJTHVtZGdYczJ1c3dBdGlRTWhUUERZUVg1anV3S0ZPcmU1WUlzclZnTWZQT0lDLWxVSEdXQTlCQ0tFOUJDTVZERA?oc=5",
+      "looked_up_at": "2026-11-06T19:20:36.249849+00:00",
+      "search_queries": [
+        "\"Ultimate iHeartCountry Christmas Vacation 2026 National Sweepstakes\" entry",
+        "ultimate iheartcountry christmas vacation national sweepstakes enter official",
+        "ultimate iheartcountry christmas vacation national giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "5a4c4257a8fbd794": {
+      "contest_title": "Ultimate iHeartCountry Christmas Vacation 2026 National Sweepstakes - Kix Country 92.9",
+      "original_article": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWXg4ZTBmOWxDOFpxaEltLVFITUFuWDdkLUdCOFQxVUViQ3I4WW1ITE1PM0U1NnBQcTRvYkNVaEkyX2pEUGlHTkNTRVM0djZ2OV9VUzBSOEtlRzI3WFJIajFJT01vdHpCc3lUR3hiZzN6SjN0TEpkTm1zeHZjT0c3aGlRRllUWnVESm4yMUpCZFJpQkY1NE1jUjBIQjdxUVVHejhDSlRwQ2JpSGs0?oc=5",
+      "looked_up_at": "2026-11-06T19:20:36.494809+00:00",
+      "search_queries": [
+        "\"Ultimate iHeartCountry Christmas Vacation 2026 National Sweepstakes\" entry",
+        "ultimate iheartcountry christmas vacation national sweepstakes enter official",
+        "ultimate iheartcountry christmas vacation national giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "408ff06ef650be04": {
+      "contest_title": "Ultimate iHeartCountry Christmas Vacation 2026 National Sweepstakes - K93",
+      "original_article": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQejdkWlAyRnV2bkhoZDk2ZmNablJnTGhfWG5IRlk3ME5XVHV0a21tWU0zS3NGSGtla09GcVNUNzRvZHVPNk9LZnF0dmlSQzNnVjEyRVdGa2JaVTdSZWZVaVhxZUtDZTNVUDNua1FsMjRNT3JnaFhHRTFaanhjMGNuNmhFWGRhTmJNSUZOYnJ2dDFBTzZWZHhNMFJYOG9TdDBCbzNXWGVicFQ?oc=5",
+      "looked_up_at": "2026-11-06T19:20:36.275164+00:00",
+      "search_queries": [
+        "\"Ultimate iHeartCountry Christmas Vacation 2026 National Sweepstakes\" entry",
+        "ultimate iheartcountry christmas vacation national sweepstakes enter official",
+        "ultimate iheartcountry christmas vacation national giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "cdf89579df24a9a4": {
+      "contest_title": "Find Exclusive Contests to Win Tickets, Trips & More from 102.5 The Bull - 102.5 The Bull",
+      "original_article": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1fM0x6ZzVjV1RmdEg0ZXdHUUpKdFVfaTRsZnJVMGJRUnlmNDdfUko1eXhrd3MzRFBHZnlvaUFQMjNlNjdoakVLNUxwSHpXM2dXSGh5dw?oc=5",
+      "looked_up_at": "2026-11-06T19:20:36.511218+00:00",
+      "search_queries": [
+        "\"Find Exclusive Contests to Win Tickets  Trips & More from 102 5 The Bull\" entry",
+        "find exclusive contests tickets trips more bull sweepstakes enter official",
+        "find exclusive contests tickets trips more bull giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "4fe8ed15dbb57d7e": {
+      "contest_title": "Commanders vs. Rams @ Northwest Stadium Instagram Contest Rules - HOT 99.5",
+      "original_article": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQ2RwMFl1RzliUmtVTWJVay03NG5ORG05OFM3SEdDc0tQTU9yM0ZxUFdteUozNDY2Nk5zMk1PSFpselQyV0Fpb3FhbUdoT1VhZ0JrNWNBaVB2RmNIQjQwdnZYOWZZV09KZlhNS0V2MjdJVHY5SXlnSVV2RXl0bVpJNXZhQkZSblQ0VUc2UmNnUTJqeVNrWWJOVW5MRzk1aF82dlBmWkc2NnFZUQ?oc=5",
+      "looked_up_at": "2026-11-06T19:20:36.533141+00:00",
+      "search_queries": [
+        "\"Commanders vs  Rams   Northwest Stadium Instagram Contest Rules\" entry",
+        "commanders rams northwest stadium instagram sweepstakes enter official",
+        "commanders rams northwest stadium instagram giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "ff3829d834a4501d": {
+      "contest_title": "KOST 103.5 Private Holiday Party at DISNEY CALIFORNIA ADVENTURE® Park #1 - KOST 103.5",
+      "original_article": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNS0V5N1djX3E3S3VwNmVLTndnOVVvdWlyR3hvM29kYXVmanVEU3B6UmFvb3ByZXM4c3lOMTF6N1hMTkQ5QlFDLVp2d3RWMnBlWjV5MEU2TXhyeHVFWUZfMFdNUGNzSll2azc1anVqa1d1NlVwZEdmaUZEYUdVcTBaZ2hsOHNod3JMaEE?oc=5",
+      "looked_up_at": "2026-11-06T19:20:36.411152+00:00",
+      "search_queries": [
+        "\"KOST 103 5 Private Holiday Party at DISNEY CALIFORNIA ADVENTURE  Park  1\" entry",
+        "kost private holiday party disney california adventure sweepstakes enter official",
+        "kost private holiday party disney california adventure giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "8d78325bcda03410": {
+      "contest_title": "Met Gala 2027 Theme Revealed After Galliano Controversy - iHeart",
+      "original_article": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOb2ZNTGtiYkRXU0hLazcxR3dCQUc5V0N2cjE0Q1AzMHpia2lkY0FmdUFGU19BZjVXWmt6M2NNaTVtVEZxY3phQUcwcnBQQkU5Q3hjbkRtcEQ3UmxUTzRvOXgtaElpdUV2UmFudXJfYUY2dDFUU1VEZDBLSXFXOGktaVZMTndBY3MwMlFQdENHTlEwdFdFMk5sRXRVQVhtVF9f?oc=5",
+      "looked_up_at": "2026-11-06T19:20:36.544822+00:00",
+      "search_queries": [
+        "\"Met Gala 2027 Theme Revealed After Galliano Controversy\" entry",
+        "gala theme revealed after galliano controversy sweepstakes enter official",
+        "gala theme revealed after galliano controversy giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "e777589b70df958d": {
+      "contest_title": "Find Exclusive Contests to Win Tickets, Trips & More from WEBN - WEBN",
+      "original_article": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1nc19DT2tCSk9yZzJNVV9fdWUxTmNPTXh4N2VpSkozalh4RUlfQ2JaeENuWkdCU3R0WUVzUjlTVmduV05sanFvZnMzYw?oc=5",
+      "looked_up_at": "2026-11-06T19:20:36.619209+00:00",
+      "search_queries": [
+        "\"Find Exclusive Contests to Win Tickets  Trips & More from WEBN\" entry",
+        "find exclusive contests tickets trips more webn sweepstakes enter official",
+        "find exclusive contests tickets trips more webn giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "7afeac0481c0ba6f": {
+      "contest_title": "2026 National Toy Hall Of Fame Class Winners Announced - 102.5 KNIX",
+      "original_article": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdTlBVFRJYzhGMnVpbUNBTGtVMDlqRDNMZlZrNi1rUFc3SkRIaTNKVjh4RDBsbGFGdGNZZUJuYUJDVERDZ1FaRXB4YWNCazM2U0JISG9hb3JobnpOcUxWeUNLUFlkMlI4aGxBbWx0X3g0WFkzVk1TcnpGOFoySnc2R0JLWnA3bXJJemZzc3lPNTk0a3QzOHozYlBYLUc3NFFnTXBfbWpQVk0?oc=5",
+      "looked_up_at": "2026-11-06T19:20:36.594598+00:00",
+      "search_queries": [
+        "\"2026 National Toy Hall Of Fame Class Winners Announced\" entry",
+        "national hall fame class winners announced sweepstakes enter official",
+        "national hall fame class winners announced giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "03c7e733e6ecfc1c": {
+      "contest_title": "2026 National Toy Hall Of Fame Class Winners Announced - KIX 100.9",
+      "original_article": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNU0dBZnRHdXV6NWtrY0pWQV8wTHhPTFJUd2JxNENaODR1WmxiZHk2akpZOVJtUVpnamtaajF0Q191bkFQNHF1Z0lFWWdrQ01JNnRaWXVkaVhQTm5kNGhVNF9ZV3FrdVdMVFh5V2FBb2xobVliY3B5M0U3RlJlWEpoV0tfa2o4c2NSWERLVlJ1bGpjQ1ZTRTR4RG5zZllmS1U1UUZuNzRR?oc=5",
+      "looked_up_at": "2026-11-06T19:20:36.564693+00:00",
+      "search_queries": [
+        "\"2026 National Toy Hall Of Fame Class Winners Announced\" entry",
+        "national hall fame class winners announced sweepstakes enter official",
+        "national hall fame class winners announced giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "dc1b02126fc5ad58": {
+      "contest_title": "2026 National Toy Hall Of Fame Class Winners Announced - KJ97",
+      "original_article": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMmJBUkRGeEViaTBVTUFhN3Q3V1dlRHZsS2cwYUtDc1Q2UGVSSTd3U2x1STg3VExhTFdtN0hJZVc2dS11MVRvYm85VnljSnZ6VHRJYkYtVERETWhDRHNibVkwdFVQd3huZlY2U3lVb2FXa0tLQVR2NEVPdFhiYXpOVTdXc05QSmVoclEtWmYwZVFhU2VsdVRhTVk5amhYY1k?oc=5",
+      "looked_up_at": "2026-11-06T19:20:36.698784+00:00",
+      "search_queries": [
+        "\"2026 National Toy Hall Of Fame Class Winners Announced\" entry",
+        "national hall fame class winners announced sweepstakes enter official",
+        "national hall fame class winners announced giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "e03e31528fad3b93": {
+      "contest_title": "Pope Leo Meets Bob Dylan At The Vatican - iHeart",
+      "original_article": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNenU4WVdKc01Xa05aQVdIeG81UzVBcGJPVVU0WlM0dVVqRkQ1TnR5TWNabFVWV1pGOTNsWThIVzI3SnpmZWdVMUpfUEpvMkxtZTBUR1kyZXRnc1BMMGxqRXBYSV9fOF9yN1ctbXpJOEFSU2lvWFRRSy1fNUR5eTFZUVZmZW50ZUR6eURF?oc=5",
+      "looked_up_at": "2026-11-06T19:20:36.697941+00:00",
+      "search_queries": [
+        "\"Pope Leo Meets Bob Dylan At The Vatican\" entry",
+        "pope meets dylan vatican sweepstakes enter official",
+        "pope meets dylan vatican giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "db0535acfcefb1b9": {
+      "contest_title": "M&M’S® POP'D Caramel Jingle Ball Sweepstakes - iHeart",
+      "original_article": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORDQxQjhSc0YteWZYaUpxdFVyVlZUNExMbUNqVkF5VWhUMVJpMENhalQzMG5paVlUQVVSSHhIeWs5T29WNjFlSkJmQUMySkowMk5Vd1pLeUlobjdBUWtGN2VMckxURkFfakN3UTJZMUQzY0FvczZic0k5Mm12WmFTQkVpODhaRDE2ZnlnZw?oc=5",
+      "looked_up_at": "2026-11-06T19:20:36.710813+00:00",
+      "search_queries": [
+        "\"M&M S  POP'D Caramel Jingle Ball Sweepstakes\" entry",
+        "caramel jingle ball sweepstakes enter official",
+        "caramel jingle ball giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "2c1472ae9d35b1cb": {
+      "contest_title": "2026 National Toy Hall Of Fame Class Winners Announced - 96.1 KISS",
+      "original_article": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOTNabGU1akZibWw1WmN1TWtpMVdXYUpUdlBJSkNZcnoyOUcwQkxpVnZFZnhyVHdlUWhkc3JmOFhseDNTMGREYXpiM2FLUnMtaEl4WjdDSFhYRnVQSHh3ZTVBOGpxNEhQX0NxUllRM3k4cEREUmF5R2VTbkNQZzk0MEtfZGJwWDUzLVhOc3VVbkw5aktWcjk2dC1JOTlrRWRJTzE0?oc=5",
+      "looked_up_at": "2026-11-06T19:20:36.672523+00:00",
+      "search_queries": [
+        "\"2026 National Toy Hall Of Fame Class Winners Announced\" entry",
+        "national hall fame class winners announced sweepstakes enter official",
+        "national hall fame class winners announced giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "d23e56440a8abf59": {
+      "contest_title": "2026 National Toy Hall Of Fame Class Winners Announced - 102.5 The Bull",
+      "original_article": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOM0xzXzZ5Z0ZtTkJZTmVpZE5VbHkzOEhEUWpJUV9pZjhWbExwOUlOdjBvOVZfdGdIc2pZQWpMbUM3MHlYU0YxWDJtWXZFaWVSa1hWZlI4TmRhQVZJSTNSZFpnSEJ2bkZYUlo2bWh6ZUpmVWVqV0pTOXl2bzNjbjZBR2VqUkl6LWJRVEJidEVTZUFQX1RKN2J0QUxnWjR0WERxRy0yNkM1V3Y?oc=5",
+      "looked_up_at": "2026-11-06T19:20:36.886464+00:00",
+      "search_queries": [
+        "\"2026 National Toy Hall Of Fame Class Winners Announced\" entry",
+        "national hall fame class winners announced sweepstakes enter official",
+        "national hall fame class winners announced giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "9128529265edfc12": {
+      "contest_title": "The 2026 Travis Mills Foundation Cash Raffle Presented by Mortach Financial - 101.3 WNCO",
+      "original_article": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQM2lYNndEcjhabzRKSnY2bmhMNmxWOVZoNEJ2Y1QxZVVpNkV2ZDB2OTNlNHZfMGljN0xlTFdWVm1wemxhTks2MkxOZ2dsUk1YZExmM0wwX3BreFFwamNndVFKdmYtcFVnSWhIaU9fU3dTRjNLbHl4OEJERVNxQktVaG9lbzNJcU5OMDFocFp0dkkzRnNDdm1XNTlFOC1oQnZLdHhEY0MxQkNkQ0phZ0xfeF9MVkRzMEZwZnZPRTI5TXJQNGhuREZvenFQRDI?oc=5",
+      "looked_up_at": "2026-11-06T19:20:36.928657+00:00",
+      "search_queries": [
+        "\"The 2026 Travis Mills Foundation Cash Raffle Presented by Mortach Financial\" entry",
+        "travis mills foundation cash raffle presented mortach sweepstakes enter official",
+        "travis mills foundation cash raffle presented mortach giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "1e5e725e2a9d46c3": {
+      "contest_title": "2026 National Toy Hall Of Fame Class Winners Announced - South 106.1",
+      "original_article": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNS2dFbEVRMTYxRTdRZjktbUxLS1U4c09xVHZKamROQ3hIRGU2dDVEN3lCcjNxRkhHb216aFUwbzNndkEzWU5nZ1lVX0s0ajNFamlOUXRkOUpvZFBtSEFKYTVSb3JPdUZjWWY2YUlIVS01OWMxeURCd1dmZS1KRjcxeWJ3NjI1QVRBYy05SlNoUUU0ZmdFSDNjMmx2T0lEZWRWSEpjUmJRU3A?oc=5",
+      "looked_up_at": "2026-11-06T19:20:37.080734+00:00",
+      "search_queries": [
+        "\"2026 National Toy Hall Of Fame Class Winners Announced\" entry",
+        "national hall fame class winners announced sweepstakes enter official",
+        "national hall fame class winners announced giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "21329dff604ac24a": {
+      "contest_title": "2026 National Toy Hall Of Fame Class Winners Announced - WLLR-FM",
+      "original_article": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcGU5dGVlTUdWZWxaQmxuT0R2aTVJZHRYV0FlSDVwblB6X0o1VkFZdDluSEZwYnpfc3lOSzRnVGVtRGxCM29YTW1uMVVaNk53UlA0Nl9qX1hITzJwTTdOd2FOOGZ5Y0E3VnZndEhNN2x2eXM4dlJmU0EtM3czbHNNUFBzSE9NR29VMVBkYVRTV3ZLV2FsSE0yY1RudjREa1RiVzY4Ng?oc=5",
+      "looked_up_at": "2026-11-06T19:20:36.955699+00:00",
+      "search_queries": [
+        "\"2026 National Toy Hall Of Fame Class Winners Announced\" entry",
+        "national hall fame class winners announced sweepstakes enter official",
+        "national hall fame class winners announced giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "e68ed0ed7f23eecf": {
+      "contest_title": "2026 National Toy Hall Of Fame Class Winners Announced - 95KSJ",
+      "original_article": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcm1BbkZYWHpHVHFQYVJhWmRPdlo3cG9PekUzLWNUbkhodjR3bGRtM01jQ2JlQnAtN3lIdnlodmRELVdOYnBfWE02dGw0dVFsc05CMy05WE0zVkhTNzRvVDJLU3JWU0toN3F2WXBscks3ME9iOEI1Wnl4d1M3b3B0TGNzb0Nac2RqX0tDVzJvYm9JLUxtTF9fejRrQ29YSXhL?oc=5",
+      "looked_up_at": "2026-11-06T19:20:37.089090+00:00",
+      "search_queries": [
+        "\"2026 National Toy Hall Of Fame Class Winners Announced\" entry",
+        "national hall fame class winners announced sweepstakes enter official",
+        "national hall fame class winners announced giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "ac2bf341d9b7a8f3": {
+      "contest_title": "Starbucks 2026 Holiday Cups Are Here, Including The First-Ever Holiday Pup Cup - WLLR-FM",
+      "original_article": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNTZmQ3EycDhhNHl0S0lGeW5ELWNncFB3NFBGeHNURVgtMU5ETHZyTVFZREMyUWJqajA2V0lLRms5YXZDbTVlajQyajdyd1FXaWtERWI4ZF92QVpyZkRVLW1mRzhEcGNSMVJpcGxMVWVqblF2VU5FM3l1anJoYkF1QlhTT1hDaHo5WS1Tc0VlNVktMmdHMnBBeVlPdnpaby1mcUhBVHR0a3BiR2s4dlV2YUM4dGVnT0JBMzVESmNpbFBncUU?oc=5",
+      "looked_up_at": "2026-11-06T19:20:36.922911+00:00",
+      "search_queries": [
+        "\"Starbucks 2026 Holiday Cups Are Here  Including The First-Ever Holiday Pup Cup\" entry",
+        "starbucks holiday cups here including first ever sweepstakes enter official",
+        "starbucks holiday cups here including first ever giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "6ee4a52b3791d1ea": {
+      "contest_title": "Starbucks 2026 Holiday Cups Are Here, Including The First-Ever Holiday Pup Cup - iHeart",
+      "original_article": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWWltN2g4a1RhSDNnLVhzV2NQdEE0ZTRycUJ0SXFweHdyd3ZVUHhzZ0R4d0lCMkRiZ19GX0E2dUEzQnNtUlRiLUlPNGxLZUJSaU9WZHRDY3F0NFd1TzRXWlMyU0pWWTRoNEtOTkludzlfVTVycWVZWVdla19JdzFRS2R6dWdMV1RzcGY1WUdDS2lNTGQxYkNBb2JzZVM3aUdyWks2c0d4bUxWNFByMDZPblNhcmRETTBlR2hqVk1jNTh4NFRoTnJIMQ?oc=5",
+      "looked_up_at": "2026-11-06T19:20:36.970965+00:00",
+      "search_queries": [
+        "\"Starbucks 2026 Holiday Cups Are Here  Including The First-Ever Holiday Pup Cup\" entry",
+        "starbucks holiday cups here including first ever sweepstakes enter official",
+        "starbucks holiday cups here including first ever giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "46f160cb6708b247": {
+      "contest_title": "The 2026 Travis Mills Foundation Cash Raffle Presented by Mortach Financial - 99.5 WGAR",
+      "original_article": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRXdGR29TVmJmTGVvb2x3dmQ2czl6MFZwQXdFWEplRmUxcEVCQzhiMUZFSVR0blhFb2F3RHAwbXlLVkN0ZnVkRDhUMmtaS2JpV3pjNDVhWnk3MHhkdktPSWJndjZPR1dhUDFOODZnNnVCTU82Szg5Z2M1Tmh6Mi16dDZoczQ4Zk9reTVPb2tRQ2wxa1k5eHZHM0dIVGcyUXJDMGEwQmV1THZ6ZlVMenVFUzZpRnRfLUFBdFJOc1hJRVRVWmFNUmc?oc=5",
+      "looked_up_at": "2026-11-06T19:20:37.293686+00:00",
+      "search_queries": [
+        "\"The 2026 Travis Mills Foundation Cash Raffle Presented by Mortach Financial\" entry",
+        "travis mills foundation cash raffle presented mortach sweepstakes enter official",
+        "travis mills foundation cash raffle presented mortach giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "ffee0a8b8559a637": {
+      "contest_title": "Showbiz Showdown: 11/05/2026 | Kiss 107.1 | The Fred Show - Kiss 107.1",
+      "original_article": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTWo5S3NwOVpxakFHbTdCWWdPR0kxSlhfTVdhWFVPMTFwNGxLU2pwMFowNnpZQ0ZaR0RKMnlLYWYwUlZLSUJKUjQwb2E3X1djRG9QWHZnYVk4YkJfWmk4RV8yVnIzVmk5eDMyYWtzcXh4Rkd6VXNPSHVuSGNFeVRPZnpmMGFIUjNQWTFDNXdmMnRrSFdnWVNiX0x5Y3hNN1hFcHpNWnJXUS1fYzBHaDZ0TlQzaWRZczY3akVhckhhODFTOGt1MUlISFpxaw?oc=5",
+      "looked_up_at": "2026-11-06T19:20:37.149816+00:00",
+      "search_queries": [
+        "\"Showbiz Showdown  11 05 2026\" entry",
+        "showbiz showdown sweepstakes enter official",
+        "showbiz showdown giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "4dcd021e4b366597": {
+      "contest_title": "2026 National Toy Hall Of Fame Class Winners Announced - 107.3 WRWD",
+      "original_article": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNzBXZ2FvQjFvR19tQmJMczdoemN0a2wyWmRxNThQelotVDZrMDRzQVJNdE5EdU9BaVh1akM3Mlc3MU9VR3NkbkRXQkZmRlBnZTczdi15RkllOG5XVWZEamxvRldIU2FfdVpDQkRGaGlDZXJDc1l2MFJicHRGMk1WOHRaUzJKZUsyY0w0ZGhjOFNtdDF3V0Rma1otVUFzZ1N3NXBuc2E5Tng?oc=5",
+      "looked_up_at": "2026-11-06T19:20:37.233991+00:00",
+      "search_queries": [
+        "\"2026 National Toy Hall Of Fame Class Winners Announced\" entry",
+        "national hall fame class winners announced sweepstakes enter official",
+        "national hall fame class winners announced giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "62044d2f7d260093": {
+      "contest_title": "Travelers Busted At Airport Trying To Smuggle Thousands Of Tarantulas In Their Socks - iHeart",
+      "original_article": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPR2xHN3ZmMzhUTVNVTGthaFc2dWdxdTlwRnhYOFRid0NQM0oxb1k1VWNLUTNhUlBCT3hSc3Jhbm4wdGFqMmZBcV9qdjhQblhURHVwM3JhTGhVMllzMU9ZRWhkWXJmSXdad3EwTXNLdVczSVdVMXY1SFhrYlZiSTZCRWR2eWl0R055d0d3MmhqTHZFTFF5Mm80bTFZTXJ2cVdVWGlEQlVzZXZYeDBETDh3OF9wRHROOWVwVUQ0X0FXMUpKR3llVktj?oc=5",
+      "looked_up_at": "2026-11-06T19:20:37.199758+00:00",
+      "search_queries": [
+        "\"Travelers Busted At Airport Trying To Smuggle Thousands Of Tarantulas In Their Socks\" entry",
+        "travelers busted airport trying smuggle thousands tarantulas sweepstakes enter official",
+        "travelers busted airport trying smuggle thousands tarantulas giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "e67b3245906667da": {
+      "contest_title": "Tim McGraw Reveals Run Of Vegas Shows In 'Rare,' 'Intimate' Setting Following 'Overwhelming' Demand - Froggy 99.9",
+      "original_article": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdjdDa2VjRDYwMFJuUXprVXVqUy1wSWY5V0NkRnVtcGZCcXE2NnphMVI5Ukc3WlFEVkhtTEJDazh2Q2NGWjJjTW93Yng2VnFMOFliZnZDVWlLcVJIRVB1dXk0M1RKRVVtd3hfLTZPSlRualAxR05rWkVxanA5UjczV0lDYmZZWVNmZDdXLU9HaEtEbU10OG1YMm9tZTZuek5OTTRsWXFQSDFMOEJ3cXBBZFN5YmYxRG9STU9QNnFsVU9JSkptc0k0NmJIbGljSlJ2UDRPUVp5UEs?oc=5",
+      "looked_up_at": "2026-11-06T19:20:37.239388+00:00",
+      "search_queries": [
+        "\"Tim McGraw Reveals Run Of Vegas Shows In 'Rare ' 'Intimate' Setting Following 'Overwhelming' Demand\" entry",
+        "mcgraw reveals vegas shows rare intimate setting sweepstakes enter official",
+        "mcgraw reveals vegas shows rare intimate setting giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "d3c0bdcf70f2c322": {
+      "contest_title": "FULL SHOW: Warrior Foundation Freedom Station Give-A-Thon 2026! - ROCK 105.3",
+      "original_article": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPUkY2VmJGR0RPc0lzRmduMVVvcU1MSk1NdWRlVWZUcWdmVE8zMlN3MUs4NnBHVkQ3TllVdmJXWEV0Si1lOE8yTjMtYTliZG5mdGlVU21ybnVid2NTdjRwX2xUTVdYU0w5Vm9DcWlQYl9XR2RhbXY1MkJIVGpDbkpQX2EwNUxKNEhtLU9xemplLXNrRHRkYkZIUUtWSWxYSnkzVXEtXy0zSm5adThrRjhHVDdGZkVNVWVNcTRidk04VHVyblhHeFF5YmZLQzBiem9UR1FXYThpR296UmJVNVNIWWpubTNFdTBQSTN0eEtoeEE?oc=5",
+      "looked_up_at": "2026-11-06T19:20:37.584437+00:00",
+      "search_queries": [
+        "\"FULL SHOW  Warrior Foundation Freedom Station Give-A-Thon 2026 \" entry",
+        "full show warrior foundation freedom station give sweepstakes enter official",
+        "full show warrior foundation freedom station give giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "930c1cdb81831fbd": {
+      "contest_title": "Tim McGraw, Ella Langley, Kacey Musgraves, More Among First Performers Revealed For 60th CMA Awards - Froggy 99.9",
+      "original_article": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOMFVjSndCVXpQLVZBZXZUTVNBTk9MRThyMGlHOWVWbXh1ODE4ZFdqOVJhQVI0MnE5QVdENHh6SGRPZlVDdGhYUXpqY0x6YXBsX3RVVUIzaGFfLTNRcGxia1FOTzZPMGJFcU1Ja3dBOHN6U2JMT1pxLVFrLXRpMnljQ292cUsyWEgwR1pXOE9ETVptalVfWWU3ZDR1Y1NhNVNvMDVWMUR1WUlxSGoyLVh4V3M3dU9LdlVjM0tXekdiQkJzSGtnVk9hcXotcVNCR0syS1RmUmpJa2hXTHNNbWc?oc=5",
+      "looked_up_at": "2026-11-06T19:20:37.373925+00:00",
+      "search_queries": [
+        "\"Tim McGraw  Ella Langley  Kacey Musgraves  More Among First Performers Revealed For 60th CMA Awards\" entry",
+        "mcgraw ella langley kacey musgraves more among sweepstakes enter official",
+        "mcgraw ella langley kacey musgraves more among giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "17c4cb3d29ee2f06": {
+      "contest_title": "2026 National Toy Hall Of Fame Class Winners Announced - Kix Country 92.9",
+      "original_article": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTVRqZ0huSHowd1E0LVB3blVfejhvbWwwUDNtUTVfNFVtSDR0bC0weF93OVhYUUREY2lXUWlEWG9tekpWcUJqUTZIYVRmMlIwOFJzVTdaWGNkYWE3aFlTbFRhSUU3NUp1TVlIS1NvUTBMYU14ODdJR3hPcEpUSFJRd3M1SFg2VWZEOXV4cGFuTEhwOTFUNjhPTkpvWFQwSWpndGlkS21sZ05GcUk?oc=5",
+      "looked_up_at": "2026-11-06T19:20:37.446153+00:00",
+      "search_queries": [
+        "\"2026 National Toy Hall Of Fame Class Winners Announced\" entry",
+        "national hall fame class winners announced sweepstakes enter official",
+        "national hall fame class winners announced giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "670acdf8f8a18f42": {
+      "contest_title": "2026 National Toy Hall Of Fame Class Winners Announced - ROCK 95.1",
+      "original_article": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPenNXeFVQUmhrcVFQcUtkMkcxMlBNd2t6MVZkbkw2cWFGbWVTVkVCMEVEOVZCTnlCZ09iNFZVeXBmZUNqTVZtUzhMSkQ3R0U1Z3hKRDFzcHJSTnRBaDdIM2NEb2thTFd0Nkt6N193UEpMd3BHaEJEbzlZQmpBX2FaZS02WUVoUmdWeUpQNHNQVnlRbjRqb0Y1elVlbnFCRU9JaThJ?oc=5",
+      "looked_up_at": "2026-11-06T19:20:37.506983+00:00",
+      "search_queries": [
+        "\"2026 National Toy Hall Of Fame Class Winners Announced\" entry",
+        "national hall fame class winners announced sweepstakes enter official",
+        "national hall fame class winners announced giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "3af10c82f0815ac3": {
+      "contest_title": "NFL Week Nine Opens With Ravens Hosting Jaguars - Country 99.1 WQIK",
+      "original_article": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYTY0VXdBd1UwU0kybWk0ZVdqNms2VEptNHJYNGFscjJrWWpob0YxcUxKZWpoOFQ0QndJbHJqblhOX1hEa2NZTS11c3QydnByT1ZfR0dQUnI1TXpZWG10RmVfN0xIVDBZT1Y5bm1wM1FxNFgzdE05cXJYbkJrVUdkd3B0ekZ4UVRHSHdNOW9YYWVMNE5La1MtOUtn?oc=5",
+      "looked_up_at": "2026-11-06T19:20:37.381824+00:00",
+      "search_queries": [
+        "\"NFL Week Nine Opens With Ravens Hosting Jaguars\" entry",
+        "week nine opens ravens hosting jaguars sweepstakes enter official",
+        "week nine opens ravens hosting jaguars giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "c0af482036748a1d": {
+      "contest_title": "FULL SHOW: 11/05/2026 | Kiss 107.1 | The Fred Show - Kiss 107.1",
+      "original_article": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeEV4bEh4aGZodjBOT1BZUVNZa19sTjBTYVNOVXo3MnBBanhpWlZ1a0I2Q0lLVHV6d1dhLUtneXlCQVlyV3E1T3c0ZVVITjF1Z1RoTTZ5UkJudmVldndiTFRXcXRzNnBFbWdpcDUwTVVGVjBLS1h0MGczTnhxYm9OcFdUQkJFLTlISVdoMV9xbDVKSmpfb0p2ZmhoN0p0NDVBellGVVc1bHY0RkNTcldSd3VDc1VSbGlqZTF5T2RZOUE5dw?oc=5",
+      "looked_up_at": "2026-11-06T19:20:37.535620+00:00",
+      "search_queries": [
+        "\"FULL SHOW  11 05 2026\" entry",
+        "full show sweepstakes enter official",
+        "full show giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "22491a285f995ce6": {
+      "contest_title": "Travelers Busted At Airport Trying To Smuggle Thousands Of Tarantulas In Their Socks - Froggy 99.9",
+      "original_article": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMkVFRF9LS29FdmhJUVNIYkxjaEZRVF9YbWpJdkVFb3NLa2tNNlI5eU5DODZweGlJUHhfYXcxNXVwYVJKZWtrS0t4T2hIYjA2REE1RXlzaWs4ajltc0xrZDhVQ0NQeG9vN1RFZVM5TzRXRU9VSnZfTzRNaERLbUpIa0xKUFpVeEtvcnNweWpPY1lNY2pjbVVqeFBtZWs5MkFhdVYxY1dTWkdCZDBiNE1rMmZnczgyaFU5X3dOSzNFUEhLZ0VHMjVVNW5UVmFoZw?oc=5",
+      "looked_up_at": "2026-11-06T19:20:37.757702+00:00",
+      "search_queries": [
+        "\"Travelers Busted At Airport Trying To Smuggle Thousands Of Tarantulas In Their Socks\" entry",
+        "travelers busted airport trying smuggle thousands tarantulas sweepstakes enter official",
+        "travelers busted airport trying smuggle thousands tarantulas giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "c248b0e8f53ec43f": {
+      "contest_title": "2026 National Toy Hall Of Fame Class Winners Announced - KAT 103.7FM",
+      "original_article": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZ0pnUDRPTDlRTUMyOWpPMUV5dm51WlptcG9kV1RqTTIzS0UxWEJvRmNLcG5qUXZxYWNEVEtFd0pEaE04ZVJUUWxiZWFLRDVveVc5WFVoSkFnWjh0Q1NhQWVfVEFjXzlxVzVXck1xRzNva2dwVUp5djE3Y1VPX252Tlp4MDBWa1lIYmt3azdxYnVjMi1ZVzRrWGpjTHc0M0VoV1E?oc=5",
+      "looked_up_at": "2026-11-06T19:20:37.630691+00:00",
+      "search_queries": [
+        "\"2026 National Toy Hall Of Fame Class Winners Announced\" entry",
+        "national hall fame class winners announced sweepstakes enter official",
+        "national hall fame class winners announced giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "b3ecc176f1029899": {
+      "contest_title": "Four Dead After Domestic Violence Call Turns Deadly - Kix 104",
+      "original_article": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOVRXc25QSVhwTG1jT185a3NkamFZWnBMbS1vT25DNkQxV1NzMHpEaS1GdTB3cEQwSS12SUhzMEdYdERtQlNmQlZWNjJTeEpFZDhsSmF5dm9KUmlqSUUyTFdhTFJlM2NMOGdISXc5SGpId2tGUnMzSWpZWWZVd0dfQXJoRTBGNGV1LWhCMzNOc1BkbGF5enUwblVrWHhxZw?oc=5",
+      "looked_up_at": "2026-11-06T19:20:37.744694+00:00",
+      "search_queries": [
+        "\"Four Dead After Domestic Violence Call Turns Deadly\" entry",
+        "four dead after domestic violence call turns sweepstakes enter official",
+        "four dead after domestic violence call turns giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "659e105685e7f7fe": {
+      "contest_title": "Join Feeding N.E. Florida at Joseph E Lee Community Center Nov. 9th, 1-3pm - Country 99.1 WQIK",
+      "original_article": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRDZzbzRRS0VhNXV5SHVzT0xFbFY2eERneUhab1BDUzZ5dXRGWnRUcTIxTVI4Q0JOQ2h6RnMwUXNBY2hQLTBwRTk4ZnZkZ2MzUHh1Mm1sUVFRQ3ZBRjZIU1UzS29QcllHZHJnRXlqSUdQdFFUM2wySHVUQlY0c0xuR2EyUXdsSXpocVF5UU5TZjdSRm00X2ttdHRGeTYyUUdPMldmS0lRVnJieV9tWG14bDE5RFBldF9wM0Rjb1NSRGxFSExG?oc=5",
+      "looked_up_at": "2026-11-06T19:20:37.659561+00:00",
+      "search_queries": [
+        "\"Join Feeding N E  Florida at Joseph E Lee Community Center Nov  9th  1-3pm\" entry",
+        "join feeding florida joseph community center sweepstakes enter official",
+        "join feeding florida joseph community center giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "a45486255dac280b": {
+      "contest_title": "HIGHLIGHT POD 30 MINS: The Woody Show November 5th 2026 Podcast - iHeart",
+      "original_article": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxON3lPUXFhSEtkM2Q4RUhRMWdOamdEWXpYUklkSm83eFAtYWwtMzBNVW4wN1diQXJLaGlhZ1l4aXE3b2htOXMteEx6QTg5VkVlM2dURGpuSjhoMlBrLVpLSzloTmljYWlVcmpjaVo4c3hHdjZ0WTVrT1F1Nl9Lak9fVDIzQnJhUnNxRElqaEJuUWtiVU9DQ2NYaVdWa2hWUE9HSzR0UGU2TEt4M1V6ME9Za1U0bnBsLUw1VHA2Ql81d0RMcjB4eTVCTHdCYUlVT1lUckd1N2R4SnhCWmh3MHFV?oc=5",
+      "looked_up_at": "2026-11-06T19:20:37.746611+00:00",
+      "search_queries": [
+        "\"HIGHLIGHT POD 30 MINS  The Woody Show November 5th 2026 Podcast\" entry",
+        "highlight mins woody show november podcast sweepstakes enter official",
+        "highlight mins woody show november podcast giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
+    },
+    "ecb5329b8ecb90ad": {
+      "contest_title": "Tim McGraw Reveals Run Of Vegas Shows In 'Rare,' 'Intimate' Setting Following 'Overwhelming' Demand - WLLR-FM",
+      "original_article": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdThlbXVKUlNvZ1NpaGQ2dml2em9NbGw4dDZYSDNEVTZyb1VsREtIVTY4Mk1FaFNyS21qTEF3b0VxRlhrcjRwVUUzSTZrVWVlSnNZQ2ZLT0xGRFpaeUJIamV2NDBxU1JKWmp3TTJtcURqdk1idmUwb0FKWVpUQjQ0YjZMNnU3NVZTRWdRay1MYXlTbEV4MENTd1R2U3p4a2tqNkJTWXJ0RTRxVlVINm9iSC12Nzl2UHVJbzRuTmUtTzJCU05RZkprSEZyNUUybndRZmZGelBWOA?oc=5",
+      "looked_up_at": "2026-11-06T19:20:37.738251+00:00",
+      "search_queries": [
+        "\"Tim McGraw Reveals Run Of Vegas Shows In 'Rare ' 'Intimate' Setting Following 'Overwhelming' Demand\" entry",
+        "mcgraw reveals vegas shows rare intimate setting sweepstakes enter official",
+        "mcgraw reveals vegas shows rare intimate setting giveaway entry rules"
+      ],
+      "search_version": 4,
+      "status": "entry_page_not_found"
     }
   }
 }
