@@ -1,4 +1,96 @@
 {
-  "generatedAt": "2026-11-05T20:08:30+00:00",
-  "candidates": []
+  "generatedAt": "2026-11-06T07:01:51+00:00",
+  "candidates": [
+    {
+      "title": "Daily Sweepstakes",
+      "candidateUrl": "https://www.contestgirl.com/contests/contests.pl?f=d&c=us&b=nb&sort=p&ar=na&s=_",
+      "sourceQuery": "https://www.contestgirl.com/",
+      "status": "research_needed",
+      "entryVerified": false
+    },
+    {
+      "title": "Weekly Sweepstakes",
+      "candidateUrl": "https://www.contestgirl.com/contests/contests.pl?f=w&c=us&b=nb&sort=p&ar=na&s=_",
+      "sourceQuery": "https://www.contestgirl.com/",
+      "status": "research_needed",
+      "entryVerified": false
+    },
+    {
+      "title": "Monthly Sweepstakes",
+      "candidateUrl": "https://www.contestgirl.com/contests/contests.pl?f=m&c=us&b=nb&sort=p&ar=na&s=_",
+      "sourceQuery": "https://www.contestgirl.com/",
+      "status": "research_needed",
+      "entryVerified": false
+    },
+    {
+      "title": "Blog Giveaways",
+      "candidateUrl": "https://www.contestgirl.com/contests/contests.pl?f=sdwmo&c=us&b=b&sort=p&ar=na&s=_",
+      "sourceQuery": "https://www.contestgirl.com/",
+      "status": "research_needed",
+      "entryVerified": false
+    },
+    {
+      "title": "Single Entry Contests",
+      "candidateUrl": "https://www.contestgirl.com/contests/contests.pl?f=s&c=ca&b=nb&sort=p&ar=na&s=_",
+      "sourceQuery": "https://www.contestgirl.com/",
+      "status": "research_needed",
+      "entryVerified": false
+    },
+    {
+      "title": "Daily Entry Contests",
+      "candidateUrl": "https://www.contestgirl.com/contests/contests.pl?f=d&c=ca&b=nb&sort=p&ar=na&s=_",
+      "sourceQuery": "https://www.contestgirl.com/",
+      "status": "research_needed",
+      "entryVerified": false
+    },
+    {
+      "title": "Weekly Entry Contests",
+      "candidateUrl": "https://www.contestgirl.com/contests/contests.pl?f=w&c=ca&b=nb&sort=p&ar=na&s=_",
+      "sourceQuery": "https://www.contestgirl.com/",
+      "status": "research_needed",
+      "entryVerified": false
+    },
+    {
+      "title": "Monthly Entry Contests",
+      "candidateUrl": "https://www.contestgirl.com/contests/contests.pl?f=m&c=ca&b=nb&sort=p&ar=na&s=_",
+      "sourceQuery": "https://www.contestgirl.com/",
+      "status": "research_needed",
+      "entryVerified": false
+    },
+    {
+      "title": "Odd Entry Contests",
+      "candidateUrl": "https://www.contestgirl.com/contests/contests.pl?f=o&c=ca&b=nb&sort=p&ar=na&s=_",
+      "sourceQuery": "https://www.contestgirl.com/",
+      "status": "research_needed",
+      "entryVerified": false
+    },
+    {
+      "title": "Blog Giveaways",
+      "candidateUrl": "https://www.contestgirl.com/contests/contests.pl?f=sdwmo&c=ca&b=b&sort=p&ar=na&s=_",
+      "sourceQuery": "https://www.contestgirl.com/",
+      "status": "research_needed",
+      "entryVerified": false
+    },
+    {
+      "title": "Add a Sweepstakes",
+      "candidateUrl": "https://www.contestgirl.com/add-sweepstakes.pl",
+      "sourceQuery": "https://www.contestgirl.com/",
+      "status": "research_needed",
+      "entryVerified": false
+    },
+    {
+      "title": "Contest Tips",
+      "candidateUrl": "https://www.contestgirl.com/page.pl?p=1",
+      "sourceQuery": "https://www.contestgirl.com/",
+      "status": "research_needed",
+      "entryVerified": false
+    },
+    {
+      "title": "Contest Archives",
+      "candidateUrl": "https://www.contestgirl.com/archives/archive.pl",
+      "sourceQuery": "https://www.contestgirl.com/",
+      "status": "research_needed",
+      "entryVerified": false
+    }
+  ]
 }
