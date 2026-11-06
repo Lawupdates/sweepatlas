@@ -1,16 +1,14 @@
 {
-  "checked_at_utc": "2026-11-06T06:35:41.000193+00:00",
+  "checked_at_utc": "2026-11-06T07:50:45.005323+00:00",
   "notice": "Automated detection is not proof a form works. Archived research URLs are not active sweepstakes or confirmed entry forms.",
   "candidate_counts": {
     "research_only_no_entry_url": 1632,
-    "expired": 1,
     "entry_url_pending_review": 3,
-    "duplicates": 1,
     "expired_curated": 49
   },
   "total_research_leads": 3000,
-  "current_research_candidates": 1637,
-  "historical_research_only": 1363,
+  "current_research_candidates": 1635,
+  "historical_research_only": 1365,
   "archived_source_records": 2499,
   "curated_count": 340,
   "automatically_confirmed_forms": 0,
@@ -184,15 +182,15 @@
       "end_date": null
     },
     {
-      "id": "af75e3113857db92",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5KbS1TUjBISVBocVY4dE44cE0zNEZjNEVfMUJTMG5HWkQ4Zlpsa25kbnJONDVHczNiZEJabUdDd2lsVnN6Mkx2N3ZwdXFLUlYtMVp3UVlUU21NdGROY2ktZk9Ham5YYkdVY3ZN?oc=5",
+      "id": "1e293c312baed856",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE93UldCQ0NiWmdlVmR1NFBHRmN3cmYxTnp4cmd0R011NUhXVXpteXlTU01wa0xCYlpzeWpkaE8wQ21rVTU2YlNua2JnTFhSZXNwaEJpMFQ5VWZUbGZ0eS1qa0NmaHZJbWJ1V3Aw?oc=5",
       "status": "research_only",
       "entry_url": null,
       "end_date": null
     },
     {
-      "id": "1e293c312baed856",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE93UldCQ0NiWmdlVmR1NFBHRmN3cmYxTnp4cmd0R011NUhXVXpteXlTU01wa0xCYlpzeWpkaE8wQ21rVTU2YlNua2JnTFhSZXNwaEJpMFQ5VWZUbGZ0eS1qa0NmaHZJbWJ1V3Aw?oc=5",
+      "id": "af75e3113857db92",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5KbS1TUjBISVBocVY4dE44cE0zNEZjNEVfMUJTMG5HWkQ4Zlpsa25kbnJONDVHczNiZEJabUdDd2lsVnN6Mkx2N3ZwdXFLUlYtMVp3UVlUU21NdGROY2ktZk9Ham5YYkdVY3ZN?oc=5",
       "status": "research_only",
       "entry_url": null,
       "end_date": null
@@ -340,13 +338,6 @@
     {
       "id": "c30fb3a6eb35154f",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5TZklZMHJRYzRyamxWcnZiUlZPbUpfWkY4TXFOajk1V0RsX1dIRktIaWFRam1FOTJtRnNsTnBDbTRVQlQ2eGE0SGxGMW5YNU9PaDJFVzNlLU1pbDRn?oc=5",
-      "status": "research_only",
-      "entry_url": null,
-      "end_date": null
-    },
-    {
-      "id": "4fbff5a6ac3311e3",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORThPV2kzbzJPRC1yMGYwelFLbUp2MXlJb0JaS1YyTWhqZ0lWNlp5TXgtRml6eHg2UkpvY0hPODFXYzdzNW5qUzRmeU50bUJYdzNiTXNmMEJYQVNjbjl4VWJMWF9FQ0RoN3BlVVlDelZOTEtCSEUxX05FUkVHeWEyWG5Yci1CQm9nLWc?oc=5",
       "status": "research_only",
       "entry_url": null,
       "end_date": null
@@ -702,13 +693,6 @@
       "end_date": null
     },
     {
-      "id": "996b853fdb4ddd2b",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRWRvWUcxanNBeTdJR0t5RENmUGp2UXkyaU16V0tyLUdSMVQ2eDdnM0F6QzF2S0w0My1XN3ItZGJ1cldiX0VEbXVDaFViZUtMV2xCNkwwbXMxV181cTNJZEdFZWYzTVBFTUpyZDNMRmRsb1NuVEJOZEVPbWEyb2dEb0JUV2JfMjJPa2JWbzhWOHo3TU8yR3JkMGRjMnB2N2hsQ05QUW1QZE1aN3o2LU8tWFMyMUdhR2NkdFBHWmlSZ2pYc29tYkhTTElUTExySUdnTVhwT3BkbHM?oc=5",
-      "status": "research_only",
-      "entry_url": null,
-      "end_date": null
-    },
-    {
       "id": "13911a7c765863ae",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9neFBTM25KbXBMZkE0d3VnMlotcFM1YWlzTVI2cUdDdThrLTM3N3JzMWhMMGg4b3B3SjZyUGU5TVlUeHZ6MnZTRmxUc08zNXd4VkFORDFGQQ?oc=5",
       "status": "research_only",
@@ -732,6 +716,13 @@
     {
       "id": "9530f35c6c7dc9e4",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE00dEYzdFI5ZFpfY0d0Q0pIM3BxUFZhVFlYN0dLVDg0Rm9DbFJvNkU5dURkMHZ0OFpRN3VMQUlDUW1UZnhDeTlUSWdrOUZka0VycTNDY0Zyd0hNN2U2RV8wcWt0TDFVZGdiXzVGNzVFZ1hMa2tSWXZEVXY3dw?oc=5",
+      "status": "research_only",
+      "entry_url": null,
+      "end_date": null
+    },
+    {
+      "id": "996b853fdb4ddd2b",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRWRvWUcxanNBeTdJR0t5RENmUGp2UXkyaU16V0tyLUdSMVQ2eDdnM0F6QzF2S0w0My1XN3ItZGJ1cldiX0VEbXVDaFViZUtMV2xCNkwwbXMxV181cTNJZEdFZWYzTVBFTUpyZDNMRmRsb1NuVEJOZEVPbWEyb2dEb0JUV2JfMjJPa2JWbzhWOHo3TU8yR3JkMGRjMnB2N2hsQ05QUW1QZE1aN3o2LU8tWFMyMUdhR2NkdFBHWmlSZ2pYc29tYkhTTElUTExySUdnTVhwT3BkbHM?oc=5",
       "status": "research_only",
       "entry_url": null,
       "end_date": null
@@ -772,13 +763,6 @@
       "end_date": null
     },
     {
-      "id": "d2ff4ef56c52d980",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZFZtSzBrQjRjeTFZc3E0MVZ3T3A5WXlwbHVqZjN3SF9xNHpTNV9sYUs1ZDVyWmFPdFRTaWx5WW5qQi1xRDkwaE9SN2lXVUQwanlRWmctYkhLWnQ2N1F2bUZIMGxrdl9rZ3FmMWdTZllfLUI4UlI3UlV1bmc1LUs4VjdWUEFaQmJYUEVWN0pnemFMRkZBQjJVWm91c1R0VFVJYVJaajI3bHhnczZCcEJQUkkzcmtseVdiUm51Rg?oc=5",
-      "status": "research_only",
-      "entry_url": null,
-      "end_date": null
-    },
-    {
       "id": "095af8ddf98939ba",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOU2Jxb21FeUZLTmtNdzJWSWFhT09INWZKU0VkcjNNemhZdGFjWlRzb0NyaVJaN1JrWjBNSXdaUmZ5OTNZU2Q3Z19uaWx6WEJtSTljVjRHczV0a0oxWF9jemlsMjBxc2wxTEpuMGljTGlYZ3Nhb3hlQ0o0UC1yZDhHV1ZKLTlYQ254QWxTRnZTeV9jcWFkelo2aDM4ZUdWcEF0MXFzQzZkb3A4MXAxMUpUZzJLY2JIODAtRnFBSEl0YzFsY0xtMEtJejYtQWRmUGlv?oc=5",
       "status": "research_only",
@@ -802,6 +786,13 @@
     {
       "id": "490da9b2aa4ee276",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdllNeHUtUmpHUTctbkxhVk5qemlydW1WaVFKaXVuWFZXUDA3a3ZPLVJSQ2pXclItYmlKVUhJMG9NTC16YXNBRG00VzJxT2h1Z1BpUTRJeEFMbDFNVUZlZ0xnWVlFcVowaUZwM05Qc215UkUxS2pwVXBqN0p3dmdrbjZMQk16ZHhCa2Q2MFFMZENmcjVUcEJwcm1VUE9yRHJXMmtFbmVWdS1jZEk?oc=5",
+      "status": "research_only",
+      "entry_url": null,
+      "end_date": null
+    },
+    {
+      "id": "40fd6bfb39da65cb",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUGROZnNGNjFpNlZLNzNiSTc5Mk5ZMEoyRDdMSHAyeGl2ckpsejhFWlJkMERuZ3loNW9RNDFuRXNRN0dhckp1a0RLdDFpdUZ3dGJfTURSemttcGFSMlRJTW9ZZ3ljTDNnXzNuRFVOX1Z5TDh3QmFXeDY2ZDNjR1lMNGhWUktadXpEZVV1aDdDN0I?oc=5",
       "status": "research_only",
       "entry_url": null,
       "end_date": null
@@ -977,6 +968,13 @@
     {
       "id": "b36cfffdb1812bef",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBNTW04bHc2aDNLdUxiX0hNMEpGSUFPem1YZkt3endmblhHX3ZzZUVMOTkzT1BVandIT3RPUVIxVTBxLWNwbzJzcXBKZWo0NXBCSVZwS3JhbXQ4M0FTamtvcVlvZWJMV1I5Smc?oc=5",
+      "status": "research_only",
+      "entry_url": null,
+      "end_date": null
+    },
+    {
+      "id": "1b0801a206ec6b85",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE56RWNKSHNjSUcxczJfWkZOWEV6OTdUM1FQY0Frb2xUOTQxQ0lHYzhDLU1VczR4M2MwR1h5eXJTdU5tX0I3a25kQXMzNzllX0hRbTNj?oc=5",
       "status": "research_only",
       "entry_url": null,
       "end_date": null
@@ -1458,13 +1456,6 @@
       "end_date": null
     },
     {
-      "id": "1216d421e0417e10",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE85VWFSWFVLTVMtaF82Qi1qTHpvbnYzd3lHVmNCcVZDYW1DaFVIeDVWNXZvTnZCUDlpRUJLMzM3ZnFTdVA3cV9taHZGTjRJeFFmaVdldVFnUG9oaDV5cy1FZ0RlVl9MNFNx?oc=5",
-      "status": "research_only",
-      "entry_url": null,
-      "end_date": null
-    },
-    {
       "id": "dd99f5e8bcc4f2bd",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBoVm9jaVJULWFHeDFWNVhNU3BMWGVaNUttUU1aNWs1NkF5YjlHWGhFbnQ4cnJNNDA0QTVsZ2FqejgzSERuVVhlaXdmVFZndGVpY3drU0ZkWEJuT3Vkd0p6T3Qya05POHJkN0M5VDlaZEY?oc=5",
       "status": "research_only",
@@ -1488,6 +1479,13 @@
     {
       "id": "f8c682772c7fbf02",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8zdlpmSWdOM2ppMFRJbEZYQVpqdjA0ekh2LTNZcDVGT3RFd1N6Y0YwaDZvWXdZaDh5R1FUOFBUbmt6dnREb25Mdm5RZ2V1ODJsQ3N1M0Qyc01NV2loR3dPUlNSTldFN1BrMHcyTWJPMXlFRGpvUlVOSWItQQ?oc=5",
+      "status": "research_only",
+      "entry_url": null,
+      "end_date": null
+    },
+    {
+      "id": "b7bc3f2973cf05ad",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeFU2WDVDdmMzek5Zclh6b0xqczZVa3lPNE4xZzhrSDdyU01GNzVENFFqWXVXb1dRRURxUmI4cGowc2Y1dXhOZlZ0LTBQcmt4elItSTBoQXpwRlJwelpNdmlJdE14V2xBR09vcnNadnFRRlM0bWtDdzZuY29SWWtPYlQyNzE2cEhjRHNiTnRpQTVOb3dPMHlfTW9uUkctREhyQXhTNTgzYXlNUTktY2RTcG1sdjY3ei1n?oc=5",
       "status": "research_only",
       "entry_url": null,
       "end_date": null
@@ -1745,15 +1743,15 @@
       "end_date": null
     },
     {
-      "id": "b9d3f4ba76fc0174",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaGRBY3BPRkY4T1BSQ1hNS0xoaEpfNzF2dkRuOVBld24tOG1qWG93T1dPVkZ2bDFZRWY4Z3BYejhSOGctRWVld0N1Z0NILUFQMmdDY0RFRnFRTjRoNXBTamlxUHRKdVE0a0RHZkhEb3E0TXhOVnJONUFFLWlJdlQ1U01iNnpObUE?oc=5",
+      "id": "0d6a206f0c7b53c8",
+      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1oemVXUFFYZUlHMjNJRnNiUXdYWDk4V3NxMkx5ZjJHLTFTYVBCWjBPaU9Gc2xteGM3bjZMd0NjdGtaZw?oc=5",
       "status": "research_only",
       "entry_url": null,
       "end_date": null
     },
     {
-      "id": "0d6a206f0c7b53c8",
-      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1oemVXUFFYZUlHMjNJRnNiUXdYWDk4V3NxMkx5ZjJHLTFTYVBCWjBPaU9Gc2xteGM3bjZMd0NjdGtaZw?oc=5",
+      "id": "b9d3f4ba76fc0174",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaGRBY3BPRkY4T1BSQ1hNS0xoaEpfNzF2dkRuOVBld24tOG1qWG93T1dPVkZ2bDFZRWY4Z3BYejhSOGctRWVld0N1Z0NILUFQMmdDY0RFRnFRTjRoNXBTamlxUHRKdVE0a0RHZkhEb3E0TXhOVnJONUFFLWlJdlQ1U01iNnpObUE?oc=5",
       "status": "research_only",
       "entry_url": null,
       "end_date": null
@@ -1773,15 +1771,15 @@
       "end_date": null
     },
     {
-      "id": "e9ce62936c168e09",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1jdXFWMkFpS1BIVU9xXzZMYURGSHlXem1PaVNtLU11N1ozZFcxR1dEQ1c4blVuY1NiU0QyYXRmM1JaRkhxMUw1MWNnNVhiRzZLczhiR3k3LUR2OVhNZzlaTm0yRF85cHU0TkFjOS16T2F5aXg2YWZWNG1Bdw?oc=5",
+      "id": "97e6f9153f03edab",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbEpqWExJN0EtMlV6UnlPNDB5dFQ1eTNRR1dnbmgzZk9QZ2cwRXA1dGxsWjMwUkRYTkNIcGVvY1VkX1ZwbjNkZWxuSnRnS1RJNzRiN3ZjMEk5bkVZVGwyYW1fQTFVcm05UkR1TUcwTjhjQ1NuY0prQVo3VS1jN2diclBldw?oc=5",
       "status": "research_only",
       "entry_url": null,
       "end_date": null
     },
     {
-      "id": "97e6f9153f03edab",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbEpqWExJN0EtMlV6UnlPNDB5dFQ1eTNRR1dnbmgzZk9QZ2cwRXA1dGxsWjMwUkRYTkNIcGVvY1VkX1ZwbjNkZWxuSnRnS1RJNzRiN3ZjMEk5bkVZVGwyYW1fQTFVcm05UkR1TUcwTjhjQ1NuY0prQVo3VS1jN2diclBldw?oc=5",
+      "id": "e9ce62936c168e09",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1jdXFWMkFpS1BIVU9xXzZMYURGSHlXem1PaVNtLU11N1ozZFcxR1dEQ1c4blVuY1NiU0QyYXRmM1JaRkhxMUw1MWNnNVhiRzZLczhiR3k3LUR2OVhNZzlaTm0yRF85cHU0TkFjOS16T2F5aXg2YWZWNG1Bdw?oc=5",
       "status": "research_only",
       "entry_url": null,
       "end_date": null
@@ -1887,13 +1885,6 @@
     {
       "id": "28d4506ce79a52ec",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVmlhcklOVVFsSDU3cXEyV1dHOHN4Qnl3eTVJVEFJaTZpZnlXcGc4MGtMWi1GcDdqc2owVW9YT29TbHBPV1p0THUwUDFjNVdVX216OHozdlBSZ2xLcmVDQUdqSDRJaGkyRjZLLUpMNlgtSlkzcm9hY1BKNW5zOVlLUGxmT0VIN2c0NjdpekFwWWNLVmRCaUVkM2pDUGtCd0ZsRkV3WXViZDRGcXQ1SEh6Z1RRcHphbjQ1U2dFYzJ3SzJEV19xaXVLUjdDSEhpV2otelV6ZEZB?oc=5",
-      "status": "research_only",
-      "entry_url": null,
-      "end_date": null
-    },
-    {
-      "id": "b7bc3f2973cf05ad",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeFU2WDVDdmMzek5Zclh6b0xqczZVa3lPNE4xZzhrSDdyU01GNzVENFFqWXVXb1dRRURxUmI4cGowc2Y1dXhOZlZ0LTBQcmt4elItSTBoQXpwRlJwelpNdmlJdE14V2xBR09vcnNadnFRRlM0bWtDdzZuY29SWWtPYlQyNzE2cEhjRHNiTnRpQTVOb3dPMHlfTW9uUkctREhyQXhTNTgzYXlNUTktY2RTcG1sdjY3ei1n?oc=5",
       "status": "research_only",
       "entry_url": null,
       "end_date": null
@@ -3215,20 +3206,6 @@
       "end_date": null
     },
     {
-      "id": "f86e202bcd2c8941",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTFVKVHdCdm9VODB5ekdONHVzdGxjS2hJUzZiN0tLX0s5Zlc1U1BxMzdzTWdJY1NWVF9hdkw3NHNGc20zSWRtMklKU2VybjMtVXpYREJ0T01CTWRyeDV6Q1ZUR3QxcF9PbHd4Z3lrWGpwT0tLbmtqZzZCT2o4V2FrcG1hZk5HNHVfY1E?oc=5",
-      "status": "research_only",
-      "entry_url": null,
-      "end_date": null
-    },
-    {
-      "id": "d31ee54d2994821b",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTVBhcDJhYnlXN0RaZ2FkUkxBUFdEOW05MFk5OVUyUXpLV2FhMzZFR0JXMS1SSmpkeTlCSko3YkMtVFgxSkpmZXgtZllreXViZWlnQWhyOEdSRDY2MXJTUUpzQ0pQcE1WbVM1RnYyc05rSjRMSHhjVzlvQ2kzbmN0enF4T3VJYXpJUHZnamk1TUM5RW9NeEYxSHlTbldTNFpZS1BHbDNXakxQT2Q2V0JfV0tR?oc=5",
-      "status": "research_only",
-      "entry_url": null,
-      "end_date": null
-    },
-    {
       "id": "1f0fd0b3cb6cb62d",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE54OUxfY2Mya2ZHMTNpcThJWWswUTVwZUc4enF3QmVaOWQ1T1V4ZXBXNnpWWEhLbkJjZnVPd3RMbThmRUhfaC1sZE5vcGFTa3VaZC12bTQxRzBQc3VLZmh6VUJHMXo3YzNBV2h3R2pseDAtcTI5UEhJSzd6N2VxQQ?oc=5",
       "status": "research_only",
@@ -3236,8 +3213,8 @@
       "end_date": null
     },
     {
-      "id": "e5016f477365589a",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNlhWc3RiUVZkTTAxTjEtOEhoVTZsVkxUcVYtZlR5NFBFMDg5QXlWR0xoUlBpS3JRTTJyNnloNE9xamR3aUtyQmRYN3c0bUlQU0NFODY5eDI4b1lhdzNZVWxOOVRIbmR0X2UtOWlGQy15bk9TM1E2U2dFVGlWOGx0UFFhOXJDcWxnMG9WVVpwVFF3TWE4SFJQSnMtWnpLaHlCS1pVVTB1UjlYUQ?oc=5",
+      "id": "d31ee54d2994821b",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTVBhcDJhYnlXN0RaZ2FkUkxBUFdEOW05MFk5OVUyUXpLV2FhMzZFR0JXMS1SSmpkeTlCSko3YkMtVFgxSkpmZXgtZllreXViZWlnQWhyOEdSRDY2MXJTUUpzQ0pQcE1WbVM1RnYyc05rSjRMSHhjVzlvQ2kzbmN0enF4T3VJYXpJUHZnamk1TUM5RW9NeEYxSHlTbldTNFpZS1BHbDNXakxQT2Q2V0JfV0tR?oc=5",
       "status": "research_only",
       "entry_url": null,
       "end_date": null
@@ -3474,43 +3451,15 @@
       "end_date": null
     },
     {
+      "id": "848ffbfc08672e83",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVnVnOHh2YVJVZnRBMkJpLXJPR2xWWms3Z3piZG9CRnRGTG9qSXM5aXR1OXJTSmMxZ3l4MS1qVUZ4ZTR6T2x0Vno4elE0d3JVcVl2N2RCQ3pCWlZ0dlpNUVBXN21lQ3dHTk1IMFZYSXN5NmEtbHo4WmhDVmRLd1NrdGZXWmV5X2VaanlCUWZuYmEwT3M3a3NnV0lobl9DZTZkME9sU3dpbE5QZ053RGlNbk5iOFpRbzNQVTd5bw?oc=5",
+      "status": "research_only",
+      "entry_url": null,
+      "end_date": null
+    },
+    {
       "id": "2caabe0f0fbedc3b",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNd2pMb0xSbmY3MThrSDRabWVMb2JpTHNNbjkyOUhjaUhmdVRybnVOT0wwbExtY3ZjY0dtSzZxNVJtSTc0Z2Z6d1VOQTJ0ZkUwaU1qR1lPRzZtVnFxakVEcFJHUldlV2lkcEZndEFZTTJONldLM1B1RVVWdC1ad3BMQnBkVEIxYkh5OU1TUVAzRjFwTlNkbTd1dGhmZnZtTjJRUEdMQXpwb1hwTHg1YnQtS0Itbw?oc=5",
-      "status": "research_only",
-      "entry_url": null,
-      "end_date": null
-    },
-    {
-      "id": "4423bd1b51bd0978",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYlJmRF9nNWNMQ1ZpQVdjYTJGU1huTmE2Rmx3U3E2b1JxOXhVTFlHbmJnMWl0N2VleUtrTEZ1UEdzaDk0dHlaNUpxeUVYUl9jdVBQaEpDTmVJWHNxeHpIQ3NyVjI0WWJzQ0ZZalNkRW1VYlVQM0FiMTYtQnRqbm5RMWQ5d2E2ZHNac0ozVHBLbTB0RDN5UkVZQUxPVldzTFc3QjdEdGZ5U185MFVtV1Q5djZXbUxJOS1ySHhKSGVieHZsU2M?oc=5",
-      "status": "research_only",
-      "entry_url": null,
-      "end_date": null
-    },
-    {
-      "id": "f4b85fb92afaf04c",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOVJ2RlNCYk9EeXhmQ1Q4cElwVEYwczdIMTMxc0pkNU0tMUVySVZnVlhDX29lZXdfU093TXZzUDh5MjhLczRad3NsWGdxSk9RcDB1d1BfRWxqR24tMTByQ0dGbVdFQzBXVGNHQ2Nxc2JPcy1lWFgxeE9MU2EydDc0VFZmbXktX0pRSFZhSlgxblpJOFJGemFSV0YtUnNzdw?oc=5",
-      "status": "research_only",
-      "entry_url": null,
-      "end_date": null
-    },
-    {
-      "id": "6ed7f9838c845de4",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTGRQeDlxMjNJMklUcHdMOGZLX05rOWZaYXZwbmItMS1PQk1PaHlobkgxZG1vR0Jib3dRQXBxSTQwaXVoS0hFbGFtc2lFZUhLRzV2R1hsRHY5OVdMOXFJZzBQLVBuTGZRdnNJUDMxLUg4WkpjX05RbWplWURZbHhaTm40U3VvU0VEU0dhUmpoeFdfaVE?oc=5",
-      "status": "research_only",
-      "entry_url": null,
-      "end_date": null
-    },
-    {
-      "id": "53d4d40e8cbd9804",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5GU3hjZ2hLWC1YV2dhUDlraHd1bWNQZnhOUlp3NHBfWVJIaDJlemc4cFlnUG41Z21ncWdkRy12WGZyazBJZE1EajZ4QnQtajlsQndqNVZ6LTlSRW1WaEE?oc=5",
-      "status": "research_only",
-      "entry_url": null,
-      "end_date": null
-    },
-    {
-      "id": "1f535a25458ebbd0",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVVhWZkE1R0dwelVSQVJBNTlMcHJzRElRTG41bTRKS3hvWjdsSmljWTF4RTF3UWNGWW5WMjVEZHFiMUVtckYzTlRlNjM1cEFtWWpjT1lJZHRuMTZDcElmdXRQWnlUcUdFUXF6Rm81cXVTRndlTzctLTdjS3NUQzRIblUyeWxDZjd3?oc=5",
       "status": "research_only",
       "entry_url": null,
       "end_date": null
@@ -3656,13 +3605,6 @@
       "end_date": null
     },
     {
-      "id": "c3340137de7b3075",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA1SmVtSEc5ZzF2Ty1LalVUbklyMU5nWUJSWnM3dHl4S0VVanA3Z2NlTFZ0Wnl1T29NNmhsNEYtY0ltRXNBM19FT3dSWEpETFBiMVhPS1BrUjJveEpXYWd3TUh4Q0RoakRmdEkwd0pDaw?oc=5",
-      "status": "research_only",
-      "entry_url": null,
-      "end_date": null
-    },
-    {
       "id": "9a537100d3e26b44",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbzNQaC10NllGcVA1U0tPSlZyQmVHamY4SV9ySUVYZlE5YlVaS1dRaFEtM0ZtY0swWlhCZTBwMXdXdS1kM0ZtelJJbEg1aUlSUEpvRmFzOTZibzhwN09ibEhNWVhIRHBVanZvUHBHQlVFUjBmd3JRVk5iMk52NndPeHVRVlV0V1h1MENIei1tRGRzQzg4bzFkMTc2RXEzbEtMd2VNRlJMRQ?oc=5",
       "status": "research_only",
@@ -3670,8 +3612,8 @@
       "end_date": null
     },
     {
-      "id": "b6b4882f83e937dd",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcFJkVlFxVkpqNndKZFh4STN2N0NocXVCQ2NENkFHQzZtM3YxRk9rMmVjOEpPVFh1RHFWTGNIYm1HMVVyMnVKdVBDdDBYS2VwNE9VdUdpRG5WZHhjSzd1bGI0a3d5NUJydmRiRnpIcDJwd0dRX2NBSmxLY2NQTUFFTko5UEtLcHZoMVY1ZFg2RmlTZk4yblFTeGpvemk0d1pqX2tz?oc=5",
+      "id": "1a8a8d1715864ed4",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQT1dyYnB2aUJCZ0Fnd3VHMmZUU0xuMW5qMFg4bW9sMnpOa2hIWWtOdWNDa0YyWElvU0tCWTBsaWZaTTEyTU1JX2xJTGZ2S1F4RlYwQnA1c1gzOVJoS241WTgxTlJDd2FKWmtydVlKQWxiRjNSMWNnbDR6WU1uWndwTXdVUmlpZzJxTTN0WW81ZnBYUG92Y2c?oc=5",
       "status": "research_only",
       "entry_url": null,
       "end_date": null
@@ -3754,8 +3696,29 @@
       "end_date": null
     },
     {
+      "id": "d191379abbf2e16a",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMzAwRWpjTm1odUlQWVJxTkMyRmlCUFJ6VUpVaGFnZXhnYS1La1d3MF9xMFZLMUMtVS1NWk83djM2MHJybjlha1ZlXzc0bXk3QzJVN0RsRVB1STNSeXlPZ25RTHM1NFg3Z1dXWG12cE5tQUlsUXgwWHFHbFhpYkJ2VU53MjZzcE4xOFN1OG9EeFpvMVN3N2JwLVZB?oc=5",
+      "status": "research_only",
+      "entry_url": null,
+      "end_date": null
+    },
+    {
       "id": "15e8d450ff872b55",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNOUQwODZpMUpvT0phZnZrRFY2TUtTSm5TOUdjNnlfTkl5bGNQdm1pOUpYeVpzTFdScjZpRXZlc2trMzRyRS1EcDItbi12NWVmaExJWkRUTVdkWFgxNHljRFVfMW5nRW5oWkFibktLbGNTcHpLS1pKQkJmTzNKMWY5UTZjT2NFWTEzbzNxYnAyckhDR19sMVZ1UXV1Y0tWYkxpVmdJWUlCUTU1dFBROTdackcyeTlUa25fYUlmQjRxeldIcURqeWkxc0lNNmF3UQ?oc=5",
+      "status": "research_only",
+      "entry_url": null,
+      "end_date": null
+    },
+    {
+      "id": "c3340137de7b3075",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA1SmVtSEc5ZzF2Ty1LalVUbklyMU5nWUJSWnM3dHl4S0VVanA3Z2NlTFZ0Wnl1T29NNmhsNEYtY0ltRXNBM19FT3dSWEpETFBiMVhPS1BrUjJveEpXYWd3TUh4Q0RoakRmdEkwd0pDaw?oc=5",
+      "status": "research_only",
+      "entry_url": null,
+      "end_date": null
+    },
+    {
+      "id": "b6b4882f83e937dd",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcFJkVlFxVkpqNndKZFh4STN2N0NocXVCQ2NENkFHQzZtM3YxRk9rMmVjOEpPVFh1RHFWTGNIYm1HMVVyMnVKdVBDdDBYS2VwNE9VdUdpRG5WZHhjSzd1bGI0a3d5NUJydmRiRnpIcDJwd0dRX2NBSmxLY2NQTUFFTko5UEtLcHZoMVY1ZFg2RmlTZk4yblFTeGpvemk0d1pqX2tz?oc=5",
       "status": "research_only",
       "entry_url": null,
       "end_date": null
@@ -3803,13 +3766,6 @@
       "end_date": null
     },
     {
-      "id": "5165cab26e654e65",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBlVGkwTHFHVnlacE5DMUVkUzREVk80ZTRmRmY5bEVsakpVTndVR3FHRTVZV29sY3doUjJRdzBGb0dlM3J0a2lMLXJhZw?oc=5",
-      "status": "research_only",
-      "entry_url": null,
-      "end_date": null
-    },
-    {
       "id": "7d848d67ed00de9a",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaGhBQ1N4OW4zZWYyemJscWMtTWxrZXhHb0tnUjBhRjZVWnhhWl91cVB6YzVuallvUGZUMEJobzNUMlB3Z2haUGNnNDdVcldrN2EtVUZhZVIxZURjalNVNzMwd05Ba09UZHJycW9neFJaSDVMS1BMZjJSQW11ak9BVTBubWJ6ei10T01vUlV5NWtMTmZFS0pGVlRFMXVsREFqTHBRUnVibw?oc=5",
       "status": "research_only",
@@ -3833,13 +3789,6 @@
     {
       "id": "96d85f25deb39b0a",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQzBtTVdGbFhJMnhYT3Y2QzZVa3BjUmtNLWlzZnpnYWxsb2gtUzVtWW9TYlJyOGFJazJ1cXFTV0l2MUJFaVV6SGFFMzQyaE1KY2QyQi1pTjRqcmY5Zl9acDdJMExfMUVSdXhfcUNkdXBxRmMyTlhfUG14U3NQMUEtWjVpZV9oOV9aVm1XaXhWZXhCRVZrSXpROTg1TW1vMHNM?oc=5",
-      "status": "research_only",
-      "entry_url": null,
-      "end_date": null
-    },
-    {
-      "id": "f3d6ea0c276a0b6f",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1pTTRIV2s0Rlp2bmQ2NVFNbVFWVnhYdHJWZ1RkYktoSWNPZlRTX0RwN1JiSTVkYjBINDNQVTZtQXQ4UUVVMGJVaUNFTGFtcXRlRDd1NWkxYV9TMkJub1g2a0dDVk9KU00?oc=5",
       "status": "research_only",
       "entry_url": null,
       "end_date": null
@@ -3887,8 +3836,8 @@
       "end_date": null
     },
     {
-      "id": "95de35122f205296",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdW8zLV9KYkpTS2tGamlTaU5ZbEtkWURad0tVbmhpVVc4cDI4aERyZEJCSGdkcnozTHQyeTZNZU9MLVpxalR5d2otMWdSQk5KbTRjR3pmeGoyNXIzM3lmZ25rUnlYOTVCRXZWYjJJRmZMYWl5bDdTYlhZRGJCTm5rR2FpNm1GSzUwVjJwS2VaakhKRm1PRnBsRy16NXNnOVQyZHp1bWczMU5NRFNEeWs2a0xIU2dpZWs2YVhNSGhNal83UjA?oc=5",
+      "id": "f1ab7c33855f05a8",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORlRUQ1BITHBVSDYwcURrUEU5Z0doSHFUa2xpZmZZNkxnR0xhay1EdmlEaG9FWXl4X2VraE96ZFFsWmQ1MEpsdUpOazluNWZSYWZURjlUWlNySF96TGcxQlYyU0p3cWJoS2h2TUtTY09rT1lSb0MzNnN5Z1BMVmVCYzNZQlAzZ3pIdTE5Ui1OOG5lSkk1bU9pQ3B0T3NIaGlLTjBEWnI3R3NjLXU1?oc=5",
       "status": "research_only",
       "entry_url": null,
       "end_date": null
@@ -3901,8 +3850,8 @@
       "end_date": null
     },
     {
-      "id": "f1ab7c33855f05a8",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORlRUQ1BITHBVSDYwcURrUEU5Z0doSHFUa2xpZmZZNkxnR0xhay1EdmlEaG9FWXl4X2VraE96ZFFsWmQ1MEpsdUpOazluNWZSYWZURjlUWlNySF96TGcxQlYyU0p3cWJoS2h2TUtTY09rT1lSb0MzNnN5Z1BMVmVCYzNZQlAzZ3pIdTE5Ui1OOG5lSkk1bU9pQ3B0T3NIaGlLTjBEWnI3R3NjLXU1?oc=5",
+      "id": "95de35122f205296",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdW8zLV9KYkpTS2tGamlTaU5ZbEtkWURad0tVbmhpVVc4cDI4aERyZEJCSGdkcnozTHQyeTZNZU9MLVpxalR5d2otMWdSQk5KbTRjR3pmeGoyNXIzM3lmZ25rUnlYOTVCRXZWYjJJRmZMYWl5bDdTYlhZRGJCTm5rR2FpNm1GSzUwVjJwS2VaakhKRm1PRnBsRy16NXNnOVQyZHp1bWczMU5NRFNEeWs2a0xIU2dpZWs2YVhNSGhNal83UjA?oc=5",
       "status": "research_only",
       "entry_url": null,
       "end_date": null
@@ -4449,13 +4398,6 @@
     {
       "id": "787ed65466bb79b9",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTnpuUG50X3c5RjdpenNId3BiNE9xdVVnbWs1NzRWZFJsXzE5SEhYSmt0aTVWSDlpTzBrZGstb1hHUVZGdlBsSnFKV0tWN00tVHVKZlg1NlpUQUs4YS1WQnRVMkx1SFJZbXNGVzJXUWM0a2N3ckNrZUFTaWgxTVd6RVl4QQ?oc=5",
-      "status": "research_only",
-      "entry_url": null,
-      "end_date": null
-    },
-    {
-      "id": "42105195e373d970",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaFJLb3VoWEhWeUYxeFlZdmdoN3BHd1J6c0Nyam81NEo2dy1veHdOVUdiQ1piZ1V2aUNLMHYyUzBqTFhoVTVVb0VTYUFxa3o5Tm5ITXdmTW96Tm1GRmZqMlg3VVJQTVd2RXdmMWlQbF9NVmNaOTI2X0ltZVVSR1lwTzJ1MjhaNlJxZE41LWVBWmpZRG5TbFZvb1JhMUlGQmdRWWN5ZUpmNDYtRW9uYUEybUFnOS1LeENwRjdNZkJB0gHDAUFVX3lxTE83dnVuc0FtN0xIRlZZZHJ0M2QzenRxWHpSZzNvWTFCNXFQYmlqZGhJREY5bmdVZU9OXy1IRUJwMEo5YmVtaWExTFRfZS1nWDZEQUd0cERSUlowQUpKRWNfbnAzMFBkcEs2eGNnWmRnUVQ2VHNmNW53R1Bid1BQb1VMQTdqY1U0NzdBNEZXcE1XTF9yd1JSX1FJWnNGaVdHbkNSMkJENHhCblpMYi0xZ0RmaXJwSEFPby1HUm0xT3hNa05HVQ?oc=5",
       "status": "research_only",
       "entry_url": null,
       "end_date": null
@@ -6386,13 +6328,6 @@
       "end_date": null
     },
     {
-      "id": "94314a320da6f20d",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5VLThjR0xGRHFWZGt6R1hJUk5jdGVBYTFzUUFzVTBkaE9Xc0hfb1FuTGRPNVFsNXYxcWIzbHpPNzBRRUtvOGN6cjNtNElnc2hyTFU0UHlfNk82QzhoakZ6R3N5d3VfT1UyNFRlSm1SVHpLMTNzMVhmeA?oc=5",
-      "status": "research_only",
-      "entry_url": null,
-      "end_date": null
-    },
-    {
       "id": "f2f6b46b7611fd0b",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9iOEtXOFVHZHJndFpQbDNzdUVsdEtOTzJwN3JqUV9SX1JZakE0RjNXUHBPdF8xSmF3dTdYSEY5U3Jub0N4Y0VfQXVGSFEtUFBkTUFwbWxRQVZHZHRPVTNsWlU1cw?oc=5",
       "status": "research_only",
@@ -6820,15 +6755,15 @@
       "end_date": null
     },
     {
-      "id": "ca1795083eb39722",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQT2x2UEROcm9Va2dSYWN2U3RsdWxtUkJvM2FjeEFfX0FoYUFFLVMwNmRqRnFZeUJYbHE3VVA3LTh2cXhOTW9PdHZzbkxJV2hxcVdmNXlsUkt1QzdjZkR6MVRfVUtoNm9SYU5DdEVXQk8tUWtYcEhxa25SSmVsaHFOeVNlYUdOZw?oc=5",
+      "id": "b5bc606206c4483f",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE12OEtiOUl6Sm54M1FmNlFtbzBhUE82SFVwS1MxOTF5Qm1RclktU2VUZHI1akF3akhRSkxZYnM2ZVB2b19NUV85SlpCMjFvY2Y2Wnp5ZmYyb0ZzNnlpaEJfazJ4OUdNOXgwY0Q0ZEctMG4?oc=5",
       "status": "research_only",
       "entry_url": null,
       "end_date": null
     },
     {
-      "id": "b5bc606206c4483f",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE12OEtiOUl6Sm54M1FmNlFtbzBhUE82SFVwS1MxOTF5Qm1RclktU2VUZHI1akF3akhRSkxZYnM2ZVB2b19NUV85SlpCMjFvY2Y2Wnp5ZmYyb0ZzNnlpaEJfazJ4OUdNOXgwY0Q0ZEctMG4?oc=5",
+      "id": "ca1795083eb39722",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQT2x2UEROcm9Va2dSYWN2U3RsdWxtUkJvM2FjeEFfX0FoYUFFLVMwNmRqRnFZeUJYbHE3VVA3LTh2cXhOTW9PdHZzbkxJV2hxcVdmNXlsUkt1QzdjZkR6MVRfVUtoNm9SYU5DdEVXQk8tUWtYcEhxa25SSmVsaHFOeVNlYUdOZw?oc=5",
       "status": "research_only",
       "entry_url": null,
       "end_date": null
@@ -6981,15 +6916,15 @@
       "end_date": null
     },
     {
-      "id": "ab5d46efa2ae1e37",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZDBDSmt0T1F0Wi1aNjVWWnpwYU1INEZxeVpPdS1pRWtpZkE0eFNKMGJnNjBfTm40T3o0Sm1vOHRxQ2ZsZlFFWV9VRm5zOVN5bFE5WDQydmFVSlpwT2ljNDhZOGk4X1NZV1k1ZHp2LVlpRW9PSzIybkMyVFJqQ2haMC0zd0RFZw?oc=5",
+      "id": "686dc54e14f53d0a",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1FWHlzcmtZQ1VZYjFGcFlZY0JFcTVPVFpVYk1pVnYyMjFUdWZudUI5Z1dlNXd2cGRuajN3V0o3WG5vTTZfems0ank4V2xqbC04Tzk2M0lnZjJnOUZaLW5LZ1ZsWlVWdw?oc=5",
       "status": "research_only",
       "entry_url": null,
       "end_date": null
     },
     {
-      "id": "686dc54e14f53d0a",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1FWHlzcmtZQ1VZYjFGcFlZY0JFcTVPVFpVYk1pVnYyMjFUdWZudUI5Z1dlNXd2cGRuajN3V0o3WG5vTTZfems0ank4V2xqbC04Tzk2M0lnZjJnOUZaLW5LZ1ZsWlVWdw?oc=5",
+      "id": "ab5d46efa2ae1e37",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZDBDSmt0T1F0Wi1aNjVWWnpwYU1INEZxeVpPdS1pRWtpZkE0eFNKMGJnNjBfTm40T3o0Sm1vOHRxQ2ZsZlFFWV9VRm5zOVN5bFE5WDQydmFVSlpwT2ljNDhZOGk4X1NZV1k1ZHp2LVlpRW9PSzIybkMyVFJqQ2haMC0zd0RFZw?oc=5",
       "status": "research_only",
       "entry_url": null,
       "end_date": null
@@ -7002,15 +6937,15 @@
       "end_date": null
     },
     {
-      "id": "aeb25b3e61af96b2",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ENlNNQWdObjZSQ3RGTXgyRWhwOUxialRMWXJLSXRrQTd1dk01Z3kwaWhuajJwSW05QUFEV1dCX2R1NElNdV9zVnpIWjVSTm9iV3JzOGkzVFkwMGhvdUU0YWFiTQ?oc=5",
+      "id": "9f244528f797dbd3",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBVTi0weWxrX1plZmc0d3JPWmlDa1RwVTZzdkt0bEk2ZVdhWmZBOWltSE9DSGFSZzVLZG5sc2RZWWNWYVhscHpZNkJya2M?oc=5",
       "status": "research_only",
       "entry_url": null,
       "end_date": null
     },
     {
-      "id": "9f244528f797dbd3",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBVTi0weWxrX1plZmc0d3JPWmlDa1RwVTZzdkt0bEk2ZVdhWmZBOWltSE9DSGFSZzVLZG5sc2RZWWNWYVhscHpZNkJya2M?oc=5",
+      "id": "aeb25b3e61af96b2",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ENlNNQWdObjZSQ3RGTXgyRWhwOUxialRMWXJLSXRrQTd1dk01Z3kwaWhuajJwSW05QUFEV1dCX2R1NElNdV9zVnpIWjVSTm9iV3JzOGkzVFkwMGhvdUU0YWFiTQ?oc=5",
       "status": "research_only",
       "entry_url": null,
       "end_date": null
@@ -7060,6 +6995,13 @@
     {
       "id": "69feccf033da0f2b",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE55YXdoOGNjNjBsdFh1VC0zX1MzVkt6Y3k5ejFhLWJ2S1hGQjZacEVDcGFsWnNZMlEtWXJKZnQ5TzhFSVNpZ185S0JKMzlLVG9fellydjNVTk5GbVBMRWJrQi1ZZ01ERUZfaE5iNWVMdnNCVFk?oc=5",
+      "status": "research_only",
+      "entry_url": null,
+      "end_date": null
+    },
+    {
+      "id": "d8048192fb532ad1",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5TZlktSlMtNURCZ1lyOVpHUE5PV0lpRDNqcWF2cElwcnhZLVY1YV9FNWlXWTE1clh5UzA4VEhabzdJOVBwTThOOWNIdkNNV2lqZVhfZkFqaml1SEVyZ2xYTkYxbjQtb0UxZVE0ektua19XWVBzUnFTX3lsdw?oc=5",
       "status": "research_only",
       "entry_url": null,
       "end_date": null
@@ -7303,13 +7245,6 @@
       "end_date": null
     },
     {
-      "id": "85d7348ca77e04de",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9xV3dyblRrNk80Qld1NzBmQzMxY3JHVkdNOGNQNFVfVVJkZEc0X2pNYXhsRDVnY0dZdURvaFcxeXVqNXNGelh1VVAtLTluSmxIZWZSNTNQXzlFRWZtRm1admVWZWFiVkljdWc?oc=5",
-      "status": "research_only",
-      "entry_url": null,
-      "end_date": null
-    },
-    {
       "id": "c83f1c3f67735778",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYklMcEd1X293aVZfOHJBVHRFN3pyczRWeWw3RTd6ZXBKNTRxeUJiRGhlMmh0STBnRGZWOGFwbkRCNmNMWXFPNlQ1M1ZRanNoOGZTbDVRcFlRM1NOT1hTUnVqTkcxZDVtQUpEclpUWGZEVXp0bVpGWGtHYnV1WlVYNEUtUHkwQ0ZzRGFudzJ6WTh2QThMYXI4ZEM5aXhqcUptX0lJ?oc=5",
       "status": "research_only",
@@ -7499,13 +7434,6 @@
       "end_date": null
     },
     {
-      "id": "a215cac92d456950",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNi1PY1BBMUxHQXVyTnc5MjlsUEdrVkJfM3lfUmVwbXY4NEFuQ0Vud1BpTndMOVc3dDVYenhtZWZNeXZJVHlZTUhHNEREY2pqbnZ4SEMzWk1qTGFudll6Z25fNW11aWlvVzJZTjJJSVpYZ1BUTkRPenVfdDR0bzFoLTBaRXh2TlFiNWRrUmNtM0FKV1h4cDdQM3ZteTNqbFBlYUx2ZGxtejJtUjg2NGc?oc=5",
-      "status": "research_only",
-      "entry_url": null,
-      "end_date": null
-    },
-    {
       "id": "1acfe98be3ccaf63",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbEdXLTJZQWJJbG5DOWNJdHkzLUUtdG1FeEQtVVRsWFBKLW5kNUtXdS1kZmVHY190c1JTX3laN2tra0NPaUFNazlhVnBrelRlTVhlNHJlcmk1cTQzLXhaWkRlQm80RGE0NUVFUlhWMFlGVFhNYVZyQUM3bFZjUlQ5NTM2SWg0c0doRnJla2JSNnhCd2x6bEFJdnZLT0o4QzRoQWVnWVNBZ0tsUQ?oc=5",
       "status": "research_only",
@@ -7534,6 +7462,20 @@
       "end_date": null
     },
     {
+      "id": "4df66b2d2d8ff945",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUnh2a0MyV0g1ME80U0ExbVlvZ3VtWTBzNkN5UVJfODJXeE5DS2tEMG0tdlNlUlpqNXVfX0lRckNHbE16SU1ha2JsNjlfdDBlNE9xNThoZEFwYTZGdkQ2QmJSZkxnV3hvLUR3YnBqNEJUSW1NNlkwWnNjTkVDaEJZQmhwWmRUQWJCMHBiVkliZDhKcmxvR1I4?oc=5",
+      "status": "research_only",
+      "entry_url": null,
+      "end_date": null
+    },
+    {
+      "id": "c7148f444c934f2e",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSE1CVTl5S1VmNHFTckNvZ1RodUVMQjRqQjVKTWNiTGFzOV9teXdiRkczcXUtbjlPZEgtcGF6eTdSOHRWUWlWVE83QWwyYjUtc2gxeEdZcVcwaGhjMENEVnhHUlF3VzdaUS1MMlprZjh1VzRWdXJaYk1veVJva0pTSzRjSkE0LURBZmRLWXJpMUR3U0pqNzFZZFUxZE9nTE93LUtodmMwOE5NaTFXazBNOUpkVjBjcmFXal9MQ2xzcmZqMFN1RkhVMjZraGVSMlZ5dGVBM181UWM5UzRT?oc=5",
+      "status": "research_only",
+      "entry_url": null,
+      "end_date": null
+    },
+    {
       "id": "19b78b7948386f30",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQzRoZ1NQbHR1bG5UcGp5bEdsVF9JUXlwaUdYZzFSeVRZRkViUzFJV3dGUEU0Q1o3YzZINmNPOE1TcjJvWmFzYy1vcjhBcHE2RjZrQW8tYXh4dklkbkVCdlRFX1hIQ09SMG9iTWswZmNKUDdzR01MbmIwSXNZMUZnRmpBT0xFRExYWkhNNFlzQnNzTGVBcU9pUUtSUVBLbU1DN2tHUUw1QWh6M2VfX0RFbkVvWmRIcFMzWnc?oc=5",
       "status": "research_only",
@@ -7555,15 +7497,15 @@
       "end_date": null
     },
     {
-      "id": "08668db1f3b115ab",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRV9kVGdRZ09IcVg4NDNLUWhBUGpvdlBJNzZZM21FaEpaVG9TQ29CY0VBbDhBSzRkX3RDeXhnejZFanMzNTVIa2d4MmlOQm96Z0lQU3NuQVNnQTBPcXBxRkRtWlJQNXRLX0FObW5IMmdFemR2TThQNlBrWkk4T1lSekV5bHByMlQ4Tlk3SnNlMjhQTEhmaWQ4OHJIRmJ5WDVNbXhmZVlYQUE3RkRrLXpUanV1d1hMM1N6eW9jeGVZWUlvdFdjSWstUTkzVXFVd28?oc=5",
+      "id": "a215cac92d456950",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNi1PY1BBMUxHQXVyTnc5MjlsUEdrVkJfM3lfUmVwbXY4NEFuQ0Vud1BpTndMOVc3dDVYenhtZWZNeXZJVHlZTUhHNEREY2pqbnZ4SEMzWk1qTGFudll6Z25fNW11aWlvVzJZTjJJSVpYZ1BUTkRPenVfdDR0bzFoLTBaRXh2TlFiNWRrUmNtM0FKV1h4cDdQM3ZteTNqbFBlYUx2ZGxtejJtUjg2NGc?oc=5",
       "status": "research_only",
       "entry_url": null,
       "end_date": null
     },
     {
-      "id": "c7148f444c934f2e",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSE1CVTl5S1VmNHFTckNvZ1RodUVMQjRqQjVKTWNiTGFzOV9teXdiRkczcXUtbjlPZEgtcGF6eTdSOHRWUWlWVE83QWwyYjUtc2gxeEdZcVcwaGhjMENEVnhHUlF3VzdaUS1MMlprZjh1VzRWdXJaYk1veVJva0pTSzRjSkE0LURBZmRLWXJpMUR3U0pqNzFZZFUxZE9nTE93LUtodmMwOE5NaTFXazBNOUpkVjBjcmFXal9MQ2xzcmZqMFN1RkhVMjZraGVSMlZ5dGVBM181UWM5UzRT?oc=5",
+      "id": "08668db1f3b115ab",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRV9kVGdRZ09IcVg4NDNLUWhBUGpvdlBJNzZZM21FaEpaVG9TQ29CY0VBbDhBSzRkX3RDeXhnejZFanMzNTVIa2d4MmlOQm96Z0lQU3NuQVNnQTBPcXBxRkRtWlJQNXRLX0FObW5IMmdFemR2TThQNlBrWkk4T1lSekV5bHByMlQ4Tlk3SnNlMjhQTEhmaWQ4OHJIRmJ5WDVNbXhmZVlYQUE3RkRrLXpUanV1d1hMM1N6eW9jeGVZWUlvdFdjSWstUTkzVXFVd28?oc=5",
       "status": "research_only",
       "entry_url": null,
       "end_date": null
@@ -7618,8 +7560,22 @@
       "end_date": null
     },
     {
+      "id": "96b95c934a018975",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBNVm5jdVZMZWVHYUwtZVZ4UXhwTkxSZGxkajZ1T3ZqQUU2N3E1NHpGRE9YV2h4MXVBNkpId0Z4WWdmMUZRRHc?oc=5",
+      "status": "research_only",
+      "entry_url": null,
+      "end_date": null
+    },
+    {
       "id": "d7666e7965c53f35",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcmVjSlpjMTFHdUpXNlZlZWdZZDNTaXVJSUg5R202aDVsMGNBYjZOQ0JHNjhiUVBCTzhWYS1CTFVialBLci1yZDFnRVo0QmhnaElKV0dqWnBPcm9FY2puSnEwak1ObmhYWXZwWUlNXzc0RjVwNDdlNnVhLTdxZHpJWXRXZkxGWmt4OHZELVNpbDJOR2RwMnFTQVRsSTY4YTVl?oc=5",
+      "status": "research_only",
+      "entry_url": null,
+      "end_date": null
+    },
+    {
+      "id": "5920a372a14789f7",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTEh3QjUyNGhNN0lPdW1hQ0U0QjR1TDNMUWNYblRLZVA1TTNSeXgwRm9UQkFucVZvMHc3b29lYmNMZXNlbFY4Vy1RQ3JGRnlYM2J3QjhYd1RsOVRmM1ZRX2d2bDR3Y2J5WFY5R2VEWklNS1V2QUMySzk0ZnRaYjdpdjU0c0NGUWRuWEE5SGdhYWo5ckZZTjViamFR?oc=5",
       "status": "research_only",
       "entry_url": null,
       "end_date": null
@@ -7648,13 +7604,6 @@
     {
       "id": "ca2dcba9474f6fd8",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWUFlVEtFWWpSQXVYUWlZc19mRjlPWG1hN09oNVQ3Q2xmeF9nU2h1ZDBPYXhfUGNHYU1EQk1CakVQY0taZmcwR0hQY1NhckJHTWZqbGlDSjlxbUMyb0hGR1ZtaUhUN2UxOXV1ZGYzWklUamZaZE1FSF9oRHRIUzhaNE5pMlpITUVwbUJMeVZ0Qi1NYkRRczBCQ001aFhJSjQwQWVxMzhQeUR1S2JsZVVNWHEzc3N3YVQ3cV9DUlFB?oc=5",
-      "status": "research_only",
-      "entry_url": null,
-      "end_date": null
-    },
-    {
-      "id": "777e6457814c84de",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE92NThQTXNZZFhNX3hKNUJJYUJoZk1yTGxYU1NFd1RzcENyMTZDdHlWNkhDeXBwSVJiX1U2Z1B3eHU5cGs?oc=5",
       "status": "research_only",
       "entry_url": null,
       "end_date": null
@@ -8738,13 +8687,6 @@
       "end_date": null
     },
     {
-      "id": "963adefe7f59a57b",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9uOEdOSzVRLVJ1MjFNaldmaHJjazJlcExXVU9XUmZrQVo1QUVhS0E5Q294QkRoMUdOeXluS3Vsa0VQRUE0czl4WFF3?oc=5",
-      "status": "research_only",
-      "entry_url": null,
-      "end_date": null
-    },
-    {
       "id": "5ff10813f40616fa",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1McXFqMkdxM1F4ZUxDVjdFYUp0OGhNekJ3VExpdlA4ZHkxT19KOTR0VmxaVGlJYVVGdVpDMHlzRzRsdl9UaTBONTBYU0gwakJMdmJ4X1RNcU4yeHI4aUNDcGgyMmNNaDJEMm5hTHg0cnB6dw?oc=5",
       "status": "research_only",
@@ -8803,6 +8745,13 @@
     {
       "id": "51019295c8818099",
       "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9vN1ZtZ25SNTB2RFZmSE9aVVNZREVzUWFXZld3WHhPcU5vOC04bktRNmVaV3RMOTk1TXd4RVBnQk50bklObGFZ?oc=5",
+      "status": "research_only",
+      "entry_url": null,
+      "end_date": null
+    },
+    {
+      "id": "5b89187bf0d24384",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5iWkxMMFFGa1lBMmgwM1FRUTI3eklyX093YXo4MnNOQzlWWTNGYWlLbFBIZnFYbnlENEx3Rm1CT3pEZ1o1Q2lOWGdmX0pVcFFMQlFmVXotVV9PYS0w?oc=5",
       "status": "research_only",
       "entry_url": null,
       "end_date": null
@@ -8899,13 +8848,6 @@
       "end_date": null
     },
     {
-      "id": "ca64242120f91cfe",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5mMl9teUFGUmZONU1xdGc1ajBHMkk5YnhQX3pKendlcmlBQ0VqVnN5QXZGQjZQNzRMbmticG90dWhSY2M4T2ZwTTltV1Q2aXo3dFZ1NlR2Ykh6YmZTeHc?oc=5",
-      "status": "research_only",
-      "entry_url": null,
-      "end_date": null
-    },
-    {
       "id": "3ede3f9c8c214634",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9iQXNTbFhKaFMyVU44a080T0MyWllQdXpXS3FXT3NxUXk1SXdTNHJ3NTd5TEFadUl1MU1CbjhvUGJRUjF5MmE0QTVoQnA5WXJzaTdmaFpwdWYyQQ?oc=5",
       "status": "research_only",
@@ -8915,6 +8857,13 @@
     {
       "id": "12088685c281f565",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1sUjZNb3QtTVlvWTY4X3BsamlyTjBDa1hCb0daajhSWlpkdjg5VVR5bkFxbGFEQVF2eVhEVWtsVmZHNWpkM0hNRG94ckNhZ0VDOUUyeS02U1Y3NWx6V3c?oc=5",
+      "status": "research_only",
+      "entry_url": null,
+      "end_date": null
+    },
+    {
+      "id": "ca64242120f91cfe",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5mMl9teUFGUmZONU1xdGc1ajBHMkk5YnhQX3pKendlcmlBQ0VqVnN5QXZGQjZQNzRMbmticG90dWhSY2M4T2ZwTTltV1Q2aXo3dFZ1NlR2Ykh6YmZTeHc?oc=5",
       "status": "research_only",
       "entry_url": null,
       "end_date": null
@@ -9032,8 +8981,8 @@
       "end_date": null
     },
     {
-      "id": "4845a424f31d87db",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5OSlJCOWpVUGdUZXNZajVjc3lsN2RsVFcwcWUzZnRJM2NyTFo2OUc0bTM0aGxTRFl3c1RqR2ozV2I4ZlRFWFpsWnBwc0lvZHMwZlFqclg4eFdSWUYwMEVwdGZlSllZeFlPeG9sUGF3?oc=5",
+      "id": "486a02c070cfe7aa",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE16S2t6ZVZsYnFFM3UxXzJzNDJWenJ4bjE2eVVBaFI3VjFlOUhnZ21maGhYSjZ0VkVZYzJReU1TNUpWTVVyYmpzQ2xkc2Y2eEFmMjVNWW1mNDI?oc=5",
       "status": "research_only",
       "entry_url": null,
       "end_date": null
@@ -9781,20 +9730,6 @@
       "end_date": null
     },
     {
-      "id": "eeea44517631cab1",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE96WEQ3blNVZUlBaldpTmVLcEdhQWF0azR2VWZlMkdRWER1MjRMN2FYSU1QWTI1YTU2SmVhbEdOVURJQUNNcEdqQXF2UWZVeDllQnNYb3FUcFFvSTlqN1l6d24xN21EUzhiSUt0S0dJejZza3FWMzhV?oc=5",
-      "status": "research_only",
-      "entry_url": null,
-      "end_date": null
-    },
-    {
-      "id": "45672703e10170ba",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1DNlA3NHowTnhPYzA2cnFCVjdHNGR0MU5VWUdGZHBBWktuTkp0eEEtVi1rbHVGU3prd2ZpZXFpLTVMY3d1aUcxRy1uMWpYaEN3Z2dqSEZOZlV4OEZLS2c4UmE4LUtCM2pwcUhORFBrazY?oc=5",
-      "status": "research_only",
-      "entry_url": null,
-      "end_date": null
-    },
-    {
       "id": "1bd3f79b494e2666",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4wUFZaRHd3aGFUTGNYaUZUTGhsUlhZazRpclpDV0J3WWc2TXBUOTBidVJSNHdTVThBcVVwektHVnlZdHlzSFdqVzRQdm9XakItaVlVNnA1VGJKVXRWMmE5WWNpZjNiX0E?oc=5",
       "status": "research_only",
@@ -9832,6 +9767,13 @@
     {
       "id": "5ed665ace228405e",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBEd2RJYVBmMy1LWnhIYThEb0tINzlMVVZUSUQtTFhtaFFBeU1BXzM0YzhPTGxUWXlreWozV3BiR0ozVHRjX0ZoclJFcmZaZ2ZpbThxdUdjQU90czlPZ3ZDbjcwVlBrTFNUZVlF?oc=5",
+      "status": "research_only",
+      "entry_url": null,
+      "end_date": null
+    },
+    {
+      "id": "e2cadce9f527be73",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4xOHpNbTBtWms3R3Bjd2xSVDZsQzFIdkt3M2pIYm5Tc0tfWUw5cGxKOVREZ0ZiX0JMak9MR3BEZENSdkppTThTelhhQjljVGpTdW1fUjZzSXpHYTVEUDVnLUptQ29fWGt2TVk4?oc=5",
       "status": "research_only",
       "entry_url": null,
       "end_date": null
@@ -9979,13 +9921,6 @@
     {
       "id": "c97ec7ded1420573",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQenVnNmNneE9laFE1anl2V0FtX1JBU09YbVJicFVoT3NMZnNrMFY3X3B2V291SGRFdGptYkEyMEpOT3M1OURzV0p1eGJDLWw2d0ZURTVydTF3dlc5WnE3Q2hQa2V6M0x1LXRzZ3cxVkF3Tlh1MXpITHpaX0JUWVhQUU40RVpOam9VRTQtYktWaFRzQmVMTGZwYzdZWXc2d1Nl?oc=5",
-      "status": "research_only",
-      "entry_url": null,
-      "end_date": null
-    },
-    {
-      "id": "6c499b4201fff794",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQng1ZjhERGNzSDlnbnl2TmgzUE5ubWYwTHJLSjdvZVhLM2dfazBXYi1HRElFUnhEOTU2UEwxMU5tNGwzNnFZbWNXQnFZb3pTVjB1aW9vNUtpOFJRVVh3NW81WTE2WTlvcmQ1RGhwdlBSMGxRanNpTkx2blJaUFdBWEE5NWNUVTJ6ZXNIbDJ3X0taaXk5bVdsVXloTjVlLV91eFM0d1ZCbjg?oc=5",
       "status": "research_only",
       "entry_url": null,
       "end_date": null
@@ -10362,6 +10297,13 @@
       "end_date": null
     },
     {
+      "id": "d3c0bdcf70f2c322",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPUkY2VmJGR0RPc0lzRmduMVVvcU1MSk1NdWRlVWZUcWdmVE8zMlN3MUs4NnBHVkQ3TllVdmJXWEV0Si1lOE8yTjMtYTliZG5mdGlVU21ybnVid2NTdjRwX2xUTVdYU0w5Vm9DcWlQYl9XR2RhbXY1MkJIVGpDbkpQX2EwNUxKNEhtLU9xemplLXNrRHRkYkZIUUtWSWxYSnkzVXEtXy0zSm5adThrRjhHVDdGZkVNVWVNcTRidk04VHVyblhHeFF5YmZLQzBiem9UR1FXYThpR296UmJVNVNIWWpubTNFdTBQSTN0eEtoeEE?oc=5",
+      "status": "research_only",
+      "entry_url": null,
+      "end_date": null
+    },
+    {
       "id": "930c1cdb81831fbd",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOMFVjSndCVXpQLVZBZXZUTVNBTk9MRThyMGlHOWVWbXh1ODE4ZFdqOVJhQVI0MnE5QVdENHh6SGRPZlVDdGhYUXpqY0x6YXBsX3RVVUIzaGFfLTNRcGxia1FOTzZPMGJFcU1Ja3dBOHN6U2JMT1pxLVFrLXRpMnljQ292cUsyWEgwR1pXOE9ETVptalVfWWU3ZDR1Y1NhNVNvMDVWMUR1WUlxSGoyLVh4V3M3dU9LdlVjM0tXekdiQkJzSGtnVk9hcXotcVNCR0syS1RmUmpJa2hXTHNNbWc?oc=5",
       "status": "research_only",
@@ -10425,13 +10367,6 @@
       "end_date": null
     },
     {
-      "id": "df547c292d8976a4",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNmdqZ1hNRFlFQ0J4U3g4bGJvQTUwM0Y2WGFqMlRsbERhZlMySW1oNDktTHQ4RVlNY2xMWkxLUnR2aGk1QTFvRm1ZOHpzemxnbEdyVUxyNFIwVWlLQVBuR2NWTm80c0Nqa2pscy1rWFZsczRwSUxXSy1jWElhS2lpUFFnLUVoRjhjcHRjcW5wSlk5V1ZPZkxwQ3ZLR1pwTnpYazhEMGJqc0c1c2JWNFBaN3Q5a19hYklFMXlZaVdPUE83SjVY?oc=5",
-      "status": "research_only",
-      "entry_url": null,
-      "end_date": null
-    },
-    {
       "id": "a45486255dac280b",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxON3lPUXFhSEtkM2Q4RUhRMWdOamdEWXpYUklkSm83eFAtYWwtMzBNVW4wN1diQXJLaGlhZ1l4aXE3b2htOXMteEx6QTg5VkVlM2dURGpuSjhoMlBrLVpLSzloTmljYWlVcmpjaVo4c3hHdjZ0WTVrT1F1Nl9Lak9fVDIzQnJhUnNxRElqaEJuUWtiVU9DQ2NYaVdWa2hWUE9HSzR0UGU2TEt4M1V6ME9Za1U0bnBsLUw1VHA2Ql81d0RMcjB4eTVCTHdCYUlVT1lUckd1N2R4SnhCWmh3MHFV?oc=5",
       "status": "research_only",
@@ -10441,6 +10376,13 @@
     {
       "id": "ecb5329b8ecb90ad",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdThlbXVKUlNvZ1NpaGQ2dml2em9NbGw4dDZYSDNEVTZyb1VsREtIVTY4Mk1FaFNyS21qTEF3b0VxRlhrcjRwVUUzSTZrVWVlSnNZQ2ZLT0xGRFpaeUJIamV2NDBxU1JKWmp3TTJtcURqdk1idmUwb0FKWVpUQjQ0YjZMNnU3NVZTRWdRay1MYXlTbEV4MENTd1R2U3p4a2tqNkJTWXJ0RTRxVlVINm9iSC12Nzl2UHVJbzRuTmUtTzJCU05RZkprSEZyNUUybndRZmZGelBWOA?oc=5",
+      "status": "research_only",
+      "entry_url": null,
+      "end_date": null
+    },
+    {
+      "id": "76a72e03741162b2",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRU9sLWMwekdCdTNQSkhoVjMybjZjM1FZb196QkQxdmxiNVVDTkowRURrOUNsSGc1Q2pQVk5WR3RCdExFaWRzdVFBYzBSTEpyQXc0NHg1QTRGaUl6ci0tRUhvdTliSEdtdjBUVGxFc0U1U0t0OG5lUHE3eXhQUjQwcERUUE9PVWVVX3Exb1hFOHNBcDN0emQzVzBCQ3V2THhtSnpkejE1YXVLcHJ1QXJuWDlLaDlJY3A4elQ4c2NCTXpvanNIeG5KamZOWklYcFFYN2NGeFhESEdneWc?oc=5",
       "status": "research_only",
       "entry_url": null,
       "end_date": null
@@ -10474,6 +10416,20 @@
       "end_date": null
     },
     {
+      "id": "8a19e7245b914164",
+      "url": "https://www.sweepfeed.com/sweepstakes/5f1c93cae572b133",
+      "status": "research_only",
+      "entry_url": null,
+      "end_date": null
+    },
+    {
+      "id": "06d047ee533a09dc",
+      "url": "https://gleamgiveaways.com/giveaways/absolum-launch-giveaway-2026-11/",
+      "status": "research_only",
+      "entry_url": null,
+      "end_date": null
+    },
+    {
       "id": "ac905e168637a43c",
       "url": "https://gleamgiveaways.com/giveaways/",
       "status": "research_only",
@@ -10481,18 +10437,11 @@
       "end_date": null
     },
     {
-      "id": "2e11e8742907905c",
-      "url": "https://ilovegiveaways.com/sweepstakes/art-bundles-good-11-sweepstakes-5000/",
-      "status": "expired",
-      "entry_url": null,
-      "end_date": "2026-11-05"
-    },
-    {
-      "id": "fdfd597dd5184844",
-      "url": "https://ilovegiveaways.com/sweepstakes/bare-necessities-28th-birthday-bra-wardrobe-sweepstakes-2026/",
+      "id": "7f64fd2af5e47c08",
+      "url": "https://ilovegiveaways.com/sweepstakes/almond-roca-nutcracker-sweepstakes-2026/",
       "status": "research_only",
       "entry_url": null,
-      "end_date": "2026-11-16"
+      "end_date": "2026-11-13"
     },
     {
       "id": "78507f68ecb1c7a6",
@@ -10509,8 +10458,8 @@
       "end_date": "2026-11-30"
     },
     {
-      "id": "4c97c22e904063ed",
-      "url": "https://ilovegiveaways.com/sweepstakes/blinds-go-reasons-sweepstakes-5000-window-makeover/",
+      "id": "1b27859bded5f169",
+      "url": "https://gleamgiveaways.com/giveaways/biosteel-iphone-17-giveaway-2026-11/",
       "status": "research_only",
       "entry_url": null,
       "end_date": null
@@ -10535,13 +10484,6 @@
       "status": "research_only",
       "entry_url": null,
       "end_date": "2026-11-07"
-    },
-    {
-      "id": "2070d29b06ff7851",
-      "url": "https://gleamgiveaways.com/giveaways/call-of-duty-modern-warfare-4-ps5-code-giveaway-2026-11/",
-      "status": "research_only",
-      "entry_url": null,
-      "end_date": null
     },
     {
       "id": "c8fa2ed7ab35f6e6",
@@ -10572,11 +10514,25 @@
       "end_date": null
     },
     {
+      "id": "c60b38feb6311080",
+      "url": "https://ilovegiveaways.com/sweepstakes/corona-holiday-2026-sweepstakes-200-cash/",
+      "status": "research_only",
+      "entry_url": null,
+      "end_date": "2026-12-31"
+    },
+    {
       "id": "d7ececd91667abc1",
       "url": "https://www.sweepfeed.com/sweepstakes/daily",
       "status": "research_only",
       "entry_url": null,
       "end_date": "2026-11-06"
+    },
+    {
+      "id": "2e95214f0fe10108",
+      "url": "https://gleamgiveaways.com/giveaways/denniscw-wall-connector-giveaway-november-2026-2026-11/",
+      "status": "research_only",
+      "entry_url": null,
+      "end_date": null
     },
     {
       "id": "548892a837172001",
@@ -10628,13 +10584,6 @@
       "end_date": "2027-02-28"
     },
     {
-      "id": "a9d5317d6f38ea39",
-      "url": "https://ilovegiveaways.com/sweepstakes/ferrero-rocher-raise-rocher-sweepstakes-2026/",
-      "status": "research_only",
-      "entry_url": null,
-      "end_date": "2026-12-31"
-    },
-    {
       "id": "58af2069e9ee77f0",
       "url": "https://gleamgiveaways.com/giveaways/flooret-x-chita-better-living-giveaway-2026-11/",
       "status": "research_only",
@@ -10654,13 +10603,6 @@
       "status": "pending_manual_review",
       "entry_url": "https://www.sweepsadvantage.com/verus-pet-foods-dog-gift-basket-giveaway-sweepstakes",
       "end_date": "2026-11-10"
-    },
-    {
-      "id": "c6f121a6b3173a4d",
-      "url": "https://www.sweepfeed.com/sweepstakes/e982e642cccfcec6",
-      "status": "research_only",
-      "entry_url": null,
-      "end_date": null
     },
     {
       "id": "9a481761dc1302c3",
@@ -10698,8 +10640,15 @@
       "end_date": null
     },
     {
-      "id": "d05f00195c5390aa",
-      "url": "https://ilovegiveaways.com/sweepstakes/furls-crochet-hemlock-streamline-mini-hooks-sweepstakes/",
+      "id": "dd6bb993832aa1b2",
+      "url": "https://ilovegiveaways.com/sweepstakes/g-fuel-miami-heists-ps5-pro-sweepstakes-2026/",
+      "status": "research_only",
+      "entry_url": null,
+      "end_date": null
+    },
+    {
+      "id": "7ed5c410f97f7810",
+      "url": "https://gleamgiveaways.com/giveaways/gameday-spiked-uga-vs-south-carolina-vip-football-sweepstake-2026-11/",
       "status": "research_only",
       "entry_url": null,
       "end_date": null
@@ -10747,22 +10696,15 @@
       "end_date": null
     },
     {
-      "id": "9187eca8a4e2fc30",
-      "url": "https://gleamgiveaways.com/giveaways/huge-hand-dyed-yarn-giveaway-november-2026-value-1500-2026-11/",
+      "id": "575e2c87a5f5ac33",
+      "url": "https://ilovegiveaways.com/sweepstakes/greg-landrys-homeschool-science-1000-gift-sweepstakes/",
       "status": "research_only",
       "entry_url": null,
       "end_date": null
     },
     {
-      "id": "efe0d728ec7ea78e",
-      "url": "https://gleamgiveaways.com/giveaways/halloween-black-friday-double-giveaway-win-a-sofa-worth-999-2026-10/",
-      "status": "research_only",
-      "entry_url": null,
-      "end_date": null
-    },
-    {
-      "id": "475cb9d5883a52a5",
-      "url": "https://ilovegiveaways.com/sweepstakes/health-ade-grocery-sweepstakes-2026/",
+      "id": "85786ebfd5487ec4",
+      "url": "https://ilovegiveaways.com/sweepstakes/hy-vee-nebraska-ford-bronco-2026-sweepstakes/",
       "status": "research_only",
       "entry_url": null,
       "end_date": null
@@ -10789,8 +10731,8 @@
       "end_date": null
     },
     {
-      "id": "b396b5076f81e08d",
-      "url": "https://ilovegiveaways.com/sweepstakes/kim-davis-death-scene-sweepstakes-2026/",
+      "id": "fb59d8be39088b7c",
+      "url": "https://ilovegiveaways.com/sweepstakes/joy-cleveland-christmas-romance-books-sweepstakes/",
       "status": "research_only",
       "entry_url": null,
       "end_date": null
@@ -10803,8 +10745,22 @@
       "end_date": null
     },
     {
+      "id": "17da074f4731c20f",
+      "url": "https://ilovegiveaways.com/sweepstakes/kroger-football-myrtle-beach-family-vacation-sweepstakes/",
+      "status": "research_only",
+      "entry_url": null,
+      "end_date": null
+    },
+    {
       "id": "12abb52c7c37ec3d",
       "url": "https://www.sweepsadvantage.com/sweepstakes-contests-blog/welcome-to-sweepstakes-school/",
+      "status": "research_only",
+      "entry_url": null,
+      "end_date": null
+    },
+    {
+      "id": "43734e1b6720a071",
+      "url": "https://ilovegiveaways.com/sweepstakes/lone-star-literary-life-sweepstakes-2026/",
       "status": "research_only",
       "entry_url": null,
       "end_date": null
@@ -10817,8 +10773,8 @@
       "end_date": null
     },
     {
-      "id": "a97d81fd7589efbd",
-      "url": "https://ilovegiveaways.com/sweepstakes/lowes-cleveland-browns-sweepstakes-2026/",
+      "id": "d3fedc2bfb0a2f13",
+      "url": "https://gleamgiveaways.com/giveaways/mas-law-s-thanksgiving-giveaway-2-100-visa-gift-cards-2026-11/",
       "status": "research_only",
       "entry_url": null,
       "end_date": null
@@ -10826,13 +10782,6 @@
     {
       "id": "f737a11b46aa6b73",
       "url": "https://gleamgiveaways.com/giveaways/mtn-ops-x-hoyt-black-friday-early-access-2027-bow-giveaway-2-2026-11/",
-      "status": "research_only",
-      "entry_url": null,
-      "end_date": null
-    },
-    {
-      "id": "69c279088a7c34f1",
-      "url": "https://ilovegiveaways.com/sweepstakes/macerich-shopping-center-holiday-2026-sweepstakes/",
       "status": "research_only",
       "entry_url": null,
       "end_date": null
@@ -10852,8 +10801,15 @@
       "end_date": null
     },
     {
-      "id": "c9dfb21a55f92c39",
-      "url": "https://ilovegiveaways.com/sweepstakes/martins-potato-rolls-holiday-sweepstakes-2026/",
+      "id": "ce54e282c91c066c",
+      "url": "https://ilovegiveaways.com/sweepstakes/maui-jim-pinehurst-golf-trip-sweepstakes-2026/",
+      "status": "research_only",
+      "entry_url": null,
+      "end_date": null
+    },
+    {
+      "id": "1c5bc5c0241f11f0",
+      "url": "https://ilovegiveaways.com/sweepstakes/mikes-harder-gaming-system-sweepstakes-2026/",
       "status": "research_only",
       "entry_url": null,
       "end_date": null
@@ -10868,13 +10824,6 @@
     {
       "id": "814ea9443cd70dc5",
       "url": "https://gleamgiveaways.com/giveaways/miller-lite-holiday-2026-instant-win-sweepstakes-870-winners-2026-11/",
-      "status": "research_only",
-      "entry_url": null,
-      "end_date": null
-    },
-    {
-      "id": "57d58343cc3abf9a",
-      "url": "https://ilovegiveaways.com/sweepstakes/narelle-atkins-piano-sweepstakes/",
       "status": "research_only",
       "entry_url": null,
       "end_date": null
@@ -10903,6 +10852,13 @@
     {
       "id": "148d7714d5c81827",
       "url": "https://www.sweepsadvantage.com/sweepstakes-newsletter.htm",
+      "status": "research_only",
+      "entry_url": null,
+      "end_date": null
+    },
+    {
+      "id": "d79ede38a0f9021b",
+      "url": "https://ilovegiveaways.com/sweepstakes/nothing-bundt-cakes-150-gift-card-sweepstakes/",
       "status": "research_only",
       "entry_url": null,
       "end_date": null
@@ -10950,15 +10906,15 @@
       "end_date": null
     },
     {
-      "id": "e964dc6bc3eae111",
-      "url": "https://www.sweepfeed.com/sweepstakes/656f9f559f05f213",
+      "id": "c6f121a6b3173a4d",
+      "url": "https://www.sweepfeed.com/sweepstakes/e982e642cccfcec6",
       "status": "research_only",
       "entry_url": null,
       "end_date": null
     },
     {
-      "id": "a8a60e68cc1b8646",
-      "url": "https://www.sweepfeed.com/sweepstakes/b28dfd6c53ce99c4",
+      "id": "e964dc6bc3eae111",
+      "url": "https://www.sweepfeed.com/sweepstakes/656f9f559f05f213",
       "status": "research_only",
       "entry_url": null,
       "end_date": null
@@ -11070,14 +11026,21 @@
     },
     {
       "id": "9a37c972b58b6af3",
-      "url": "https://www.sweepfeed.com/guides/how-to-win-sweepstakes",
-      "status": "duplicate_research_lead",
-      "entry_url": "https://www.sweepfeed.com/guides/how-to-win-sweepstakes",
+      "url": "https://www.sweepfeed.com/sweepstakes/e20efb8a14aff3c7",
+      "status": "research_only",
+      "entry_url": null,
       "end_date": null
     },
     {
       "id": "7d8315ae02fecf6e",
       "url": "https://www.sweepfeed.com/sweepstakes/36afda1c3f8b7e2b",
+      "status": "research_only",
+      "entry_url": null,
+      "end_date": null
+    },
+    {
+      "id": "f6d0851b4163da6d",
+      "url": "https://www.sweepfeed.com/sweepstakes/0feb279ca6570744",
       "status": "research_only",
       "entry_url": null,
       "end_date": null
@@ -11118,15 +11081,15 @@
       "end_date": null
     },
     {
-      "id": "8a19e7245b914164",
-      "url": "https://www.sweepfeed.com/sweepstakes/5f1c93cae572b133",
+      "id": "b93a4ee6bac0b665",
+      "url": "https://ilovegiveaways.com/sweepstakes/promperu-great-escape-peru-sweepstakes-2026/",
       "status": "research_only",
       "entry_url": null,
       "end_date": null
     },
     {
-      "id": "97512443e8486a16",
-      "url": "https://ilovegiveaways.com/sweepstakes/orange-insoles-515-gas-card-sweepstakes/",
+      "id": "6d42e50bb7143c66",
+      "url": "https://gleamgiveaways.com/giveaways/palen-music-daddario-go-bag-bundle-giveaway/",
       "status": "research_only",
       "entry_url": null,
       "end_date": null
@@ -11146,6 +11109,13 @@
       "end_date": null
     },
     {
+      "id": "0f3482743413a694",
+      "url": "https://ilovegiveaways.com/sweepstakes/ready-gunner-smith-wesson-22x-sweepstakes-2026/",
+      "status": "research_only",
+      "entry_url": null,
+      "end_date": null
+    },
+    {
       "id": "f469151d4413ddb8",
       "url": "https://www.sweepstakesradar.com/reports/sweepstakes-scam-risk-index",
       "status": "research_only",
@@ -11160,22 +11130,8 @@
       "end_date": null
     },
     {
-      "id": "a38f3f8a805c7abe",
-      "url": "https://ilovegiveaways.com/sweepstakes/siriusxm-jerry-seinfeld-las-vegas-trip-sweepstakes/",
-      "status": "research_only",
-      "entry_url": null,
-      "end_date": null
-    },
-    {
       "id": "29076cd4f978d18c",
       "url": "https://www.sweepfeed.com/sweepstakes/6eafe96182cc0d10",
-      "status": "research_only",
-      "entry_url": null,
-      "end_date": null
-    },
-    {
-      "id": "44f0e6d0dddcbecd",
-      "url": "https://ilovegiveaways.com/sweepstakes/sony-music-mariah-carey-london-sweepstakes-2026/",
       "status": "research_only",
       "entry_url": null,
       "end_date": null
@@ -11216,13 +11172,6 @@
       "end_date": null
     },
     {
-      "id": "430181332a678f69",
-      "url": "https://gleamgiveaways.com/giveaways/thanks-tactical-giveaway-2026-11/",
-      "status": "research_only",
-      "entry_url": null,
-      "end_date": null
-    },
-    {
       "id": "e71ea2c774e5d6ff",
       "url": "https://www.sweepfeed.com/sweepstakes/state/texas",
       "status": "research_only",
@@ -11258,8 +11207,15 @@
       "end_date": null
     },
     {
-      "id": "fd776ffac1194812",
-      "url": "https://ilovegiveaways.com/sweepstakes/tuner-cult-tcg100-porsche-gt3-rs-sweepstakes-2026/",
+      "id": "56ce735b6ab6b953",
+      "url": "https://ilovegiveaways.com/sweepstakes/ulta-beauty-500-gift-card-sweepstakes-2026/",
+      "status": "research_only",
+      "entry_url": null,
+      "end_date": null
+    },
+    {
+      "id": "7be6caa9ec74d07d",
+      "url": "https://ilovegiveaways.com/sweepstakes/universal-pictures-odyssey-giftset-sweepstakes-2026/",
       "status": "research_only",
       "entry_url": null,
       "end_date": null
@@ -11267,6 +11223,13 @@
     {
       "id": "9a6f8304f2120cf8",
       "url": "https://gleamgiveaways.com/giveaways/unverified/",
+      "status": "research_only",
+      "entry_url": null,
+      "end_date": null
+    },
+    {
+      "id": "c7e87c9c3207eacf",
+      "url": "https://ilovegiveaways.com/sweepstakes/valpak-free-ride-jeep-wrangler-2026-sweepstakes/",
       "status": "research_only",
       "entry_url": null,
       "end_date": null
@@ -11293,6 +11256,13 @@
       "end_date": null
     },
     {
+      "id": "bf7e909e63bc50de",
+      "url": "https://ilovegiveaways.com/sweepstakes/wheel-fortune-secret-santa-sweepstakes-2026/",
+      "status": "research_only",
+      "entry_url": null,
+      "end_date": null
+    },
+    {
       "id": "29d6e57e238c2ecc",
       "url": "https://gleamgiveaways.com/giveaways/white-claw-hard-seltzer-holiday-on-us-instant-win-sweepstake-2026-10/",
       "status": "research_only",
@@ -11314,6 +11284,13 @@
       "end_date": null
     },
     {
+      "id": "65728e7cb6a4a173",
+      "url": "https://ilovegiveaways.com/sweepstakes/win-a-vitamix-blender-polar-joe-gift-card-from-polar-joe/",
+      "status": "research_only",
+      "entry_url": null,
+      "end_date": null
+    },
+    {
       "id": "433bc9ab40f8111b",
       "url": "https://gleamgiveaways.com/giveaways/win-a-pair-of-tickets-to-see-best-of-the-eagles-2026-11/",
       "status": "research_only",
@@ -11323,6 +11300,13 @@
     {
       "id": "e2882ac5977919fc",
       "url": "https://giveowl.com/e/filson--world-of-filson-giveaway--2026/",
+      "status": "research_only",
+      "entry_url": null,
+      "end_date": null
+    },
+    {
+      "id": "7deb890853b6746d",
+      "url": "https://ilovegiveaways.com/sweepstakes/iheartradio-jingle-ball-tickets-5000-sweepstakes-2026/",
       "status": "research_only",
       "entry_url": null,
       "end_date": null
@@ -13744,7 +13728,7 @@
       "id": "sourced-d67bba81efbcf164",
       "title": "Jersey Mike's NFL Predictor Game Contest",
       "url": "https://www.jerseymikes.com/news/jersey-mikes-nfl-predictor-game-contest-official-rules-2026",
-      "result": "no_entry_form_detected",
+      "result": "unreachable_or_blocked",
       "kind": "curated",
       "expiry": "2027-01-12"
     },
@@ -13800,7 +13784,7 @@
       "id": "sourced-ed2dbd9787b73230",
       "title": "ANA \"Hokkaido\" Sweepstakes",
       "url": "https://www.ana.co.jp/en/us/plan-book/promotions/hokkaido-2026/",
-      "result": "unreachable_or_blocked",
+      "result": "no_entry_form_detected",
       "kind": "curated",
       "expiry": "2027-02-28"
     },
@@ -13944,7 +13928,7 @@
       "id": "sourced-473ace576a87748e",
       "title": "WinCo Foods 'Fresh Turkey, Full Table' Butterball Sweepstakes",
       "url": "https://promotions.wincofoods.com/fresh-turkey-full-table-butterball-sweepstakes-official-rules-copy/",
-      "result": "no_entry_form_detected",
+      "result": "unreachable_or_blocked",
       "kind": "curated",
       "expiry": "2026-11-26"
     },
@@ -14215,13 +14199,6 @@
       "title": "Mariah Carey London Flyaway Sweepstakes",
       "url": "https://gleamgiveaways.com/giveaways/clean-up-at-iheartradio-jingle-ball-nyc-enter-to-win-the-arm-2026-10/",
       "result": "form_detected_review_required",
-      "kind": "discovered"
-    },
-    {
-      "id": "9a37c972b58b6af3",
-      "title": "Open Sony x Patriots WH-1000XM6 SweepstakesSweepstakes illustrationSweepFeed✦✦Sony x Patriots WH-1000XM6 SweepstakesListed sponsor · Sony Electronics",
-      "url": "https://www.sweepfeed.com/guides/how-to-win-sweepstakes",
-      "result": "no_entry_form_detected",
       "kind": "discovered"
     }
   ]
