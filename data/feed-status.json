@@ -1,9 +1,9 @@
 {
-  "checked_at": "2026-11-06T06:37:07.440294+00:00",
+  "checked_at": "2026-11-06T19:21:44.958437+00:00",
   "records": 340,
   "unique_urls": 586,
   "active_records": 291,
-  "flagged_records": 187,
+  "flagged_records": 185,
   "results": [
     {
       "id": "motion-urus-2026",
@@ -2845,9 +2845,10 @@
       "checks": [
         {
           "type": "entryUrl",
-          "http_status": null,
-          "reachable": false,
-          "error": "URLError"
+          "http_status": 200,
+          "reachable": true,
+          "final_url": "https://pepsipromos.com/freegroceries/freegroceries_rules/",
+          "title": "2026 PEPSI\u00ae GROCERY GIFT CARD SWEEPSTAKES - Pepsi Promos"
         },
         {
           "type": "rulesUrl",
@@ -2857,9 +2858,7 @@
           "title": "2026 Pepsi Grocery Gift Card Sweepstakes | GiveOwl"
         }
       ],
-      "flags": [
-        "entryUrl_unconfirmed_or_blocked"
-      ],
+      "flags": [],
       "verified_entry_form": false
     },
     {
@@ -4241,7 +4240,7 @@
           "http_status": 200,
           "reachable": true,
           "final_url": "https://www.pbs.org/wgbh/masterpiece/sweepstakes-official-rules/",
-          "title": "2026 MASTERPIECE European River Cruise Sweepstakes Official Rules | Masterpiece | Official Site | PBS"
+          "title": ""
         },
         {
           "type": "rulesUrl",
@@ -4251,9 +4250,7 @@
           "title": "2026 MASTERPIECE European River Cruise Sweepstakes | GiveOwl"
         }
       ],
-      "flags": [
-        "entry_title_looks_like_rules"
-      ],
+      "flags": [],
       "verified_entry_form": false
     },
     {
@@ -5413,10 +5410,9 @@
       "checks": [
         {
           "type": "entryUrl",
-          "http_status": 200,
-          "reachable": true,
-          "final_url": "https://www.motherearthnews.com/sweepstakes/brinsea-maxi/rules/",
-          "title": "Brinsea Maxi 24 Incubator Giveaway"
+          "http_status": null,
+          "reachable": false,
+          "error": "TimeoutError"
         },
         {
           "type": "rulesUrl",
@@ -5427,7 +5423,7 @@
         }
       ],
       "flags": [
-        "entry_redirects_to_rules",
+        "entryUrl_unconfirmed_or_blocked",
         "entry_url_looks_like_rules"
       ],
       "verified_entry_form": false
@@ -7512,9 +7508,10 @@
       "checks": [
         {
           "type": "entryUrl",
-          "http_status": null,
-          "reachable": false,
-          "error": "URLError"
+          "http_status": 200,
+          "reachable": true,
+          "final_url": "https://promotions.wincofoods.com/fresh-turkey-full-table-butterball-sweepstakes-official-rules-copy/",
+          "title": "&#8216;Fresh Turkey, Full Table Butterball&#8217; Sweepstakes Official Rules &#8211; WinCo Foods Promotions"
         },
         {
           "type": "rulesUrl",
@@ -7525,7 +7522,7 @@
         }
       ],
       "flags": [
-        "entryUrl_unconfirmed_or_blocked"
+        "entry_title_looks_like_rules"
       ],
       "verified_entry_form": false
     },
