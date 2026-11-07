@@ -1,9 +1,9 @@
 {
-  "checked_at": "2026-11-06T19:21:44.958437+00:00",
-  "records": 340,
-  "unique_urls": 586,
-  "active_records": 291,
-  "flagged_records": 185,
+  "checked_at": "2026-11-07T05:54:36.976553+00:00",
+  "records": 344,
+  "unique_urls": 594,
+  "active_records": 287,
+  "flagged_records": 187,
   "results": [
     {
       "id": "motion-urus-2026",
@@ -455,7 +455,7 @@
     {
       "id": "perdue-holiday-drop-2026",
       "expires": "2026-11-06",
-      "expired": false,
+      "expired": true,
       "checks": [
         {
           "type": "entryUrl",
@@ -580,7 +580,7 @@
     {
       "id": "stormcraft-valkyrie-2026",
       "expires": "2026-11-06",
-      "expired": false,
+      "expired": true,
       "checks": [
         {
           "type": "entryUrl",
@@ -980,7 +980,7 @@
     {
       "id": "hgtv-shock-your-home-2026",
       "expires": "2026-11-06",
-      "expired": false,
+      "expired": true,
       "checks": [
         {
           "type": "entryUrl",
@@ -1859,7 +1859,7 @@
     {
       "id": "csl-giving-back-2026-w1",
       "expires": "2026-11-06",
-      "expired": false,
+      "expired": true,
       "checks": [
         {
           "type": "entryUrl",
@@ -2680,9 +2680,10 @@
       "checks": [
         {
           "type": "entryUrl",
-          "http_status": 404,
-          "reachable": false,
-          "error": "http_error"
+          "http_status": 200,
+          "reachable": true,
+          "final_url": "https://tartecosmetics.com/pages/vip-holiday-sweeps",
+          "title": ""
         },
         {
           "type": "rulesUrl",
@@ -2692,9 +2693,7 @@
           "title": "Tarte VIP 2026 Holiday Collection Giveaway | GiveOwl"
         }
       ],
-      "flags": [
-        "entryUrl_not_found"
-      ],
+      "flags": [],
       "verified_entry_form": false
     },
     {
@@ -3097,7 +3096,7 @@
     {
       "id": "sourced-2f25cb4903240053",
       "expires": "2026-11-06",
-      "expired": false,
+      "expired": true,
       "checks": [
         {
           "type": "entryUrl",
@@ -3120,7 +3119,7 @@
     {
       "id": "sourced-fa51a2b7ced29c0e",
       "expires": "2026-11-06",
-      "expired": false,
+      "expired": true,
       "checks": [
         {
           "type": "entryUrl",
@@ -3146,7 +3145,7 @@
     {
       "id": "sourced-c7d38cc82c4ae443",
       "expires": "2026-11-06",
-      "expired": false,
+      "expired": true,
       "checks": [
         {
           "type": "entryUrl",
@@ -3171,7 +3170,7 @@
     {
       "id": "sourced-4e63e2b318166c2d",
       "expires": "2026-11-06",
-      "expired": false,
+      "expired": true,
       "checks": [
         {
           "type": "entryUrl",
@@ -4240,7 +4239,7 @@
           "http_status": 200,
           "reachable": true,
           "final_url": "https://www.pbs.org/wgbh/masterpiece/sweepstakes-official-rules/",
-          "title": ""
+          "title": "2026 MASTERPIECE European River Cruise Sweepstakes Official Rules | Masterpiece | Official Site | PBS"
         },
         {
           "type": "rulesUrl",
@@ -4250,7 +4249,9 @@
           "title": "2026 MASTERPIECE European River Cruise Sweepstakes | GiveOwl"
         }
       ],
-      "flags": [],
+      "flags": [
+        "entry_title_looks_like_rules"
+      ],
       "verified_entry_form": false
     },
     {
@@ -5410,9 +5411,10 @@
       "checks": [
         {
           "type": "entryUrl",
-          "http_status": null,
-          "reachable": false,
-          "error": "TimeoutError"
+          "http_status": 200,
+          "reachable": true,
+          "final_url": "https://www.motherearthnews.com/sweepstakes/brinsea-maxi/rules/",
+          "title": "Brinsea Maxi 24 Incubator Giveaway"
         },
         {
           "type": "rulesUrl",
@@ -5423,7 +5425,7 @@
         }
       ],
       "flags": [
-        "entryUrl_unconfirmed_or_blocked",
+        "entry_redirects_to_rules",
         "entry_url_looks_like_rules"
       ],
       "verified_entry_form": false
@@ -5621,10 +5623,9 @@
       "checks": [
         {
           "type": "entryUrl",
-          "http_status": 200,
-          "reachable": true,
-          "final_url": "https://motivemktg.com/rabbit-hole-hostingkit-rules/",
-          "title": "Rabbit Hole Hostingkit Rules - Motive Marketing Group"
+          "http_status": null,
+          "reachable": false,
+          "error": "URLError"
         },
         {
           "type": "rulesUrl",
@@ -5634,7 +5635,9 @@
           "title": "Rabbit Hole Hosting Kit Sweepstakes | GiveOwl"
         }
       ],
-      "flags": [],
+      "flags": [
+        "entryUrl_unconfirmed_or_blocked"
+      ],
       "verified_entry_form": false
     },
     {
@@ -7999,23 +8002,22 @@
       "checks": [
         {
           "type": "entryUrl",
-          "http_status": 200,
-          "reachable": true,
-          "final_url": "https://www.celebratewithsquirtsoda.com/",
-          "title": ""
+          "http_status": null,
+          "reachable": false,
+          "error": "URLError"
         },
         {
           "type": "rulesUrl",
-          "http_status": 200,
-          "reachable": true,
-          "final_url": "https://www.celebratewithsquirtsoda.com/",
-          "title": ""
+          "http_status": null,
+          "reachable": false,
+          "error": "URLError"
         }
       ],
       "flags": [
+        "entryUrl_unconfirmed_or_blocked",
         "entry_and_rules_same_url_review",
         "entry_is_homepage_review",
-        "entry_redirects_to_homepage"
+        "rulesUrl_unconfirmed_or_blocked"
       ],
       "verified_entry_form": false
     },
@@ -8263,6 +8265,101 @@
         }
       ],
       "flags": [],
+      "verified_entry_form": false
+    },
+    {
+      "id": "sourced-255e207dc8dcfa60",
+      "expires": "2026-11-12",
+      "expired": false,
+      "checks": [
+        {
+          "type": "entryUrl",
+          "http_status": 200,
+          "reachable": true,
+          "final_url": "https://monolightsauna.com/pages/giveaway",
+          "title": "Win the Monolight Sauna of Your Choice | Monolight &ndash; Monolight Saunas"
+        },
+        {
+          "type": "rulesUrl",
+          "http_status": 200,
+          "reachable": true,
+          "final_url": "https://giveowl.com/e/monolight-wellness-llc--monolight-sauna-giveaway-2026-win-one-duo-or-pro-infrared-sauna--2026/",
+          "title": "Monolight Sauna Giveaway 2026: win ONE, DUO or PRO infrared\u2026"
+        }
+      ],
+      "flags": [],
+      "verified_entry_form": false
+    },
+    {
+      "id": "sourced-fb8584015548796b",
+      "expires": "2026-11-29",
+      "expired": false,
+      "checks": [
+        {
+          "type": "entryUrl",
+          "http_status": 200,
+          "reachable": true,
+          "final_url": "https://www.mountainmikespizza.com/legendary-gameday-2026/",
+          "title": "Legendary Game Day Experience Sweepstakes | Mountain Mike&#039;s Pizza"
+        },
+        {
+          "type": "rulesUrl",
+          "http_status": 200,
+          "reachable": true,
+          "final_url": "https://giveowl.com/e/mountain-mike-s-pizza-llc--mountain-mike-s-legendary-game-day-experience-sweepstakes-49ers-tickets-and-pizza-for-a-ye--2026/",
+          "title": "Mountain Mike\u2019s Legendary Game Day Experience Sweepstakes"
+        }
+      ],
+      "flags": [],
+      "verified_entry_form": false
+    },
+    {
+      "id": "sourced-f34915725509c6f8",
+      "expires": "2026-11-30",
+      "expired": false,
+      "checks": [
+        {
+          "type": "entryUrl",
+          "http_status": 200,
+          "reachable": true,
+          "final_url": "https://us.hndrd.co/pages/hndrd-giveaway",
+          "title": "Hndrd giveaway &ndash; Hundred USA"
+        },
+        {
+          "type": "rulesUrl",
+          "http_status": 200,
+          "reachable": true,
+          "final_url": "https://giveowl.com/e/sunlight-sports-us-llc-hndrd-usa--hndrd-nitrix-80-bullet-ultimate-giveaway-racket-kit-bag-and-tournament-tee--2026/",
+          "title": "HNDRD NITRIX 80 BULLET Ultimate Giveaway: racket | GiveOwl"
+        }
+      ],
+      "flags": [],
+      "verified_entry_form": false
+    },
+    {
+      "id": "sourced-4f25bba8cb7421bc",
+      "expires": "2026-11-30",
+      "expired": false,
+      "checks": [
+        {
+          "type": "entryUrl",
+          "http_status": 200,
+          "reachable": true,
+          "final_url": "https://win-with-falken.com/",
+          "title": "Win with FALKEN \u2013 Bike Giveaway"
+        },
+        {
+          "type": "rulesUrl",
+          "http_status": 200,
+          "reachable": true,
+          "final_url": "https://giveowl.com/e/sokrativ-gmbh-with-dunlop-tyre-europe-bulls-zeg--win-with-falken-bike-giveaway-bulls-e-trail-or-carbon-gravel-bikes--2026/",
+          "title": "Win with FALKEN \u2013 Bike Giveaway: BULLS e-trail or carbon\u2026"
+        }
+      ],
+      "flags": [
+        "entry_is_homepage_review",
+        "entry_redirects_to_homepage"
+      ],
       "verified_entry_form": false
     }
   ],
