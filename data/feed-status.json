@@ -1,9 +1,9 @@
 {
-  "checked_at": "2026-11-07T05:54:36.976553+00:00",
+  "checked_at": "2026-11-07T12:55:56.796945+00:00",
   "records": 344,
   "unique_urls": 594,
   "active_records": 287,
-  "flagged_records": 187,
+  "flagged_records": 186,
   "results": [
     {
       "id": "motion-urus-2026",
@@ -2844,10 +2844,9 @@
       "checks": [
         {
           "type": "entryUrl",
-          "http_status": 200,
-          "reachable": true,
-          "final_url": "https://pepsipromos.com/freegroceries/freegroceries_rules/",
-          "title": "2026 PEPSI\u00ae GROCERY GIFT CARD SWEEPSTAKES - Pepsi Promos"
+          "http_status": null,
+          "reachable": false,
+          "error": "URLError"
         },
         {
           "type": "rulesUrl",
@@ -2857,7 +2856,9 @@
           "title": "2026 Pepsi Grocery Gift Card Sweepstakes | GiveOwl"
         }
       ],
-      "flags": [],
+      "flags": [
+        "entryUrl_unconfirmed_or_blocked"
+      ],
       "verified_entry_form": false
     },
     {
@@ -5623,9 +5624,10 @@
       "checks": [
         {
           "type": "entryUrl",
-          "http_status": null,
-          "reachable": false,
-          "error": "URLError"
+          "http_status": 200,
+          "reachable": true,
+          "final_url": "https://motivemktg.com/rabbit-hole-hostingkit-rules/",
+          "title": "Rabbit Hole Hostingkit Rules - Motive Marketing Group"
         },
         {
           "type": "rulesUrl",
@@ -5635,9 +5637,7 @@
           "title": "Rabbit Hole Hosting Kit Sweepstakes | GiveOwl"
         }
       ],
-      "flags": [
-        "entryUrl_unconfirmed_or_blocked"
-      ],
+      "flags": [],
       "verified_entry_form": false
     },
     {
@@ -6910,10 +6910,9 @@
       "checks": [
         {
           "type": "entryUrl",
-          "http_status": 200,
-          "reachable": true,
-          "final_url": "https://www.jerseymikes.com/news/jersey-mikes-nfl-predictor-game-contest-official-rules-2026",
-          "title": "Jersey Mike\u2019s NFL Predictor Game Contest Official Rules"
+          "http_status": 403,
+          "reachable": false,
+          "error": "http_error"
         },
         {
           "type": "rulesUrl",
@@ -6924,7 +6923,7 @@
         }
       ],
       "flags": [
-        "entry_title_looks_like_rules"
+        "entryUrl_unconfirmed_or_blocked"
       ],
       "verified_entry_form": false
     },
@@ -8002,22 +8001,23 @@
       "checks": [
         {
           "type": "entryUrl",
-          "http_status": null,
-          "reachable": false,
-          "error": "URLError"
+          "http_status": 200,
+          "reachable": true,
+          "final_url": "https://www.celebratewithsquirtsoda.com/",
+          "title": ""
         },
         {
           "type": "rulesUrl",
-          "http_status": null,
-          "reachable": false,
-          "error": "URLError"
+          "http_status": 200,
+          "reachable": true,
+          "final_url": "https://www.celebratewithsquirtsoda.com/",
+          "title": ""
         }
       ],
       "flags": [
-        "entryUrl_unconfirmed_or_blocked",
         "entry_and_rules_same_url_review",
         "entry_is_homepage_review",
-        "rulesUrl_unconfirmed_or_blocked"
+        "entry_redirects_to_homepage"
       ],
       "verified_entry_form": false
     },
@@ -8228,8 +8228,8 @@
           "type": "entryUrl",
           "http_status": 200,
           "reachable": true,
-          "final_url": "https://casdeia.com/pages/black-friday-draw-rules",
-          "title": "Black Friday Draw \u00b7 Official Rules &ndash; CAS DEIA"
+          "final_url": "https://casdeia.com/password",
+          "title": "CAS DEIA"
         },
         {
           "type": "rulesUrl",
@@ -8239,9 +8239,7 @@
           "title": "CAS DEI\u00c0 Black Friday Draw: win your wishlist | GiveOwl"
         }
       ],
-      "flags": [
-        "entry_title_looks_like_rules"
-      ],
+      "flags": [],
       "verified_entry_form": false
     },
     {
