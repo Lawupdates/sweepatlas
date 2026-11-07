@@ -1,8 +1,8 @@
 {
-  "updated_date": "2026-11-06",
-  "notice": "Repository audit: 153 current discovery candidates, 340 curated records. Entry-lookup JSON was empty and has been restored to a valid pending-state report; no previously lost lookup results reconstructed. Per-batch lookup validation added. Historical counts carried forward, not independently reverified.",
+  "updated_date": "2026-11-07",
+  "notice": "Current GitHub repository recount. Lookup file was empty; restored pending report without inventing lookup outcomes. Historical archive figures are carried forward, not independently verified.",
   "research_leads_unique_total": 2672,
-  "current_discovery_candidates": 153,
+  "current_discovery_candidates": 149,
   "archived_historical_unique_not_in_current": 2476,
   "archived_source_records": 2499,
   "archived_current_overlap": 23,
@@ -12,14 +12,14 @@
     "unresolved": 2636
   },
   "current_discovery_status": {
-    "research_only": 153
+    "research_only": 149
   },
   "lookup_results_current": 0,
-  "lookup_remaining_current": 153,
-  "curated_records": 340,
-  "curated_active_by_date": 291,
-  "curated_expired_by_date": 49,
-  "curated_records_with_unknown_prize_value": 293,
+  "lookup_remaining_current": 149,
+  "curated_records": 344,
+  "curated_active_by_date": 287,
+  "curated_expired_by_date": 57,
+  "curated_records_with_unknown_prize_value": 297,
   "curated_duplicate_entry_urls": 8,
   "duplicate_url_explanation": "Nine distinct weekly CSL Plasma rounds share a single official terms URL; do not deduplicate distinct contest IDs.",
   "confirmed_entry_forms": 0,
@@ -30,8 +30,7 @@
   "rejected_research_navigation_leads_this_run": 0,
   "reviewed_official_sources_this_run": [],
   "repository_maintenance_this_run": [
-    "Repaired zero-byte lookup report with 153 pending current research candidates; no historical lookup results recovered.",
-    "Added per-batch JSON structure and count checks before GitHub commits.",
-    "Recounted curated catalog and current discovery candidates; historical archive figures remain carried forward."
+    "Restored zero-byte entry-lookup report to valid pending-state JSON; 149 research candidates remain unsearched in current report.",
+    "Recounted curated catalog and current discovery feed; no sponsor entry pages independently verified."
   ]
 }
